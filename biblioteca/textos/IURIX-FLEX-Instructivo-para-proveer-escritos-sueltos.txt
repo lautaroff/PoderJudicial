@@ -1,0 +1,59 @@
+
+--- PÁGINA 1 ---
+
+
+--- PÁGINA 2 ---
+1 
+ 
+SISTEMA DE INFORMACIÓN – USUARIOS FINALES 
+SIC IURIX FLEX 
+INSTRUCTIVO PARA PROVEER ESCRITOS SUELTOS 
+ 
+Introducción 
+El sistema permite generar nuevas actuaciones del tipo “sueltas” a expedientes que se encuentren 
+remitidos a otros organismos, y así proveer los escritos que ha ingresado mientras el organismo no 
+tiene el control del expediente. 
+ 
+Aclaraciones previas 
+Sólo pueden realizar esta tarea los usuarios de GeJuAF y Cámara de Apelaciones de Familia. 
+Es necesario que el expediente pertenezca al organismo en que ingresó el escrito por el portal. 
+ 
+ 
+Creación de una actuación para proveer un escrito suelto 
+Desde la ficha general del expediente que se encuentra remitido a otro organismo, acceder al 
+grupo de opciones que se encuentra en la parte superior derecha de la ficha, presionar el botón 
+“Actuaciones” y elegir la acción “Nueva Actuación”. 
+ 
+ 
+ 
+Se abre la ficha de Nueva Actuación, ingresar el código de la actuación a trabajar o buscarla en el 
+cuadro de búsqueda que se abre al presionar la lupa: 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PÁGINA 3 ---
+2 
+ 
+ 
+Acceder al botón “buscar” en el cuadro de búsqueda y seleccionar una actuación del listado que se 
+despliega, el cual proporciona una cantidad reducida de actuaciones específicas para proveer 
+escritos sueltos: 
+ 
+ 
+ 
+Seleccionar la actuación suelta deseada, editar ficha y modelo de la misma, como se procede con 
+el resto de las actuaciones. 
+Una vez firmada, si el nivel de acceso de la actuación es público, se publicará automáticamente 
+en lista al día hábil siguiente. El expediente no se encuentra en el Tribunal, por lo tanto, no se le 
+puede dar movimiento a lista. 
+Si el nivel de acceso de la actuación es privado, seleccionar las partes que tendrán acceso a ver la 
+actuación el día hábil posterior a su firma (ver instructivo de generación de actuación privada) 
+Al firmar esta actuación privada, será visible por las partes seleccionadas el día hábil posterior a su 
+firma, pero no se publicará en lista.  
+ 
+ 
+ 

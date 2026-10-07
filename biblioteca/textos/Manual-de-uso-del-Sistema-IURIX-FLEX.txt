@@ -1,0 +1,1009 @@
+
+--- PÁGINA 1 ---
+ 
+PODER JUDICIAL DE LA 
+PROVINCIA DE MENDOZA 
+FUERO FAMILIA 
+USO OPERATIVO DEL SISTEMA          
+IRUIX FLEX 
+ 
+ 
+ 
+ 
+
+
+--- PÁGINA 2 ---
+1 
+ 
+INDICE: Sistema Operativo Iurix Flex 
+ 
+OBJETIVO. ................................................................................................................... 2 
+INGRESO AL SISTEMA. .............................................................................................. 2 
+Usuario y Contraseña ................................................................................................... 2 
+Elección de Organismo y Dependencia ........................................................................ 2 
+ESCRITORIO ............................................................................................................... 3 
+Panel de Inicio .............................................................................................................. 3 
+SECTORES .................................................................................................................. 5 
+Barra Superior .............................................................................................................. 5 
+Barra Lateral Izquierda ................................................................................................. 6 
+MODULO Expedientes ................................................................................................. 6 
+A Recibir ....................................................................................................................... 6 
+Recibidos ...................................................................................................................... 7 
+Acciones sobre Expedientes ......................................................................................... 8 
+Movimientos ................................................................................................................. 9 
+Actuaciones ................................................................................................................ 11 
+Sujetos ....................................................................................................................... 13 
+Domicilio ..................................................................................................................... 17 
+Representantes .......................................................................................................... 19 
+Bandeja A Recibir ....................................................................................................... 22 
+Bandeja Personal ....................................................................................................... 23 
+Información de la Ficha del Expediente ...................................................................... 24 
+Ingreso de causas ...................................................................................................... 25 
+ 
+ 
+ 
+ 
+
+
+--- PÁGINA 3 ---
+2 
+ 
+ 
+ 
+OBJETIVO. 
+El presente documento tiene por objetivo el dar a conocer las características, 
+funcionalidades y brindar asistencia a los usuarios acerca del Sistema IURIX FLEX, 
+implementado en los organismos del Fuero Familia del Poder Judicial de la Provincia de 
+Mendoza. 
+INGRESO AL SISTEMA. 
+El sistema IURIX FLEX provee el método de autenticación, mediante la asignación de 
+un usuario y contraseña. 
+USUARIO Y CONTRASEÑA 
+Ingresando en la pantalla de login del sistema IURIX, el sistema mostrará una pantalla 
+inicial donde el usuario deberá identificarse, ingresando los datos de ‘Usuario’ y 
+‘Contraseña’ provistos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ELECCIÓN DE ORGANISMO Y DEPENDENCIA 
+Cuando el usuario ingrese los datos, el sistema redireccionará al panel de Inicio en el 
+Organismo y Dependencia con el cargo registrado por defecto.  
+En el caso de que el usuario se encuentre registrado en más de un 
+organismo/dependencia con un cargo, al realizar el cambio, el sistema presenta la 
+siguiente pantalla: 
+
+
+--- PÁGINA 4 ---
+3 
+ 
+ 
+ESCRITORIO 
+Desde el Escritorio del sistema ‘IURIX, el usuario puede acceder a las distintas 
+secciones. Dentro de la pantalla inicial se visualiza el ‘Panel de Inicio’ como se observa 
+en la siguiente pantalla. 
+ 
+PANEL DE INICIO 
+El panel de inicio es la pantalla principal que presenta el sistema al iniciar sesión.  
+ 
+Agenda 
+● El sistema muestra la cantidad de eventos agendados por el usuario 
+para el día de la fecha. 
+Los eventos de la agenda están vinculados a expedientes que se encuentran en el 
+organismo 
+
+
+--- PÁGINA 5 ---
+4 
+ 
+ 
+ 
+Actuaciones 
+       El sistema muestra un listado de la cantidad de actuaciones por estado ‘Borrador’,   
+‘  Firmadas’  
+ 
+ 
+ 
+Expedientes 
+El sistema muestra la cantidad de expedientes por bandeja ‘A Recibir’, ‘Bandeja 
+Personal’ y ‘Recibidos’ en el organismo. Al hacer click en una de las opciones se accede 
+directamente a la bandeja. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PÁGINA 6 ---
+5 
+ 
+ 
+Accesos Directos 
+El sistema muestra accesos rápidos a links de interés, por ejemplo, el presente manual. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Novedades 
+El sistema muestra información de interés para usuarios de IURIX. Se informan en este 
+sector, las nuevas funcionalidades y mejoras implementadas en la última versión. 
+ 
+ 
+ 
+SECTORES 
+El Escritorio se divide en sectores, cada uno de los cuales cumple una función puntual 
+para el usuario. 
+ BARRA SUPERIOR 
+Sobre su extremo derecho, se muestra información referida a: 
+● Usuario: se visualiza el nombre del usuario logueado en ese momento, 
+● Dependencia: se visualiza el nombre de la Dependencia donde el 
+usuario este logueado, 
+● Organismo: se visualiza el nombre del Organismo donde el usuario se 
+encuentra logueado,  
+● Cargo: haciendo click sobre esta opción el sistema redirigirá al usuario 
+a la pantalla donde seleccionará el Organismo y Cargo si desea 
+loguearse en otro Organismo/Dependencia. 
+
+
+--- PÁGINA 7 ---
+6 
+ 
+● Inicio: haciendo click sobre esta opción el sistema permite al usuario 
+redireccionar al Panel de Inicio.  
+● Desconectarse: haciendo click sobre esta opción el sistema procede a 
+cerrar sesión del sistema. 
+ 
+ 
+BARRA LATERAL IZQUIERDA 
+Este menú agrupa opciones y funcionalidades que brinda el Sistema (Ej. Expedientes, 
+Movimientos, Actuaciones, Hechos, Agenda, Personas, Administración, etc.). 
+Dependiendo de los permisos otorgados al rol/perfil asociado a un usuario logueado en 
+un Organismo y Cargo en particular, la visualización de los componentes de esta barra 
+puede variar.  
+Cada elemento de la barra a su vez contiene opciones. Cada una de estas opciones, 
+permite iniciar una determinada tarea o actividad. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MODULO EXPEDIENTES 
+A RECIBIR 
+En la bandeja “A Recibir” se encuentran todos los expedientes que fueron enviados al 
+GEJUAF (organismo logueado) y que todavía no fueron Recibidos o Rechazados.  
+Los Expedientes que fueran remitidos al organismo logueado, se ubicarán en esta 
+Bandeja. Su Recepción o Rechazo se realizará por medio de las columnas destinadas 
+a tal fin (Recibir - Rechazar).  
+En caso de Rechazar un Expediente, se deberá cargar el motivo del rechazo. 
+Luego de optar por Recibir o Rechazar, se deberá finalizar la acción con el botón 
+Confirmar, ubicado en la barra de botones. 
+
+
+--- PÁGINA 8 ---
+7 
+ 
+ 
+RECIBIDOS 
+Desde el módulo “Expedientes - Recibidos”, el sistema permite al usuario la búsqueda, 
+visualización y manipulación de expedientes que fueron recibidos en el 
+Organismo/Dependencia donde se encuentra logueado.  
+ 
+ 
+Con las funcionalidades disponibles en la barra de botones (izquierda), el usuario puede 
+realizar, sobre cada expediente de la grilla, las acciones que se describen a 
+continuación: 
+- 
+Abrir: permite abrir la ficha principal del expediente seleccionado 
+- 
+Buscar: permite realizar la búsqueda de expedientes por algún filtro 
+en particular 
+- 
+Actualizar: permite actualizar la grilla de resultados 
+- 
+Exportar: Exporta a un archivo en formato de planilla de cálculo 
+(archivo Excel), los datos de la grilla de resultados de la búsqueda 
+- 
+Imprimir Lista: Exporta a un archivo en formato PDF, los datos de la 
+grilla de resultados. La visualización se realiza en una nueva pestaña 
+del navegador 
+
+
+--- PÁGINA 9 ---
+8 
+ 
+- 
+Datos Básicos: permite visualizar los datos básicos del expediente 
+seleccionado 
+- 
+Expediente Digital: permite visualizar en un archivo en formato PDF, 
+los datos del expediente seleccionado  
+ 
+Con las funcionalidades disponibles en la barra de botones del margen derecho, el 
+usuario puede acceder a acciones sobre un expediente, como se muestra en la siguiente 
+pantalla: 
+ 
+ACCIONES SOBRE EXPEDIENTES 
+Una vez realizada la búsqueda del expediente a través de la búsqueda rápida 
+o en la Bandeja de Recibidos, el usuario puede realizar diferentes acciones 
+sobre este, siempre y cuando esté ubicado en el organismo, es decir que el 
+organismo de la etiqueta ‘Ubicación Actual’ debe ser igual al organismo que 
+accedió el usuario en la aplicación.  
+Al seleccionar un expediente de la grilla de resultado y presionar el botón “Abrir”, 
+el sistema abrirá la ficha principal de dicho expediente. Esta ficha propone 
+determinadas funcionalidades, las cuales se encuentran distribuidas en la barra 
+superior.  
+ 
+
+
+--- PÁGINA 10 ---
+9 
+ 
+ 
+● Editar: permite editar los datos del expediente seleccionado. 
+● Actualizar: permite actualizar los datos de la ficha principal. 
+● Expediente Digital: permite visualizar en a un archivo en formato PDF, 
+los datos del expediente seleccionado desde la grilla de resultados, 
+incluido actuaciones, escritos, cédulas, carátula. 
+En el margen superior derecho, se pueden realizar las siguientes acciones sobre el 
+expediente que se encuentra abierto al momento de la ejecución.  
+ 
+ 
+Datos de la Ficha del Expediente 
+ 
+MOVIMIENTOS 
+Permite al usuario realizar un nuevo movimiento y/o visualizar los movimientos históricos 
+de un expediente. 
+ 
+
+
+--- PÁGINA 11 ---
+10 
+ 
+ NUEVO MOVIMIENTO 
+Para mover una causa o un conjunto de ellas se debe presionar el botón “Movimientos 
+– Nuevo Movimiento”.  
+                       
+                                                                     
+El formulario de un nuevo movimiento se compone de la siguiente información: 
+                   
+ 
+● Tipo de Movimiento: tipo de movimiento a realizar.  
+● Fecha y Hora: fecha y hora en que se realizará el movimiento. 
+● Destino: organismo al cual se hará el movimiento del expediente.  
+● Dependencia: dependencia del organismo al que será remitido el 
+expediente.  
+●  Motivo / Ubicación: motivo por el que se realiza el movimiento o 
+ubicación a la que se remitió. 
+● Instrucción: se carga por defecto con el mismo valor que el motivo 
+pudiendo el usuario modificarlo para su mejor identificación.  
+● Observaciones. Permite registrar observaciones relacionadas al 
+movimiento. 
+ 
+  Una vez ingresado toda la información que se requiera, para realizar el movimiento, el 
+usuario debe seleccionar” Enviar”.  
+ 
+
+
+--- PÁGINA 12 ---
+11 
+ 
+ 
+           ACTUACIONES 
+Permite al usuario realizar escritos, cédulas y/o consultar aquellos relacionados a la 
+causa. 
+ NUEVA ACTUACIÓN 
+ 
+ 
+ 
+ 
+ 
+ 
+    Se presenta un formulario de carga de los datos: 
+      
+ 
+ 
+●     Código: modelo del catálogo documental de actuaciones a utilizar. 
+● Número de Actuación: número autoincremental generado. 
+● Título: el sistema propone la descripción del modelo al seleccionar el 
+modelo. Este puede ser modificado por el usuario o puede ser cargado 
+automáticamente en base a la descripción del modelo de actuación. 
+● Estado: inicialmente se crea en estado ‘Borrador’ o ‘Pendiente de Firma’, 
+según lo indique el usuario. 
+● Nivel de Acceso: define el nivel de acceso de una actuación, según el 
+modelo de actuación. 
+● Fecha y Hora de Creación: fecha y hora de creación de la actuación. 
+●  Observaciones: permite registrar observaciones de la actuación. 
+● Datos Adicionales aquellas actuaciones que fueran configuradas para 
+recibir datos adicionales, permitirán su carga desde opción. Los datos 
+
+
+--- PÁGINA 13 ---
+12 
+ 
+adicionales se configuran a nivel modelo de la actuación para ampliar la 
+información que puede poseer la misma. 
+● Clasificadores Estadísticos: El usuario podrá seleccionar el clasificador 
+estadístico correspondiente o eliminar el que no considere correcto 
+siempre que no se corresponda con el Clasificado Estadístico 
+configurado en el modelo de la actuación. 
+ 
+Una vez ingresado toda la información, presionado el botón “Guardar” de la parte 
+superior de la pestaña de la Nueva Actuación, se crea la actuación para dicho 
+expediente. 
+- 
+Luego de haber registrado la nueva actuación, se habilita la opción 
+de Importar Actuación, en el caso de que se requiera importar el 
+contenido de una actuación ya creada en la estación de trabajo local. 
+A 
+continuación, 
+se 
+describen 
+los 
+botones 
+que 
+se 
+habilitan:            
+ 
+● Nuevo: permite registrar una nueva actuación. 
+● Eliminar: permite eliminar la actuación 
+● Editar Modelo: permite editar el contenido de la actuación.  
+Al seleccionar este botón el sistema abrirá el applet con el editor de texto 
+Libre Office, ofreciendo las mismas herramientas que posee un editor de libre 
+office utilizado en una estación de trabajo local. 
+Una vez creada la nueva actuación, al seleccionar este botón, abrirá el 
+contenido de la actuación, y con ello el sistema tomará los valores de los 
+vocabularios configurados según el catálogo documental de actuaciones. 
+Una vez que se haya editado el contenido (según se requiera), presionar el 
+botón “Guardar y Salir” del editor. El editor guardará el contenido de la 
+actuación y se cerrará el applet. El contenido de esa actuación fue 
+actualizado. 
+
+
+--- PÁGINA 14 ---
+13 
+ 
+● Editar: permite editar determinada información del formulario de edición. 
+● Vista Previa: permite generar una vista previa de la actuación. 
+● Notificar: permite realizar una notificación sobre dicha actuación. 
+● Firmas: permite acceder a funcionalidades sobre la firma de actuaciones. 
+- 
+Firmar: permite realizar la firma de la actuación. 
+- 
+Firma pendiente: permite modificar al estado “Pendiente de Firma” y 
+asignando una fecha hasta, por la que se encuentre en dicho estado. 
+- 
+Listado de Firmas: permite visualizar un listado de los usuarios que 
+han firmado la actuación. 
+● Adjuntos: permite listar y registrar archivos adjuntos de la actuación. 
+● Otros: al seleccionar este botón, el sistema permite la visualización de la 
+auditoria de la actuación.  
+ 
+ 
+ 
+ 
+SUJETOS 
+ NUEVO SUJETO DE LA CAUSA 
+Para proceder a registrar un nuevo sujeto a la causa, se debe seleccionar la opción 
+“Nuevo Sujeto de la Causa”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PÁGINA 15 ---
+14 
+ 
+Se presenta un formulario de carga de los datos: 
+ 
+● Vínculo: permite indicar el vínculo que va a tener con la Causa. 
+● Tipo de Persona: permite indicar el tipo de vínculo 
+● Es Profesional: si/no 
+● Identificación: permite indicar mediante dos botones “Buscar” ó “Nuevo” 
+(*), si la persona es una nueva o permite buscar por algún filtro en 
+particular sobre datos de una persona que se encuentra registrada en el 
+sistema Iurix. 
+● Estado Civil: 
+● Reservar el nombre: Si/No: 
+● Afectado en Salud Mental: 
+● Cantidad de Hijos: 
+● Nivel de Educación: Seleccionar el icono de ‘Lupa’, el sistema despliega 
+un pop-up de Búsqueda. 
+● Ocupación: Seleccionar el icono de ‘Lupa’, el sistema despliega un pop-
+up de Búsqueda. 
+● Nivel Socioeconómico: Seleccionar el icono de ‘Lupa’, el sistema 
+despliega un pop-up de Búsqueda. 
+
+
+--- PÁGINA 16 ---
+15 
+ 
+● Situación Habitacional: Seleccionar el icono de ‘Lupa’, el sistema 
+despliega un pop-up de Búsqueda. 
+ 
+Botón “Buscar”: 
+Permite buscar información de un tipo de persona por los filtros que presenta el sistema: 
+ 
+Luego de realizar la búsqueda, un registro del listado de resultado, y presionando el 
+botón “Abrir”, se cierra el pop-up y los datos del sujeto se precargan en el formulario de 
+Nuevo Sujeto.  
+ 
+Botón “Nuevo” (*) 
+Si el usuario selecciona el botón ‘Nuevo’, el sistema mostrará el siguiente pop-up para 
+registrar un nuevo tipo de persona. 
+
+
+--- PÁGINA 17 ---
+16 
+ 
+ 
+Una vez llenado los campos requeridos, el usuario debe seleccionar el botón ‘Guardar’, 
+ubicado en la barra superior de la pestaña de nuevo sujeto. 
+ SUJETOS DE LA CAUSA 
+Para consultar los sujetos de un expediente se debe presionar el botón “Sujetos 
+– Sujetos de la Causa”. 
+El sistema listará todos los sujetos en una grilla: 
+ 
+ 
+ 
+Luego de listar, seleccionando un sujeto, el sistema habilito los siguientes botones en la 
+parte superior de la grilla: 
+- 
+Abrir 
+- 
+Buscar 
+- 
+Actualizar 
+- 
+Ver ficha de persona 
+- 
+Eliminar 
+
+
+--- PÁGINA 18 ---
+17 
+ 
+- 
+Inhabilitar 
+- 
+Domicilios 
+- 
+Representantes 
+- 
+Otros 
+ ABRIR 
+Permite visualizar los datos del sujeto. 
+ 
+ 
+DOMICILIO  
+Permite al usuario gestionar los domicilios de un sujeto relacionado a la causa: 
+     NUEVO DOMICILIO  
+Para proceder a registrar un nuevo domicilio para el sujeto, se debe seleccionar la 
+opción “Nuevo Domicilio”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PÁGINA 19 ---
+18 
+ 
+Se presenta un formulario de carga de los datos: 
+ 
+ 
+El sistema solicita que ingrese los siguientes datos: 
+● Tipo de Domicilio. 
+● País. 
+● Provincia. 
+● Departamento. 
+● Localidad. 
+● Cod. Postal. 
+● Barrio. 
+● Calle. 
+● Número. 
+● Tipo de Casa / Tipo de Departamento / Tipo de Piso. 
+● Teléfono / Celular. 
+● Email Alternativo. 
+● Observaciones. 
+
+
+--- PÁGINA 20 ---
+19 
+ 
+Listado de Domicilios 
+ 
+ 
+Para consultar los domicilios registrados para el sujeto, debe seleccionar la opción 
+‘Listado de Domicilios’, el sistema mostrará el resultado en una grilla. 
+ 
+Luego de listar, el sistema habilita los siguientes botones en la parte superior de la grilla: 
+● Nuevo: permite registrar un domicilio para el sujeto.  
+● Abrir: permite abrir la ficha del domicilio seleccionado desde la grilla. 
+● Eliminar: permite eliminar un domicilio para el sujeto seleccionado desde 
+la grilla. 
+● Actualizar: permite actualizar la grilla de resultados. 
+● Inhabilitar: permite habilitar/inhabilitar (según corresponda) el domicilio 
+del sujeto en el expediente. 
+ REPRESENTANTES 
+Permite al usuario gestionar la información de los representantes de los sujetos.  
+                NUEVO REPRESENTANTE. 
+Para proceder a registrar un nuevo representante para el sujeto, se debe seleccionar la 
+opción “Nuevo Representante”. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PÁGINA 21 ---
+20 
+ 
+Se presenta un formulario de carga de los datos: 
+ 
+Si el usuario conoce los datos del representante que solicita el sistema y dicho 
+profesional se encuentra registrado previamente en el sistema, se debe ingresar su 
+identificación requerida y luego seleccionar la tecla ‘TAB’, donde el sistema completará 
+los campos.  
+Si el usuario no conoce los datos del representante y dicho profesional se encuentra 
+registrado previamente en el sistema, se debe seleccionar el botón “Buscar”, por lo que 
+el sistema mostrará un pop-up con un formulario de búsqueda de profesionales, para 
+realizar la búsqueda por algún filtro en particular. 
+ 
+Luego de realizar la búsqueda y seleccionándolo, el pop-up se cierra y los datos del 
+profesional se pre-cargan en el formulario de Nuevo Representante.  
+ 
+Si el profesional no se encuentra registrado en el sistema como tal, el usuario debe 
+seleccionar el botón ‘Nuevo’ del formulario de búsqueda de profesional, para buscar en 
+el sistema los datos de la persona física y registrarlo como profesional, indicando: 
+
+
+--- PÁGINA 22 ---
+21 
+ 
+ 
+ 
+El sistema solicita que ingrese los siguientes datos: 
+● Identificación:  
+● Tipo de Profesional 
+● Matrícula 
+● Vigencia Desde/Hasta  
+● email 
+ 
+Si no conoce la información que solicita, con los botones “Buscar”, permite buscar una 
+persona física que se encuentre registrada en el sistema y con el botón “Nuevo”, permite 
+registrar una nueva persona física al sistema, para luego registrarla como Profesional 
+en el mismo. 
+El usuario debe completar los campos requeridos por el sistema, y seleccionar para 
+finalizar el botón ‘Guardar’ de la barra de botones. 
+
+
+--- PÁGINA 23 ---
+22 
+ 
+   BANDEJA A RECIBIR 
+Para acceder a los expedientes pendientes de recepción en el organismo donde se 
+encuentra logueado, el usuario debe ingresar el menú ‘Expedientes – A Recibir’. 
+a) En la grilla de resultados el usuario debe seleccionar el checkbox junto a cada 
+registro de la columna ‘Recibir’, en la grilla, de aquellos expedientes que se 
+desea recibir. O seleccionar el checkbox ubicado junto al nombre de la 
+columna, lo que permite la selección de todos los expedientes de la bandeja. 
+b) En la grilla de resultados el usuario puede seleccionar el checkbox junto a 
+cada registro de la columna de la grilla ‘Rechazar’, de aquellos expedientes 
+que se desea rechazar. O seleccionar el checkbox ubicado junto al nombre de 
+la columna, lo que permite la selección de todos los expedientes de la bandeja. 
+ 
+c) Para finalizar la acción debe seleccionar el botón ‘Confirmar’, ubicado en la 
+barra de botones, lo que permite registrar las acciones realizadas en la grilla. 
+ 
+d) Para realizar una búsqueda de expedientes, el usuario debe seleccionar de la 
+barra de botones la opción ‘Buscar’. El sistema mostrará el formulario de 
+búsqueda donde el usuario deberá completar los campos requeridos. 
+              Campos Requeridos: 
+● Organismo de Origen. 
+● Si selecciona opciones ‘Organismo Actual’ u ‘Otros Organismos’, se 
+habilita el combo ‘Dependencia de Origen’. 
+● Nro de Envio. 
+● Nro de lote. 
+● Secretaria. 
+● Sumariante 
+
+
+--- PÁGINA 24 ---
+23 
+ 
+ 
+Una vez ingresados los datos requeridos, seleccionar el botón ‘Buscar’ ubicado debajo 
+del formulario. El sistema mostrará el resultado en la grilla ubicada debajo. 
+ 
+BANDEJA PERSONAL 
+En esta funcionalidad o bandeja “Personal”, se visualizarán todos los expedientes donde 
+el usuario logueado en el organismo/dependencia se encuentre como Responsable del 
+o los expedientes. 
+Si el usuario desea realizar una búsqueda dentro de la bandeja deberá proceder al 
+ingreso de los filtros solicitados por el sistema.  
+Campos Requeridos: 
+● Carátula. 
+● Datos correspondientes al expediente a buscar. 
+● Responsable. 
+● Dependencia. 
+● Juez de trámite. 
+ 
+ 
+
+
+--- PÁGINA 25 ---
+24 
+ 
+ 
+Una vez ingresados los datos requeridos, seleccionar el botón ‘Buscar’ ubicado debajo 
+del formulario. El sistema mostrará el resultado en la grilla ubicada debajo. 
+ 
+INFORMACIÓN DE LA FICHA DEL EXPEDIENTE 
+La ficha del expediente muestra los datos principales del expediente, donde se 
+destacan: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+● Tipo de expediente con su CUIJ y número (La nomenclatura de tipos de 
+expedientes son configurables). 
+● Carátula generada  
+● Fecha de ingreso (fecha de recepción en el organismo. Hasta no ser recibido por 
+el organismo, la fecha estará vacía). 
+● Fecha de asignación (fecha de sorteo). 
+● Tipo de Asignación.  
+● Fecha de inicio en el fuero (fecha de presentación de la denuncia. Se toma en 
+cuenta para la prescripción del expediente judicial.  
+● Ubicación Actual (organismo donde se encuentra ubicado el expediente). 
+● Radicación (organismo y secretaría donde se encuentra radicado el expediente). 
+● Estado administrativo y procesal. 
+● Nivel de Acceso (dato que determina si publica en Internet. Por configuración se 
+puede determinar cuál se presenta por defecto en el momento del ingreso de la 
+causa. Por defecto deberá ser Privado). 
+● Fojas y cuerpos. 
+
+
+--- PÁGINA 26 ---
+25 
+ 
+● Categoría, materia y objeto de juicio. 
+● Datos del hecho: presenta los datos del hecho considerado para llevar a cabo el 
+proceso de sorteo fecha de denuncia, fecha de denuncia ante organismo 
+externo. 
+INGRESO DE CAUSAS  
+Desde el menú lateral “Sorteos - Ingreso de Causas” el sistema permite al usuario el 
+ingreso de nuevas Causas Judiciales, a través de un conjunto de pasos detallados a 
+continuación. 
+a) Paso N°1. El usuario debe ingresar los ‘Datos iniciales de la Causa’ ‘Fecha de Inicio 
+en el Fuero’, ‘Tipo de expediente’ a crear, ‘Categoría’ y determinarán los pasos 
+necesarios a completar para la creación 
+ 
+ 
+ 
+Campos a completar para creación de Causas 
+- 
+Fecha de Inicio en el Fuero fecha y hora de inicio del fuero. 
+- 
+Tipo de Expediente: seleccionar tipo de expediente. 
+- 
+Tipo de Proceso 
+- 
+Categoría: seleccionar categoría donde se realizará el sorteo determinado. 
+- 
+Materia: seleccionar la materia correspondiente. 
+- 
+Objeto de juicio: seleccionar el objeto de juicio de la causa en cuestión. 
+- 
+Nivel de acceso: seleccionar el nivel de acceso, podrá ser Público, Privado o 
+Reservado. 
+- 
+Habilitar Asignación: el organismo donde va a ser asignado corresponde al 
+juzgado que da ingreso a la causa. 
+- 
+Organismo: asignación de organismo a llevar la causa. 
+b) Paso N°2. Para indicar si el expediente a crear posee un expediente conexo o 
+relacionado, se presenta la siguiente pantalla 
+
+
+--- PÁGINA 27 ---
+26 
+ 
+ 
+Excepción: Para el caso de ingreso de expediente de Violencia Familiar (VPD), se 
+habilita el paso de Ingreso de Hechos de la Causa 
+Al seleccionar “Siguiente”, se cargará la pantalla: 
+ 
+Seleccionando el botón Agregar, solicitará que ingrese los siguientes datos: 
+
+
+--- PÁGINA 28 ---
+27 
+ 
+ 
+Campos a completar sobre ‘Datos del Hecho’ 
+- 
+Tipo de denuncia  
+- 
+Caso MPF Caso Ministerio Publico Fiscal. 
+- 
+Número de denuncia indicar el número de denuncia realizada. 
+- 
+Fecha denuncia indicar la fecha de denuncia. Dato obligatorio. 
+- 
+Denuncia policial ingresar número de denuncia obtenido en la comisaría. 
+- 
+Fecha Org. Externo 
+- 
+Fecha del Hecho Desde/Hasta: indicar el período de tiempo del hecho ocurrido.  
+- 
+Extracto: texto identificatorio al hecho.  
+- 
+Descripción: ingresar texto descriptivo al hecho. 
+- 
+Organismos: ingresar los organismos intervinientes en el hecho. Una Vez 
+seleccionado se deberá seleccionar el botón “Agregar”. 
+- 
+Lugar del hecho: se debe completar el lugar físico donde sucedió el acto.  
+- 
+Categoría, Materia, Objeto de Juicio, corresponde a lo indicado en el primer 
+paso. 
+
+
+--- PÁGINA 29 ---
+28 
+ 
+ 
+Una vez cargados los datos requeridos por sistema el usuario deberá seleccionar el 
+botón “Guardar” para finalizar la creación del hecho. 
+Para editar los datos cargados del hecho, el usuario debe seleccionar el icono de ‘Editar’ 
+(lápiz), situado en la penúltima columna de la grilla. 
+Para eliminar los datos cargados del hecho, el usuario debe seleccionar el icono de 
+‘Quitar’ (menos), situado en la última columna de la grilla. 
+ 
+c) Paso N°3. Luego de guardar el hecho, se presiona el botón “Siguiente” para 
+ingresar las Personas: “Datos del Sujeto” vinculadas al expediente a crear, junto 
+con sus domicilios y “Representantes Profesionales”. Esta persona puede existir 
+en la base de datos o puede crearse. 
+ 
+
+
+--- PÁGINA 30 ---
+29 
+ 
+ 
+ 
+Sección “Datos de los Sujetos 
+ 
+Campos a completar de los Sujetos 
+- 
+Tipo de Vínculo seleccionar el tipo de vínculo que se desea que posea el sujeto 
+a agregar a la causa. 
+- 
+Tipo de Persona seleccionar el tipo de persona que se desea que posea el sujeto 
+a agregar a la causa “Persona Física, Persona Jurídica, Persona Pública”. 
+- 
+Identificación seleccionar el tipo de identificación, luego la identificación 
+propiamente dicha de la persona a buscar. 
+La búsqueda se podrá realizar ingresando la identificación y presionando la tecla 
+“TAB” o bien presionando el botón de color azul “Buscar”. 
+Para crear una nueva persona, seleccionar el botón de color azul “Nuevo”, 
+ubicado al costado derecho del campo ‘Identificación’. 
+
+
+--- PÁGINA 31 ---
+30 
+ 
+ 
+A continuación, presionar el botón “Agregar”, el sistema agregará sus 
+correspondientes datos a la grilla debajo, la cual se muestra en la siguiente 
+imagen. 
+El usuario debe realizar los mismos pasos para llevar a cabo cada incorporación de 
+personas a la causa en cuestión. 
+A su vez también cabe destacar que, al seleccionar una persona de la grilla, se pueden 
+ejecutar las siguientes acciones 
+- 
+Botón “Eliminar”: permite eliminar a la persona seleccionada de la grilla. 
+- 
+Ver/Modificar Domicilios: presionando este ítem, se puede ver y modificar los 
+datos del domicilio del “Vínculo” seleccionado. 
+- 
+Copiar Representante: al tildar la correspondiente opción, permite copiar el 
+representante previamente cargado a un determinado “Vínculo”. 
+- 
+Vincular: permite editar datos propios de las personas vinculadas a la causa y la 
+asignación de un Alias. 
+▪ 
+Campos a completar de los Profesionales (Representantes)  
+Seleccionar una persona previamente incorporada e ingresar los datos que se 
+mencionan a continuación 
+- 
+Vínculo: seleccionar el vínculo que va poseer. 
+- 
+Identificación: inicialmente se deberá seleccionar el ‘Tipo de identificación’, y 
+luego la identificación propiamente dicha de la persona a buscar. 
+- 
+La misma se podrá realizar ingresando la identificación/ matricula y presionando 
+la tecla “TAB” se cargarán sus datos correspondientes o bien presionando el 
+
+
+--- PÁGINA 32 ---
+31 
+ 
+botón de color azul “Buscar”, ubicado al costado derecho del campo 
+‘Identificación’. 
+- 
+Para crear una nueva persona, seleccionar el botón de color azul “Nuevo”, 
+ubicado al costado derecho del campo ‘Identificación’. 
+- 
+A continuación, se presionará el botón “Agregar” para introducir sus 
+correspondientes datos a la grilla inferior. 
+ 
+Se deberá realizar los mismos pasos para cada incorporación de otros profesionales a 
+la causa en cuestión. 
+Sección “Profesionales” 
+Campos a completar de los Profesionales 
+- 
+Tipo de Vínculo: seleccionar el tipo de vínculo que se desea que posea el sujeto 
+a agregar a la causa. 
+- 
+Identificación: seleccionar el tipo de identificación, luego la identificación 
+propiamente dicha de la persona a buscar. 
+La búsqueda se podrá realizar ingresando la identificación y presionando la tecla 
+“TAB” o bien presionando el botón de color azul “Buscar”. 
+Para crear una nueva persona, seleccionar el botón de color azul “Nuevo”, ubicado 
+al costado derecho del campo ‘Identificación’ 
+ 
+ 
+Si al agregar un Profesional a la grilla de profesionales, el sistema muestra el siguiente 
+mensaje: 
+ 
+ 
+
+
+--- PÁGINA 33 ---
+32 
+ 
+ 
+Por cada Sujeto y Profesional que realizó la búsqueda, se debe agregar a su grilla 
+correspondiente mediante el botón “Agregar”. 
+A su vez también cabe destacar que, al seleccionar un sujeto o profesional de la grilla, 
+se pueden ejecutar las siguientes acciones 
+- 
+Botón “Eliminar”: permite eliminar la persona seleccionada de la grilla. 
+- 
+Ver/Modificar Domicilios presionando este ítem, se pude ver y modificar los datos 
+del domicilio del “Vínculo” seleccionado. 
+- 
+Copiar Representante: al tildar la correspondiente opción, permite copiar el 
+representante previamente cargado a un determinado “Vínculo”. 
+- 
+Vincular: permite editar datos propios de las personas vinculadas a la causa y la 
+asignación de un Alias. 
+▪ 
+Campos a completar de los Profesionales (Representantes)  
+Seleccionar una persona previamente incorporada e ingresar los datos que se 
+mencionan a continuación 
+- 
+Vínculo: seleccionar el vínculo que va poseer. 
+- 
+Identificación: inicialmente se deberá seleccionar el ‘Tipo de identificación’, y 
+luego la identificación propiamente dicha de la persona a buscar. 
+- 
+La misma se podrá realizar ingresando la identificación/ matricula y presionando 
+la tecla “TAB” se cargarán sus datos correspondientes o bien presionando el 
+botón de color azul “Buscar”, ubicado al costado derecho del campo 
+‘Identificación’. 
+- 
+Para crear una nueva persona, seleccionar el botón de color azul “Nuevo”, 
+ubicado al costado derecho del campo ‘Identificación’. 
+- 
+ 
+- 
+A continuación, se presionará el botón “Agregar” para introducir sus 
+correspondientes datos a la grilla inferior. 
+ 
+Para finalizar la carga de los ‘Sujetos’, se presiona el botón “Siguiente” para 
+ingresar información adicional de la causa al expediente 
+
+
+--- PÁGINA 34 ---
+33 
+ 
+ 
+Para continuar el ingreso de causa, se presiona el botón “Siguiente” y se presentan los 
+datos previos a la asignación de la causa, mediante una “Ficha de la Causa”.  
+Para finalizar y crear la causa se presiona el botón “Asignar”, dando como resultado 
+número de CUIJ, numero expediente y la generación de la carátula. 
+ 
+ 
+
+
+--- PÁGINA 35 ---
+34 
+ 
+Al seleccionar “Asignar”, se genera el expediente en el sistema. 
+ 
+Una vez realizado el Sorteo se dispone de tres botones 
+- 
+Finalizar: permite concluir la operación y volver al formulario para dar el ingreso 
+de otra nueva causa, si así lo desea. 
+- 
+Ver expediente: permite la visualización de la “Ficha General” del expediente 
+generado. 
+- 
+Imprimir: permite generar la ficha impresa del expediente. 
+
+
+--- PÁGINA 36 ---
+35 
+ 
+ 
+ 
+ 
+Los expedientes registrados desde el módulo Ingreso de Causa, quedarán pendientes 
+de recepción o rechazo en el organismo y dependencia destino. 
+Se podrán visualizar desde la bandeja “A Recibir”, si bien desde la búsqueda rápida se 
+logra visualizar la ficha ppal., para poder operar sobre estos, es decir crear actuaciones, 
+hechos, sujetos, eventos, primero estos tendrán que ser aceptados. 
+ 
+ 

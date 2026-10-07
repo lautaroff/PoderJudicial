@@ -1,0 +1,91 @@
+
+--- PÁGINA 1 ---
+
+
+--- PÁGINA 2 ---
+1 
+ 
+SISTEMA DE INFORMACIÓN – USUARIOS FINALES 
+SIC IURIX FLEX 
+INSTRUCTIVO PARA LA GENERACIÓN DE UNA 
+ACTUACIÓN PRIVADA 
+ 
+Introducción 
+En el sistema Iurix Flex se puede crear una actuación con nivel de acceso privado en cualquier 
+expediente y elegir quién (representante legal, Asesora, Martilleros, Registros, ETI, DCA, etc.) 
+podrá visualizar la misma en el Portal de Gestión de Causas Judiciales.  
+ 
+Características de la Actuación Privada 
+Al firmar esta actuación se visualizará en el Portal el día hábil siguiente a la firma. Esta función 
+permite incorporar actuaciones a un expediente y que sean visibles sólo para los sujetos 
+seleccionados, sin publicarlas en lista, dejando la opción de publicación en lista para las 
+actuaciones públicas.  
+ 
+Creación de una actuación privada 
+Desde la ficha general del expediente, dirigirse al grupo de opciones que se encuentra en la parte 
+superior derecha de la ficha, presionar el botón “Actuaciones” y elegir la acción “Nueva 
+Actuación”. 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PÁGINA 3 ---
+2 
+ 
+Se abre la ficha de Nueva Actuación, donde deberemos ingresar el código de actuación que 
+deseamos trabajar o buscarlo con la lupa para poder crear la misma: 
+ 
+ 
+ 
+Al introducir el código se completa automáticamente el título de la actuación, el estado (en 
+borrador) y el nivel de acceso. 
+Como en este caso se desea crear una actuación privada, el nivel de acceso de la actuación se 
+debe marcar como privado:  
+ 
+ 
+ 
+Al guardar la ficha de la actuación para posteriormente editar el modelo, el sistema brinda la 
+opción de seleccionar las partes y /o representantes que tendrán acceso a ver la actuación el día 
+hábil posterior a su firma. Una vez seleccionadas, presionar “guardar”: 
+ 
+ 
+
+
+--- PÁGINA 4 ---
+3 
+Al realizar esta acción, se agrega una opción en el acordeón superior de la ficha del expediente, 
+llamado “partes relacionadas”: 
+ 
+ 
+ 
+ 
+Este ícono nos permite consultar qué partes visualizan el expediente por el Portal de Gestión de 
+Causas Judiciales: 
+  
+ 
+ 
+
+
+--- PÁGINA 5 ---
+4 
+ 
+Cada vez que se modifique la ficha de la actuación y se presione nuevamente “guardar”, el sistema 
+volverá a mostrar la ventana de “partes relacionadas” solicitando se indique si se quiere efectuar 
+alguna modificación. Haya o no modificaciones, debe presionarse “editar” y luego “guardar”. 
+ 
+ 
+ 
+Notas:  
+En caso que en el expediente sobre el que se ha trabajado se le genere un movimiento a Lista 
+Diaria, la actuación creada y firmada con nivel de acceso privado no será ofrecida para cargar en 
+lista diaria. 
+En caso de que se agregue un archivo adjunto a la actuación privada, éste copiará el nivel de 
+acceso de la actuación, por lo tanto, su visibilidad será la de un archivo adjunto privado, aunque 
+se modifique su nivel de acceso como público o reservado. 
+El escrito del que surge la actuación está presentado con nivel de acceso público y esto no se 
+puede modificar, por lo tanto, lo ofrecerá para publicar en lista, aunque la actuación sea privada, 
+hay que tener la precaución de no publicarlo nunca, si generó una actuación privada. 
+ 

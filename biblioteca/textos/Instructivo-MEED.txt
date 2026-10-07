@@ -1,0 +1,88 @@
+
+--- PÁGINA 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+¿CÓMO SE USA?  
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+MeeD es un sistema para la recepción de escritos digitales, que permite  subir documentos 
+para realizar distintos tipos de presentación en cualquiera de los fueros del Poder Judicial 
+de Mendoza. La unidad organizacional a donde fue destinado el documento tomará 
+conocimiento de ello para así poder procesarlo y realizar las gestiones necesarias. 
+ó bien desde el portal del Poder Judicial de Mendoza:  (www.jus.mendoza.gov.ar)
+MeeD
+MESA DE ENTRADAS DE ESCRITOS DIGITALES
+1
+Podrá ingresar a la MeeD a través de su navegador escribiendo:  https://MeeD.pjm.gob.ar
+
+
+--- PÁGINA 2 ---
+MeeD
+MESA DE ENTRADAS DE ESCRITOS DIGITALES
+2
+Una vez que ingrese a la MeeD, seleccione la circunscripción judicial, la oﬁcina de estino y 
+tipo de pretación que desea realizar.
+Posteriormente complete el número de matricual, nombre y apellido del profecional y el 
+número de expediente para el cual se realizará la presentación (número de CUIJ para los 
+que implementen Iurix y número de expedientes para el resto).  
+
+
+--- PÁGINA 3 ---
+MeeD
+MESA DE ENTRADAS DE ESCRITOS DIGITALES
+3
+Cuando haya completado todos los datos requeridos presione “Seleccionar documento”, 
+se abrirá una ventana desde la cual debe buscar y seleccionar el escrito que se desea 
+presentar. Tenga en cuenta que solo es posible enviar documentos de  tipo pdf, doc, 
+docx y odt. 
+
+
+--- PÁGINA 4 ---
+MeeD
+MESA DE ENTRADAS DE ESCRITOS DIGITALES
+4
+Luego, con el documento seleccionado informado en la pantalla, presione el botón 
+“Enviar”.
+
+
+--- PÁGINA 5 ---
+MeeD
+MESA DE ENTRADAS DE ESCRITOS DIGITALES
+5
+Si el proceso fue exitoso, se le informará el identiﬁcador del documento que deberá ser 
+conservado. 
+El sistema le permitirá: 
+1- Descargar la constancia del envío en formato pdf desde el botón 
+“Descargar identiﬁcador”.
+
+
+--- PÁGINA 6 ---
+MeeD
+MESA DE ENTRADAS DE ESCRITOS DIGITALES
+6
+2- O bien enviar los datos de la presentación vía SMS a su celular. 
+Complete el numero de celular y 
+presione “Enviar identiﬁcador” 
+
+
+--- PÁGINA 7 ---
+MeeD
+MESA DE ENTRADAS DE ESCRITOS DIGITALES
+7
+En el celular indicado recibirá 
+los datos de la presentación 
+realizada.

@@ -1,0 +1,1020 @@
+
+--- PÁGINA 1 ---
+La locura 
+del solucionismo 
+tecnológico
+
+
+--- PÁGINA 2 ---
+Del mismo autor:
+The Net Delusion: The Dark Side of Internet Freedom, 
+Nueva York, 2011
+
+
+--- PÁGINA 3 ---
+Evgeny Morozov
+Traducido por Nancy Viviana Piñeiro
+La locura 
+del solucionismo 
+tecnológico
+Serie Ensayos
+
+
+--- PÁGINA 4 ---
+Primera edición argentina, 2016
+© Katz Editores
+Benjamín Matienzo 1831, 10º D
+1426-Buenos Aires
+c/Sitio de Zaragoza, 6, 1ª planta
+28931 Móstoles-Madrid
+www.katzeditores.com – info@katzeditores.com
+© Capital Intelectual S.A.
+Paraguay 1535 (1061), Buenos Aires, Argentina
+Teléfono: (+54 11) 4872-1300 – Telefax: (+54 11) 4872-1329
+www.editorialcapin.com.ar – info@capin.com.ar
+© Copyright © 2013 by Evgeny Morozov
+Título de la edición original: To save everything, click here.  
+The folly of technological solutionism
+ISBN Argentina: 978-987-1566-99-0
+ISBN España: 978-84-15917-19-9
+1. Nuevas Tecnologías. 2. Liberalismo. I. Piñeiro, Nancy Viviana, trad.  
+II. Título.
+CDD 303.483
+El contenido intelectual de esta obra se encuentra
+protegido por diversas leyes y tratados internacionales
+que prohíben la reproducción íntegra o extractada,
+realizada por cualquier procedimiento, que no cuente
+con la autorización expresa del editor.
+Diseño de colección: Pablo Salomone y Maru Hiriart
+Impreso en la Argentina
+por Buenos Aires Print
+Queda hecho el depósito que marca la ley 11.723
+
+
+--- PÁGINA 5 ---
+Índice
+Agradecimientos     9
+Introducción     11
+1. 	 El solucionismo y sus descontentos     19
+2. 	 El sinsentido de “internet”, y cómo evitarlo     37
+3. 	 Tan abierta que daña     85
+4. 	 Instrucciones para estropear la política arreglándola     123
+5. 	 Los peligros de la mediación algorítmica     165
+6. 	 Menos delito, más castigo     207
+7. 	 El iPhone de Galton     255
+8. 	 La condición superhumana     299
+9. 	 Dispositivos inteligentes, humanos estúpidos     351
+	
+Epílogo     387
+	
+Notas     395
+
+
+--- PÁGINA 6 ---
+A mis padres
+
+
+--- PÁGINA 7 ---
+Agradecimientos
+Comencé a trabajar en este libro mientras era profesor invitado en la Uni­
+versidad de Stanford. Sin Joshua Cohen, Larry Diamond, Terry Winograd, 
+y el programa interdisciplinario de “Tecnologías de la liberación” que diri­
+gen, mi estadía en Stanford –que pasé en gran parte en la sala Bender de su 
+Green Library– no hubiera sido posible. También tuve la suerte de ser 
+becario en la New America Foundation en ese mismo momento; muchas 
+gracias a Andrés Martínez, responsable del programa de becas, por no exi­
+girme demasiado teniendo en cuenta que me encontraba en la otra costa.
+Me topé con muchos de los textos que cito en este libro gracias al trabajo 
+de asesoría en investigación que había estado realizando para la Open So­
+ciety Foundations (OSF); me gustaría agradecer a Darius Cuplinskas por 
+haberlo hecho posible. Otras dos personas de OSF siempre me ofrecieron 
+sus excelentes consejos: Lenny Benardo y Laura Silber; a ellos también 
+estoy agradecido. 
+Me gustaría agradecer a Alex Carp, Louise Loftus Leafan Rosen y Zach 
+Wehrwein por asistir en la investigación. Como siempre, ha sido un placer 
+
+
+--- PÁGINA 8 ---
+10 • La locura del solucionismo tecnológico
+trabajar con mi agente, Max Brockman. Las sugerencias editoriales de Clive 
+Priddle han hecho este libro mucho más legible. Las partes que no son le­
+gibles (¡o verdaderas!) son, por supuesto, mi responsabilidad exclusiva. Es­
+cribí la mayor parte de este libro durante mi estadía en la casa de mis padres 
+en Bielorrusia. Naturalmente, está dedicado a ellos.
+Barcelona, 5 de diciembre de 2012
+
+
+--- PÁGINA 9 ---
+Introducción
+En una época de tecnología avanzada la ineficacia 
+es un pecado contra el Espíritu Santo.
+Aldous Huxley
+En buenas manos, la complejidad 
+es un problema que tiene solución.
+Jeff Jarvis
+Silicon Valley es culpable de muchos pecados, pero la falta de ambición no 
+es uno de ellos. Si escuchamos a los apóstoles más enardecidos de esa región 
+californiana conocida como “Valle del silicio”, donde se encuentran las 
+corporaciones tecnológicas más importantes del mundo, nos dirán que allí 
+solo se resuelven problemas creados por otros: quizá por los ambiciosos 
+banqueros de Wall Street o por los ignorantes de Washington.
+“En realidad, la tecnología ya no se centra en el hardware y el software. 
+De lo que se trata en verdad es de la extracción y el uso de esta enorme 
+
+
+--- PÁGINA 10 ---
+12 • La locura del solucionismo tecnológico
+cantidad de datos para hacer del mundo un lugar mejor”, dijo en 2011 el 
+director ejecutivo de Google, Eric Schmidt, a un público compuesto por 
+estudiantes del Instituto de Tecnología de Massachusetts (MIT, por su sigla 
+en inglés). Mark Zuckerberg, el creador de Facebook, quien afirma que la 
+misión de su compañía es “hacer que el mundo sea más abierto y conec­
+tado”, está de acuerdo con él. “No nos levantamos por la mañana con el 
+objetivo principal de hacer dinero”, declaró apenas unos meses antes de que 
+el desplome de las acciones de su compañía convenciera a todos salvo a sus 
+más acérrimos fanáticos de que Facebook y el lucro habían tomado caminos 
+diferentes hacía tiempo. Entonces, ¿qué es lo que le quita el sueño al señor 
+Zuckerberg? Como dijo al público del festival South by Southwest (SXSW) 
+en 2008, es el deseo de resolver problemas mundiales. Allí anunció: “Hay 
+una cantidad de problemas muy importantes que el mundo debe resolver y, 
+como compañía, tratamos de construir una infraestructura sobre la que sea 
+posible resolver algunos de esos problemas”. 
+En los últimos años, el eslogan favorito de Silicon Valley, “¡Innovar o 
+morir!”, cambió discretamente a “¡Mejorar o morir!”. Qué es lo que se está 
+mejorando no es muy importante en el panorama general; lo único que 
+importa es tener la capacidad de cambiar cosas, lograr que los seres humanos 
+se comporten de manera más responsable y sustentable, maximizar la efica­
+cia. Ciertas ideas inconclusas que pudieran quedarles demasiado holgadas a 
+los ingenuos de las conferencias TED –esa especie de Woodstock de la 
+decadencia intelectual– se ajustan bastante bien a los planes empresariales de 
+Silicon Valley. “Más delgado, más feliz, más productivo” –el lema depresivo 
+pero agradable de la famosa canción de Radiohead de mediados de los años 
+noventa– sería un buen letrero de bienvenida para las oficinas corporativas 
+de la gran cantidad de expertos digitales que trabajan en Silicon Valley. La 
+tecnología puede hacer que seamos mejores personas, y lo hará. O, al decir 
+de esos fanáticos de la tecnología llamados geeks, si disponemos de suficien­
+tes aplicaciones, todas las fallas del sistema humano se vuelven superficiales.
+Es cierto, California nunca ha sufrido un déficit de optimismo ni fanfa­
+rronería. Pero gracias a las posibilidades que brindan las últimas innovacio­
+nes, incluso los inversores más pragmáticos y realistas corren a buscar sus 
+billeteras. Al fin y al cabo, ¿en qué otro momento podrán enriquecerse 
+salvando el mundo? ¿Qué otra actividad podría ser tan excitante como tra­
+bajar en una agencia humanitaria (sin la burocracia y el frenesí de los viajes, 
+y con un salario muy superior)?
+
+
+--- PÁGINA 11 ---
+Introducción • 13
+¿Cómo terminará esta orgía perfeccionista? ¿Realmente logrará algo? Una 
+manera de averiguarlo es llevar algunos de estos incipientes esfuerzos supe­
+radores a sus conclusiones más extremas. Si Silicon Valley nombrara a una 
+pronosticadora, su visión del futuro –cerca del año 2020, digamos– sería, a 
+su vez, fácil de predecir. Diría algo así: La humanidad, equipada con pode­
+rosos dispositivos de autovigilancia, por fin vence a la obesidad, el insomnio 
+y el calentamiento global debido a que todos comen menos, duermen me­
+jor y sus emisiones son más controladas. También se ha vencido la falibilidad 
+de la memoria humana, dado que esos mismos dispositivos de vigilancia 
+graban y almacenan todo lo que hacemos. Las llaves del auto, las caras, los 
+factoides: jamás los volveremos a olvidar. Ya no sentiremos una nostalgia 
+proustiana por las petites madeleines que devorábamos en la infancia; no caben 
+dudas de que ese momento está almacenado en algún lugar de nuestro telé­
+fono inteligente o smartphone –o, lo que es más probable, en los lentes inte­
+ligentes que todo lo graban–; así, podemos dejar de fantasear: es tan simple 
+como rebobinar hasta ese preciso instante. En todo caso, contamos con Siri, 
+el confiable asistente de voz de Apple, para que nos diga la verdad que 
+nunca quisimos enfrentar: todas esas madeleines elevan los niveles de glucosa 
+en sangre a las nubes, y tenemos que evitarlas. ¡Perdón, Marcel!
+La política, por fin bajo la mirada constante y abarcadora del electorado, 
+ha quedado libre de la asquerosa corrupción, los acuerdos a puerta cerrada y 
+los intercambios de favores sin resultado alguno. Se desintegran los partidos 
+y se los reemplaza por campañas políticas al estilo Groupon; en ellas, los 
+usuarios se reúnen –una vez– para sopesar asuntos de impacto directo e in­
+mediato en sus vidas, y se separan al poco tiempo. Ahora que cada palabra, 
+mejor dicho, cada sonido que hayan pronunciado alguna vez los políticos 
+queda grabado y guardado para la posteridad, la hipocresía también se ha 
+vuelto obsoleta. Los grupos de presión de todo tipo se han extinguido por­
+que todos pueden revisar en línea la gran cantidad de información disponible 
+sobre los políticos: sus agendas, el menú del almuerzo, los gastos de viaje.
+Desde que la participación es más fácil gracias a los medios digitales, cada 
+vez son más los ciudadanos que dejan de estar solos en la bolera, aunque más 
+no sea para reunirse, esta vez en los blogs. Incluso los que nunca se habían 
+tomado el trabajo de votar por fin tienen los incentivos adecuados para ha­
+cerlo –que, desde luego, son parte de un juego en línea donde suman pun­
+tos por salvar a la humanidad–, y con entusiasmo usan sus teléfonos 
+inteligentes para “registrarse” en la cabina de votación. Por fortuna, llegar 
+
+
+--- PÁGINA 12 ---
+14 • La locura del solucionismo tecnológico
+hasta allí ya no implica ningún esfuerzo: para trasladar a las personas de un 
+lado a otro se inventaron los vehículos autónomos. Las calles están limpias y 
+relucientes; eso también es parte de un complejo juego en línea. Resulta casi 
+innecesario apelar al deber cívico y a la responsabilidad de los ciudadanos; 
+¿por qué sería necesario?, si es mucho más eficaz convencerlos de que hagan 
+lo debido aprovechando su afán de ganar puntos, insignias y dinero virtual. 
+El delito es un recuerdo lejano, al tiempo que en los tribunales sobra 
+personal y falta trabajo. Tanto los entornos físicos como los virtuales –pare­
+des, aceras, puertas, pantallas de inicio de sesión– ahora son “inteligentes”. 
+Es decir, han integrado el sinfín de datos generados por los dispositivos de 
+autovigilancia y las redes sociales de forma tal que pueden predecir y evitar 
+conductas delictivas con solo analizar a sus usuarios. Y ya que ellos ni si­
+quiera tienen la posibilidad de delinquir, tampoco se necesitan las prisiones. 
+Un triunfo del humanismo, cortesía de Silicon Valley.
+Además, tenemos el nuevo y floreciente “mercado” de “ideas”. Por fin, 
+el término “mercado” ya no parece poco apropiado; las instituciones cul­
+turales nunca han sido tan eficaces ni han respondido tan bien a las leyes de 
+la oferta y la demanda. En los periódicos ya no se publican artículos que no 
+interesan a los lectores; la proliferación del seguimiento automático combi­
+nado con información obtenida de las redes sociales garantiza que todos 
+puedan leer un periódico con un alto nivel de personalización (¡hasta el 
+nivel de la palabra!) que asegurará la tasa de clics más alta posible. No hay 
+historia en la que no se haga clic, no hay titular que no se convierta en un 
+tuit; lo que tarda en generarse un artículo personalizado son los minutos que 
+transcurren desde que hacemos clic en un enlace hasta que la página se carga 
+en nuestro navegador. 
+Se ha disparado el número de libros publicados –la mayoría son autopu­
+blicados– y ellos también tienen una eficacia perfecta. Incluso, muchos 
+tienen finales alternativos –¡en tiempo real!–, que son posibles gracias a los 
+datos que el rastreo visual arroja sobre el ánimo del lector. Hollywood está 
+vivito y coleando; ahora que todos usan gafas inteligentes, las películas tie­
+nen un número infinito de finales alternativos, según el ánimo que tengan 
+los espectadores en un momento dado mientras miran el film. Ya no hay 
+críticos profesionales porque los han reemplazado, primero, “la gente”, 
+luego los algoritmos y, por último, las reseñas algorítmicas personalizadas: 
+la única manera de mirar películas con finales alternativos a medida. Las 
+publicaciones culturales más vanguardistas han llegado al punto de utilizar 
+
+
+--- PÁGINA 13 ---
+Introducción • 15
+los algoritmos para escribir críticas sobre canciones compuestas por otros 
+algoritmos. Pero no todo ha cambiado: tal como sucede hoy en día, el sis­
+tema aún necesita a los imperfectos humanos para generar los clics que les 
+succionarán los billetes a los anunciantes.
+Esta breve semblanza no es un extracto de la última novela de Gary 
+Shteyngart; tampoco es una novela de ciencia ficción distópica. Por el con­
+trario, es bastante probable que en este mismo momento alguien en Silicon 
+Valley esté intentando venderles a los inversores algunas de las tecnologías 
+descritas más arriba, y puede que otras ya se hayan desarrollado. No es por 
+tanto una distopía; y para muchas personas de una enorme inteligencia, 
+dentro y fuera de Silicon Valley, este futuro sin fricciones es tentador e 
+inevitable. Así lo demostrarían sus memos y planes de negocios. 
+A mí, por ejemplo, la mayor parte de este futuro me parece aterradora, 
+aunque los motivos no son los que ustedes quizá supongan. Muy a menudo, 
+los herejes digitales como yo nos empantanamos criticando la factibilidad 
+de los esquemas utópicos originales. ¿Es posible obtener una eficacia per­
+fecta en el mundo de la publicación? ¿Todos los entornos pueden ser inte­
+ligentes? ¿Las personas irán a votar solo porque están jugando un juego? Es 
+importante hacerse ese tipo de preguntas escépticas sobre la eficacia de los 
+esquemas, y muchas de ellas las planteo en este libro. Pero también creo que 
+nosotros, los herejes, debemos tomarles la palabra a los innovadores de Si­
+licon Valley y tener un poco más de fe en su ingenio y capacidad inventiva. 
+En definitiva, son los mismos que planean escanear todos los libros del 
+mundo y extraer recursos de los asteroides. Hace diez años, las dos ideas 
+hubieran parecido una locura total; hoy, solo una lo parece. 
+Por eso, quizá deberíamos pensar en la posibilidad de que Silicon Valley 
+obtenga los medios necesarios para llevar a cabo algunos de sus planes más 
+descabellados. Aunque no consiga derrocar el régimen norcoreano con 
+tuits, de todos modos, podría llegar bastante lejos. Es en este punto donde 
+el debate debería cambiar de registro: en lugar de ridiculizar la eficacia de 
+los medios que emplean los innovadores, tenemos que preguntarnos si sus 
+fines son apropiados. Mi libro anterior, El desengaño de internet, muestra la 
+sorprendente resistencia de los regímenes autoritarios que han sabido uti­
+lizar las tecnologías digitales en beneficio propio. Si bien fui crítico –y lo 
+sigo siendo– de muchos de los esfuerzos que realiza Occidente por fomen­
+tar la “libertad en internet” en esos regímenes, la mayoría de mis críticas se 
+ocupan de los medios, y no de los fines, del “programa por la libertad en 
+
+
+--- PÁGINA 14 ---
+16 • La locura del solucionismo tecnológico
+internet” (conocido como “Internet freedom agenda”), suponiendo que los 
+fines propician mejores condiciones para la libertad de expresión y más 
+respeto por los derechos humanos. En el presente libro no me doy ese lujo; 
+cuestiono tanto los medios como los fines de la última búsqueda de Silicon 
+Valley por “resolver problemas”. Sostengo que la promesa de perfecciona­
+miento eterno que hace Silicon Valley desgasta nuestra capacidad de for­
+mular esos cuestionamientos. ¿Quién estaría tan loco para poner en duda 
+los beneficios de eliminar la hipocresía de la política, o de brindar más 
+información –un resultado directo del autorrastreo– para favorecer la toma 
+de decisiones, o de encontrar nuevos incentivos para que la gente tenga 
+interés en salvar la humanidad, combatir el cambio climático o participar 
+en política? ¿Y qué hay de la disminución del delito? Pareciera que cues­
+tionar la pertinencia de semejantes intervenciones equivale a cuestionar la 
+Ilustración. 
+Sin embargo, creo que es necesario. De allí la premisa de este libro: el 
+objetivo de Silicon Valley de meternos a todos en una camisa de fuerza 
+digital fomentando la eficacia, la transparencia, la certeza y la perfección 
+–eliminando, por consiguiente, sus contrapartes negativas: la fricción, la 
+opacidad, la ambigüedad y la imperfección– resultará demasiado caro en el 
+largo plazo. Por distintas razones ideológicas que se explicarán más adelante, 
+ese alto costo permanece oculto a los ojos del público, y así seguirá mientras 
+nosotros, en esta búsqueda irracional del Edén de silicio, no examinemos 
+radicalmente nuestro embelesamiento ante un conjunto de tecnologías que 
+suelen meterse en la misma bolsa bajo la engañosa etiqueta de “internet”. 
+Por lo tanto, en este libro intento incluir como variable de la ecuación los 
+verdaderos costos de ese paraíso tan esperado, y explicar por qué ha sido 
+muy difícil rendir cuentas sobre ellos.
+La imperfección, la ambigüedad, la opacidad, el desorden y la oportuni­
+dad de errar, de pecar, de hacer lo incorrecto: todos son elementos consti­
+tutivos de la libertad humana; cualquier esfuerzo dirigido a erradicarlos 
+también erradicará la libertad. Si no hallamos la fortaleza y el coraje para 
+liberarnos de la mentalidad de silicio que en la actualidad nos hace ir en 
+búsqueda de la perfección tecnológica, corremos el riesgo de encontrarnos 
+con una política desprovista de todo lo que la hace deseable; con humanos 
+que han perdido su capacidad básica de razonamiento moral; con institucio­
+nes culturales venidas a menos (o incluso moribundas) que no se arriesgan 
+sino que cuidan su rentabilidad financiera; y, lo que es más aterrador, con 
+
+
+--- PÁGINA 15 ---
+Introducción • 17
+un entorno social hipercontrolado, que no solo haría del disenso algo im­
+posible, sino que además es probable que lo convierta en algo inconcebible.
+La estructura de este libro es la siguiente: en los próximos dos capítulos 
+se esbozan y critican dos ideologías dominantes, lo que denomino “solu­
+cionismo” e “internet-centrismo”, que se han utilizado para validar el gran 
+experimento perfeccionista de Silicon Valley; en los siete capítulos que si­
+guen, recorro el modo en que ambas ideologías interactúan en el contexto 
+de prácticas o intentos de reforma específicos: fomentar la transparencia, 
+reformar el sistema político, mejorar la eficacia del sector cultural, disminuir 
+el delito mediante entornos inteligentes y el uso de datos, cuantificar el 
+mundo que nos rodea con métodos como el autorrastreo y el lifelogging 
+(llevar un registro audiovisual cotidiano de nuestra vida), y, por último, 
+introducir incentivos lúdicos en el ámbito cívico, lo que se conoce como 
+ludificación. El último capítulo plantea una perspectiva con miras al futuro 
+sobre cómo podemos trascender las limitaciones del solucionismo y el in­
+ternet-centrismo; cómo diseñar tecnología y emplearla para satisfacer nece­
+sidades humanas y cívicas.
+Ahora bien, ¿por qué oponerse a este esfuerzo de perfeccionamiento? 
+Creo que no todo lo que puede arreglarse debería arreglarse, incluso a pe­
+sar de que las últimas tecnologías posibilitan que las soluciones sean más 
+simples, más económicas y más difíciles de resistir. A veces, si es imperfecto, 
+es suficiente; otras veces, si es imperfecto, es mucho mejor. Lo que más me 
+preocupa es que, por estos días, la disponibilidad misma de soluciones di­
+gitales económicas y diversas es lo que nos indica qué es necesario arreglar. 
+Y, sin embargo, en nuestra vida política, personal y pública –como en todos 
+nuestros sistemas informáticos– no todas las fallas son fallas; algunas son 
+características. La ignorancia puede ser peligrosa, pero también puede serlo 
+la omnisciencia: por algo hay universidades que mantienen sus procesos de 
+admisiones “ciegas”, en el que no se tiene en cuenta la condición econó­
+mica de los postulantes. La ambivalencia puede ser contraproducente, pero 
+también puede serlo la certeza: si todos nuestros amigos dijeran lo que de 
+veras piensan, quizá no volveríamos a hablarles. La eficacia puede ser útil, 
+pero la ineficacia también: si todo fuera eficaz, ¿quién se tomaría el trabajo 
+de innovar?
+Por ello, el fin último de este libro es descubrir las actitudes, las inclina­
+ciones y los impulsos que componen la mentalidad solucionista; mostrar de 
+qué manera se manifiestan en proyectos específicos que pretenden mejorar 
+
+
+--- PÁGINA 16 ---
+18 • La locura del solucionismo tecnológico
+la condición humana; sugerir cómo se puede y se debe resistir, eludir y des­
+aprender algunas de esas actitudes, inclinaciones e impulsos, y por qué ha­
+cerlo. Únicamente desaprendiendo el solucionismo –es decir, al trascender 
+los límites que impone a nuestra imaginación, y rebelarnos contra su sistema 
+de valores– entenderemos por qué, sin ocuparnos de la intrincada condición 
+humana ni dar cuenta del complejo mundo de las prácticas y las tradiciones, 
+quizá no valga la pena pagar el precio de la perfección tecnológica.
+
+
+--- PÁGINA 17 ---
+El solucionismo y sus descontentos
+1
+En el futuro, las personas no dedicarán tanto tiempo a hacer funcio­
+nar la tecnología [...] porque no tendrá fisuras. Simplemente estará 
+allí. La Web lo será todo y, al mismo tiempo, no será nada. Como la 
+electricidad. Si lo hacemos bien, creo que podemos solucionar todos 
+los problemas del mundo.
+Eric Schmidt
+El solucionismo [interpreta las] dificultades como enigmas que tienen 
+solución, y no como problemas que podrían tener respuesta.
+Gilles Paquet
+La pregunta predominante, “¿qué construiremos mañana?”, nos im­
+pide ver las preguntas que deberíamos hacernos sobre nuestra respon­
+sabilidad actual por lo que construimos ayer.
+Paul Dourish y Scott D. Mainwaring
+
+
+--- PÁGINA 18 ---
+20 • La locura del solucionismo tecnológico
+¿Alguna vez han espiado el cesto de basura de un amigo? Yo sí. Y a pesar 
+de que nunca he encontrado nada que valiera la pena informar –al menos 
+no a la KGB– siempre sentí culpa por mi insaciable curiosidad. La basura, 
+como la vida sexual y los trastornos alimentarios pasajeros, es un asunto 
+privado por excelencia; cuanto menos se diga sobre ella, mejor. Si bien 
+Mark Zuckerberg insiste en que todas las actividades mejoran cuando se 
+practican en sociedad, uno creería que la de deshacerse de la basura siempre 
+será una excepción: un bastión inexpugnable de individualidad con el que 
+resistir la tiranía de lo social de Zuckerberg. 
+Bien, la excepción ya no existe: BinCam (“Cesto-cámara”), un nuevo 
+proyecto impulsado por investigadores en Inglaterra y Alemania, pretende 
+modernizar la gestión de residuos con cestos más inteligentes y –sí, adivinó– 
+más sociales. Funciona de la siguiente manera: en la tapa interna del cesto 
+hay un diminuto teléfono inteligente que toma una fotografía cada vez que 
+alguien la cierra; por supuesto, el objetivo es documentar con exactitud 
+cada desecho arrojado. Luego, un equipo de humanos que reciben un sala­
+rio bajo, reclutados por el sistema Mechanical Turk de Amazon, evalúa cada 
+fotografía. ¿Qué cantidad de ítems se ven en la imagen? ¿Cuántos se pueden 
+reciclar? ¿Cuántos son alimentos? Tras adjuntar esos datos a la fotografía, la 
+información se sube a la cuenta de Facebook del propietario del cesto, 
+donde también puede compartirse con otros usuarios. Los creadores de 
+BinCam esperan que, una vez instalados estos cestos inteligentes en muchos 
+hogares, Facebook sirva para hacer del reciclaje una competencia estimu­
+lante, similar a un juego. Se calcula un puntaje semanal para cada cesto, y 
+los hogares ganan barras de oro y hojas de árbol a medida que disminuye la 
+cantidad de desechos de alimentos y materiales reciclables de sus cestos. 
+Quien obtenga más barras y hojas de árbol, es el ganador. Misión cumplida; 
+¡planeta a salvo!
+En el artículo académico que acompaña la presentación de BinCam, los 
+investigadores no realizan ningún cuestionamiento a la ética de este proyecto, 
+que, sin dudas, es bienintencionado. Para lograr que un grupo de ciudadanos 
+actúe como es debido, ¿es correcto hacer que otro grupo de ciudadanos los 
+espíe? ¿Es correcto introducir incentivos lúdicos en un proceso en el que 
+siempre se ha apelado a nuestros deberes y obligaciones? La calidad de nues­
+tra conducta ambiental, ¿podría cuantificarse con precisión mediante hojas 
+de árbol y barras de oro? ¿Sería correcto cuantificarla sin establecer ninguna 
+relación con otras actividades cotidianas? ¿Está bien no reciclar si uno no 
+
+
+--- PÁGINA 19 ---
+El solucionismo y sus descontentos • 21
+conduce automóviles? Una mayor vigilancia pública de los cestos de basura, 
+¿redundará en un aumento del vigilantismo ecológico? ¿Los participantes 
+seguirán haciendo lo correcto cuando sus amigos de Facebook no estén 
+observándolos?
+Preguntas, preguntas. El cesto de basura pareciera ser el más mundano de 
+los artefactos, y sin embargo está colmado de enigmas y dilemas filosóficos. 
+Está inserto en un mundo de prácticas humanas complejas, en el que pe­
+queñas modificaciones de actos que en apariencia no acarrean consecuencia 
+alguna podrían ocasionar cambios profundos en nuestra conducta. Optimi­
+zando las conductas en el nivel local (es decir, que las personas comiencen a 
+reciclar alentadas por juegos y por la vigilancia de sus pares) estaríamos 
+obteniendo una conducta subóptima en el nivel global; esto es, podría suceder 
+que a falta de incentivos adecuados en un entorno simple, dejarámos de 
+cumplir con nuestros deberes cívicos en otros lugares. Quizá estaríamos 
+resolviendo un problema local a costa del surgimiento de varios problemas 
+globales que no podemos reconocer en el momento. 
+Un proyecto como BinCam hubiera sido casi imposible hace quince 
+años. En primer lugar, los cestos no tenían sensores que pudieran tomar 
+fotografías y subirlas a sitios como Facebook; ahora, hay teléfonos inteligen­
+tes diminutos que lo hacen a bajo costo. Amazon no contaba con un ejér­
+cito de colaboradores autónomos aburridos que harían casi cualquier trabajo 
+siempre y cuando siguieran recibiendo sus pocos centavos por hora (e in­
+cluso ellos se volverán innecesarios cuando mejore el software automático 
+de reconocimiento de imagen). Pero sobre todo, era imposible que los 
+amigos vieran el contenido de nuestros cestos de basura; hace quince años, 
+ellos –el “grafo social”, como lo llaman los geeks– ni siquiera hubieran 
+puesto en nuestro sitio web personal la atención que hoy pondrían nuestros 
+amigos de Facebook en los cestos de basura. Ahora que todos usamos la 
+misma plataforma –Facebook–, las conductas pueden dirigirse con la ayuda 
+de juegos y competencias sociales; ya no tenemos que salvar el medioam­
+biente a un ritmo propio, utilizando las herramientas únicas de que dispo­
+nemos. ¡La estandarización es poderosa!
+Estas dos innovaciones –tecnologías inteligentes equipadas con sensores 
+que median una creciente variedad de aspectos de nuestra vida y la posibi­
+lidad de que amigos y conocidos nos “sigan” a cualquier parte, lo que 
+posibilita la creación de nuevos tipos de incentivos– implicarán un cambio 
+radical en el trabajo de ingenieros sociales, formuladores de políticas y 
+
+
+--- PÁGINA 20 ---
+22 • La locura del solucionismo tecnológico
+muchos otros benefactores ingenuos. Todos estarán tentados a explotar las 
+capacidades de estas nuevas técnicas, solas o combinadas, para resolver al­
+gún problema en particular, ya sea la obesidad, el cambio climático o los 
+embotellamientos. En la actualidad, ya contamos con espejos inteligentes 
+que, gracias a complejos sensores, pueden monitorear y mostrar nuestras 
+pulsaciones detectando cambios leves en el brillo del rostro; pronto, los 
+espejos podrán acceder a nuestro “grafo social”, y nos convencerán de 
+bajar de peso porque estamos más rellenitos que la mayoría de nuestros 
+amigos de Facebook.
+Pensemos también en el prototipo de tetera que ha creado el diseñador 
+y activista británico Chris Adams. La tetera tiene una pequeña esfera que 
+adquiere un color verde (está bien preparar el té) o rojo (quizá deberíamos 
+esperar). ¿Qué determina el color? Es así: la esfera, gracias a un hardware y 
+software de código abierto al que es muy fácil acceder, está conectada a un 
+sitio web llamado “¿Puedo Encenderla?” (http://caniturniton.com), que, 
+cada pocos minutos, consulta la red eléctrica inglesa para obtener estadísticas 
+totales sobre el consumo eléctrico. Si la frecuencia que arroja el sitio web 
+es mayor al valor de referencia de 50 hertzios, la esfera se pondrá verde; si 
+es menor, roja. En este ejemplo, el objetivo es brindar información adicio­
+nal para estimular el uso responsable de la tetera. Pero no sería difícil ima­
+ginar que una lógica similar pudiera extenderse mucho más allá, al estilo 
+BinCam. Por ejemplo, ¿por qué no recompensar con puntos virtuales com­
+patibles con Facebook a los usuarios que no utilizan su tetera en períodos 
+de alto consumo eléctrico? O, ¿por qué no castigar a los que ignoran las 
+advertencias de la tetera difundiendo esa conducta irresponsable entre sus 
+amigos de Facebook? Los ingenieros sociales nunca antes habían tenido 
+tantas opciones a su disposición. 
+Hoy por hoy, los sensores tienen una gran capacidad de aplicación sin 
+estar conectados aún a las redes sociales ni a centros de almacenamiento de 
+datos. Los adultos mayores, por ejemplo, estarían muy agradecidos de con­
+tar con alfombras y timbres inteligentes que detectan si alguien se ha caído 
+e informan a terceros. Los cestos de basura también pueden ser inteligentes 
+de una manera muy distinta. Con un proyecto incipiente que lleva el sim­
+pático nombre de “Barriga Llena Solar” (BigBelly Solar), se pretende revo­
+lucionar la recolección de residuos construyendo cestos solares con sensores 
+incorporados, que pueden informar a los gestores de residuos cuál es la 
+capacidad actual de los cestos y predecir cuándo será necesario vaciarlos. A 
+
+
+--- PÁGINA 21 ---
+El solucionismo y sus descontentos • 23
+su vez, permiten optimizar los trayectos de recolección y ahorrar combus­
+tible. Estos cestos se han estado utilizando a modo de prueba en la ciudad 
+de Filadelfia desde el año 2009. Como resultado, la ciudad redujo sus ron­
+das de recolección de 17 a 2,5 veces por semana, y su personal, de 33 a 17 
+empleados; así obtuvo un ahorro de 900 000 dólares en apenas un año. 
+Por su parte, los funcionarios de Boston han puesto a prueba el Street­
+Bump (“Bache callejero”), una aplicación compleja que utiliza aceleróme­
+tros –unos detectores de movimiento que se hallan en muchos teléfonos 
+inteligentes– para trazar un mapa de los baches detectados en las calles de 
+esa ciudad. El conductor no tiene más que encender la aplicación y comen­
+zar a conducir; el resto lo hará el teléfono inteligente comunicándose con el 
+servidor central según sea necesario. A partir de una serie de algoritmos, la 
+aplicación sabe reconocer e ignorar las tapas de alcantarilla y los badenes 
+mientras hace un registro eficaz de los baches. Cuando al menos tres con­
+ductores informan que hay una irregularidad en un mismo punto del pavi­
+mento, esta queda registrada como bache. Algo parecido sucede con Google, 
+que utiliza teléfonos Android con GPS para generar información en tiempo 
+real sobre las condiciones del tránsito: en el momento en que comenzamos 
+a usar su mapa y revelamos nuestra ubicación, Google sabe dónde estamos 
+y a qué velocidad nos movemos. Esto le permite hacer una deducción bas­
+tante acertada sobre el nivel de congestionamiento, para luego enviar a 
+Google Maps información a la que todos tendrán acceso. Parecería que por 
+estos días el mero hecho de llevar un teléfono puede constituir un acto de 
+civismo.
+La voluntad de mejorar (¡casi todo!)
+Consideraríamos digno de celebración, y no de escrutinio, el que ahora 
+la tecnología inteligente y todas nuestras conexiones sociales (por no 
+mencionar estadísticas útiles como el consumo acumulativo de electrici­
+dad en tiempo real) puedan “insertarse” en cada uno de nuestros actos 
+mundanos, desde arrojar la basura hasta preparar té. Por la misma lógica, 
+también veríamos como un desarrollo genuinamente positivo el hecho de 
+que los teléfonos inteligentes y las redes sociales nos permitan experimen­
+tar con intervenciones que eran imposibles hace una década. No sor­
+prende que Silicon Valley ya esté inundado de planes para mejorar casi 
+todo lo que existe sobre la faz de la tierra: la política, los ciudadanos, la 
+edición, la cocina.
+
+
+--- PÁGINA 22 ---
+24 • La locura del solucionismo tecnológico
+Es penoso pero, con demasiada frecuencia, esta búsqueda interminable 
+de perfección –o como lo ha dado en llamar la antropóloga canadiense 
+Tania Murray Li, aunque en un contexto muy diferente, “voluntad de 
+mejorar”– es de visión acotada, y su interés por la actividad que pretende 
+mejorar es superficial. Dado que reformula todas las situaciones sociales 
+complejas como problemas con definición clara y soluciones definitivas y 
+computables, o como procesos transparentes y obvios a primera vista que 
+pueden optimizarse sin mayor esfuerzo –apenas contando con los algorit­
+mos correctos–, es probable que esta búsqueda tenga consecuencias inespe­
+radas y termine causando más daño que soluciones. 
+A la ideología que legitima y sanciona ese tipo de aspiraciones la llamo 
+“solucionismo”. Tomo prestado este término tan peyorativo del mundo de 
+la arquitectura y la planificación urbana, en el que designa una preocupación 
+poco saludable por encontrar soluciones atractivas, monumentales y de men­
+talidad estrecha –como las que maravillan a los asistentes de las conferencias 
+TED– a problemas por demás complejos, fluidos y polémicos. Son esos los 
+problemas que no deberían definirse de maneras tan peculiares y globales, 
+como lo han hecho los “solucionistas”; lo polémico, entonces, no es la so­
+lución planteada, sino la definición misma del problema. El teórico del di­
+seño Michael Dobbins acierta cuando dice que el solucionismo da por 
+sentado el problema que intenta resolver, en lugar de investigarlo, y así llega 
+“a la respuesta antes de haber formulado las preguntas en toda su amplitud”. 
+Tiene tanta importancia la composición de un problema como el modo en 
+que se resuelve. 
+Por tanto, el solucionismo no es solo una manera elegante de decir que 
+para cualquiera que tenga un martillo, todo parece un clavo; no es otro 
+comentario más acerca de la inaplicabilidad de “soluciones tecnológicas” 
+a “problemas malvados” (tema que abordo en profundidad en El desen­
+gaño de internet). No solo hay una gran cantidad de problemas que no se 
+adecuan a la caja de herramientas del solucionismo, sino que, además, lo 
+que muchos solucionistas consideran “problemas” por resolver no lo son 
+en absoluto. Una investigación más profunda sobre la naturaleza misma 
+de esos “problemas” revelaría que la ineficacia, la ambigüedad y la opa­
+cidad –sea en la política o en la vida cotidiana– contra las que protestan 
+los ahora poderosos geeks y los solucionistas no son problemáticas en 
+ningún sentido. Todo lo contrario: esos vicios suelen ser virtudes disfra­
+zadas; y el hecho de que el solucionista de nuestros días, tecnología in­
+
+
+--- PÁGINA 23 ---
+El solucionismo y sus descontentos • 25
+novadora mediante, tenga una manera sencilla de eliminarlos no los hace 
+menos virtuosos.
+Por su propio sesgo antirreformista, parecería que una crítica al solucio­
+nismo es prerrogativa de los conservadores. De hecho, muchos de los dar­
+dos antisolucionistas lanzados a lo largo de este libro encajan en la taxonomía 
+tripartita de las respuestas reaccionarias al cambio social, que describe con 
+gran habilidad el teórico social Albert Hirschman. En su influyente libro 
+Retóricas de la intransigencia, el autor plantea que todas las reformas progre­
+sistas por lo general son objeto de críticas conservadoras basadas en alguna 
+de estas tres tesis: perversidad (la intervención propuesta empeora el pro­
+blema en cuestión); futilidad (la intervención no produce ningún resultado); 
+y riesgo (la intervención es una amenaza a un logro previo y apreciado).
+Si bien en las páginas que siguen recurro a esos tres tipos de crítica, mi 
+proyecto en su conjunto se diferencia de la resistencia conservadora estu­
+diada por Hirschman. No propongo la inacción ni niego que muchos de 
+los problemas que abordan los solucionistas (aunque no todos), desde el 
+cambio climático hasta la obesidad o la decreciente confianza en el sistema 
+político, sean importantes y requieran acción inmediata (por supuesto, 
+cómo se componen esos problemas es otro asunto, y hay más de una manera 
+de describir cada uno de ellos). Sin embargo, la urgencia de los problemas 
+no legitima de inmediato la panoplia de soluciones tecnológicas nuevas, 
+limpias y efectivas tan de moda por estos días. Las soluciones o, mejor di­
+cho, las respuestas que prefiero son muy distintas.
+Tampoco es casual que mi crítica al solucionismo guarde alguna seme­
+janza con varias críticas que se han hecho a intentos anteriores de colocar 
+a la humanidad en una camisa de fuerza demasiado estrecha. Ahora se trata 
+de una camisa de fuerza digital, pero con seguridad no es la primera ni la 
+más estrecha. Sin haber utilizado la palabra “solucionismo”, varios pensa­
+dores destacados han estudiado sus contratiempos, aunque empleando 
+términos y contextos diferentes. En particular, me refiero a las protestas 
+de Ivan Illich contra sistemas muy eficaces pero deshumanizantes, como 
+la escolarización profesional y la medicina; a los ataques de Jane Jacob 
+contra la arrogancia de los planificadores urbanos; a la rebelión de Michael 
+Oakeshott contra los racionalistas en todos los ámbitos de la existencia hu­
+mana; a la impaciencia de Hans Jonas ante la fría comodidad de la ciberné­
+tica; y, de mayor actualidad, a la preocupación de James Scott por lo que él 
+denomina la “legibilidad” que imponen los estados a sus sujetos. Algunos 
+
+
+--- PÁGINA 24 ---
+26 • La locura del solucionismo tecnológico
+agregarían a esta lista la oposición de Friedrich Hayek a los planificadores 
+centrales y su inherente deficiencia de conocimientos. 
+Los pensadores que acabo de nombrar no han sido para nada homogé­
+neos en cuanto a sus ideas políticas; si Ivan Illich, Friedrich Hayek, Jane 
+Jacobs y Michael Oakeshott fueran juntos a una cena armarían menudo 
+escándalo. Pero todos ellos, pensadores de gran originalidad más allá de sus 
+convicciones políticas, han demostrado que el tipo de solucionista que me­
+nos le agrada a cada uno –ya sean los planificadores urbanos, en el caso de 
+Jabob, o los educadores profesionales en el caso de Illich– tienen una escasa 
+comprensión, no solo de la naturaleza humana, sino además de las prácticas 
+complejas que engendra esa naturaleza, y de las cuales se nutre. Es como si 
+los solucionistas nunca hubieran tenido una vida propia, como si hubieran 
+aprendido todo a través de los libros, que además no eran novelas sino ma­
+nuales de refrigeradores, aspiradoras y lavadoras.
+Thomas Molnar, un filósofo conservador que, por su crítica sabia y ve­
+hemente del utopismo tecnológico también merece un lugar en el panteón 
+antisolucionista, lo expresó muy bien al formular su queja: “cuando los 
+escritores utópicos versan sobre el trabajo, la salud, el esparcimiento, la 
+expectativa de vida, las guerras, los delitos, la cultura, el gobierno, las finan­
+zas, los jueces y demás, pareciera que sus palabras fueran las de un autómata 
+sin noción de la vida real. El lector tiene la incómoda sensación de estar 
+caminando en un reino mágico de abstracciones, rodeado de objetos sin 
+vida; logra identificarlos vagamente pero, al mirar de cerca, ve que en rea­
+lidad no se corresponden con nada familiar ni en el color, ni en el volumen 
+ni en el sonido”. Por estos días, abundan los reinos mágicos de las abstrac­
+ciones: se supone que lo mismo vale para Palo Alto que para Penang.
+No es que las soluciones propuestas no tengan posibilidades de funcionar, 
+sino que, para resolver el “problema” los solucionistas lo retuercen de un 
+modo tan horrible y extraño que, cuando llegan a “resolverlo”, este ya es 
+algo distinto por completo. Todos se apresuran a celebrar la victoria pero 
+nadie recuerda qué pretendía conseguir la solución original.
+Un caso ilustrativo es la exaltación que se genera en torno al potencial 
+que tienen las nuevas tecnologías para trastocar la educación, sobre todo 
+ahora que varios emprendimientos ofrecen cursos en línea para cientos de 
+estudiantes, que se califican unos a otros y no tienen contacto cara a cara 
+con sus instructores. Quizá las tecnologías digitales sean la solución perfecta 
+a algunos problemas, pero la educación no es uno de ellos; no lo es si por 
+
+
+--- PÁGINA 25 ---
+El solucionismo y sus descontentos • 27
+educación nos referimos al desarrollo de habilidades para pensar con criti­
+cidad sobre cualquier tema determinado. Puede que los estudiantes apren­
+dan muchos datos nuevos (o “datos”, en caso de que no los corroboren en 
+Wikipedia), pero engullirlos de esa manera dista mucho de lo que las uni­
+versidades anhelan enseñarles a sus estudiantes.
+Como señala Pamela Hieronymi, profesora de filosofía en la Universidad 
+de California de Los Ángeles (UCLA), en un importante ensayo sobre los 
+mitos de la enseñanza en línea: “La educación no es la transmisión de in­
+formación ni ideas; es la capacitación necesaria para hacer uso de la infor­
+mación y las ideas. La información se libera de las librerías y bibliotecas, e 
+inunda los computadores y dispositivos móviles, por eso la capacitación se 
+vuelve más importante, no menos”. Claro que existen gran cantidad de 
+herramientas que aumentan nuestra alfabetización digital, aunque llegan 
+hasta cierto punto: nos pueden ayudar a detectar información errónea pero 
+no a organizar nuestras ideas en un argumento coherente.
+Adam Falk, rector del Williams College, asesta un golpe aun más efectivo 
+contra el solucionismo en la educación superior cuando sostiene que sería 
+equivocado hacer de cuenta que las soluciones que este vende puerta a 
+puerta son compatibles con el espíritu y los objetivos de la universidad. 
+Sobre la base de un estudio realizado en Williams, Falk concluye que la 
+mejor variable predictiva del buen desempeño intelectual de los estudiantes 
+en la universidad no es la especialización elegida o las calificaciones que 
+obtengan, sino la cantidad de contacto personal, cara a cara, que tengan con 
+los profesores. Según Falk, promediar calificaciones otorgadas por cinco 
+compañeros seleccionados al azar –como hace, al menos, un emprendi­
+miento muy elogiado en el espacio en línea, Coursera– no es el “equiva­
+lente educativo de un profesor con una extensa formación que brinda una 
+evaluación sensata y una respuesta detallada”. Pensar que sí lo es, insiste 
+Falk, “es negar los propósitos más significativos de la educación y renunciar 
+a su verdadero valor”. 
+Aquí tenemos un desfase bastante explícito entre la idea de la educación 
+arraigada en este conjunto de soluciones tecnológicas y la idea de la educa­
+ción, respetada durante años, que aún aprecian algunas universidades. Si 
+bien en un mundo ideal ambas visiones pueden coexistir y prosperar al 
+mismo tiempo, en este que habitamos, donde los administradores son más 
+conscientes de los costos que nunca, es mucho más probable que se im­
+ponga el enfoque que produzca la mayor cantidad de graduados por dólar 
+
+
+--- PÁGINA 26 ---
+28 • La locura del solucionismo tecnológico
+invertido, sin importar la pobreza de su concepción intelectual. He aquí un 
+peligro oculto del solucionismo: los rápidos apaños que vende no existen 
+en un vacío político. Prometiendo resultados casi inmediatos y mucho más 
+económicos, pueden debilitar con facilidad el apoyo brindado a proyectos 
+de reforma más ambiciosos, más estimulantes desde el punto de vista inte­
+lectual, pero que requieren de mayor esfuerzo.
+Chiflados y chefs
+Una vez que abandonamos el salón de clases e ingresamos a la cocina, los 
+límites del solucionismo se delinean con colores aún más nítidos. Al filósofo 
+político Michael Oakeshott, como buen conservador, le gustaba recalcar en 
+especial que la cocina, como la ciencia o la política, es un conjunto muy 
+complejo de prácticas y tradiciones (en su mayoría invisibles) que nos guían 
+en la preparación de nuestras comidas. En el ensayo “Educación política”, 
+de 1951, escribió: “Podríamos pensar que un hombre ignorante, algunos 
+materiales comestibles y un libro de cocina conforman lo necesario para 
+realizar una actividad autónoma (o concreta) llamada cocinar. Nada más 
+lejos de la verdad”. Para Oakeshott el libro de cocina es en realidad “nada 
+más que una abstracción del conocimiento que alguien posee sobre cómo 
+cocinar; es el hijastro de la actividad, no su padre”. En otro ensayo agregó: 
+“Un cocinero no es un hombre que primero tiene una visión de un pastel 
+y luego intenta prepararlo; es un hombre experto en cocina, y tanto sus 
+proyectos como sus resultados surgen de esa pericia”.
+Oakeshott no temía que la proliferación de literatura sobre cocina aca­
+bara con nuestras costumbres culinarias; para él, solo era posible interpretar 
+esa literatura dentro de la rica tradición de la cocina, por lo que examinar 
+esos libros podría incluso reforzar nuestra apreciación de esa cultura. O, en 
+sus propias palabras: “el libro les habla solo a quienes saben qué esperar de 
+él y, por tanto, cómo interpretarlo”. No se oponía al uso del libro, sino que 
+discrepaba con quienes creían que el libro era el actor principal, y no la 
+tradición que lo había producido. Las reglas, recetas y algoritmos que el 
+libro pudiera contener adquirían sentido solo cuando se lo interpretaba y 
+aplicaba dentro de la tradición culinaria.
+Para Oakeshott, el libro era el punto de llegada (o resultado) de esa tra­
+dición, no el punto de partida (o contribución). Se trata de un argumento 
+contra los racionalistas que se negaban a reconocer la importancia de las 
+prácticas y tradiciones, en lugar de ser una alabanza a los libros de cocina; 
+
+
+--- PÁGINA 27 ---
+El solucionismo y sus descontentos • 29
+es un momento en el pensamiento de Oakeshott que llama la atención por 
+su optimismo. Sin embargo, uno no puede dejar de preguntarse si hoy 
+Oakeshott no tendría que revisar su opinión, ahora que los libros de cocina 
+han sido desplazados por el tipo de dispositivos sofisticados que hubieran 
+sido la envidia de Buckminster Fuller, el archisolucionista que no dejaba de 
+fantasear con la cocina perfecta.
+Paradójicamente, cuanto más inteligentes son las tecnologías, más se re­
+duce el margen de maniobra para la interpretación –que según Oakeshott 
+acerca a los cocineros al mundo de las prácticas y las tradiciones–, e in­
+cluso podría desaparecer por completo. Las tecnologías nuevas y más inte­
+ligentes por fin permiten situar, por así decirlo, las instrucciones del libro 
+de cocina por fuera de la tradición; con ellas no es necesario casi ningún 
+conocimiento para cocinar. Las tecnologías actuales ya no son aparatos 
+bobos y pasivos. Algunos tienen sensores diminutos y sofisticados que 
+“comprenden”, si esa es la palabra correcta, qué sucede en nuestras coci­
+nas, e intentan orientar a sus amos (nosotros) de manera correcta. He aquí 
+el epítome de la modernidad: puede que las comidas sean mejores pero 
+no tendremos el placer de cocinar.
+No hace mucho que la revista británica New Scientist se ocupó de algunos 
+proyectos solucionistas de ese tipo. Conozcamos a Jinna Lei, una experta 
+en ciencias de la computación de la Universidad de Washington que ha 
+creado un sistema en el que varias cámaras de video instaladas en la cocina 
+monitorean a un cocinero. Se trata de cámaras inteligentes: pueden reco­
+nocer la profundidad y la forma de los objetos que el cocinero tiene a la 
+vista y distinguir, por ejemplo, entre manzanas y tazones. Gracias a esta 
+bondadosa vigilancia, los chefs sabrán si se han desviado de la receta elegida. 
+Cada objeto tiene asociadas una cantidad de actividades, por ejemplo, no 
+solemos hervir cucharas o freír rúcula; el sistema rastrea la actividad para 
+verificar si corresponde con el objeto que se está utilizando. Lei explicó a 
+New Scientist: “Por ejemplo, si el sistema detecta que se está vertiendo azú­
+car en un recipiente que tiene huevos, y la receta no lleva azúcar, puede 
+registrar la aberración”.
+Para mejorar la exactitud del seguimiento, Lei contempla agregar una 
+cámara térmica especial que podría identificar las manos del usuario gracias 
+a su temperatura corporal. En este caso, la búsqueda consiste en convertir la 
+cocina actual en un templo del taylorismo moderno, en el que cada tarea se 
+rastrea, analiza y optimiza. Los solucionistas odian cometer errores y aman 
+
+
+--- PÁGINA 28 ---
+30 • La locura del solucionismo tecnológico
+obedecer a los algoritmos. Se descarta por caprichoso e impertinente el que 
+la cocina se nutra del error y la experimentación, que desviarse de las rece­
+tas sea lo que crea innovaciones culinarias e impulsa el desarrollo de deter­
+minado tipo de cocina. Para muchos de estos innovadores bienintencionados, 
+no importa el contexto de la práctica que pretenden mejorar, en tanto pueda 
+aumentarse su eficacia. Por ello, no se concibe a los chefs como virtuosos 
+sujetos autónomos o artesanos talentosos sino como robots esclavizados que 
+jamás deben desafiar las órdenes de sus sistemas operativos.
+Otro proyecto mencionado en New Scientist es aun más denigrante. Un 
+grupo de especialistas en computación de la universidad japonesa Kyoto 
+Sangyo intenta enlazar la lógica de la cocina a la lógica de la “realidad au­
+mentada”, término elegante que designa la proliferación de tecnologías in­
+teligentes en nuestro entorno cotidiano. (Pensemos en los códigos QR, o 
+códigos de respuesta rápida, que pueden escanearse con un teléfono inteli­
+gente para acceder a información adicional o en las gafas del Project Glass 
+de Google, que utilizan flujos de datos para optimizar nuestro campo visual.) 
+Con ese propósito, los investigadores japoneses han montado cámaras y 
+proyectores en el techo de una cocina para que estos proyecten instruccio­
+nes sobre los ingredientes, en forma de flechas, formas geométricas y globos 
+de diálogo que guían al cocinero en cada paso. Entonces, si uno está por 
+cortar un pescado, el sistema proyectará un cuchillo virtual e indicará en qué 
+lugar preciso el instrumento deberá hacer el corte. También incluye un 
+pequeño robot físico que se coloca sobre el mostrador de la cocina. Gracias 
+a las cámaras, puede detectar que ya no estamos tocando los ingredientes, y 
+preguntarnos si deseamos continuar con el siguiente paso de la receta.
+Ahora bien, ¿qué tiene de “aumentada” esa realidad? Puede que esté 
+aumentado el aspecto tecnológico pero el intelectual parece disminuir. 
+Como mucho, nos queda una “realidad disminuida aumentada”. Algunos 
+geeks se niegan a reconocer que los desafíos y obstáculos, como puede ser 
+no conocer la manera correcta de cortar el pescado, enriquecen la condi­
+ción humana en lugar de debilitarla. Facilitar la actividad culinaria no siem­
+pre equivale a “aumentarla”, más bien lo contrario. Someterla por completo 
+a la lógica debilitante de la eficacia es privar a los humanos de la capacidad 
+de dominar esa actividad, es impedir el florecimiento de las cualidades hu­
+manas y empobrecer nuestra vida. En este caso, una solución más apropiada 
+no haría que la cocina fuera menos exigente sino que sus rituales fuesen 
+menos rígidos e incluso, un reto.
+
+
+--- PÁGINA 29 ---
+El solucionismo y sus descontentos • 31
+No se trata de una defensa esnob de las tradiciones santificadas de la co­
+cina. En un mundo en el que solo unos pocos pudieran dominar los trucos 
+del oficio, estas cocinas “aumentadas” serían bienvenidas, aunque más no 
+fuera por su promesa de democratizar el acceso a este arte. Pero el mundo 
+que habitamos no es así: nunca ha sido tan fácil encontrar en Google rece­
+tas y videos instructivos sobre cómo cocinar los platos más exquisitos. Sin 
+llegar a mencionar las cámaras de vigilancia sobre nuestras cabezas, ¿necesi­
+tamos un robot para preparar un pavo relleno o asar un cordero? 
+Además, no es tan difícil predecir hacia dónde nos lleva ese tipo de 
+avances: una vez dentro de nuestra cocina, estos dispositivos de recopila­
+ción de información habrán llegado para quedarse; se desarrollarán funcio­
+nes nuevas, supuestamente inesperadas. Primero, vamos a instalar cámaras 
+en la cocina para recibir instrucciones más precisas; luego, las compañías de 
+alimentos y de aparatos electrónicos de consumo nos dirán que les gustaría 
+que dejáramos allí las cámaras para que ellos puedan mejorar sus productos; 
+por último, terminaremos descubriendo que toda nuestra información cu­
+linaria está alojada en un servidor en California y que las compañías de 
+seguros están analizando cuántas grasas saturadas consumimos, y en base a 
+ello ajustar nuestra cuota mensual. La cocina asistida por las tecnologías 
+inteligentes podría ser un caballo de Troya que abre las puertas a proyectos 
+mucho más siniestros.
+Nada de lo anterior significa que la tecnología no pueda aumentar 
+nuestro placer culinario, y no me refiero solo a mejorar el sabor de las 
+comidas y hacerlas más saludables. La tecnología, utilizada con algo de 
+imaginación y sin el tradicional fetichismo solucionista de la eficacia y la 
+perfección, puede hacer que el proceso de cocinar sea un desafío, lo que 
+abre nuevas puertas a la experimentación y nos brinda nuevos modos de 
+romper las reglas. Comparemos la visión limitada que ofrece New Scientist 
+con algunos de los vistosos aparatos que ha adoptado el movimiento de la 
+gastronomía molecular. De los circuladores de inmersión para cocciones 
+a baja temperatura a las impresoras con papel comestible; de las jeringas 
+utilizadas para crear fideos y caviar extraños a las cocinas de inducción que 
+envían ondas magnéticas a través de las ollas metálicas, todos esos artefac­
+tos hacen de la cocina una actividad más difícil, más exigente y más esti­
+mulante. Pueden infundir gran pasión por el arte culinario en cualquier 
+aspirante a chef, mucho más que las cámaras de vigilancia o los robots que 
+escupen instrucciones. 
+
+
+--- PÁGINA 30 ---
+32 • La locura del solucionismo tecnológico
+El estricto acatamiento a las recetas da como resultado platos sabrosos 
+pero predecibles; a veces, eso es justo lo que queremos. Sin embargo, gra­
+cias a ese tipo de estandarización también puede suceder que nuestras co­
+cinas sean tan estimulantes como una franquicia de McDonald’s. Elogiar la 
+innovación como un fin en sí mismo es de mal gusto. Para que la tecno­
+logía “aumente” de verdad la realidad, sus diseñadores e ingenieros debe­
+rían tener una idea más acabada de las complejas prácticas que componen 
+esa realidad. 
+Como ilustra el ejemplo de la gastronomía molecular, rechazar el solu­
+cionismo no significa rechazar la tecnología. Tampoco implica abandonar 
+toda esperanza de mejorar el mundo que nos rodea; la tecnología puede ser 
+parte de ese proyecto, y debería serlo. Rechazar el solucionismo es trascen­
+der la estrecha mentalidad racionalista que reformula cada falta de eficacia 
+–por ejemplo, la ausencia de instrucciones perfectas y detalladas en la co­
+cina– como un obstáculo que es necesario superar. Existen otros caminos 
+más fructíferos, humanos y responsables para reflexionar sobre el papel de 
+la tecnología a la hora de posibilitar el florecimiento humano; es probable 
+que los solucionistas no los comprendan, a menos que agreguen compleji­
+dad a su peligrosa visión reduccionista de la condición humana. 
+Pasteur y Zynga
+Seré el primero en reconocer que los problemas que platea el solucionismo 
+no son nuevos en ningún sentido; como se ha señalado, generaciones pasa­
+das de pensadores ya han abordado trampas y patologías vinculadas a esta 
+cuestión. Y aun así, siento que presenciamos el resurgimiento de un tipo de 
+solucionismo moderno muy particular. Hoy, no encontraremos a los más 
+férreos solucionistas en ayuntamientos y ministerios gubernamentales; más 
+bien estarán en Silicon Valley intentando aplicar las lecciones que han 
+aprendido de “internet” –y nunca ha habido una fuente de grandes leccio­
+nes sobre “la vida, el universo y todo lo demás” (para usar la memorable 
+frase de Douglas Adams) tan engañosamente didáctica– y ponerlas en prác­
+tica en variados planes e iniciativas cívicas que pretenden reparar las fallas 
+de la humanidad. 
+¿Por qué utilizo “internet” entre comillas? En el epílogo de mi primer 
+libro, El desengaño de internet, desarrollé lo que ahora considero uno de sus 
+argumentos centrales, aunque se haya pasado por alto: la infraestructura fí­
+sica que conocemos como “internet” tiene escasas similitudes con la “in­
+
+
+--- PÁGINA 31 ---
+El solucionismo y sus descontentos • 33
+ternet” mítica que ocupa el centro de los debates públicos; esa que, según 
+se dice, ha derrocado los gobiernos de Túnez y Egipto, y nos destruye el 
+cerebro. Es cierto que la infraestructura y el diseño de la red de redes des­
+empeñan un papel en la validación de muchos de estos mitos –por ejemplo, 
+la idea de que “internet” es resistente a la censura proviene de las cualidades 
+únicas de este mecanismo de comunicación por conmutación de paquetes–, 
+pero la “internet” que es la perdición de los debates públicos también con­
+tiene otras historias y narrativas, sobre innovación, vigilancia y capitalismo, 
+que poco tienen que ver con la infraestructura en sí misma. 
+El filósofo francés Bruno Latour, en sus escritos sobre los célebres avances 
+científicos de Louis Pasteur, distinguió entre Pasteur, la figura histórica real, 
+y “Pasteur”, el mítico personaje todopoderoso que se ha convertido en 
+representante del trabajo de otros científicos y de movimientos sociales 
+enteros; es el caso de los higienistas, quienes, por motivos pragmáticos pro­
+pios, acogieron a Pasteur con los brazos abiertos. Pero cualquiera que desee 
+escribir la historia de ese período no puede emplear el nombre “Pasteur” 
+como si se tratara de un término aproblemático y objetivo; es necesario 
+desensamblarlo para poder estudiar sus distintos componentes por derecho 
+propio. Lo que la historia de la ciencia debería aspirar a descubrir, al menos 
+en su concepción latouriana, es el relato de cómo esas partes dispares, entre 
+las que está el Pasteur real, se han convertido en “Pasteur”, el héroe nacio­
+nal de Francia que se estudia en los libros de texto. 
+Ahora bien, no es mi propósito escribir historia. Si lo hiciera, intentaría 
+demostrar la contingencia y la fluidez de la idea misma de “internet” y ras­
+trear cómo es que esta ha llegado a su significado actual. En el presente li­
+bro, me interesa ocuparme de una porción mucho más estrecha de esta 
+historia; quiero explorar cómo “internet” se ha convertido en el motor que 
+impulsa muchas de las iniciativas solucionistas contemporáneas, y, al mismo 
+tiempo, es el velo que nos impide ver sus defectos. 
+En otras palabras, me interesa analizar por qué y cómo “internet” entu­
+siasma, y por qué y cómo confunde. Quiero comprender por qué y cómo 
+iTunes o Wikipedia –algunos de los componentes míticos centrales de 
+“internet”– han pasado a ser modelos para pensar el futuro de la política; 
+cómo es que Zynga y Facebook se han vuelto modelos para pensar la par­
+ticipación cívica; cómo es que las reseñas de Yelp y Amazon ahora son 
+modelos para pensar la crítica; y cómo es que Google se ha convertido en 
+un modelo para pensar la innovación empresarial y social –como si tuviera 
+
+
+--- PÁGINA 32 ---
+34 • La locura del solucionismo tecnológico
+una filosofía coherente–, al punto que libros con títulos como Y Google, 
+¿cómo lo haría? pueden ser éxito de ventas.
+La llegada de “internet” fomentó y reivindicó muchas de las actitudes 
+solucionistas que describo en este libro. “Internet” les ha permitido a los so­
+­lucionistas extender en buena medida el alcance de sus intervenciones, y 
+con ello llevar a cabo experimentos en una escala mucho mayor. También 
+ha dado origen a un nuevo conjunto de creencias –que llamo “internet-
+centrismo”–; entre ellas, la más importante es la firme convicción de que 
+atravesamos una época única y revolucionaria, en la que han dejado de te­
+ner validez las verdades anteriores, todo atraviesa cambios profundos, y la 
+necesidad de “solucionar cosas” está a la orden del día. En resumidas cuen­
+tas, “internet” ha proporcionado a los solucionistas abundantes argumentos 
+para intensificar su guerra contra la ineficacia, la ambigüedad y el desorden; 
+a la vez que les dio nuevas justificaciones para hacerlo. Pero también les ha 
+suministrado una serie de suposiciones sobre cómo funciona el mundo y 
+cómo debería funcionar, cómo se expresa y cómo debería expresarse; así, 
+muchos temas y debates se reformulan en términos de “internet”. El inter­
+net-centrismo es a “internet” lo que el cientificismo es a la ciencia: su 
+epistemología rechaza los puntos de vista discrepantes, y toda la historia 
+reciente se ocupa de contarnos cómo el gran espíritu de “internet” se ma­
+nifiesta ante nosotros.
+Por lo tanto, este libro es un intento de liberar los debates sobre tecno­
+logía de las tantas suposiciones nocivas y erróneas que se tienen acerca de 
+“internet”. En ese sentido, es mucho más normativo de lo que la historia 
+pretende ser. Siguiendo a Latour y Thomas Kuhn, muchos historiadores de 
+la ciencia han aceptado que, si bien la idea de “Ciencia” con “c” mayúscula 
+está mucho más repleta de mitos que la idea de “internet”, han hecho las 
+paces con este descubrimiento, y razonan que mientras haya científicos que 
+crean en la existencia de la “Ciencia” con “c” mayúscula, valdrá la pena 
+estudiar sus mitos, sin importar que en realidad los historiadores de la cien­
+cia compartan esta creencia o no.
+Se trata de un enfoque elegante y tranquilizador, pero me resulta muy 
+difícil aplicarlo en lo que respecta a “internet” y a la influencia corrosiva 
+que esta idea comienza a tener sobre el discurso público y sobre el tipo de 
+proyectos de reforma a los que se da prioridad. En este sentido, no sería 
+productivo señalar las muchas limitaciones del solucionismo sin notar, al 
+mismo tiempo, las limitaciones de lo que denomino “internet-centrismo”; 
+
+
+--- PÁGINA 33 ---
+El solucionismo y sus descontentos • 35
+sin este último, el primero no tendría la mitad de la potencia que posee. Por 
+ello, antes de emprender nuestro análisis sobre los defectos del solucionismo 
+en ámbitos como la política o la prevención del delito, vale la pena com­
+prender mejor la perniciosa influencia intelectual del internet-centrismo; a 
+esto nos dedicaremos en el capítulo siguiente. Si dejamos al descubierto el 
+internet-centrismo por lo que en verdad es, será mucho menos difícil des­
+acreditar el solucionismo.

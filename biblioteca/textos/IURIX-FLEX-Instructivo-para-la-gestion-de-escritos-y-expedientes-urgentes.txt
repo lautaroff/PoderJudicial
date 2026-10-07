@@ -1,0 +1,200 @@
+
+--- PÁGINA 1 ---
+
+
+--- PÁGINA 2 ---
+1 
+ 
+SISTEMA DE INFORMACIÓN – USUARIOS FINALES 
+SIC IURIX FLEX 
+INSTRUCTIVO PARA LA GENERACIÓN DE ESCRITOS Y 
+EXPEDIENTES URGENTES 
+ 
+Introducción: 
+-En el Portal de Gestión de Causas Judiciales, se puede ingresar un escrito seleccionando la 
+modalidad “urgente” para el mismo.  
+-En Iurix Flex, el usuario interno del Tribunal puede marcar un expediente como “urgente”. 
+ 
+A continuación, se mostrará los pasos que hace el profesional desde 
+el Portal para presentar escritos marcados como “urgente”. 
+ 
+Ingreso al sistema: https://iol.jus.mendoza.gov.ar/iol-ui/p/inicio 
+ 
+ 
+ 
+ “Inicio de sesión” 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PÁGINA 3 ---
+2 
+ 
+Completa con CUIT y contraseña y presionar “INGRESAR” 
+ 
+ 
+ 
+Presentación de escrito bajo modalidad urgente 
+Habiendo ingresado al sistema el usuario del portal (Profesional) ejecuta las opciones para 
+presentar un escrito, en este caso lo marcará como “urgente” 
+ 
+ 
+Cuando se despliegan las opciones elegir la opción “Presentar escrito”. 
+ 
+ 
+
+
+--- PÁGINA 4 ---
+3 
+ 
+A continuación, se abrirá la funcionalidad por medio de la que podrá elegir el expediente y 
+completar los datos requeridos para la presentación del escrito, subir el archivo del mismo en 
+formato PDF y cargar hasta 3 archivos adjuntos a la presentación. Algunos datos se completan 
+automáticamente en la grilla. 
+  
+ 
+ 
+En la parte final de esta grilla de presentación de escrito, se encuentra un botón para tildar que 
+permite indicar si el escrito es URGENTE: 
+ 
+ 
+ 
+Procedimiento en el Organismo con Iurix Flex (Juzgado o Cámara) 
+Una vez presentado un escrito como urgente en el Portal de Gestión de Causas Judiciales, el 
+mismo se visualiza en el sistema Iurix Flex, dentro de la bandeja de RECEPCIÓN DE ESCRITOS, con 
+un símbolo que permite identificarlo.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PÁGINA 5 ---
+4 
+ 
+ 
+ 
+Presionar la opción “buscar”: 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PÁGINA 6 ---
+5 
+Los escritos que hayan sido ingresados en el Portal de Gestión de Causas Judiciales tildando la 
+opción “urgente”, se visualizarán en la bandeja de recepción de escritos con una marca de color 
+naranja en la primera columna de la bandeja de recepción de escritos: 
+ 
+ 
+ 
+ 
+Nota: Si se hace click una vez en el encabezado de la columna que tiene la marca de urgente, la 
+grilla se ordenará por este criterio, agrupando los expedientes con la marca de urgente. 
+De esta forma podemos identificar los escritos que el profesional marcó como urgente en la 
+presentación del escrito. 
+Si se selecciona el escrito con la marca de Urgente y se presiona el botón CONFIRMAR, se 
+incorporará el escrito al expediente. 
+Importante: Al incorporar el escrito al expediente se pierde esta marca de urgente en el escrito, 
+pero se le da la posibilidad de marcar como urgente el expediente completo.   
+ 
+Si se decide marcar un expediente como urgente, debe realizarse de manera independiente, por 
+parte del usuario interno, en Iurix Flex. 
+Marcar un expediente como “urgente” dentro de Iurix Flex 
+Esta funcionalidad está activada para usuarios internos de Iurix Flex, por lo tanto, los usuarios 
+externos, que sólo acceden al Portal de Gestión de Causas Judiciales, no pueden marcar un 
+expediente como urgente. 
+Para marcar un expediente como “urgente”, el usuario interno debe acceder a la ficha del 
+expediente, y presionar la acción “editar” que se encuentra en el menú superior de la misma. Una 
+vez habilitada la edición de la ficha del expediente, marcar la opción “sí” en el campo “urgente”. 
+Luego presionar “guardar” para que los cambios queden activados: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PÁGINA 7 ---
+6 
+ 
+ 
+ 
+ 
+El expediente queda marcado como urgente, y esta marca se visualizará en la primera columna 
+con una marca de color naranja de las bandejas A RECIBIR y PERSONAL: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PÁGINA 8 ---
+7 
+ 
+ 
+ 
+ 
+Si se desea quitar la marca urgente de un expediente, debe accederse nuevamente a la ficha del 
+expediente y marcar la opción “no” en el campo “urgente”. Luego presionar “guardar” para que 
+los cambios queden activados. 
+Búsqueda de expedientes urgentes 
+Es posible hacer búsquedas generales de expedientes urgentes, esto es a través de la Búsqueda 
+Avanzada. 
+ 
+ 
+ 
+Ingreso de causas marcadas como Urgente 
+Es posible, desde el ingreso de una causa nueva y a decisión del tribunal, marcar el expediente 
+como urgente.  
+
+
+--- PÁGINA 9 ---
+8 
+Esta opción está disponible desde la pestaña MEF – Ingreso de Causas 
+ 
+ 
+ 
+En la instancia inicial en que se ingresan los datos de tipo de expediente, categoría, materia, 
+también se muestra un menú desplegable de Urgente. 
+Si se elige SI, el expediente quedará marcado como Urgente. 
+SI se elige NO, el expediente no quedará marcado como Urgente. 
+El menú desplegable se muestra como un campo obligatorio y por defecto vacío, para que el 
+usuario que ingresa la causa deba elegir obligatoriamente por una opción, SI / NO.  
+ 
+ 
+ 
+Posteriormente el proceso de ingreso de causas continúa de la forma habitual y el expediente 
+marcado como urgente mostrará su marca en las bandejas A RECIBIR y PERSONAL. 
+ 

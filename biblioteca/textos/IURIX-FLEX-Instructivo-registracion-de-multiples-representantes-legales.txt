@@ -1,0 +1,75 @@
+
+--- PÁGINA 1 ---
+
+
+--- PÁGINA 2 ---
+1 
+ 
+SISTEMA DE INFORMACIÓN – USUARIOS FINALES 
+SIC IURIX FLEX 
+INSTRUCTIVO PARA LA REGISTRACIÓN DE 
+MÚLTIPLES REPRESENTANTES LEGALES 
+ 
+1- Verificar que se encuentre registrado el sujeto de la causa.  
+ 
+ 
+ 
+ 
+ 
+2- Verificar que dicho sujeto tenga registrado sus representantes legales. 
+ 
+ 
+ 
+ 
+
+
+--- PÁGINA 3 ---
+2 
+3- Para registrar el primer domicilio procesal electrónico procedemos de la misma forma 
+que se está realizando hasta el día de hoy:  
+a. Ingresar al sujeto de la causa y presionar nuevo domicilio. 
+ 
+ 
+ 
+b. Seleccionar en Tipo de Domicilio: Procesal Electrónico. Luego elegir uno de los 
+representantes legales que se despliegan en el combo de Domicilio Electrónico. 
+Al finalizar presionar Guardar. 
+ 
+ 
+ 
+4- Para registrar el segundo domicilio procesal electrónico del mismo sujeto procedemos 
+de siguiente forma: 
+a. Volver a la pantalla de Representantes legales del sujeto 
+
+
+--- PÁGINA 4 ---
+3 
+ 
+ 
+Se visualiza la siguiente pantalla: 
+ 
+ 
+b. Hacer “doble click” en el representante legal al que aún no hemos asociado con 
+domicilio procesal electrónico. 
+ 
+ 
+c. En la pantalla siguiente se debe seleccionar Domicilios – Nuevo Domicilio 
+ 
+ 
+
+
+--- PÁGINA 5 ---
+4 
+d. En la pantalla que se despliega debe seleccionar Tipo de Domicilio: PROCESAL 
+ELECTRÓNICO y en el combo de Domicilio Electrónico seleccionar el abogado que 
+aún no tiene domicilio procesal registrado, el que debe coincidir con el nombre 
+que se visualiza en la parte superior izquierda de la pantalla. Luego presionar 
+GUARDAR. 
+ 
+ 
+ 
+En caso de necesitar registrar más de dos domicilios procesales por sujeto, se debe 
+realizar el mismo procedimiento indicado a partir del punto 4, excepto el primer abogado 
+que se registra con el procedimiento tradicional (punto 3). 
+ 
+ 

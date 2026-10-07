@@ -1,0 +1,3832 @@
+
+--- PÁGINA 1 ---
+ 
+ 
+ 
+0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Guía de planificación y 
+seguimiento de gestión 
+de políticas públicas 
+ 
+Dirección Nacional de Fortalecimiento 
+de las Capacidades de Gestión 
+ 
+Subsecretaría de Fortalecimiento Institucional  
+ 
+
+
+--- PÁGINA 2 ---
+ 
+ 
+ 
+1 
+ 
+ 
+Autoridades 
+ 
+Presidente de la Nación 
+Dr. Alberto Fernández 
+ 
+Vicepresidenta de la Nación 
+Dra. Cristina Fernández de Kirchner 
+ 
+Jefe de Gabinete de Ministros 
+Lic. Santiago Cafiero 
+ 
+Secretaria de Gestión y Empleo Público 
+Dra. Ana Castellani 
+ 
+Subsecretaria de Fortalecimiento Institucional 
+Mg. Beatriz de Anchorena 
+ 
+Directora Nacional de Fortalecimiento de las Capacidades de Gestión 
+Mg. María José Leavy 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PÁGINA 3 ---
+ 
+ 
+ 
+2 
+ 
+Coordinación General 
+Mag. María José Leavy 
+ 
+Coordinación Metodológica 
+Mag. Eva Arias 
+Mag. Luciana Inés Carpinacci 
+ 
+Articulación con el Mapa de la Acción Estatal 
+Lic. Gustavo López 
+ 
+Equipo de Colaboradores 
+Lic. Miguel Ignacio Alegre  
+Lic. Federico Agustín Alessandro 
+Lic. Tatiana Borenholtz 
+Lic. Jeannette Alejandra Cabo  
+Esp. Rodrigo Donoso 
+Lic. Patricia Ester Fernandez  
+Lic. Esteban Moro 
+Lic. Rodrigo Pizarro 
+Lic. Solange Julieta Rosa 
+Mag. María Lucía Sampayo 
+Lic. Juan Facundo Videla 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dirección Nacional de Fortalecimiento de las Capacidades de Gestión  
+Diagonal Norte 511 - Ciudad Autónoma de Buenos Aires  
+argentina.gob.ar  
+ 
+
+
+--- PÁGINA 4 ---
+ 
+ 
+ 
+3 
+ 
+Presentación 
+Desde la Secretaría de Gestión y Empleo Público se trabaja para posicionar y visibilizar  
+al Estado como actor clave en el desarrollo del país. Para ello se requiere una 
+administración pública en movimiento, dotada de las capacidades necesarias para 
+instrumentar los objetivos de desarrollo nacional. Una de las dimensiones identificadas 
+para recuperar el valor de la función pública es su racionalidad estratégica.1 Esto implica 
+la coordinación y articulación de acciones entre los distintos sectores que conforman 
+la administración pública. 
+En este sentido, la Secretaría a través de la Subsecretaría de Fortalecimiento Institucional 
+tiene entre sus facultades “asistir al Jefe de Gabinete de Ministros en la definición de 
+lineamientos estratégicos para la realización de programas dirigidos a mejorar la gestión 
+sobre la base de la implementación de la gestión por resultados y la planificación 
+estratégica en las Jurisdicciones y Entidades del Sector Público Nacional”2. En esta línea de 
+trabajo se están desarrollando diversas acciones: 
+La Subsecretaría se encuentra desarrollando el Mapa de la Acción Estatal, una plataforma 
+de planificación y seguimiento de las políticas que se implementa desde el Estado para 
+abordar los problemas públicos que surgen tanto de la emergencia (económica y 
+sanitaria), como aquellos vinculados al desarrollo económico y social de largo plazo. En 
+la primera fase de implementación del Mapa, el objetivo es sistematizar e integrar desde 
+una metodología común las acciones del Estado, reflejando de forma directa la creación 
+pública de valor. 
+Una segunda línea de acción, en apoyo a la anterior, a través de la Dirección Nacional    
+de Fortalecimiento de las Capacidades de Gestión, es brindar a las instituciones   
+públicas herramientas para fortalecer los procesos de planificación, seguimiento     
+de gestión y evaluación. La presente Guía se inscribe en este objetivo, y se propone 
+colaborar con las jurisdicciones y entidades ofreciendo instrumentos prácticos para  
+llevar adelante la planificación y seguimiento de las políticas públicas y trabajar en conjunto 
+en la construcción del Mapa de la Acción Estatal. 
+ 
+ 
+1 Por racionalidad estratégica nos referimos a la capacidad de asignar recursos y esfuerzos del Estado para participar 
+como un actor central en el impulso de las políticas priorizadas en el marco de un proyecto de desarrollo nacional inclusivo. 
+2 DCTO-2019-50-APN-PTE - Estructura organizativa. Anexo II disponible en: 
+https://www.boletinoficial.gob.ar/detalleAviso/primera/224026/20191220  
+
+
+--- PÁGINA 5 ---
+ 
+ 
+ 
+4 
+ 
+Contenido 
+OBJETIVOS DE ESTA GUÍA 
+5 
+I. 
+EL LENGUAJE DE LAS POLÍTICAS: LA CREACIÓN DE VALOR PÚBLICO 
+8 
+1. Políticas públicas y cadena de valor público 
+8 
+2. ¿Qué muestra el Modelo de Agregación de Valor Público? 
+9 
+II. METODOLOGÍA DE PLANIFICACIÓN ESTRATÉGICA Y OPERATIVA 
+11 
+1. Introducción a la planificación 
+11 
+2. Los momentos de la planificación 
+12 
+3. Pasos de la metodología de la planificación estratégica y operativa 
+13 
+Paso 1: Definir el problema que enfrentamos 
+14 
+Paso 2: Mapear los actores clave 
+16 
+Paso 3: Mapear las causas del problema 
+18 
+Paso 4: Realizar el Análisis de gobernabilidad 
+21 
+Paso 5: Definir el perfil de acción institucional para el logro de los objetivos 
+24 
+Paso 6: Formular los Objetivos Estratégicos para enfrentar un problema público 
+26 
+Paso 7. Perfil de acción de una política pública 
+29 
+Paso 8: Desarrollar los Planes de acción 
+35 
+Paso 9: Vinculación de la planificación estratégica con los ODS 
+36 
+III. METODOLOGÍA DE SEGUIMIENTO DE GESTIÓN 
+38 
+1. Introducción al seguimiento de gestión 
+38 
+2. Los momentos del seguimiento 
+39 
+3. Pasos de la metodología de seguimiento 
+40 
+Paso 1: Definir la modalidad de seguimiento “centralizado o descentralizado” 
+40 
+Paso 2: Seleccionar qué monitorear 
+42 
+Paso 3: Identificar la frecuencia en que se obtiene —y reporta— información durante la práctica 
+de seguimiento de gestión 
+44 
+Paso 4: Seleccionar una meta sobre la cual hacer seguimiento 
+44 
+Paso 5: Identificar línea de base de los indicadores 
+46 
+Paso 6: Conocer la herramienta de seguimiento de gestión 
+50 
+Paso 7: Definir estrategia de evaluación 
+51 
+Paso 8: Establecer quiénes son los usuarios y destinatarios de la información obtenida 
+54 
+Paso 9: Definir la modalidad de reporte de la información 
+55 
+ANEXO. GUÍA PARA LA CONSTRUCCIÓN DE INDICADORES 
+57 
+1. Relevancia de los indicadores 
+57 
+2. Los tipos de indicadores 
+57 
+3. Aspectos a considerar para el correcto diseño de un indicador 
+59 
+4. Paso a paso en la construcción de un indicador y ejemplos 
+62 
+ANEXO II: CUADROS EDITABLES PARA REALIZAR EL PROCESO DE PLANIFICACIÓN Y SEGUIMIENTO 
+DE GESTIÓN 
+64 
+ 
+ 
+
+
+--- PÁGINA 6 ---
+ 
+ 
+ 
+5 
+ 
+OBJETIVOS DE ESTA GUÍA 
+Desde la Subsecretaría de Fortalecimiento Institucional se trabaja para consolidar una red 
+de referentes institucionales para la planificación y el seguimiento de gestión de 
+los organismos de la Administración Pública Nacional. 
+En este marco, desde la Dirección Nacional de Fortalecimiento de las Capacidades de Gestión 
+se diseña y ofrece esta guía como una herramienta para que los gestores públicos puedan 
+contar con un marco metodológico para el diseño y seguimiento de las políticas públicas. 
+Contar con una metodología común permitirá sistematizar las políticas públicas a través 
+del Mapa de Acción Estatal para volcar la planificación y realizar el seguimiento de 
+las acciones públicas, tanto desde las jurisdicciones y entidades como desde la Jefatura 
+de Gabinete de Ministros. 
+ 
+Acerca de la utilización de las distintas partes de la Guía 
+La guía está organizada en sus dos secciones por MOMENTOS que permiten abordar   
+los procesos de planificación y de seguimiento, dependiendo en cada caso de      
+las necesidades de implementación en un momento dado y de la responsabilidad 
+de gestión del lector. 
+En el caso de la Sección de Planificación: 
+• 
+Si un equipo de gestión se encuentra en situación de diseñar una política pública 
+o formular un proyecto frente a un problema a abordar o —frente a un cambio en 
+la situación— cuando sea necesario analizar nuevamente el contexto y su impacto 
+sobre el Plan para redefinir las acciones, podrán acudir al Momento 1: Análisis 
+Situacional para analizar el problema sobre el cual se busca intervenir. 
+• 
+Si se trata de una planificación anual, que requiera partir de la definición     
+de objetivos y resultados esperados, se podrá recurrir directamente  
+al Momento 2: Diseño Estratégico y Momento 3: Diseño de las Acciones. 
+• 
+Pero puede ocurrir también que los equipos de una Dirección, por ejemplo, que 
+trabajan en el marco de una Subsecretaría necesiten operacionalizar sus acciones 
+para dar respuesta a los objetivos. En ese caso, podrán acudir directamente 
+al Momento 3. 
+
+
+--- PÁGINA 7 ---
+ 
+ 
+ 
+6 
+ 
+Gráfico 1: Momentos del proceso de planificación 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+En el caso de la Sección de Seguimiento: 
+• 
+Si un equipo se encuentra en la instancia inicial de puesta en marcha de acciones 
+de seguimiento y evaluación, hallará en el Momento 1: Diseño del Proceso 
+de seguimiento, información relevante y ejemplos para implementar esta etapa de 
+diseño y definiciones estratégicas. 
+• 
+Para los casos en que se cuenta con un proceso de seguimiento ya diseñado y se 
+iniciará la etapa de implementación, el Momento 2: Implementación de Acciones 
+puede servir de orientación con respecto al uso de herramientas de monitoreo y 
+evaluación. 
+• 
+Quienes ya hayan desarrollado los momentos de diseño e implementación de  
+las acciones de seguimiento y evaluación y busquen poner en práctica      
+la información y hallazgos recabados podrán recurrir directamente al tercer 
+Momento de la sección Seguimiento de esta guía. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PÁGINA 8 ---
+ 
+ 
+ 
+7 
+ 
+Gráfico 2: Momentos del proceso de seguimiento 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+En el Anexo I se presenta una “Guía para la Construcción de Indicadores”, que profundiza 
+la información sobre esta herramienta.  
+En el Anexo II se adjunta un archivo editable con los cuadros de la Guía para facilitar a 
+los equipos de gestión el proceso de Planificación y Seguimiento. 
+ 
+La oportunidad de la Planificación y el Seguimiento 
+Uno de los recursos críticos de los gestores públicos es el factor tiempo.   
+“Herramientas no nos faltan, lo que nos falta es el tiempo”, suelen señalar. Proponemos 
+ver esto de un modo diferente: ¿Cuántas veces se “pierde tiempo” en la gestión a causa 
+de la falta de una buena planificación? Entonces, el cuestionamiento sería: ¿Cuál es 
+el valor de planificar? ¿Esperamos, una vez que planificamos, que la realidad suceda tal 
+como la pensamos? ¿O consideramos que haber planificado nos prepara mejor para 
+distintos escenarios cuando sea el momento de adaptarnos a los permanentes cambios 
+del entorno? ¿Tomamos la información que surge de los informes de seguimiento para 
+enriquecer la toma de decisiones? ¿Consideramos la información que surge del proceso 
+de planificación y seguimiento como un conjunto de definiciones formales o como una 
+instancia para fortalecer nuestro proyecto de transformación en la realidad social? 
+Para los gestores públicos, contar con un área de planificación y seguimiento dentro   
+de los Ministerios como facilitador del proceso resulta clave. Desde el área de 
+Fortalecimiento Institucional brindamos capacitación y asistencia técnica para reforzar 
+dichos procesos. Se cuenta con un equipo especializado en la temática que puede 
+fortalecer capacidades al interior de las áreas, transfiriendo metodologías y experiencias. 
+
+
+--- PÁGINA 9 ---
+ 
+ 
+ 
+8 
+ 
+I. EL LENGUAJE DE LAS POLÍTICAS: LA CREACIÓN DE VALOR PÚBLICO 
+1. Políticas públicas y cadena de valor público 
+Entendemos como política pública el conjunto de objetivos, decisiones y acciones que 
+lleva a cabo un gobierno en respuesta a los problemas que, en un momento determinado, 
+los ciudadanos y el propio gobierno consideran prioritarios.3 
+Esta definición contiene varios elementos a destacar: 
+▪ 
+Una política pública supone siempre una intervención de las instituciones 
+estatales en las que se arbitran los medios para la consecución de sus ﬁnes. 
+▪ 
+En este proceso las instituciones públicas agregan valor, que reconocemos como 
+valor público porque la sociedad colectivamente genera cierto grado de acuerdo 
+para su incorporación a los esfuerzos del Estado. 
+▪ 
+Como sucede con los problemas públicos, qué se considera valor público puede 
+ser también materia de discusiones y pujas de modo que, en su constitución, 
+resultan clave los procesos de legitimación de tales aspiraciones, así como   
+los mecanismos políticos e institucionales a través de los cuales estas 
+se inscriben en la agenda estatal. 
+La base del modelo que se utilizará para analizar la relación medios-fines y el proceso 
+de agregación de valor que se pone en juego en nuestras políticas públicas es la Cadena 
+de Valor Público (CVP). Este modelo “encadena”, es decir, vincula o relaciona, 
+los siguientes eslabones: 
+insumos → operaciones → productos → resultados → impactos. 
+ 
+ 
+ 
+ 
+ 
+3 TAMAYO SÁEZ, Manuel (1997) El análisis de las políticas públicas, en Bañon R. y Carrillo E. (comps.), La Nueva 
+Administración Pública. Madrid: Alianza Editorial. 
+
+
+--- PÁGINA 10 ---
+ 
+ 
+ 
+9 
+ 
+Veámoslo gráficamente: 
+Gráfico 3: Cadena de Valor Público – componentes y definiciones 
+ 
+Fuente: Elaboración sobre la base de SOTELO MACIEL4 
+ 
+2. ¿Qué muestra el Modelo de Agregación de Valor Público? 
+En primer lugar, nos plantea que la razón de ser de las políticas públicas es         
+la transformación de la realidad en un sentido deseado. La definición de lograr ciertos 
+impactos refiere a la existencia de problemas o brechas que es necesario revertir y que 
+expresan las transformaciones que las políticas públicas se proponen realizar. Entonces, 
+sus objetivos se operacionalizan en resultados e impactos esperados.5 
+En segundo lugar, para lograr estos resultados e impactos, las organizaciones públicas se 
+proponen generar productos que se entreguen a la población para satisfacer necesidades. 
+Como se ve en el gráfico anterior, los productos son el punto de contacto entre el Estado 
+y la/el ciudadana/o. Son aquello que hace visible la presencia del Estado en la sociedad. 
+ 
+4 SOTELO MACIEL, Aníbal Jorge (2014). Cadena de valor público y planteamiento estratégico, limitaciones y virtudes del 
+modelo, Congreso Internacional del CLAD. 
+SOTELO MACIEL, A. J. (2016). Políticas públicas, valor público, planificación y presupuesto. En proceso de publicación. 
+5 En el caso de la Administración Pública Nacional, el conjunto de instituciones, sus objetivos, atribuciones y ámbitos de 
+intervención están establecidos normativamente por la Ley de Ministerios (última actualización Decreto 7/2019 y 
+Decreto 50/2020) 
+
+
+--- PÁGINA 11 ---
+ 
+ 
+ 
+10 
+ 
+Por productos entendemos aquellos bienes y servicios que una institución pública entrega 
+al ámbito externo (ya sea la sociedad u otra organización del sector público).6 
+En tercer lugar, vincula la producción de las organizaciones públicas con la necesidad de 
+contar con cantidades y calidades adecuadas de recursos e insumos. Los volúmenes 
+de producción constituyen un elemento clave en el cálculo de insumos. Llamamos 
+operación al proceso mediante el cual se combinan y transforman los recursos     
+en productos. La operación se compone de un conjunto de actividades. Tanto 
+las operaciones como las actividades refieren a los procesos y macro procesos que será 
+necesario llevar adelante para convertir los insumos en productos. 
+La Cadena de Valor Público permite una mirada ordenadora de los diferentes abordajes 
+metodológicos que se realizan en el sector público. Sobre esta cadena convergen cuatro 
+funciones críticas del proceso de producción de políticas públicas: la Planificación 
+Estratégica, la Planificación Operativa, la Formulación Presupuestaria, el Proceso de 
+Compras, y el Seguimiento y la Evaluación. 
+▪ 
+La Planificación Estratégica interviene en la definición de los objetivos de política 
+(impactos y resultados esperados) y la definición del perfil de producción de 
+las organizaciones públicas para alcanzar dichos objetivos. 
+▪ 
+La Planificación Operativa es el proceso mediante el cual una organización diseña 
+en detalle las acciones que permitirán transformar los insumos en los productos 
+requeridos por la política en cuestión. 
+▪ 
+En tanto que la Formulación Presupuestaria debe reflejar estos procesos 
+productivos, garantizando que los recursos financieros estén asignados 
+adecuadamente para la adquisición de los insumos necesarios y que se     
+los pueda gestionar de manera ágil y efectiva durante la implementación de 
+las políticas públicas. 
+▪ 
+El proceso de Seguimiento y Evaluación es aquel que, durante el desarrollo de 
+la política pública y de manera sistemática, produce información relevante para 
+introducir ajustes o cambios necesarios para el logro de los resultados, o bien, 
+generar conocimiento sobre el contexto de intervención. 
+ 
+6 Veremos luego que en la construcción del Mapa de la Acción Estatal hablaremos de Acción en reemplazo de Producto, 
+puesto que incluiremos los bienes y servicios, las regulaciones, transferencias y argumentaciones que el Estado 
+“produce/brinda” para transformar la realidad. 
+
+
+--- PÁGINA 12 ---
+ 
+ 
+ 
+11 
+ 
+II. METODOLOGÍA DE PLANIFICACIÓN ESTRATÉGICA Y OPERATIVA 
+1. Introducción a la planificación 
+“Planificar significa pensar antes de actuar, pensar con método, de manera 
+sistemática; explicar posibilidades y analizar sus ventajas y desventajas, 
+proponerse objetivos, proyectarse hacia el futuro, porque lo que puede o no 
+ocurrir mañana decide si mis acciones de hoy son eficaces o ineficaces. 
+La planificación es la herramienta para pensar y crear el futuro”. 
+CARLOS MATUS7 
+ 
+¿Qué sentido tiene planificar si actuamos en un contexto de incertidumbre?        
+Es una pregunta recurrente entre quienes gestionan las políticas públicas. Si pensamos 
+la planificación como una acción de “construcción de futuro” —tal como plantea   
+Carlos Matus—, no negamos la incertidumbre, por el contrario, reconocemos que 
+necesitamos métodos que nos ayuden a lidiar con ella. 
+La Planificación Estratégica Situacional, perspectiva que elegimos para compartir en esta 
+guía, parte de una mirada sobre la acción de gobierno y la gestión de las políticas.8 
+Algunas definiciones que compartimos son las siguientes: 
+▪ 
+La acción de gobierno es un desafío de transformación de la realidad. Esto implica 
+que cuando diseñamos políticas públicas necesitamos un método que 
+nos permita analizar y pensar cómo abordar los problemas públicos. 
+▪ 
+El Estado es un actor, aunque muy relevante, entre otros que interactúan en    
+el juego social. Cuando ejecutamos políticas públicas, en general lo hacemos  
+con otros. Por esa razón, necesitamos un método para diseñar las acciones   
+de coordinación y prever los conflictos para 
+pueden surgir durante 
+su implementación. 
+ 
+ 
+ 
+7 HUERTAS, F. (1993). El Método PES - Planificación Estratégica Situacional: Entrevista a Carlos Matus. Ecuador: Fondo 
+Editorial Altadir. 
+8 Para profundizar en las diferencias entre la Planificación tradicional y la Planificación Estratégica Situacional, ver   
+LIRA, L. (2006). Revalorización de la planificación del desarrollo, ILPES, Área de Gestión del Desarrollo Local y Regional, 
+Santiago de Chile, CEPAL. 
+
+
+--- PÁGINA 13 ---
+ 
+ 
+ 
+12 
+ 
+▪ 
+La realidad social es cambiante, y nos plantea un desafío de adaptación 
+permanente. Necesitamos métodos que nos ayuden a entender y caracterizar 
+constantemente la situación en la cual tenemos que actuar. La intervención social 
+nos desafía a un análisis situacional. 
+▪ 
+Cuando planificamos estratégicamente definimos una “hipótesis de intervención.” 
+Conocemos experiencias anteriores, sabemos qué propuestas funcionaron (o no) 
+en otros contextos, buscamos adaptarlas a un nuevo escenario, pero nunca dejan 
+de ser “apuestas estratégicas” en una relación medios-fines. 
+ 
+2. Los momentos de la planificación 
+La metodología de planificación abarca tanto la planificación estratégica como 
+la planificación operativa, y se presenta en tres momentos: 
+• 
+Momento 1: Análisis situacional 
+En el primer momento, partimos desde el problema, lo definimos y explicamos con una 
+mirada sistémica y multicausal, y caracterizando la situación que queremos transformar 
+a partir de las miradas de los múltiples actores involucrados. 
+• 
+Momento 2: Diseño Estratégico 
+En el segundo momento, buscamos definir por qué vías vamos a enfrentar el problema  
+y a qué logros aspiramos. Definimos objetivos estratégicos, indicadores de resultado y 
+metas de desempeño esperadas. 
+• 
+Momento 3: Diseño de las Acciones 
+En el tercer momento, buscamos operacionalizar los objetivos en acciones concretas, 
+estableciendo productos, hitos, fechas clave, responsables e insumos críticos necesarios 
+para poder alcanzarlos. 
+A su vez, los tres momentos pueden ser subdivididos en nueve pasos: 
+ 
+ 
+ 
+
+
+--- PÁGINA 14 ---
+ 
+ 
+ 
+13 
+ 
+Gráfico 4: Pasos para la implementación 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Pasos de la metodología de la planificación estratégica y operativa 
+MOMENTO 1: ANÁLISIS SITUACIONAL 
+Este momento nos ayuda en el procesamiento y análisis del problema que queremos 
+revertir. ¿En qué situaciones puede darse esta necesidad? Al momento de diseñar o 
+rediseñar una política pública o frente a un cambio en la situación que requiera un análisis 
+en profundidad sobre cómo abordar un problema complejo. 
+En general, cuando abordamos el análisis de un problema, elaboramos un diagnóstico 
+para entenderlo. Es decir, realizamos o encargamos a especialistas un estudio de    
+las condiciones actuales, su evolución, el marco legal existente, los organismos 
+intervinientes (su misión y funciones), las medidas que se han tomado hasta el momento 
+y sus resultados, las capacidades de la institución desde la cual vamos a dar una 
+respuesta. Todos estos elementos contienen información contrastable a partir de fuentes 
+primarias o secundarias. Es muy importante contar con este tipo de estudios para 
+el análisis del problema. 
+El análisis situacional utiliza la información del diagnóstico para fundar el análisis 
+en evidencias y lo complementa con una explicación del problema desde la perspectiva 
+de los actores que intervienen en él. Busca reproducir las múltiples miradas que tienen 
+sobre un problema los distintos actores vinculados (ya sea quienes se ven afectados, 
+quienes buscan resolverlo, quienes son causantes del mismo) para construir respuestas 
+viables y políticamente sustentables. 
+
+
+--- PÁGINA 15 ---
+ 
+ 
+ 
+14 
+ 
+¿Por qué proponemos este método de análisis situacional? Porque una misma realidad 
+distintos actores la interpretan de forma diferente, y estas miradas son relevantes a 
+la hora de diseñar una política pública. Como señala Carlos Matus, “la explicación del actor 
+sobre una realidad no es un conjunto de datos e informaciones apiladas. Esos datos e 
+informaciones pueden ser objetivos e igualmente accesibles para todos. La explicación 
+es una lectura de esos datos e informaciones que manifiestan la realidad. Allí, cada actor 
+le arranca una interpretación a los hechos según sean los anteojos con que la observa 
+(sus valores, ideología e intereses)”.9 
+En síntesis, para realizar el análisis situacional necesitaremos contar con toda 
+la información diagnóstica disponible, a la cual le aportamos la interpretación del equipo. 
+ 
+Paso 1: Definir el problema que enfrentamos 
+El primer paso del análisis es identificar cuál es la brecha que enfrentamos. Definimos 
+el PROBLEMA como la distancia entre la situación actual y la situación deseada. El problema 
+expresa una situación que se declara como insatisfactoria. Está constituido por una 
+dimensión objetiva (la referencia a la situación dada) y una subjetiva (el deseo establecido 
+por el sujeto), y representa lo que se requiere para cerrar dicha brecha. En este sentido, 
+el problema lo declara un actor desde su perspectiva. 
+Una vez definido el problema, para precisar más —en caso de que se presente demasiado 
+abstracto—, buscamos evidencias del problema (o descriptores). Las EVIDENCIAS    
+son enunciados que hacen referencia a situaciones cotejables que manifiestan y 
+corroboran la existencia del problema. Frente a cambios en la situación, podremos ajustar 
+la caracterización del problema actualizando las evidencias o descriptores del mismo. 
+Una vez que tenemos identificadas las evidencias, para corroborar que estén completas, 
+nos preguntamos: si todas las evidencias del problema se revirtieran, ¿el problema estaría 
+resuelto? En caso de que la respuesta fuera no, aún faltaría identificar evidencias. 
+ 
+9 HUERTAS, F. (1993). El Método PES: Entrevista a Carlos Matus. Disponible en: 
+https://www.cepal.org/ilpes/noticias/paginas/2/36342/LIBRO_ENTREVISTA_CON_MATUS.pdf  
+
+
+--- PÁGINA 16 ---
+ 
+ 
+ 
+15 
+ 
+A partir de las evidencias, será posible identificar INDICADORES que nos permitan 
+monitorear el estado del problema. Un indicador es 
+“una comparación entre dos o más tipos de datos 
+que sirve para elaborar una medida cuantitativa o 
+una observación cualitativa. Esta comparación 
+arroja un valor, una magnitud o un criterio, que tiene 
+significado para quien lo analiza” (OIT).10 
+Para cada uno de los indicadores tendremos que 
+identificar los MEDIOS DE VERIFICACIÓN, es decir,  
+qué 
+fuentes 
+de 
+información se 
+utilizarán    
+para realizar el seguimiento de los indicadores que se diseñaron. 
+Un último punto en la definición del problema es la identificación de las CONSECUENCIAS. 
+Esto es, los efectos sociales, económicos, políticos que provoca la existencia 
+del problema, y que justifican tomar acciones para revertirlo. 
+A fin de favorecer la aplicación práctica de la metodología, a lo largo de esta Guía 
+recorreremos los momentos y pasos a través de un CASO DE POLÍTICA PÚBLICA 
+sistematizado que integra las funciones de planificación y seguimiento. El caso se 
+seleccionó a partir de reconocer un problema público relevante para la agenda de nuestro 
+país, como es la inflación, a partir del cual se realiza el análisis situacional y diseño de una 
+política pública en su faz estratégica y operativa, para continuar luego con el ejercicio  
+de seguimiento y evaluación de dicha política. El análisis situacional busca reflejar 
+la mirada multidimensional y compleja del fenómeno de la inflación que llevó al Ministerio 
+de Economía en 2014 al diseño de un programa de las características de Precios 
+Cuidados. Sin embargo, dado que el CASO fue desarrollado a los fines didácticos por   
+el equipo de la Dirección Nacional de Fortalecimiento de las Capacidades de Gestión, 
+lo llamaremos con el nombre de fantasía “Canasta de Productos” a implementar, desde 
+este supuesto, desde la Secretaría de Comercio Interior. 
+ 
+ 
+ 
+10 OIT, CINTENFOR: Guía para la Evaluación de Impacto de la formación Profesional. 
+Disponible en: https://guia.oitcinterfor.org/como-evaluar/como-se-construyen-indicadores  
+ 
+Los 
+indicadores 
+son 
+los 
+instrumentos que nos permitirán 
+construir la 
+evidencia 
+empírica 
+para la toma de decisiones en todo 
+el 
+proceso 
+de 
+planificación 
+y 
+seguimiento 
+de 
+la 
+política.  
+Nos proporcionan información, ya 
+sea cualitativa o cuantitativa, para 
+realizar 
+monitoreos 
+periódicos, 
+analizar los cambios vinculados  
+a 
+una 
+intervención 
+o 
+evaluar  
+los 
+resultados 
+obtenidos. 
+Para 
+profundizar este tema, ver ANEXO. 
+
+
+--- PÁGINA 17 ---
+ 
+ 
+ 
+16 
+ 
+Cuadro N°1: Definición del problema - Caso a trabajar: a partir del problema de la “Inflación” 
+Actor que declara el problema: Secretaria de Comercio Interior 
+DEFINICIÓN DEL 
+PROBLEMA 
+¿CUÁL ES LA BRECHA 
+QUE QUEREMOS 
+ABORDAR? 
+EVIDENCIAS 
+ 
+¿CUÁLES SON LOS FACTORES 
+QUE EVIDENCIAN LA EXISTENCIA 
+DEL PROBLEMA? 
+INDICADORES 
+ 
+¿QUÉ MEDIDAS SE PUEDEN 
+UTILIZAR PARA MONITOREAR 
+EL CAMBIO EN LA REALIDAD? 
+MEDIOS DE 
+VERIFICACIÓN 
+¿CUÁL VA A SER 
+LA FUENTE DE COTEJO 
+DE LA INFORMACIÓN? 
+Ejemplo: 
+Aumento 
+sostenido en 
+los precios de 
+la canasta 
+representativa 
+de consumo de 
+los argentinos. 
+Aumento en el precio de 
+los 
+alimentos 
+frescos 
+(carnes, frutas y verduras). 
+Índice de precios al 
+consumidor 
+Informes 
+mensuales 
+IPC/INDEC 
+Aumento en el precio de 
+los productos de almacén 
+(alimentos envasados y 
+bebidas) 
+Aumento en el precio de 
+los productos de limpieza e 
+higiene personal 
+CONSECUENCIAS ¿CUÁLES SON LOS EFECTOS SOCIALES/ECONÓMICOS/POLÍTICOS DE 
+NO ABORDAR EL PROBLEMA? 
+● Deterioro del poder adquisitivo de las familias  
+● Disminución del consumo y menor capacidad de ahorro 
+● Deterioro en el acceso a los alimentos 
+● Deterioro de condiciones de vida de la población, particularmente de sectores vulnerables 
+● Malestar de la población 
+ 
+Paso 2: Mapear los actores clave 
+Para continuar con el análisis situacional, el siguiente paso es identificar quiénes son  
+los actores involucrados en el problema, en función de sus intereses y capacidad para 
+intervenir en él. Esto nos permitirá explicar el problema desde las diversas perspectivas 
+Los ACTORES son personas, grupos u organizaciones que controlan recursos y toman 
+posición en la situación en la que se busca intervenir. Para cada uno de los actores, 
+identificamos sus INTERESES, es decir, qué objetivo/s tiene en relación con el problema bajo 
+estudio, y sus RECURSOS organizativos, políticos, económicos y cognitivos, cuyo manejo 
+le permiten influir en la situación. 
+• 
+Recursos organizativos: Capacidad de desplegar acciones y movilizar actores en 
+el territorio, que presenta un desafío logístico, de coordinación y permite 
+sostenerlo en el tiempo. 
+
+
+--- PÁGINA 18 ---
+ 
+ 
+ 
+17 
+ 
+• 
+Recursos políticos: Capacidad de un actor para tomar decisiones o incidir en que 
+se habilite o no un curso de acción; sancionar o conseguir apoyos para aprobar 
+normas; dar apoyo desde la construcción de sentido y argumental a la legitimación 
+de las acciones. 
+• 
+Recursos económicos: Capacidad de asignar partidas presupuestarias para   
+el financiamiento de proyectos; de realizar aportes económicos para afrontar 
+el costo económico de las acciones. 
+• 
+Recursos cognitivos: Capacidad de desarrollar y aplicar conocimientos técnicos, 
+científicos y tecnológicos especializados para la respuesta a los problemas. 
+Cuadro N°2: Mapeo de Actores - Caso: “Aumento sostenido en los precios de la canasta 
+representativa de consumo de los argentinos” 
+ACTOR 
+INTERESES Y RECURSO/S CON QUE CUENTA 
+Productores de materias primas 
+Intereses: Incrementar su margen de rentabilidad. 
+Recursos: Económicos - Producción de bienes esenciales necesarios 
+para garantizar el abastecimiento de alimentos de la población. 
+Empresas de logística/transporte 
+Intereses: Incrementar su margen de rentabilidad. 
+Recursos: Organizativos - Intermediario al interior de 
+la cadena productiva, capacidad de fijar precios. 
+Empresas alimenticias 
+Intereses: Incrementar su margen de rentabilidad 
+Recursos: Económicos - Fijar precios de bienes al por mayor 
+Cámaras empresarias de 
+supermercados (CAS FASA, ASU, 
+comercios de proximidad) 
+Intereses: Promover el comercio. Asesorar y representar 
+a comerciantes ante las autoridades nacionales, 
+provinciales y municipales.  
+Recursos: Económicos y Políticos - Capacidad de incidir sobre 
+la toma de decisiones. Fijar precios finales al consumidor 
+Asociaciones de consumidores 
+Intereses: Defender y representar los intereses de los consumidores 
+Recursos: Organizativos - Presencia en medios de comunicación; 
+Capacidad de colaborar en las instancias de fiscalización de precios. 
+Consumidores 
+Intereses: Incrementar su poder adquisitivo y maximizar 
+sus posibilidades de consumo. 
+Recursos: Cognitivos - Capacidad de informarse y 
+de consumir o sustituir determinados productos. 
+Comisión Nacional de Defensa 
+de la Competencia 
+Intereses: Promover el funcionamiento eficiente de los mercados, 
+la competencia, y reducir abusos de poder.  
+Recursos: Políticos - Regular la competitividad de los mercados. 
+
+
+--- PÁGINA 19 ---
+ 
+ 
+ 
+18 
+ 
+Gobiernos provinciales 
+(organismos de defensa del 
+consumidor y de la competencia) 
+Intereses: Mejorar el bienestar de la población permitiendo el acceso 
+a un consumo mayor y variado. 
+Recursos: Políticos y organizativos - Fiscalización y sanción. 
+Gobiernos municipales 
+Intereses: Mejorar el bienestar de la población permitiendo el acceso 
+a un consumo mayor y variado. 
+Recursos: Políticos y organizativos - Capacidad de Fiscalización. 
+Secretaria de Comercio Interior 
+Intereses: Generar mecanismos para mejorar el funcionamiento 
+y organización del mercado interno de bienes y servicios. 
+Recursos: Políticos - Regulación a nivel nacional. Fiscalización 
+y sanción. 
+Universidades nacionales 
+Intereses: Realizar estudios sobre el funcionamiento del mercado. 
+Realizar propuestas y divulgación. 
+Recursos: Cognitivos - Conocimiento, estudios sobre experiencias 
+previas de combate a la inflación.  
+Capacidad de colaborar en las instancias de fiscalización. 
+ 
+Paso 3: Mapear las causas del problema 
+Una vez que se ha definido el problema e identificado los actores, para diseñar una 
+estrategia que nos permita enfrentar el problema, tenemos que tener en claro cuáles son 
+los factores que lo están causando. Solo identificando y revirtiendo las CAUSAS de un 
+problema lo podremos abordar de una forma sustentable en el tiempo. Para pensar 
+las causas, realizamos afirmaciones o sentencias que indican una calificación negativa o 
+problemática (brecha) que está influyendo en el problema. Consideremos que cada una de 
+las causas que se seleccionan para explicar el problema revisten un problema en sí mismo. 
+Algunos disparadores para identificar las causas del problema: 
+• 
+¿Cuáles son las reglas formales (leyes) e informales (costumbres, normas 
+sociales, pautas culturales) que inciden en la existencia del problema? 
+• 
+¿Cuáles son las deficiencias de los sistemas organizativos e institucionales que 
+inciden en la existencia del problema? ¿Cómo inciden los cambios tecnológicos 
+en el problema? ¿Cuáles son las dificultades que encuentran las organizaciones 
+públicas para enfrentar el problema? 
+• 
+¿Cómo inciden las debilidades institucionales y organizativas en la conducta de 
+los actores? ¿Qué manifestaciones del problema podemos encontrar en la 
+conducta de los actores? 
+
+
+--- PÁGINA 20 ---
+ 
+ 
+ 
+19 
+ 
+Cuadro N° 3.1: Causas del problema - Caso: “Aumento sostenido en los precios de la canasta 
+representativa de consumo de los argentinos” 
+ 
+Una vez listadas las causas del problema, comenzamos a establecer relaciones causales, 
+elaborando un mapa que grafique las múltiples variables que inciden en él y cómo 
+las condiciones negativas se retroalimentan. En el gráfico siguiente se establecen hipótesis 
+de relaciones causales y se identifican tres causas como críticas (resaltadas en color). Se 
+estima que, revirtiendo estas condiciones, se podrá tener un impacto positivo en el problema. 
+Gráfico 5: Mapa de relaciones causales - Caso: “Aumento sostenido en los precios de la canasta 
+representativa de consumo de los argentinos”11 
+ 
+11 En este caso, presentamos un modelo causal simplificado. El análisis de las causas del problema se puede 
+profundizar a través de diversas herramientas conceptuales, como el Flujograma o Modelo Explicativo del Problema.  
+El modelo explicativo permite reproducir gráficamente las relaciones de causalidad que se dan entre las distintas variables 
+que están impactando en el problema. Para una referencia exhaustiva de la construcción de modelos explicativos ver: 
+SOTELO MACIEL, A. J., El Análisis PROBES (Problemas, Objetivos y Estrategias) Un Método para el Análisis Situacional y 
+la Formulación de Estrategias, Escuela Superior de Trabajo Social, Universidad Nacional de La Plata. 
+● Alta incidencia de los costos por intermediación en la cadena productiva en el precio final de producto. 
+● Problemas de logística / transporte. 
+● Falta de competencia en empresas productoras y comercializadoras de alimentos. 
+● Falta de referencia de precios en general. 
+● Incertidumbre en los empresarios sobre los costos productivos futuros. 
+● Incertidumbre en los empresarios sobre evolución a futuro de las variables macroeconómicas 
+● Bienes de consumo de la canasta básica representativa argentina transables en el mercado internacional. 
+● Fluctuación del tipo de cambio 
+● Falta de información de los consumidores sobre precios de productos  
+● Cultura “inflacionaria” que tolera aumentos de precios 
+CAUSAS DEL PROBLEMA 
+
+
+--- PÁGINA 21 ---
+ 
+ 
+ 
+20 
+ 
+Una vez que identificamos y relacionamos las causas, seleccionamos tres o cuatro que 
+consideramos “críticas” y que deben ser abordadas para incidir directamente en la reversión 
+del problema, e identificamos las razones para priorizarlas. Las causas críticas cumplen 
+simultáneamente dos condiciones: i) impactan directamente sobre las evidencias del 
+problema y II) se presume que cualquier alteración positiva en ellas desataría procesos  
+de transformación que impactarían en un número considerable de causas relevantes. Tales 
+procesos posibilitarán, de manera directa o indirecta, revertir el problema. 
+Cuadro N° 3.2: Causas del problema - Caso: “Aumento sostenido en los precios de la canasta 
+representativa de consumo de los argentinos” 
+IDENTIFICAR CAUSAS CRÍTICAS 
+EXPLICAR LA ELECCIÓN 
+• Incertidumbre en las empresas sobre 
+el precio de los insumos de la cadena 
+de producción 
+La incertidumbre produce expectativas de inflación 
+futura, y genera aumentos preventivos en vistas a 
+poder afrontar el siguiente ciclo productivo. 
+• Dificultades para el ingreso    
+de pequeños productores a    
+las cadenas de comercialización 
+La concentración produce una oferta limitada 
+facilitando la fijación de precios de manera más 
+discrecional. 
+• Bienes de consumo de la canasta 
+básica representativa argentina 
+transables en el mercado internacional 
+Los productores pretenden obtener en el mercado 
+interno las mismas ganancias que obtendrían en 
+el mercado internacional en dólares. 
+ 
+MOMENTO 2: DISEÑO ESTRATÉGICO 
+El segundo momento de la planificación nos permite avanzar hacia el diseño de      
+la estrategia de abordaje del problema, definiendo —en función de un análisis 
+de gobernabilidad— cómo enfrentar el problema y qué objetivos de transformación se van 
+a proponer, estableciendo indicadores para poder dar seguimiento a la intervención.  
+Estas definiciones, para poder implementarse, se tienen que canalizar institucionalmente, 
+en la forma de políticas y programas públicos, que adquirirán un perfil de acción pública 
+en línea con los objetivos organizacionales expresados en la misión del organismo.  
+En este momento se describe el modelo de acción estatal, tal cual se encuentra concebido 
+en el diseño del Mapa para la Planificación y Seguimiento de políticas públicas. Es decir 
+que la definición de las acciones a llevar adelante por los planes y programas públicos, 
+según los lineamientos de los tipos de acción estatal expresados en la Guía, permitirá a 
+su vez completar fácilmente el Mapa de la Acción Estatal.  
+
+
+--- PÁGINA 22 ---
+ 
+ 
+ 
+21 
+ 
+Si continuamos el desarrollo de la planificación desde el Momento 1, avanzamos hacia 
+el Paso 4, para el análisis de las causas críticas, en función de los recursos necesarios 
+para abordarlas.  
+En caso de que abordemos el Momento 2 directamente, avanzamos hacia el Paso 5, en 
+el cual realizaremos el análisis y la definición de los objetivos estratégicos e indicadores 
+de resultado. 
+Paso 4: Realizar el Análisis de gobernabilidad 
+(Viene del Momento 1 - Paso 3) Una vez identificadas las tres o cuatro causas que 
+consideramos “críticas” para revertir el problema, es el momento de evaluar cuáles 
+estamos en condiciones de revertir, en función de los recursos con que contamos en   
+el proyecto. A esta evaluación la llamamos ANÁLISIS DE GOBERNABILIDAD, y su importancia 
+es fundamental al momento de decidir si convertir una causa crítica en Eje de Acción de 
+una planificación. Para seleccionar una causa crítica a enfrentar, se debe primero analizar 
+cuál es la posibilidad real de intervención sobre la misma. 
+Entonces, en función de la causa identificada, debemos formular las siguientes preguntas 
+desde la perspectiva del actor que declara el problema: ¿Qué combinación particular de 
+recursos (políticos, económicos, organizativos, de conocimiento)? ¿Puedo actuar sobre 
+ella? ¿Depende solo de mis recursos enfrentarla, o compartimos esta capacidad con otros 
+actores? ¿O está fuera de mi alcance? En la medida en que se identifiquen estos elementos, 
+se estará en condiciones de elegir qué causas críticas se convertirán en los Ejes de Acción 
+de la planificación. 
+Cuadro N°4: Análisis de gobernabilidad - Causas críticas 1, 2 y 3 del Caso: “Aumento sostenido en 
+los precios de la canasta representativa de consumo de los argentinos” 
+CAUSA CRÍTICA 1: 
+Incertidumbre en las empresas sobre el precio de los insumos de la cadena de producción 
+¿QUÉ RECURSOS CRÍTICOS 
+DEMANDA REVERTIR ESTA CAUSA? 
+¿TENGO CAPACIDAD DE INCIDENCIA 
+SOBRE ESE RECURSO CRÍTICO? 
+SI HAY OTRO ACTOR QUE 
+CONTROLA ESE RECURSO 
+CRÍTICO, ¿CUÁL ES? 
+Analizar el grado de control sobre 
+las variables SI/NO/PARCIALMENTE 
+Identificar los actores con 
+quienes cooperar/articular 
+las acciones, especialmente 
+cuando el control es parcial 
+
+
+--- PÁGINA 23 ---
+ 
+ 
+ 
+22 
+ 
+Recursos políticos 
+Capacidad 
+de negociación 
+con 
+actores para reducir la incertidumbre 
+sobre las variables que inciden en 
+los precios de los productos de  
+la cadena de valor 
+Sí 
+Cámaras 
+empresarias 
+(de sectores productivos, 
+y de asociaciones 
+de 
+supermercadistas) 
+R e c u rso s orga nizativo s 
+Capacidad de fiscalización 
+de los niveles de precios 
+Parcialmente 
+Asociaciones de 
+consumidores, 
+organizaciones sociales 
+¿ L a c a usa c rítica p asa el an álisis d e g ob ern abilid ad p ara c on ve rtirse en u n eje d e acción d el P LAN ? 
+Sí 
+ 
+CAUSA CRÍTICA 2: 
+Dificultades para el ingreso de pequeños productores a las cadenas de comercialización 
+¿QUÉ RECURSOS CRÍTICOS 
+DEMANDA REVERTIR ESTA CAUSA? 
+¿TENGO CAPACIDAD DE INCIDENCIA 
+SOBRE ESE RECURSO CRÍTICO? 
+SI HAY OTRO ACTOR QUE 
+CONTROLA ESE RECURSO 
+CRÍTICO, ¿CUÁL ES? 
+Analizar el grado de control sobre 
+las variables SI/NO/PARCIALMENTE 
+Identificar los actores con 
+quienes cooperar/articular 
+las acciones, especialmente 
+cuando el control es parcial 
+Recursos cognitivos 
+Identificar 
+las 
+debilidades 
+de  
+los pequeños productores para 
+incorporarse a las cadenas de 
+producción y comercialización 
+Sí 
+Cámaras empresarias PyMEs 
+Recursos organizativos 
+Desarrollar bocas de expendio de 
+proximidad/cercanía. 
+Coordinar ferias y mercados para 
+pequeños productores. 
+Generar acuerdos de provisión entre 
+productores y supermercados. 
+Parcialmente 
+Cámaras sectoriales; 
+gobiernos municipales 
+Recursos económicos  
+Brindar 
+financiamiento 
+para  
+la formalización y desarrollo de 
+productos de pequeños productores 
+Sí 
+Bancos públicos 
+¿ L a c a usa c rítica p asa el an álisis d e g ob ern abilid ad p ara c on ve rtirse en u n eje d e acción d el P LAN ? 
+Sí 
+ 
+
+
+--- PÁGINA 24 ---
+ 
+ 
+ 
+23 
+ 
+CAUSA CRÍTICA 3: 
+Bienes de consumo de la canasta básica representativa argentina 
+transables en el mercado internacional 
+¿QUÉ RECURSOS CRÍTICOS 
+DEMANDA REVERTIR ESTA CAUSA? 
+¿TENGO CAPACIDAD DE INCIDENCIA 
+SOBRE ESE RECURSO CRÍTICO? 
+SI HAY OTRO ACTOR QUE 
+CONTROLA ESE RECURSO 
+CRÍTICO, ¿CUÁL ES? 
+Analizar el grado de control sobre 
+las variables SI/NO/PARCIALMENTE 
+Identificar los actores con 
+quienes cooperar/articular 
+las acciones, especialmente 
+cuando el control es parcial 
+Recursos políticos 
+Aumentar 
+la 
+capacidad 
+de 
+regulación de los precios internos. 
+Fijar aranceles a la exportación de 
+bienes de la canasta transables. 
+No 
+No / Congreso 
+Recursos organizativos 
+Capacidad de desplegar acciones en 
+el 
+territorio 
+para 
+fiscalizar 
+y 
+sancionar frente a los aumentos. 
+Parcialmente 
+- 
+¿ L a c a usa c rítica p asa el an álisis d e g ob ern abilid ad p ara c on ve rtirse en u n eje d e acción d el P LAN ? 
+No 
+ 
+El análisis de gobernabilidad se realiza sobre cada una de las causas consideradas 
+críticas. Cuando una CAUSA CRÍTICA “aprobó” el ANÁLISIS DE GOBERNABILIDAD, puede 
+convertirse en un EJE DE ACCIÓN del plan. En este caso, avanzamos con el diseño de 
+los objetivos estratégicos basados en cada uno de los Ejes de Acción. En caso de que una 
+causa crítica no apruebe el análisis de gobernabilidad, no se considera recomendable 
+tomarla como Eje de Acción del Plan. 
+En el caso analizado, en las causas críticas 1 y 2 se considera que el actor “Secretaría de 
+Comercio Interior” cuenta con los recursos necesarios para enfrentarlas. Pero la causa 
+crítica 3, “Presión de los precios internacionales sobre el precio interno de los bienes de 
+consumo de la canasta básica”, se encuentra fuera del campo de gobernabilidad del actor. 
+Por esta razón, se desestima en este momento como Eje de Acción de la planificación. 
+Una vez realizado el Análisis de Gobernabilidad sobre cada una de las causas 
+identificadas como “críticas”, y seleccionadas aquellas sobre las que vamos a buscar 
+impactar con nuestro plan, hemos comenzado a diseñar nuestra estrategia para enfrentar 
+el problema. 
+
+
+--- PÁGINA 25 ---
+ 
+ 
+ 
+24 
+ 
+Para definir la estrategia, vamos a convertir cada una de las CAUSAS CRÍTICAS aprobadas 
+en el ANÁLISIS DE GOBERNABILIDAD en un OBJETIVO ESTRATÉGICO (Paso 6), que representa una 
+afirmación sobre la posibilidad de cambiar una condición negativa, tomada por un eje de 
+acción, por una situación positiva que impacte sobre el problema y lo revierta. 
+Paso 5: Definir el perfil de acción institucional para el logro de los objetivos 
+A nivel institucional, las definiciones estratégicas se expresan en una primera instancia en 
+la MISIÓN y la VISIÓN, ya sea de un Ministerio o ente descentralizado.12 
+La MISIÓN está basada en los objetivos institucionales establecidos por la Ley de 
+Ministerios y sus Decretos Reglamentarios, y es una descripción de la razón de ser    
+de la organización, establece su “quehacer” institucional, las acciones que realiza,    
+las funciones principales que la distinguen y la hacen diferente de otras instituciones y 
+justifican su existencia. Las acciones se definen en función de los objetivos institucionales 
+asignados normativamente y de los objetivos estratégicos delineados. 
+La VISIÓN corresponde al futuro deseado de la organización. Se refiere a cómo quiere ser 
+reconocida la entidad y representa los valores con los cuales se fundamenta su accionar 
+público. Esta definición se elabora a partir de la declaración de la imagen-objetivo que 
+se desea alcanzar en términos de la reversión del problema público (o los problemas) 
+que enfrenta la institución. 
+Cuadro N°5: Misión y Visión del Ministerio de Desarrollo Productivo - “Aumento sostenido en los 
+precios de la canasta representativa de consumo de los argentinos” 
+MISIÓN - MEDIANO PLAZO 
+El Ministerio de Desarrollo Productivo, a través de la Secretaría de Comercio Interior, de acuerdo con 
+la normativa vigente, tiene como objetivos: coordinar y generar propuestas sobre el desarrollo de 
+mecanismos y sistemas, para la protección de los derechos de los consumidores y usuarios, en 
+materia de su competencia; efectuar la propuesta, ejecución y control de la política comercial interna 
+en todo lo relacionado con la defensa del consumidor y la defensa de la competencia; y entender en 
+la implementación de políticas y en los marcos normativos necesarios para garantizar los derechos 
+del consumidor y el aumento en la oferta de bienes y servicios. Regula la producción y 
+comercialización a nivel nacional, con el objetivo de garantizar la protección de los derechos de 
+los consumidores establecidos en el artículo 42 de la Constitución Nacional. 
+ 
+ 
+12 ILPES-CEPAL (2011) Armijo, M., Planificación estratégica e indicadores de desempeño en el sector público, Santiago de 
+Chile 
+
+
+--- PÁGINA 26 ---
+ 
+ 
+ 
+25 
+ 
+VISIÓN - LARGO PLAZO 
+Ejemplo: El Ministerio de Desarrollo Productivo trabaja para reformular la matriz productiva del país 
+como forma de superar la crisis, a través de una nueva matriz distributiva, con la mejora del ingreso 
+salarial y reduciendo los niveles de pobreza. 
+Para ello, es necesario avanzar 
+hacia una 
+reindustrialización del país, analizando cuáles son las actividades que generarán demanda en 
+el futuro y poniendo en el centro a la innovación y a la tecnología. El Programa Precios Cuidados 
+“es un paso más en el objetivo de ordenar la economía” y “apunta a recuperar referencias claras en 
+términos de productos y precios que puedan orientar a las familias argentinas”.13 
+ 
+El proceso de planificación estratégica permite alinear la coherencia en las intervenciones 
+entre los distintos niveles de decisión de la organización. Si la entidad (ministerio, entidad 
+descentralizada, etc.), en función de sus objetivos institucionales, fija un conjunto de 
+objetivos estratégicos para un periodo de gobierno, estos serán las referencias a tener en 
+cuenta por los programas que se conforman en el marco de la entidad. 
+Al respecto, la identificación de los objetivos estratégicos a nivel ministerial, tales como 
+“Mejorar la calidad educativa”, “Disminuir los niveles de contaminación ambiental”, 
+“Fortalecer la competitividad nacional”, debe tener un claro correlato para su 
+implementación en las instancias ejecutoras, tales como los programas o las entidades 
+adscritas o descentralizadas a dichos ministerios. Los objetivos de los programas tienen 
+que alinearse con los objetivos estratégicos del Ministerio, y diseñar las acciones —como 
+veremos en los pasos siguientes— para alcanzar los resultados esperados. 
+Esto se visualiza en el siguiente gráfico: 
+ 
+ 
+13 Publicado en www.argentina.gob.ar. Nueva etapa del programa Precios Cuidados. Fecha: 07/01/2020. Disponible en:  
+https://www.argentina.gob.ar/noticias/nueva-etapa-del-programa-precios-cuidados 
+
+
+--- PÁGINA 27 ---
+ 
+ 
+ 
+26 
+ 
+Gráfico 5: Relación entre los objetivos estratégicos ministeriales y los objetivos y acciones de los programas 
+ 
+Elaboración propia sobre la base de ILPES-CEPAL (2011)14 
+Paso 6: Formular los Objetivos Estratégicos para enfrentar un problema público 
+La definición de los objetivos estratégicos la hemos trabajado desde el Paso 1      
+en vinculación con un problema público a enfrentar. En el Paso 5 llegamos hasta 
+la identificación de los ejes de acción (causas críticas del problema que analizamos desde 
+el punto de vista de los recursos que contamos para enfrentarlas). 
+El diseño de la estrategia de intervención continúa con la formulación de los OBJETIVOS 
+ESTRATÉGICOS/RESULTADOS ESPERADOS, que definen el cambio que se busca operar en 
+la realidad. La formulación del objetivo estratégico se realiza tomando cada EJE DE ACCIÓN 
+y definiendo sobre el mismo qué resultado espera alcanzarse. En ese sentido, 
+los objetivos expresan las estrategias generales de la planificación. 
+Para definir un objetivo estratégico tendremos en cuenta las siguientes pautas: 
+Deben señalar la expresión de logro, evidenciar el cambio o transformación que se espera 
+con las políticas y/o bienes y servicios que la institución tiene a su cargo, por ejemplo: 
+• 
+“Mejorar los estándares de competitividad”, “Disminuir los niveles de pobreza 
+alimentaria en la región analizada”, “Contribuir a mejorar los niveles de seguridad 
+ciudadana”, etc. 
+ 
+14 Armijo, M. Planificación estratégica e indicadores de desempeño en el sector público, Santiago de Chile. 
+
+
+--- PÁGINA 28 ---
+ 
+ 
+ 
+27 
+ 
+• 
+Evitar su redacción en términos de “Apoyar”, “Procurar”. 
+• 
+Expresarlo en términos concretos de resultados esperados y no ser establecidos 
+como funciones permanentes de la entidad o programa. 
+• 
+Responder a la ciudadanía hacia dónde se dirigen los recursos asignados de 
+la Institución en su globalidad. 
+• 
+Responder a un problema o aspecto específico relacionado con el cumplimiento 
+de la misión. 
+• 
+Responder sobre el beneficio esperado para los destinatarios a los cuales van 
+dirigidas las políticas y/o programas de la institución y qué pueden esperar con 
+los recursos presupuestarios asignados. 
+Con respecto a nuestro CASO “Aumento sostenido en los precios de la canasta 
+representativa de consumo de los argentinos”, dada la amplitud del alcance de      
+las respuestas de política que se dieron al mismo, permite distinguir objetivos estratégicos 
+orientados, por un lado, a los consumidores —generando precios de referencia claros y 
+decisiones de consumo informadas— y, por otro, a la cadena de comercialización, buscando 
+brindar precios previsibles de producción, comercialización y distribución basados en: 
+márgenes razonables de rentabilidad, incremento en la competitividad a través de un mayor 
+incremento en la oferta de bienes y servicios, y la inserción de mayores integrantes a   
+las cadenas de comercialización. En el desarrollo que se presenta a continuación 
+avanzamos en la línea de los objetivos relacionados con el sector productivo. 
+Cuadro N°6.1: Objetivos estratégicos/Resultados esperados - Caso: “Aumento sostenido en 
+los precios de la canasta representativa de consumo de los argentinos” 
+ 
+NÚMERO 
+EJE DE ACCIÓN 1 
+ 
+Ca usa c rítica que pasó el 
+a ná lisis de gobernabilidad 
+(viene del cuadro 4) 
+OBJETIVO ESTRATÉGICO/RESULTADO ESPERADO 
+CORTO PLAZO 2-3 AÑOS 
+D e fine el cambio que se desea operar en 
+la realidad que se interviene. Es una 
+de c laración que expresa la voluntad de 
+re vertir una situación problemática 
+1 . 
+Incertidumbre en costos 
+productivos futuros 
+Morigerar el aumento de precios a través de acuerdos 
+con los actores clave de la cadena de producción 
+2 . 
+Falta de competencia en empresas 
+productoras y comercializadoras de 
+alimentos. 
+Favorecer la competencia a través de la diversificación 
+de productores y comercializadores. 
+ 
+ 
+ 
+
+
+--- PÁGINA 29 ---
+ 
+ 
+ 
+28 
+ 
+Una vez definido cada Objetivo Estratégico, ya marcamos el sentido en el que buscamos 
+transformar la realidad. Para avanzar un paso más, tenemos que establecer cómo vamos 
+a medir el alcance de dicha transformación, a través de los indicadores de resultado 
+asociados a ese objetivo. El INDICADOR DE RESULTADO refiere a cambios en 
+el comportamiento, actitud o certificación de los destinatarios de un programa una vez 
+que han recibido los bienes, regulaciones o servicios de la intervención (FAO, 2013). Con 
+ello, es posible realizar un seguimiento, evaluar y tomar decisiones periódicamente 
+al interior de una organización. 
+Cuadro N°6.2: Indicadores de resultado - Caso: “Aumento sostenido en los precios de la canasta 
+representativa de consumo de los argentinos” 
+Objetivo 
+estratégico 1 
+¿Cuál es el cambio 
+que se desea 
+operar en 
+la realidad? 
+Indicadores de 
+resultado 
+¿Cómo vamos a 
+medir el cambio 
+de situación? 
+ 
+Medio de 
+verificación 
+¿Cuál va a ser la 
+fuente de cotejo 
+del indicador? 
+ 
+ 
+Línea de base 
+ 
+¿Cuál es el valor 
+de la última 
+medición del 
+indicador? 
+ 
+ 
+Meta 
+ 
+¿Cuál es el valor 
+esperado 
+al finalizar 
+el periodo 
+(anual)? 
+Morigerar 
+el aumento de 
+precios a través 
+de acuerdos con 
+los actores clave 
+de la cadena 
+productiva 
+% de variación 
+intermensual del 
+índice de precios 
+al consumidor para 
+los rubros 
+contemplados en 
+el acuerdo15 
+INDEC, Dirección 
+de Evaluación y 
+Monitoreo de 
+Precios 
+Variación % 
+mensual 
+diciembre 
+2019: 3.1% 
+Variación 
+mensual 
+promedio 2% 
+% de variación 
+interanual del índice de 
+precios al consumidor 
+para los rubros 
+contemplados en 
+el acuerdo16 
+INDEC, Dirección 
+de Evaluación y 
+Monitoreo de 
+Precios 
+Var % interanual 
+diciembre 2019: 
+56.8% (3.8% 
+mensual 
+promedio) 
+Promedio del % de 
+dispersión mensual en 
+precios por producto 
+Secretaría de 
+Comercio Interior 
+15%17 
+12% 
+ 
+ 
+ 
+ 
+ 
+ 
+15 IPC división “alimentos y bebidas no alcohólicas” 
+16 IPC división “alimentos y bebidas no alcohólicas” 
+17 Los valores incluidos el resto del documento son ilustrativos. 
+
+
+--- PÁGINA 30 ---
+ 
+ 
+ 
+29 
+ 
+Objetivo 
+estratégico 2 
+Indicadores de 
+resultado 
+Medio de 
+verificación 
+Línea de base 
+Meta 
+Favorecer 
+la competencia a 
+través de 
+la diversificación 
+de productores y 
+comercializadores18 
+% de unidades 
+vendidas de pequeños 
+productores (cuota de 
+mercado) 
+Secretaría de 
+Comercio Interior 
+Valor específico 
+por producto. 
+Ejemplo: Yerba 
+mate, 20% 
+Ejemplo: Yerba 
+mate, 30% 
+% de Facturación 
+medianos y pequeños 
+comercios en el total 
+de ventas minoristas 
+Secretaría de 
+Comercio Interior 
+30% 
+35% 
+Margen bruto unitario 
+en cada eslabón de 
+cadena producción-
+comercialización 
+Secretaría de 
+Comercio Interior 
+10% 
+Ejemplo, venta 
+minorista, 
+Grandes 
+Cadenas: 2%19 
+ 
+Hasta aquí contamos con los lineamientos estratégicos de la planificación (el PARA QUÉ): 
+hemos definido el sentido en el que se espera realizar la transformación en relación con 
+el problema. Sin embargo, aún no hemos definido el QUÉ, el conjunto de acciones que   
+la organización llevará adelante para lograr los resultados esperados. En ello 
+avanzaremos en el paso siguiente. 
+Paso 7. Perfil de acción de una política pública 
+Teniendo en consideración la MISIÓN, la VISIÓN institucional, y los OBJETIVOS ESTRATÉGICOS 
+(los resultados esperados), el siguiente paso consiste en identificar qué ACCIONES 
+desarrollará el organismo para lograr las transformaciones esperadas. En el Cuadro N°7 
+se vinculan los objetivos ministeriales, los objetivos estratégicos y las acciones a 
+desarrollar. Los objetivos ministeriales definidos por la Ley de Ministerios establecen   
+el marco de competencias para actuar en relación a los problemas. Sin embargo, en 
+general están formulados como funciones, y no expresan el sentido de cambio que   
+se busca lograr para revertir los problemas. Los objetivos estratégicos, en cambio, 
+complementan la información expresando el sentido de transformación que orienta a 
+las políticas y programas. 
+ 
+ 
+18 Por competencia en este contexto nos referimos a ampliar la cantidad de empresas que participan en la producción 
+o comercialización de productos. 
+19 Los valores son presentados a modo ilustrativo. 
+
+
+--- PÁGINA 31 ---
+ 
+ 
+ 
+30 
+ 
+Consideramos, además, en esta instancia las ACCIONES FINALES, es decir aquellas que 
+tienen un impacto hacia el exterior de la organización (ya sea la ciudadanía u otra 
+organización del sector público). En la Cadena de Valor Público clásica, estas acciones 
+serían los PRODUCTOS (bienes y servicios). Tal como se detalla en el apartado I, “El Lenguaje 
+de las políticas (públicas)”, desde la Secretaría de Fortalecimiento Institucional nos 
+basamos en el Modelo de Agregación de Valor Público (MAVP)20 que amplía el modelo de 
+la cadena de valor público más allá de la entrega de bienes y servicios a una variedad  
+de instrumentos que tienen las organizaciones públicas para intervenir en la realidad. 
+¿Cuáles son esos instrumentos? 
+a) ACCIONES DE PRODUCCIÓN: 
+La primera dimensión —ya señalada— es la producción de bienes y servicios que 
+entrega una institución pública (por ejemplo: Asistencia técnica, cursos de 
+capacitación, registros, concursos, articulación entre actores) 
+b) ACCIONES DE REGULACIÓN: 
+Las organizaciones públicas emiten regulaciones, medidas de política que se 
+proponen modificar el comportamiento de los ciudadanos o de terceras instituciones 
+a partir de establecer nuevas reglas de juego. Normas cuyo propósito es pautar 
+comportamientos de manera coactiva y permanente (ej.: Proyectos de ley, decretos, 
+disposiciones, regímenes, etc.) 
+c) ACCIONES DE DISTRIBUCIÓN: 
+El Estado realiza acciones de distribución directa a través de transferencias dinerarias. 
+En estos casos, aun cuando se requiera de ciertas acciones operacionales, no hay un 
+proceso de producción propiamente dicho (combinación y transformación de 
+insumos en productos), sino una transferencia monetaria (ej.: Subsidios, becas) 
+ 
+ 
+ 
+20 SOTELO MACIEL, Aníbal Jorge (2014), Cadena de valor público y planteamiento estratégico, limitaciones y virtudes 
+del modelo, Congreso Internacional del CLAD. 
+SOTELO MACIEL, A. J. (2016), Políticas públicas, valor público, planificación y presupuesto. En proceso de publicación. 
+
+
+--- PÁGINA 32 ---
+ 
+ 
+ 
+31 
+ 
+d) ACCIONES DE INVERSIÓN PÚBLICA: 
+El Estado realiza inversiones de capital que generan el incremento de los bienes 
+duraderos, ya sea para ampliar la capacidad de brindar bienes y servicios      
+(ej.: Construcción de hospitales o universidades) o para mejorar la infraestructura 
+física (ej.: Obras viales) 
+e) ACCIONES DE ORIENTACIÓN ESTRATÉGICA: 
+Una quinta dimensión de la producción de una política pública es la argumental o de 
+sentido. Toda política está estructurada por ideas que confrontan con otras ideas y 
+buscan imprimir una cierta direccionalidad a las acciones. No solo se espera que 
+los/as ciudadanos/as accedan a los bienes, servicios y transferencias y, al hacerlo, se 
+ajusten a las regulaciones que se establecen, sino también que comprendan 
+el argumento que da sentido a la política. En este sentido, a ese tipo de acciones que 
+buscan construir consensos estratégicos sobre las acciones las llamamos 
+Argumentaciones. 
+Las políticas públicas utilizan algunos de estos instrumentos a efectos de alcanzar sus 
+objetivos. 
+Algunas 
+políticas 
+pueden 
+ser 
+esencialmente 
+regulatorias; 
+otras, 
+primordialmente prestacionales, ya sea de bienes y servicios o de distribución de recursos 
+monetarios, pero todas son una combinación específica de estos tipos de instrumentos 
+en los que se pueden clasificar las acciones que el Estado lleva a cabo en los procesos de 
+agregación de valor público. 
+Llamamos PERFIL DE ACCIÓN ESTATAL a la combinación particular de acciones que     
+se proponen para el logro de los objetivos estratégicos, e impactará en el diseño de   
+los Programas (destinatarios y tipos de acciones acordes a sus necesidades y 
+expectativas) que dependan de la jurisdicción o entidad. 
+Avanzamos a partir de aquí en la identificación de las acciones que realizarán las áreas 
+enfocándonos en el nivel de Programas o Direcciones Nacionales, ya que en el nivel 
+organizativo se producen los bienes, servicios, regulaciones y transferencias. 
+Las acciones, una vez diseñadas, se cargarán en el MAPA DE LA ACCIÓN ESTATAL, con sus 
+correspondientes indicadores y metas, tal como analizaremos a continuación. 
+ 
+
+
+--- PÁGINA 33 ---
+ 
+ 
+ 
+32 
+ 
+Cuadro N°7: Perfil de acción institucional - Caso: “Aumento sostenido en los precios de la canasta 
+representativa de consumo de los argentinos - Programa: Canasta de Productos” 
+Objetivo Ministerial: 
+Entender en la implementación de políticas y en los marcos normativos necesarios para 
+garantizar los derechos del consumidor y el aumento en la oferta de bienes y servicios. 
+Área responsable: Secretaría de Comercio Interior 
+Objetivo 
+estratégico 
+Acciones (finales) 
+ 
+Bienes, servicios, regulaciones o 
+transferencias generados por 
+el organismo para atender 
+determinadas demandas de 
+la comunidad, externas a la institución 
+Indicador de producto 
+A medir en el periodo 2020 
+Refiere a los bienes y 
+servicios producidos o 
+entregados 
+Meta prevista 
+2020 
+Valor del 
+indicador de 
+producto en 
+un plazo 
+determinado 
+1) Morigerar 
+el aumento de 
+precios a 
+través de 
+acuerdos con 
+los actores 
+claves de 
+la cadena 
+productiva 
+Acuerdos de precios entre actores por 
+cadena de valor 
+(Acción de Producción: Articulación 
+de actores) 
+Promedio de cantidad 
+marcas por producto incluido 
+en el Programa, por trimestre 
+4 
+Porcentaje de primeras 
+marcas incluidas sobre 
+el total de marcas que 
+participan en el programa 
+30% 
+Tiempo promedio de 
+permanencia de productos 
+dentro de los acuerdos 
+12 meses 
+Fiscalización de los precios, 
+señalética y stock 
+(Acción de Producción: 
+Control/Fiscalización) 
+Porcentaje de precios 
+correctos sobre el total de 
+precios relevados 
+90% 
+Porcentaje de productos con 
+señalética correspondiente 
+sobre el total de productos 
+relevados 
+80% 
+Porcentaje de comercios 
+con correcto cumplimiento 
+de stock sobre total de 
+comercios relevados 
+95% 
+Difusión de precios de referencia 
+acordados 
+(Acción de Producción: Difusión) 
+Promedio de consultas 
+mensuales atendidas sobre 
+precios al 0800 
+1000 
+Promedio de descargas 
+mensual de la aplicación 
+“Canasta de Precios” 
+1.000.000 
+(acumulado 
+anual) 
+ 
+
+
+--- PÁGINA 34 ---
+ 
+ 
+ 
+33 
+ 
+ 
+Establecimiento de Precios Máximos 
+para alimentos de la canasta básica y 
+productos de primera necesidad 
+(Acción de Regulación: Resolución 
+100/2020 del Ministerio de Desarrollo 
+Productivo/Secretaría de Comercio 
+Interior)21 
+Porcentaje de denuncias por 
+incumplimiento de precios 
+máximos procesadas sobre 
+el Total de denuncias 
+recibidas 
+75% 
+2) Fomentar la 
+competencia 
+a través de la 
+diversificación 
+de los 
+productores y 
+comercializad
+ores 
+Acuerdos de precios con Pymes 
+(Acción de Producción: Articulación de 
+actores) 
+Cantidad de nuevas bocas de 
+expendio adheridas al 
+programa sobre la Cantidad 
+planificada para el trimestre 
+100% 
+Porcentaje de pequeños 
+productores que ingresan 
+mensualmente al programa 
+sobre el Total solicitudes de 
+ingreso de pequeños 
+productores recibidas al mes 
+80% 
+Monto total en $ de créditos 
+otorgados a pequeños 
+productores sobre el Monto 
+total en $ de créditos 
+otorgados a todos los 
+productores, (en %) en el 
+trimestre 
+60% 
+Asesoramiento técnico a pequeños 
+productores 
+(Acción de Producción: Asistencia 
+Técnica) 
+Porcentaje de productores 
+asesorados sobre el total de 
+solicitudes de asistencia a 
+productores, por trimestre 
+90% 
+ 
+Como ejemplo de las acciones de orientación estratégica del CASO analizado a lo largo de 
+esta Guía, reconstruimos los argumentos que dan sentido a la política pública en     
+la presentación del programa “Canasta de Productos”.22 
+Los principales argumentos señalados explicando el programa en pos de generar 
+consensos en torno a estas medidas fueron los siguientes: 
+ 
+ 
+ 
+21 Establecido en el marco de la emergencia sanitaria provocada por el COVID-19 como medida complementaria para 
+evitar los aumentos abusivos de precios. Fuente: Argentina.gob.ar 
+https://www.boletinoficial.gob.ar/detalleAviso/primera/227052/20200320 
+22 A modo de ejemplo de argumentaciones, se elaboró una síntesis basada en la presentación del Programa “Precios 
+Cuidados” en enero 2020 por el Sr. Jefe de Gabinete de Ministros Santiago Cafiero, el Sr. Ministro de Desarrollo Productivo 
+Matías Kulfas y la Sra. Secretaria de Comercio Interior Paula Español en el relanzamiento del mismo. Obtenido del sitio de 
+Casa Rosada: https://www.youtube.com/watch?v=eRyLaIMZirI 
+
+
+--- PÁGINA 35 ---
+ 
+ 
+ 
+34 
+ 
+➔ El objetivo del Programa es recomponer el bolsillo de los argentinos, favorecer 
+la reactivación de la economía y la producción nacional de alimentos.  
+➔ Para ello, el gobierno está inyectando, a través de la Tarjeta Alimentaria y otros 
+subsidios como el bono a jubilados, 100.000 millones de pesos en la economía de 
+las familias. 
+➔ La nueva canasta de productos surge de acuerdos de precios a niveles razonables 
+que van a permitir que este esfuerzo económico se traduzca en mayor capacidad de 
+consumo de las familias, evitando el alza de precios. 
+➔ Estos acuerdos son voluntarios y, a través de la negociación del Estado con sectores 
+industriales y supermercadistas, permitieron bajar el precio de los productos de 
+la canasta un 8% promedio. 
+➔ La canasta está compuesta por los productos que son representativos del consumo 
+de los argentinos, en presentaciones económicas y de primeras marcas, lo que creará 
+precios de referencia para el resto de los productos y garantizará el abastecimiento en 
+todo el país. 
+➔ Como ejemplos de los 310 productos que se reincorporaron a la canasta se 
+destacan: las principales marcas de pañales, lácteos, lavandina, toallas femeninas. 
+Todos los productos de la canasta son de consumo masivo y representativo de 
+aquellos que compran los argentinos y argentinas. 
+➔ La duración de los acuerdos será de un año con revisiones trimestrales, lo cual nos 
+da mayor estabilidad a la composición de la canasta de productos. 
+A través de estos argumentos, se busca explicar la política pública y generar apoyos a 
+las decisiones instrumentadas. 
+MOMENTO 3: DISEÑO Y PROGRAMACIÓN DE LAS ACCIONES 
+En el tercer momento, buscamos operacionalizar las acciones finales en hitos y 
+actividades críticas, con plazos y responsables definidos, identificando los recursos 
+necesarios para llevarlas adelante. 
+ 
+
+
+--- PÁGINA 36 ---
+ 
+ 
+ 
+35 
+ 
+Paso 8: Desarrollar los Planes de acción 
+En este paso se diseñan con mayor nivel de detalle las operaciones críticas que permitirán 
+realizar las acciones que contribuirán al logro de los resultados. Cabe aclarar que se trata 
+de un primer nivel de programación, que permite construir la trayectoria de hitos 
+principales a lograr a través de cada una de las acciones finales. A posteriori, esta 
+programación podrá desagregarse con más detalle en el nivel de los equipos de trabajo. 
+Para cada una de las acciones finales se identificarán, en primer lugar, los hitos que se 
+irán desarrollando a lo largo del año. Llamamos HITO a un hecho de política pública que 
+se presenta en determinado momento de la ejecución de un proyecto y que reúne    
+las condiciones de: observable, comunicable y valorable por los destinatarios del proyecto. 
+Cada uno de los hitos tendrá una FECHA CLAVE esperada y un conjunto de ACTIVIDADES 
+CRÍTICAS a realizar y FECHAS CLAVE esperadas para lograr el hito en dicha fecha. En cada 
+una de las actividades críticas se especificará la coordinación con actores clave 
+mapeados. Además, se identifican los recursos que demandará la acción: presupuesto 
+estimado, dotación de recursos humanos y si están previstas adquisiciones, de forma de 
+programar con tiempo el procedimiento de compras públicas. 
+Cuadro N°8: Programación operativa- Caso: “Aumento sostenido en los precios de la canasta 
+representativa de consumo de los argentinos - Programa “Canasta de Productos” 
+(Completar un cuadro como el siguiente por acción final) 
+Acción final 1: Acuerdos de precios con todos los actores de la cadena productiva para fijar 
+precios de referencias de productos esenciales de la canasta de consumo argentina 
+Área responsable dentro de la Subsecretaría: Dirección Nacional 
+Hitos 2020 
+Fecha clave 
+hito 
+Actividades críticas 
+Fecha en que la actividad 
+estará cumplida 
+Presentación del 
+acuerdo de precios 
+7/01/2020 
+1) Elaboración de canasta 
+representativa de consumo de 
+los argentinos 
+20/12/2019 
+2) Estudio de cadena de valor para 
+establecer precio de referencia 
+29/12/2019 
+3) Negociación de precio con 
+integrantes de la cadena 
+productiva 
+Acuerdo Cadena de 
+Supermercados 17/01/2020 
+Acuerdo CAS-FASA 
+08/02/2020 
+
+
+--- PÁGINA 37 ---
+ 
+ 
+ 
+36 
+ 
+Hitos 2020 
+Fecha clave 
+hito 
+Actividades críticas 
+Fecha en que la actividad 
+estará cumplida 
+Renovaciones 
+trimestrales 
+del acuerdo 
+ 
+1) Evaluación de la variación 
+de precios adecuada para 
+el trimestre 
+30/03/2020 
+2) Acuerdo de nuevos valores 
+con integrantes de la cadena 
+productiva 
+3 meses posteriores a 
+la firma del primer acuerdo 
+Informes de 
+evaluación y 
+ampliación de 
+los acuerdos 
+Mensual y 
+Trimestral 
+1) Elaboración de informes de 
+cumplimiento del acuerdo 
+Mensual 
+2) Difusión pública de niveles de 
+cumplimiento y ampliación del 
+acuerdo 
+Trimestral 
+ 
+A partir de contar con la sumatoria de hitos que prevén desarrollar los proyectos, se podrá 
+construir, con un criterio técnico-político, una trayectoria del proyecto de gestión 
+institucional durante un año que fue programado en el Paso 8. Esta trayectoria brindará 
+pautas para el seguimiento de gestión, y también para la comunicación del proyecto. 
+Paso 9: Vinculación de la planificación estratégica con los ODS 
+Los Objetivos de Desarrollo Sostenible 2030 son el resultado de una agenda que     
+los países que integran la Organización de Naciones Unidas han establecido 
+voluntariamente para alcanzar la inclusión, la prosperidad compartida, combatir 
+la desigualdad, y la protección duradera del planeta, entre otros desafíos. De esta forma, 
+se conciben también como una herramienta de planificación que permite orientar 
+las iniciativas de gobiernos hacia las metas que los países se propusieron lograr.23 
+Una vez concluidos los momentos de la planificación estratégica, se sugiere identificar 
+aquellas iniciativas/acciones/programas que puedan vincularse con el cumplimiento de 
+los Objetivos de Desarrollo Sostenible. El proceso de vinculación de la planificación 
+estratégica, en el momento de su diseño, con los ODS colabora en: 
+- 
+Armonizar de manera eficiente las estrategias de los distintos ministerios y 
+organismos de la Administración Pública Nacional. 
+- 
+Evitar duplicaciones de acciones entre ministerios. 
+ 
+23 CNCPS (2018) Manual para la adaptación local de los Objetivos de Desarrollo Sostenible. Fuente: ODS Argentina 
+www.odsargentina.gob.ar 
+
+
+--- PÁGINA 38 ---
+ 
+ 
+ 
+37 
+ 
+- 
+Responder a prioridades transversales a nivel nacional. 
+- 
+Agilizar los procesos de reajuste de estrategias y operaciones. 
+- 
+Promover la incorporación del enfoque de derechos. 
+Los pasos recomendados para el proceso de vinculación ODS son los siguientes: 
+1. Identificar aquellas acciones impulsadas por la planificación estratégica y operativa 
+que colaboren en el cumplimiento de las metas postuladas a nivel nacional en 
+el marco de los ODS. 
+2. Formular un listado preliminar seleccionando el o los indicadores de mayor robustez 
+metodológica y que mejor midan el efecto esperado de las acciones estatales 
+implementadas. 
+3. Completar las fichas técnicas según los requerimientos solicitados por el Consejo 
+Nacional de Coordinación de Políticas Sociales dentro de JGM. 
+4. Revisar y revalidar periódicamente las prioridades de gestión en cuanto a 
+la generación de nuevas acciones para incluir en el marco ODS. 
+Esta vinculación entre las acciones estatales y los ODS podrá realizarse a través del MAPA 
+DE LA ACCIÓN ESTATAL. 
+Cuadro N°9: Vinculación Planificación Estratégica Nacional y Agenda ODS - Caso: “Aumento 
+sostenido en los precios de la canasta representativa de consumo de los argentinos - Programa: 
+Canasta de Productos” 
+Agenda ODS 
+Planificación Estratégica Nacional 
+ODS 
+ 
+Buscar 
+objetivo y 
+metas en: 
+www.ods
+argentina
+.gob.ar 
+Meta ODS 
+ 
+Meta Argentina 
+ODS 
+Indicador 
+ODS 
+Indicador de 
+resultado de la 
+planificación 
+estratégica 
+nacional que 
+aún no haya 
+sido vinculado 
+Objetivo 
+Estratégico 
+Objetivo 
+estratégico 
+ministerial 
+Indicador de 
+Resultado 
+Indicador de 
+resultado de 
+la planificación 
+estratégica 
+nacional que aún 
+no haya sido 
+vinculado 
+Acción 
+estatal 
+Indicador de 
+Producto 
+1) 
+Reducción 
+de la 
+pobreza 
+1.4) Garantizar 
+que todos 
+los hombres y 
+mujeres tengan 
+los mismos 
+derechos a 
+los recursos 
+económicos y 
+acceso a 
+los servicios 
+básicos, 
+la propiedad y el 
+control de la tierra 
+y otros bienes 
+% de 
+variación 
+intermensual 
+del índice de 
+precios al 
+consumidor 
+Morigerar 
+el aumento 
+de precios 
+a través de 
+acuerdos con 
+los actores 
+claves de 
+la cadena 
+productiva. 
+% de variación 
+intermensual del 
+índice de precios 
+al consumidor 
+Acuerdos 
+de precios 
+con todos 
+los actores 
+de la 
+cadena 
+productiva 
+Cantidad de 
+productos 
+comprendidos 
+en el acuerdo 
+
+
+--- PÁGINA 39 ---
+ 
+ 
+ 
+38 
+ 
+III. METODOLOGÍA DE SEGUIMIENTO DE GESTIÓN 
+1. Introducción al seguimiento de gestión 
+El seguimiento —o monitoreo— es una herramienta de gestión para examinar el avance 
+de una política pública en ejecución: permite comparar su desempeño efectivo con    
+el planificado, los gastos reales y presupuestados y conocer los resultados reales 
+previstos o imprevistos.24 
+El monitoreo resulta útil dado que: 
+• 
+Proporciona información sobre el progreso de una política pública; 
+• 
+Brinda datos importantes para la toma de decisiones sobre las modificaciones 
+que sean necesarias; 
+• 
+Contribuye a mejorar el producto que se brinda a la población destinataria. 
+Es recomendable incluir en la planificación un plan de monitoreo que contemple una 
+mirada sistémica sobre los indicadores de gestión, y establecer la metodología mediante 
+la cual se recopilarán datos, como: fuente, método, cronograma y responsables. 
+Las evaluaciones sirven para: 
+• 
+Contribuir a analizar por qué se obtuvieron, o no, los resultados previstos. 
+• 
+Explorar por qué hubo resultados o consecuencias imprevistas, 
+• 
+Evaluar cómo y por qué los resultados se vieron afectados por actividades 
+específicas. 
+• 
+Ilustrar sobre los procesos de implementación, las fallas y los éxitos que ocurren 
+en cada nivel. 
+Consecuentemente, el monitoreo y la evaluación difieren en su frecuencia de 
+implementación y en los aspectos que tratan: 
+• 
+El monitoreo se hace periódicamente durante la ejecución de una política pública, 
+para seguir su avance y realizar mejoras. 
+ 
+24 En el presente documento tomaremos los términos “seguimiento” y “monitoreo” como sinónimos. 
+
+
+--- PÁGINA 40 ---
+ 
+ 
+ 
+39 
+ 
+• 
+La evaluación es una actividad puntual. Se puede realizar en distintos momentos 
+—antes, durante o después— de la implementación de una política. 
+El seguimiento es una actividad interna que realiza el personal afectado a la ejecución de 
+la política pública. En contraste, la evaluación puede realizarse interna o externamente, 
+siendo responsabilidad del evaluador y del personal del programa/política pública. Estas 
+diferencias entre monitoreo y evaluación los convierten en complementarios y necesarios 
+para conocer en profundidad a las políticas públicas y potenciarlas. 
+En esta sección de la guía, presentaremos los distintos momentos del seguimiento y   
+la evaluación, los pasos para su implementación y la descripción del enfoque propuesto. 
+ 
+2. Los momentos del seguimiento 
+La metodología aquí propuesta se describe en tres momentos. 
+MOMENTO 1: DISEÑO DEL PROCESO DE SEGUIMIENTO 
+En el primer momento, se establecen las definiciones clave del seguimiento de gestión: 
+la modalidad de monitoreo centralizada o descentralizada y el proceso de selección de 
+información estratégica a monitorear: indicadores, metas, líneas de base, etc. 
+MOMENTO 2: IMPLEMENTACIÓN DE ACCIONES DE SEGUIMIENTO Y EVALUACIÓN 
+Una vez definido el diseño del modelo de seguimiento, comienza la instancia de 
+implementación. Aquí, los actores involucrados se familiarizan con el proceso y con   
+las herramientas de monitoreo a emplear. Además, si no se ha realizado aún, y 
+nutriéndose de los insumos del seguimiento, puede definirse la estrategia de evaluación. 
+MOMENTO 3: USO DE LA INFORMACIÓN OBTENIDA 
+Una vez desarrolladas las prácticas de seguimiento y evaluación es fundamental establecer 
+acciones y mecanismos para potenciar el uso de los hallazgos. Para esto, importa 
+considerar quienes son los destinatarios del mensaje y sus necesidades de información. 
+A su vez, podemos desagregar los tres momentos en nueve pasos, como se observa en 
+el siguiente gráfico. 
+ 
+
+
+--- PÁGINA 41 ---
+ 
+ 
+ 
+40 
+ 
+Gráfico 6: Pasos de la metodología de seguimiento 
+ 
+ 
+3. Pasos de la metodología de seguimiento 
+MOMENTO 1: DISEÑO DEL PROCESO DE SEGUIMIENTO 
+Paso 1: Definir la modalidad de seguimiento “centralizado o descentralizado” 
+Al interior de los organismos de la Administración Pública Nacional (APN) pueden 
+adoptarse distintos enfoques para el seguimiento de gestión. A grandes rasgos, se 
+destacan dos formas de organizar la práctica de monitoreo: el área encargada de hacer 
+seguimiento centraliza la tarea o esta se encuentra descentralizada en las diferentes áreas 
+de gestión. Generalmente, predomina el primer enfoque, centralizado. En este caso,   
+el área a cargo del monitoreo de gestión, se ocupa de identificar las necesidades de 
+información, según las prioridades de gestión y trabaja con cada área del ministerio u 
+organismo en la obtención de datos y en recopilar y sistematizar la información recabada. 
+Bajo la modalidad de trabajo descentralizada, existen varios referentes por ministerio que 
+hacen la tarea de recopilar, analizar y sistematizar la información para sus respectivas 
+áreas de trabajo. 
+La modalidad centralizada suele resultar adecuada para lograr procesos más coordinados, 
+con instancias de comunicación y presentación de la información más uniformes. 
+
+
+--- PÁGINA 42 ---
+ 
+ 
+ 
+41 
+ 
+ 
+ 
+Cuadro N°10: Definición de la modalidad de seguimiento - Ejemplo “Canasta de productos” 
+Objetivo estratégico 1: Morigerar el aumento de precios a través de acuerdos con los actores clave de 
+la cadena de producción 
+Qué información se 
+necesita recolectar 
+Información sobre precios de venta final de bienes pertenecientes al programa.  
+Información sobre precios de venta final de bienes no incluidos en el programa.  
+Información de tiempo de permanencia de los productos adheridos al programa. 
+Información de marcas por productos adheridas al programa. 
+Información de cumplimiento de disponibilidad de stock, señalización, precios y 
+monto en $ por sanciones aplicadas. 
+Información de comercios adheridos al programa. 
+Información sobre llamados al 0800 y descargas de aplicación. 
+Qué tiempos o plazos 
+de reporte se 
+tomarán por área, 
+programa o indicador 
+Plazos de tiempo de reporte serán mensuales para el relevamiento de precios, 
+cumplimiento de stock, precios y señalización, el tiempo que se encuentre vigente 
+el producto en el programa. 
+Plazos de tiempo serán trimestrales para el reporte de comercios y productores 
+adheridos, el tiempo de permanencia de productos, marcas, monto en $ por 
+sanciones, consultas al 0800 y uso de la aplicación, el tiempo en que se encuentre 
+vigente en el programa. 
+Roles y 
+responsabilidades 
+del proceso 
+Secretaría de Comercio Interior: Generar información sobre acuerdos rubricados, 
+incorporación de productos y marcas incluidos, precios de referencia, y grado de 
+cumplimiento de convenios.  
+Gobiernos provinciales y municipales (Relevamientos de precios y fiscalización de 
+cumplimientos de acuerdos) 
+Quién/es son 
+los destinatarios de 
+esa información 
+Ministerio de Desarrollo Productivo 
+Secretaría de Comercio Interior 
+Gobiernos provinciales y municipales 
+Asociación de Defensa de Consumidores 
+Cámaras empresariales 
+Modalidad de seguimiento 
+Centralizado 
+ 
+ 
+En ambas modalidades de seguimiento se tomarán decisiones sobre: 
+● Qué información se necesita recolectar 
+● Qué tiempos o plazos de reporte se tomarán por área, programa o indicador 
+● Roles y responsabilidades del proceso 
+● Quién/es son los destinatarios de esa información 
+● Cuál es la fuente de información que se incluirá 
+Con estos aspectos en mente un área podrá tomar la decisión sobre qué modalidad 
+de trabajo es más apropiada para su contexto y sus posibilidades. 
+
+
+--- PÁGINA 43 ---
+ 
+ 
+ 
+42 
+ 
+Objetivo estratégico 2: Favorecer la competencia a través de la diversificación de productores y 
+comercializadores 
+Qué información se 
+necesita recolectar 
+Información de comercios adheridos al programa. 
+Información del número de pequeños productores adheridos al programa, 
+solicitudes de asistencia, asesoramiento brindados y monto en $ por créditos 
+otorgados. 
+Información de Facturación de pequeños y medianos comercios, y Facturación 
+general. 
+Información sobre estructura de costos de empresas. 
+Qué tiempos o plazos de 
+reporte se tomarán por 
+área, programa o indicador 
+Plazos de tiempo serán trimestrales para el reporte de comercios y 
+productores adheridos, unidades vendidas por pequeños productores, monto 
+de facturación de pequeños y medianos comercios, número de productores 
+con asistencia técnica y monto en créditos otorgados, el tiempo en que se 
+encuentre vigente en el programa. 
+Roles y responsabilidades 
+del proceso 
+Secretaria de comercio interior: Generar información sobre acuerdos 
+rubricados, márgenes de rentabilidad acordados por eslabón y rubro, evolución 
+de ventas de productos incluidos, número de productores asesorados y monto 
+en créditos otorgados. 
+Quién/es son 
+los destinatarios de 
+esa información 
+Ministerio de Desarrollo Productivo 
+Secretaría de Comercio Interior 
+Asociación de Defensa de Consumidores  
+Cámaras empresariales 
+Modalidad de seguimiento 
+Centralizado 
+ 
+Paso 2: Seleccionar qué monitorear 
+El monitoreo de gestión se puede aplicar en distintos contextos; desde una intervención 
+acotada a un conjunto de actividades, hasta un monitoreo integral de una política pública 
+que incluya hacer seguimiento desde los insumos que intervienen (recursos financieros, 
+humanos y materiales) hasta los resultados. Por ejemplo, en un plan de vacunación se 
+puede monitorear la cantidad de insumos médicos que reciben, la cantidad de personal 
+con que cuenta, el presupuesto que ejecuta, los productos que genera —en este caso, 
+brindar el servicio de vacunación— y los resultados que obtiene —la mejora en la situación 
+de salud de la población. 
+Como ya se mencionó, el monitoreo es descriptivo, no involucra juicios de valor. Esta 
+práctica nos brinda información sobre cuál es la situación de una política pública o 
+programa con relación a determinados aspectos o variables. Estos aspectos van a 
+reportarse a partir de distintos indicadores. 
+
+
+--- PÁGINA 44 ---
+ 
+ 
+ 
+43 
+ 
+Seleccionar qué información incluir en la etapa de seguimiento implica, entre otras cosas, 
+considerar cuáles son los productos que desarrolla esa intervención: qué bienes, servicios, 
+transferencias o regulaciones busca producir como forma de agregar valor público, con 
+el fin de atender una problemática específica. Los productos del programa se analizarán 
+a partir de sus indicadores de producto. 
+Además, conviene identificar entre los distintos indicadores de resultado cuál es el 
+principal o aquél que mejor expresa si se ha alcanzado el resultado esperado para ese 
+programa o política pública. Estos indicadores son clave, ya que indican el éxito del 
+programa, es decir, si se ha logrado —o no— el resultado previsto.25 
+Cuadro N°11: Consideraciones sobre qué Información de indicadores y actividades recolectar al 
+inicio del seguimiento 
+Información a recolectar 
+1. Considerar qué aspecto o variable indicaría el éxito del programa o política  
+→ Identificar qué indicador representa mejor esto. 
+2. Incluir indicadores complementarios para enriquecer la comprensión de la situación. 
+3. Incluir actividades necesarias para ver la evolución de esos indicadores clave. 
+ 
+Además, a la hora de seleccionar qué medir, existen algunos criterios orientadores como: 
+• 
+La relevancia, es decir medir lo importante -medir más cosas, no necesariamente 
+mejora el proceso, de hecho, puede entorpecerlo. 
+• 
+La disponibilidad. Considera si: ¿Se podrá contar con esa información a lo largo 
+del proceso de monitoreo? ¿Estará disponible información confiable sobre esto? 
+• 
+La pertinencia, ¿tiene sentido reportar un determinado dato cada mes o semana? 
+¿O con conocer esa información trimestralmente 
+se permite analizar 
+su evolución? 
+ 
+ 
+ 
+ 
+25 Ver Anexo - Indicadores de este documento para más detalle sobre tipos de indicadores y construcción de los 
+mismos. 
+
+
+--- PÁGINA 45 ---
+ 
+ 
+ 
+44 
+ 
+Paso 3: Identificar la frecuencia en que se obtiene —y reporta— información durante 
+la práctica de seguimiento de gestión 
+La frecuencia de reporte de información en el monitoreo va a depender del tipo de 
+indicador. Existen distintos tipos de indicadores. Los indicadores vinculados a insumos, 
+actividades y productos suelen actualizarse con mayor frecuencia que los indicadores 
+asociados a resultados e impactos. Estos últimos demoran más tiempo en generar 
+información, ya que los resultados e impactos requieren de cambios en 
+el comportamiento de la población objetivo. Estos cambios conductuales se producen 
+más lentamente que la realización de una actividad o la entrega de un bien o servicio. 
+Y, por ende, se reportan menos frecuentemente. 
+Asimismo, la frecuencia de reporte de los indicadores de gestión puede variar en cada 
+caso, según los criterios arriba presentados de relevancia, pertinencia y disponibilidad. 
+Paso 4: Seleccionar una meta sobre la cual hacer seguimiento 
+La meta responde a las preguntas sobre cuánto queremos alcanzar y en qué plazos 
+(FAO 19). Los programas suelen tener indicadores a los que se les asocia una meta contra 
+la cual cotejar los valores reales. La definición de la meta va a estar sujeta a criterios 
+técnicos y políticos sobre las prioridades y las posibilidades institucionales, de recursos y 
+los condicionamientos del contexto para alcanzar un determinado resultado o 
+valor observable. 
+Para determinar el valor a asignar a una meta, también es importante considerar, como 
+referencia, los valores anteriores para esa medición o mediciones comparables. En este 
+sentido, en los casos donde existan líneas de base, primeras mediciones o antecedentes, 
+es relevante tomarlas en consideración. 
+Las metas pueden ser finales o intermedias. Las metas finales son las que se esperan 
+alcanzar al final del período a monitorear, mientras que las metas intermedias son las que 
+se calculan al interior del período en cuestión y sirven de guía para analizar, si para ese 
+indicador, el avance sucede según lo esperado. Las metas intermedias acumuladas   
+(o sumadas) expresan cuál es el valor numérico de la meta final. Asimismo, según 
+la naturaleza del indicador este puede acumular —o no— las metas intermedias a lo largo 
+del período a monitorear. 
+ 
+
+
+--- PÁGINA 46 ---
+ 
+ 
+ 
+45 
+ 
+Ejemplo - Meta acumulativa: Construir 6 salas de atención primaria en provincia X, durante 2020. 
+Mes 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+Total 
+Meta 
+ 
+1 
+ 
+2 
+ 
+ 
+ 
+1 
+ 
+1 
+1 
+ 
+6 
+ 
+El caso de arriba muestra un indicador cuya meta es acumulativa. Ahora, si tomamos un 
+ejemplo de indicador de cobertura sobre personas que reciben una transferencia dineraria, 
+—o un bien o servicio— en forma condicionada a una contraprestación, en ese caso 
+el valor no es acumulable, ya que los receptores del producto pueden variar mes a mes y 
+el valor total para ese período, no sería la suma de los valores mensuales. 
+Con respecto a nuestro ejemplo transversal sobre el Programa “Canasta de Productos” 
+la evolución de la meta acumulativa puede manifestarse según el ejemplo presentado 
+a continuación: 
+Ejemplo - Meta acumulativa: Número de bocas de expendio adheridas al programa, durante 2020. 
+Mes 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+Total 
+Meta 
+Mensual 
+800 
+700 
+600 
+400 
+400 
+300 
+300 
+200 
+200 
+100 
+0 
+0 
+4000 
+Meta 
+Trimestral 
+ 
+ 
+2100 
+ 
+ 
+1100 
+ 
+ 
+700 
+ 
+ 
+100 
+4000 
+ 
+En la tabla anterior se detalla la cantidad de convenios que se espera firmar por mes. 
+Se espera que las bocas de expendio adheridas al programa se mantengan hasta el final 
+del mismo, de allí la naturaleza acumulativa del indicador. 
+Por otro lado, algunas metas de acciones estatales se desarrollan en forma 
+no acumulativa. 
+Ejemplo - Meta no acumulativa: Cantidad de personas que participan del programa de 
+transferencias condicionadas X, en Lomas de Zamora, PBA, durante 2020. 
+Mes 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+Total 
+Valor 
+Meta 
+200 
+150 
+200 
+185 
+200 
+190 
+180 
+195 
+200 
+190 
+195 
+200 
+200 
+ 
+En el caso de nuestro ejemplo transversal la evolución de la meta no acumulativa se 
+podría desarrollar de la siguiente manera: 
+Ejemplo - Meta no acumulativa: % de productos de primeras marcas adheridas al programa, durante 2020. 
+Mes 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+Total 
+Valor 
+Meta 
+ 
+ 
+40% 
+ 
+ 
+35% 
+ 
+ 
+30% 
+ 
+ 
+30% 
+30% 
+
+
+--- PÁGINA 47 ---
+ 
+ 
+ 
+46 
+ 
+En este caso, para el Programa “Canasta de Productos”, el acuerdo inicial contempla la firma 
+con primeras marcas principalmente. Luego, conforme se van sumando productos, 
+segundas y terceras marcas al programa, el porcentaje de primeras marcas incluidas 
+disminuye. Se considera que, de mantener esta relación en el tiempo, los precios de 
+primeras marcas adheridas servirían efectivamente como referencia de las demás marcas. 
+Paso 5: Identificar línea de base de los indicadores 
+A medida que se llevan a cabo distintos periodos de monitoreo sobre un programa, 
+los indicadores pueden sufrir modificaciones o se puede reemplazar uno por otro, si fuera 
+necesario. Sin embargo, al inicio, es necesario crear una línea de base o primera medición.  
+Para esto, se deben seleccionar los indicadores basados en las necesidades reales de 
+información, previamente identificadas. Este proceso de puesta en marcha       
+del seguimiento de gestión responde a la pregunta: ¿Qué información o datos necesito 
+saber (y seguir) para conocer la evolución de esta intervención (plan, o programa)? 
+La respuesta a esta pregunta suele incluir distintos tipos de indicadores, considerados a 
+lo largo del tiempo. Según Rist y Kuzek (2004), a partir de la tercera medición de un 
+indicador, es posible empezar a conocer la tendencia del mismo. 
+Con respecto a los puntos trabajados en la sección de seguimiento hasta aquí, habiendo 
+definido los distintos indicadores a incluir en el seguimiento, sus respectivas frecuencias 
+de reporte, metas, líneas de base y actividades asociadas podemos sistematizar 
+la información según se muestra en el cuadro a continuación. 
+Cuadro N°12: Información relevante a considerar durante la etapa de diseño de seguimiento 
+Indicadores 
+Meta o 
+propósito 
+Línea de 
+base 
+Frecuencia de 
+reporte 
+Actividades 
+asociadas al 
+indicador 
+- Indicador principal: 
+Indicador que mejor 
+representa el éxito 
+del programa. 
+- Indicadores 
+complementarios 
+Valor anual 
+que se 
+busca 
+alcanzar 
+Primera 
+medición o 
+medición 
+anterior para 
+ese indicador 
+A definir entre: Anual, 
+semestral, trimestral, 
+mensual. La 
+frecuencia de reporte 
+va a depender del 
+tipo de indicador 
+Actividades que 
+son necesarias 
+realizar para que 
+el indicador se vaya 
+acercando a la 
+meta seleccionada 
+ 
+Veamos a continuación cómo se aplica este cuadro a nuestro ejemplo del Programa 
+“Canasta de Productos”. 
+
+
+--- PÁGINA 48 ---
+ 
+ 
+ 
+47 
+ 
+Cuadro N°13: Información relevante a considerar durante la etapa de diseño de seguimiento:  
+Ejemplo “Canasta de Productos” 
+Indicadores 
+Meta anual 
+Línea de base26 
+Frecuencia 
+de reporte 
+Actividades 
+asociadas al 
+indicador 
+Eje acción 1: Regular el aumento de precios a través de acuerdos con los actores claves de 
+la cadena de producción 
+Indicador principal: 
+Porcentaje de 
+variación 
+intermensual del 
+índice de precios al 
+consumidor para los 
+rubros 
+contemplados en el 
+acuerdo 
+Tipo: I. de Resultado 
+Primer año: 
+2% mensual 
+promedio 
+(26% 
+acumulado 
+anual) 
+% de variación 
+intermensual y 
+promedio anual27 
+Ejemplo: 
+Var % mensual 
+enero 2019: 3.4% 
+Var % mensual 
+diciembre 2019: 
+3.1% 
+Var % mensual 
+promedio enero-
+dic 2019: 3.8% 
+(56.8% 
+acumulado 
+anual) 
+Mensual 
+Revisar trimestralmente 
+y negociar la lista de 
+precios sobre la base de 
+criterios objetivos. 
+Fiscalizar 
+periódicamente el 
+cumplimiento de 
+precios de venta, 
+disponibilidad de stock 
+y señalización. 
+Implementar las 
+sanciones 
+correspondientes. 
+  
+  
+Indicador 
+Complementario 1: 
+Porcentaje de 
+variación 
+intermensual del 
+índice de precios al 
+consumidor. 
+Tipo: I. de Resultado 
+Primer año: 
+2.5% 
+mensual 
+promedio 
+(34% 
+acumulado 
+anual) 
+% de variación 
+intermensual, y 
+promedio anual 
+Ejemplo 
+Var % mensual 
+enero 2019: 2.9% 
+Var % mensual 
+diciembre 2019: 
+3.7% 
+Var % mensual 
+promedio enero-
+dic 2019: 3.7% 
+(53% acumulado 
+anual) 
+Mensual 
+ 
+26 Para aquellos indicadores en los que se cuenta con información previa al lanzamiento del programa se tomó como 
+línea de base la medición anterior, y en caso contrario, el primer mes del lanzamiento del programa. 
+27 Porcentaje de variación para mismo mes correspondiente al año previo y porcentaje de variación del mes inmediato 
+anterior. Para el período anual, en este ejemplo se toma el porcentaje de variación promedio correspondiente al año anterior. 
+
+
+--- PÁGINA 49 ---
+ 
+ 
+ 
+48 
+ 
+Indicadores 
+Meta anual 
+Línea de base 
+Frecuencia 
+de reporte 
+Actividades 
+asociadas al 
+indicador 
+Indicador 
+complementario 2: 
+Porcentaje de 
+dispersión (CV) de 
+precios por 
+producto28 
+Tipo: I. de Resultado 
+Ejemplo: 
+Yerba mate, 
+12% 
+Ejemplo: Yerba 
+mate, 18% 
+Mensual 
+Fomentar la adhesión de 
+marcas de aquellos 
+productos que reflejen 
+elevadas diferencias en 
+sus precios y sean 
+representativas del 
+consumo. 
+Indicador 
+Complementario 3: 
+Porcentaje de 
+primeras marcas 
+sobre el total de 
+marcas que 
+participan en el 
+programa. 
+Tipo: I. de Producto 
+30% 
+20% 
+Trimestral 
+Fomentar la adhesión de 
+primeras marcas. 
+Negociar 
+trimestralmente (o a 
+solicitud) la lista de 
+precios de los productos 
+acordados. 
+Indicador 
+complementario 4: 
+Tiempo promedio 
+de permanencia de 
+productos en el 
+programa 
+Tipo: I. de Producto 
+12 meses 
+3 meses 
+Trimestral 
+Analizar las condiciones 
+de producción y 
+distribución. 
+Negociar 
+trimestralmente (o a 
+solicitud) la lista de 
+precios de los productos 
+acordados. 
+Indicador 
+complementario 5: 
+Monto recaudado en 
+$ por sanciones 
+aplicadas sobre el 
+Monto previsto, en 
+todo el país (en %) 
+Tipo: I. de Resultado 
+100% 
+Primer mes de 
+vigencia del 
+programa: 
+120% 
+Trimestral 
+Implementar operativos 
+de control. 
+Examinar motivos de 
+incumplimiento. 
+Imponer sanciones 
+correspondientes 
+ 
+ 
+ 
+28 En este caso, tomamos como medida de dispersión el coeficiente de variación (CV). Una posibilidad es realizar 
+un seguimiento de este indicador para aquellos productos que exhiban elevada heterogeneidad en los precios de 
+venta. 
+
+
+--- PÁGINA 50 ---
+ 
+ 
+ 
+49 
+ 
+Eje acción 2: Favorecer la competencia a través de la diversificación de productores y 
+comercializadoras 
+Indicador principal: 
+Porcentaje de 
+unidades vendidas 
+de productos de 
+pequeños 
+productores29 
+(cuota de mercado) 
+Tipo: I. de Resultado 
+Valor específico 
+por producto. 
+Ejemplo: Yerba 
+mate, 30% 
+Valor específico 
+por producto.  
+Ejemplo: Yerba 
+mate, 20% 
+Trimestral 
+Fomentar la adhesión de 
+pequeños productores 
+al programa. 
+Generar acuerdos de 
+provisión entre 
+pequeños productores y 
+cadenas de 
+supermercados.  
+Indicador 
+Complementario 1: 
+% de Facturación 
+medianos y 
+pequeños 
+comercios en el 
+total de ventas 
+minoristas. 
+Tipo: I. de Resultado 
+35% 
+30% 
+Trimestral 
+Fomentar la adhesión 
+de pequeños 
+comercios y comercios 
+barriales. 
+Coordinar acuerdos de 
+provisión entre 
+distribuidores y 
+pequeños comercios. 
+Indicador 
+complementario 2: 
+Margen bruto 
+unitario en cada 
+eslabón de cadena 
+de comercialización. 
+Tipo: I. de Resultado 
+Valor específico 
+de cada actor. 
+Ejemplo: 
+Grandes 
+cadenas de 
+supermercados, 
+2% 
+10% 
+Trimestral 
+Analizar la estructura 
+de costos de cada 
+actor. 
+Analizar ventas. 
+Establecer margen 
+objetivo de rentabilidad. 
+Indicador 
+Complementario 3: 
+Cantidad de bocas 
+de expendio 
+adheridas al 
+programa sobre la 
+Cantidad planificada 
+para el trimestre. 
+Tipo: I. de Producto 
+100% 
+70% 
+Trimestral 
+Rubricar convenios a 
+solicitud. 
+Analizar las 
+condiciones de 
+producción, distribución 
+y comercialización. 
+ 
+De este modo, durante el diseño del esquema de seguimiento es fundamental clarificar 
+aspectos como: qué tipo de información se va a necesitar para el seguimiento, cuál es 
+la fuente del dato y cuál será la frecuencia y modalidad de seguimiento. 
+ 
+29 Supone un aumento de ingresos de los pequeños productores. 
+
+
+--- PÁGINA 51 ---
+ 
+ 
+ 
+50 
+ 
+Asimismo, la intervención o unidad de seguimiento que se tome —plan, programa, área, 
+etc.— tendrá un responsable de proveer la información y una fuente de información 
+asociada. Otro aspecto a definir será quiénes van a ser los destinatarios y usuarios de 
+esa información.30 
+MOMENTO 2: IMPLEMENTACIÓN DE ACCIONES DE SEGUIMIENTO Y EVALUACIÓN 
+Paso 6: Conocer la herramienta de seguimiento de gestión 
+Una vez concluida la etapa del diseño de seguimiento, con las principales definiciones y 
+acciones del proceso establecidas, es necesario conocer y saber utilizar la herramienta 
+de seguimiento de gestión a utilizar. Para esto, es fundamental definir quién o quiénes 
+estarán desde cada organismo interviniente a cargo de realizar el proceso. 
+Desde la JGM, impulsamos el Mapa de la Acción Estatal como instrumento de 
+fortalecimiento de la planificación y el seguimiento de gestión transversal. Así, es 
+fundamental considerar las capacidades existentes y requeridas para dicha 
+implementación. Desde la Subsecretaría de Fortalecimiento Institucional se brindará 
+asistencia técnica para dar apoyo metodológico en planificación, seguimiento y en el uso 
+de la herramienta Mapa de la Acción Estatal. 
+ 
+30 Este punto se analiza en el Paso 8 de esta sección. 
+El M ap a d e la A cció n E statal es un registro sistemático e integral de las acciones del Estado para 
+el desarrollo de las políticas públicas. 
+Se asienta en una plataforma de software libre con un lenguaje común que integra y grafica 
+información acerca de los bienes, servicios, regulaciones, argumentaciones y transferencias que 
+provee el Estado, y los resultados que se obtienen a través de las políticas públicas. 
+El M ap a permite visualizar qué resultados producen estas intervenciones y cómo impactan en 
+la realidad, constituyéndose en un instrumento de seguimiento a medida de cada jurisdicción. 
+En este sentido el M ap a establece un sistema de información que permite acceder a reportes 
+por jurisdicción, objetivos gubernamentales, Objetivos de Desarrollo Sostenible, núcleos de 
+problemas prioritarios e indicadores de resultados e impacto. 
+Los objetivos del M ap a son: 
+➔ Brindar información sistematizada al Jefe de Gabinete y los ministros para la toma de 
+decisiones. En tanto sistema de seguimiento se podrá adecuar a las necesidades 
+de la APN, las Provincias y los Municipios. 
+➔ Abrir la producción pública a la ciudadanía para dar a conocer el valor creado por 
+las organizaciones estatales en respuesta a sus problemas. 
+➔ Fortalecer la planificación, seguimiento y evaluación de políticas públicas para una mayor 
+efectividad en el logro de los objetivos de desarrollo. 
+
+
+--- PÁGINA 52 ---
+ 
+ 
+ 
+51 
+ 
+Paso 7: Definir estrategia de evaluación 
+La estrategia de evaluación puede definirse al momento de planificar una política pública 
+o al implementarla. Si no se ha planteado en estas instancias previas, una vez puesto en 
+marcha el proceso de seguimiento puede ser un momento oportuno. Esto es así, ya que 
+la evaluación puede ser complementaria del seguimiento, al permitir dar respuesta a 
+interrogantes que surgen con las sucesivas mediciones del monitoreo de gestión. 
+En este sentido, pueden surgir interrogantes como: ¿Por qué determinados indicadores no 
+evolucionan como se había esperado? ¿Cuáles son las percepciones de los destinatarios 
+de la política pública al recibir el bien o servicio? ¿Logra el programa efectivamente 
+contribuir a revertir el problema en su población destinataria? ¿Se está llegando a quienes 
+se debería atender? ¿Cómo funciona la coordinación entre los actores implicados en 
+la implementación de las acciones? Existen distintos tipos de evaluaciones, las cuales 
+permitirán responder a las diversas preguntas que se busquen analizar en cada caso. 
+Las evaluaciones suelen tener una “pregunta de evaluación” que es aquella que guía    
+el estudio, y de esta pregunta guía generalmente se desprenden otras complementarias o 
+secundarias. La naturaleza de esa pregunta guía determinará cuál será el tipo de 
+evaluación más adecuada en cada caso y la metodología —cualitativa, cuantitativa 
+o mixta—. 
+De este modo, la pregunta de evaluación que se busque responder para cada política 
+pública determinará qué tipo de evaluación es más adecuada y, por ende, condicionará 
+el tipo de estrategia de evaluación a emprender. 
+Cuadro N°14: De las preguntas de evaluación a la selección de la estrategia de evaluación 
+Ejemplo pregunta de evaluación 
+Foco de la pregunta guía 
+de la evaluación 
+Tipo de evaluación más 
+adecuada para la 
+pregunta de evaluación 
+Preguntas posibles: 
+¿Cuál es la necesidad o problema que 
+pretende resolver el programa? → 
+¿A través de qué acciones y productos 
+busca el programa revertir el problema 
+identificado? 
+Énfasis en el diseño de 
+la intervención 
+Evaluación ex ante o   
+de diseño, análisis de 
+evaluabilidad 
+
+
+--- PÁGINA 53 ---
+ 
+ 
+ 
+52 
+ 
+Ejemplo pregunta de evaluación 
+Foco de la pregunta guía 
+de la evaluación 
+Tipo de evaluación más 
+adecuada para la 
+pregunta de evaluación 
+¿Las actividades se realizan en 
+los tiempos planificados? 
+¿El programa contó con los recursos 
+humanos, materiales y financieros 
+necesarios para la correcta 
+implementación? 
+Énfasis en la intervención,  
+no en el producto final  
+de la política pública. 
+Se implementa durante 
+la ejecución de la política 
+pública. 
+Evaluación de Procesos 
+¿Cuáles son los resultados alcanzados 
+y cuánto varían de lo planificado? 
+¿Se generaron resultados no previstos? 
+Énfasis en resultados 
+finales obtenidos. Se 
+realiza una vez que 
+el programa o política 
+pública concluyó. 
+Evaluación de resultados o 
+ex post 
+ 
+Siguiendo nuestro ejemplo, supongamos que en sucesivas instancias de monitoreo 
+observamos que existe una alta rotación de productos o una dificultad para asegurar 
+la permanencia de productos en el programa. Esta situación puede impulsar la necesidad 
+de llevar a cabo una evaluación que pueda brindar mayor información y que permita 
+entender la situación y formas de resolverla. Así, el fenómeno a indagar se constituirá en 
+la pregunta de evaluación. La tabla a continuación trata este enfoque. 
+Cuadro N°15: De las preguntas de evaluación a la selección de la estrategia de evaluación 
+Pregunta de evaluación: 
+Pregunta guía 
+Foco de la pregunta guía de la 
+evaluación: 
+Énfasis en 
+diseño/intervención/resultados 
+Tipo de evaluación más 
+adecuada para la 
+pregunta de evaluación: 
+ex-antes/procesos/ex-post 
+¿Cuáles son los principales 
+desafíos de la cadena 
+productiva para la permanencia 
+de productos en el programa? 
+Énfasis en la intervención 
+Evaluación de Procesos 
+Subpreguntas:  
+¿Varía la situación vinculada a la permanencia de productos por rubro o sector? 
+¿Se establecen márgenes de rentabilidad adecuados según los estándares del programa? 
+¿El programa compensa los bajos márgenes con incrementos en ventas? 
+¿Se atiende en tiempo oportuno las demandas de revisiones de precios? 
+ 
+Una vez definida la pregunta de evaluación y sus subpreguntas, de estas se desprenderán: 
+el diseño de la evaluación, los métodos de recolección de datos y las técnicas de análisis 
+de información más adecuadas. 
+
+
+--- PÁGINA 54 ---
+ 
+ 
+ 
+53 
+ 
+También se pueden considerar los tipos de evaluación, desde su articulación con 
+la cadena de valor público. 
+Cuadro N°16: Modalidades de evaluación, según la cadena de valor 
+Elaboración propia, sobre la base de FAO (18). 
+En otras palabras, no existe un tipo de evaluación que se pueda considerar “mejor que 
+otro”, en todos los casos son herramientas que se deben emplear en la medida en 
+que respondan a la estrategia de evaluación definida como aquella adecuada para cada 
+necesidad y contexto particular. 
+ 
+ 
+ 
+ 
+ 
+Modalidades de evaluación, según la cadena de valor 
+Evaluación 
+de diseño 
+Evaluación de 
+procesos 
+Evaluación de productos 
+Evaluación de 
+resultados 
+Evaluación 
+de impactos 
+Se centra en 
+el diseño 
+conceptual 
+de la política 
+pública. 
+Analiza 
+la coherencia 
+interna 
+de una 
+intervención: 
+Énfasis en 
+la intervención, 
+no en el producto 
+final de la política 
+pública. 
+Considera 
+aspectos como: 
+características 
+del programa, 
+análisis de 
+las actividades 
+realizadas, 
+monitoreo de su 
+implementación. 
+Se realiza 
+durante 
+la ejecución de 
+la política pública. 
+Considera aspectos como: 
+a. Calidad: Calidad de 
+los bienes y servicios 
+entregados, se pregunta si 
+las actividades realizadas 
+lograron alcanzar los 
+productos planificados. Se 
+puede distinguir entre calidad 
+objetiva (calidad técnica) y 
+subjetiva (percepción del 
+receptor del bien o servicio). 
+b. Cobertura: ¿Llegan los 
+productos, regulaciones, 
+transferencias a la población 
+destinataria del programa? 
+Se nutre de indicadores de 
+desempeño que midan 
+volúmenes de producción y 
+características de los bienes 
+y servicios. 
+Analiza: Mide logros 
+intermedios de un 
+programa, asociados a 
+cambios en 
+el comportamiento, como 
+consecuencia de un 
+programa o política. Se 
+realiza una vez finalizada 
+la intervención. 
+Un ejemplo son las 
+familias que incorporan 
+cambios saludables en 
+la alimentación, etc. 
+Suele recabar información 
+de resultados a partir de 
+encuestas a 
+los participantes y realizar 
+un análisis estadístico 
+descriptivo con los datos 
+recolectados. 
+Analiza si se 
+produjeron 
+cambios 
+significativos 
+y sostenibles 
+en el tiempo 
+vinculados a 
+revertir 
+el problema 
+que dio 
+origen a la 
+intervención. 
+
+
+--- PÁGINA 55 ---
+ 
+ 
+ 
+54 
+ 
+Cuadro N°17: Ejemplo “Preguntas de evaluación según modalidad de evaluación” 
+ 
+MOMENTO 3: USO DE LA INFORMACIÓN OBTENIDA 
+Los informes de seguimiento y evaluación permiten crear o actualizar la memoria 
+institucional, promover el entendimiento de una política pública al analizar qué aspectos 
+funcionan y cuáles no, y pueden contribuir a involucrar actores clave. El primer paso para 
+potenciar el uso de la información obtenida en el seguimiento y la evaluación es 
+determinar quiénes son los destinatarios de la información a comunicar. Una vez definido 
+esto, el siguiente y último paso es definir la modalidad de reporte. A continuación, se 
+describen ambas instancias. 
+Paso 8: Establecer quiénes son los usuarios y destinatarios de la información 
+obtenida 
+Un aspecto a considerar en cuanto al reporte de la información para potenciar su uso es 
+analizar en cada caso quién va a recibir la información. El destinatario de la información 
+va a condicionar el formato del documento o presentación. 
+Modalidades de evaluación y sus preguntas guía, según la cadena de valor: Ejemplos posibles 
+Evaluación de 
+diseño 
+Evaluación de 
+procesos 
+Evaluación de productos 
+Evaluación de 
+resultados 
+Evaluación 
+de impactos 
+¿Existe un 
+diagnóstico del 
+problema que 
+el Programa 
+“Canasta de 
+Precios” pretende 
+resolver? 
+¿Existe coherencia 
+interna entre 
+el diagnóstico 
+del problema 
+a resolver y 
+los resultados 
+esperados? 
+¿Los recursos 
+planificados son 
+acordes a las 
+actividades que se 
+espera realizar?: 
+¿Cuenta 
+el Programa 
+con acciones de 
+fiscalización en 
+tiempo y forma? 
+¿El mecanismo 
+de asignación 
+de créditos es 
+el adecuado? 
+¿Logra el programa 
+ejecutarse en todas 
+las provincias?  
+¿Cómo es la articulación 
+entre los distintos actores 
+intervinientes en 
+la implementación? 
+Calidad: 
+¿Cuál es la percepción 
+del público sobre la calidad 
+de los productos incluídos 
+en la Canasta de 
+Productos? 
+¿Cuál es la percepción de 
+los pequeños productores 
+sobre las oportunidades de 
+inserción en las redes 
+de distribución y 
+comercialización? 
+¿Desacelera el aumento 
+de precios de 
+los productos de 
+primera necesidad en 
+supermercados?  
+¿Hay mayor 
+homogeneidad entre 
+los precios de 
+supermercados y 
+comercios barriales? 
+¿Mejoran los 
+consumidores 
+participantes del 
+programa la calidad 
+nutricional de su dieta 
+como consecuencia de 
+su participación en 
+el Programa? 
+¿Logra el 
+Programa 
+mejorar la 
+empleabilidad 
+en pymes 
+incorporadas 
+al programa? 
+¿En qué 
+medida logra 
+el programa 
+disminuir la 
+desnutrición 
+de los 
+destinatarios 
+al facilitar 
+el acceso a 
+alimentos de 
+alto valor 
+nutricional? 
+
+
+--- PÁGINA 56 ---
+ 
+ 
+ 
+55 
+ 
+El seguimiento brinda información, comunicando a los actores involucrados al programa 
+sobre el desarrollo del mismo, tanto de sus avances como de sus dificultades. Estos 
+actores pueden ser representantes del Estado: planificadores y ejecutores de la política, 
+ciudadanos, representantes de organizaciones de la sociedad civil, grupos de la población, 
+organizaciones internacionales. 
+Cuadro N°18: Ejemplo de usuarios de la información obtenida 
+Usuarios de la 
+información 
+Frecuencia de la 
+información 
+Tipo de Informe/Uso potencial 
+Ministro/a de 
+Desarrollo Productivo 
+Mensual/Trimestral 
+(informes de avance). 
+Informes de 
+resultados: Según 
+consideración de 
+funcionario/actores 
+pertinentes. 
+Informes de avance:  
+Coordinación con otros organismos y ministerios 
+para implementar acciones conjuntas. 
+Reasignación de partidas presupuestarias a 
+programas. 
+Evolución de los principales hitos del programa 
+por área geográfica. 
+Informe de resultados: 
+Evolución de los principales hitos del programa 
+por área geográfica. 
+Consideraciones sobre continuidad del programa: 
+balance de gestión, hallazgos, recomendaciones. 
+Secretario/a de 
+Comercio Interior 
+Mensual 
+Informes de Procesos: Revisión de cumplimiento 
+de acciones y metas. Contextualización sobre 
+posibles desvíos en fechas de actividades o 
+evolución de indicadores. 
+Gobiernos provinciales 
+y municipales 
+Trimestral 
+Informes de Resultados: Acciones de 
+fiscalización y resultados emergentes. 
+Asociación de Defensa 
+de Consumidores, 
+Consumidores, 
+Productores y Cámaras 
+empresariales 
+Anual 
+Informes de Resultados e Impacto: Divulgación 
+de información. Análisis sobre cambios en 
+comportamiento según magnitud y contexto. 
+ 
+Paso 9: Definir la modalidad de reporte de la información 
+Establecido el destinatario de la información y el uso que se espera dar a la información 
+obtenida, resta ahora definir la modalidad de reporte. 
+
+
+--- PÁGINA 57 ---
+ 
+ 
+ 
+56 
+ 
+Según el tipo de informe de seguimiento o evaluación, éste servirá a distintos propósitos. 
+Un informe de seguimiento permite conocer la evolución de un programa o política pública 
+para determinados aspectos de su funcionamiento o variables clave. A grandes rasgos, 
+el reporte de una evaluación de diseño podrá incluir consideraciones sobre el contexto y 
+la estrategia implementada. El informe sobre una evaluación de procesos dará 
+información relevante sobre la implementación y sobre posibilidades de potenciar sus 
+acciones o procesos. Un informe de evaluación de resultados brindará información sobre 
+si se están alcanzando los resultados esperados o si surgieron efectos imprevistos.   
+El informe sobre evaluación de impacto mencionara si el programa tiene un efecto 
+significativo en reducir un determinado problema identificado y en qué magnitud 
+el programa está cambiando las condiciones de vida de la población objetivo. 
+Generalmente, se suelen elaborar distintos tipos de informes —con sus respectivos 
+cambios en formato, frecuencia de reporte y extensión— según los distintos actores o 
+receptores de la información. Al definir esto, se sugiere tomar en consideración los tiempos 
+en los que se debe enviar la información recabada para que esta pueda nutrir procesos de 
+implementación y planificación, así como para contribuir al aprendizaje institucional. 
+Sin embargo, más allá del tipo específico de seguimiento y evaluación, existen cuatro 
+aspectos que aumentan las posibilidades de uso de un reporte: 
+Cuadro N°19: Aspectos clave para potenciar el uso de la información de seguimiento y evaluación 
+Aspectos clave para potenciar 
+el uso de la información obtenida 
+Descripción 
+1. Presentar la información de forma 
+clara y amena 
+Focalizarse en los aspectos clave, como: propósitos, método 
+y hallazgos. Incluir representación gráfica de la información. 
+Redactar en forma clara y concisa. Evitar formatos 
+demasiado extensos o complicados. 
+2.  Incorporar elementos clave para 
+los implementadores de la política pública 
+Incorporar información y tratamiento de los temas de interés 
+de quienes diseñan y/o implementan la política pública. 
+3. Trabajar con posibles resultados 
+inesperados o negativos. 
+Introducir aspectos positivos asociados a aquellos negativos, 
+proponer recomendaciones de mejora, si cabe. 
+4. Tomar el uso de los hallazgos como 
+un proceso 
+Incluir efectivamente los hallazgos del seguimiento y  
+la evaluación puede, en algunos casos, llevar tiempo. 
+Aspectos como la voluntad política, contar con los recursos 
+necesarios, el tiempo de implementación y el personal idóneo 
+puede contribuir a introducir las mejoras identificadas. 
+Elaboración propia sobre la base de Royse et al (392) 
+
+
+--- PÁGINA 58 ---
+ 
+ 
+ 
+57 
+ 
+ANEXO. GUÍA PARA LA CONSTRUCCIÓN DE INDICADORES 
+1. Relevancia de los indicadores 
+Como se expuso anteriormente, el indicador es un instrumento fundamental en 
+la planificación, el monitoreo y la evaluación de las políticas públicas. Los Indicadores 
+permiten medir, en diferentes momentos del tiempo, los avances en los logros de una 
+política, analizar las modificaciones que surgieron producto de una intervención y evaluar 
+los resultados alcanzados. 
+Además, los indicadores comparan entre dos o más tipos de datos (OIT) y pueden ser 
+tanto de carácter cuantitativo como cualitativo. Los indicadores cuantitativos se resumen 
+en un valor numérico. Los cualitativos, en cambio, nos permiten abordar aspectos 
+orientados a la comprensión de percepciones y puntos de vista sobre los procesos,   
+las oportunidades y las dificultades o problemáticas encontradas. 
+ 
+2. Los tipos de indicadores 
+Si bien existen distintos tipos de indicadores y formas de clasificarlos, nos detendremos 
+en cuatro de ellos: los indicadores de producto, proceso, resultado e impacto. 
+Los indicadores de PRODUCTO (bienes, servicios, transferencias dinerarias, acciones de 
+regulación) permiten verificar la producción, la entrega y las características de todos  
+los bienes y servicios que se otorgan directamente a los beneficiarios, incluyendo también 
+los productos intermedios. Pueden medir aspectos de cantidad, calidad o tiempos de 
+entrega del producto. 
+Ejemplos de indicadores de producto 
+% de alumnos y docentes que recibieron netbooks sobre el total de alumnos y docentes de escuelas 
+secundarias públicas, escuelas de educación especial e institutos de formación docente de la Argentina 
+% de beneficiarios que cobró el suplemento adicional respecto del total de beneficiarios del programa 
+% de niños menores a 2 años que recibieron vacuna contra la varicela sobre el total planificado 
+ 
+ 
+
+
+--- PÁGINA 59 ---
+ 
+ 
+ 
+58 
+ 
+Los indicadores de PROCESO miden las actividades y operaciones necesarias para 
+convertir los insumos en productos. Brindan información sobre las tareas de ejecución y 
+permiten dar seguimiento a la implementación de la política. Al asociar indicadores a un 
+flujo de procesos se sugiere tomar en consideración aspectos como: a. los hitos 
+vinculados a esos procesos; b. la mejora que se quiere observar; la disponibilidad de 
+información para los posibles indicadores y la elaboración de un sistema de registro 
+de información sobre los indicadores que se seleccionen. 
+Ejemplos de indicadores de proceso 
+% del presupuesto total destinado al proyecto que ya fue ejecutado 
+% de licitaciones adjudicadas respecto de licitaciones totales 
+% de escuelas con referente técnico escolar (RTE) asignado/total de escuelas destinatarias del programa 
+ 
+Los indicadores de RESULTADO dan cuenta del grado de alcance de los objetivos 
+propuestos. Se enfocan en medir las consecuencias del programa de cara a dar respuesta 
+a una problemática social concreta. 
+Ejemplos de indicadores de resultado 
+% de docentes que utilizan TICs en actividades dentro del aula sobre el total de docentes de escuelas 
+secundarias públicas 
+% egresados del programa que consiguieron empleo formal sobre el total de beneficiarios 
+% de alumnos que finalizaron la educación media sobre el total de beneficiarios del programa 
+ 
+Por último, los indicadores de IMPACTO evalúan el efecto de la política. Dada la complejidad 
+y el alcance de estos objetivos, un programa o proyecto suele contribuir solo en parte a 
+la respuesta de una problemática global. Por esta razón, a veces no es posible realizar su 
+medición ya que la atribución directa no siempre es comprobable. Por otro lado, puede 
+llegar a necesitar de la coordinación de varios programas o instituciones 
+para contrastarse. 
+Ejemplos de indicadores de impacto 
+Tasa de abandono escolar en educación media nacional 
+Tasa de desempleo en población vulnerable de 18 a 25 años 
+ 
+ 
+ 
+
+
+--- PÁGINA 60 ---
+ 
+ 
+ 
+59 
+ 
+3. Aspectos a considerar para el correcto diseño de un indicador 
+Para lograr que un indicador mida aquello que nos proponemos medir, es importante 
+tener en cuenta algunos elementos que facilitan su correcta construcción. 
+A continuación, se sistematizan las características más relevantes, incluyendo algunas 
+preguntas que motivan su formulación y ejemplos de correcta e incorrecta respuesta, con 
+el propósito de que sirva como orientador para la formulación de sus propios indicadores. 
+El indicador debe ser medible y sus elementos estar accesibles. Es decir, por un lado, 
+debemos asegurarnos que sea empíricamente comprobable y por otro, que        
+la información pueda efectivamente recolectarse. También, que su proceso de 
+construcción sea factible, que no implique ni grandes niveles de complejidad ni costos 
+excesivos para los recursos que se disponen. Preguntas orientadoras: ¿Efectivamente 
+podemos poner a prueba este indicador? ¿De dónde proviene la información del indicador? 
+¿Quién/quiénes van a proveer la información / de dónde se va a obtener? ¿Está disponible 
+la información o hay que construirla? ¿Se construye sin grandes dificultades? ¿Qué costo 
+implica su obtención? 
+Indicador 
+¿Es medible y accesible? 
+Motivos 
+Promedio de talleres de 
+capacitación (brindados por   
+el programa) al que asistió 
+cada beneficiario 
+SÍ 
+Existe registro de quienes 
+participaron en cada uno de  
+los talleres 
+% de participantes satisfechos 
+con la capacitación laboral 
+recibida sobre el total encuestado 
+SÍ 
+Siempre y cuando haya previsto 
+recursos para relevar —a través de 
+una encuesta, por ejemplo— esta 
+información en los beneficiarios 
+Promedio de horas al día que 
+cada destinatario del programa 
+utiliza la netbook para temas     
+no educativos 
+ 
+NO 
+Este indicador no es mensurable ni 
+accesible. 
+Algunas 
+razones:  
+1. Se necesita acceder al total de 
+información de todas las netbooks 
+desde un servidor externo. 2. Habría 
+que clasificar qué se entiende por 
+contenido educativo y no educativo en 
+todos los contenidos a los que accede 
+cada usuario, lo que resulta inviable.  
+3. Debería asumirse que el uso  
+del 
+dispositivo 
+es exclusivo 
+del 
+beneficiario, aunque no siempre es así 
+ 
+ 
+
+
+--- PÁGINA 61 ---
+ 
+ 
+ 
+60 
+ 
+El indicador debe formularse de manera simple. Es decir, que sea un indicador claro, 
+preciso y de fácil comprensión (autoexplicativo), siendo clara y sencilla tanto su definición 
+como su fórmula de cálculo. La redacción del indicador no debe dar lugar a ambigüedades 
+sobre qué se mide ni sobre quién se mide. Preguntas orientadoras: ¿Todos entendemos 
+lo mismo sobre lo que mide este indicador? ¿Contiene todos los elementos necesarios para 
+explicarse por sí mismo? 
+Indicador 
+¿Es simple? 
+Motivos 
+% de beneficiarios que participaron 
+al menos de un taller de capacitación 
+en el marco del programa sobre 
+el total de beneficiarios del programa 
+SÍ 
+Se comprende claramente qué es lo que se 
+pretende medir y las variables que se ponen 
+en relación 
+% de docentes que utilizan TICs 
+NO 
+Si bien parece sencillo, su definición está abierta 
+a varias interpretaciones: No indica si mide uso 
+de TICs dentro del aula o por ejemplo en tareas 
+domiciliarias, 
+tampoco respecto a qué se 
+compara, si a los docentes beneficiarios del 
+programa o a los que han recibido ya la netbook 
+ 
+El indicador debe ser relevante, proveyendo información sobre un aspecto clave del 
+objetivo o logro esperado. Debe estar definido sobre el aspecto más importante, es decir, 
+orientado a medir los factores críticos que interesa monitorear. Preguntas orientadoras: 
+El resultado que obtenga del indicador ¿va a permitir efectivamente monitorear en el tiempo 
+la evolución de aquello que quiero medir? 
+Objetivo 
+Indicador 
+¿Es relevante? 
+Motivos 
+Los docentes de 
+educación secundaria 
+de establecimientos 
+públicos fueron 
+capacitados en uso de 
+TICs dentro del aula 
+% de docentes de secundaria 
+pública capacitados en el uso 
+de TICs dentro del aula 
+respecto al total de docentes 
+de educación secundaria de 
+establecimientos públicos 
+SÍ 
+Porque apunta a medir 
+el aspecto nodal del 
+objetivo esperado 
+% de docentes que asistieron a 
+la capacitación sobre uso de 
+TICs 
+acompañado 
+de 
+otro 
+docente de la institución en 
+relación al total de docentes que 
+participaron de la capacitación 
+NO 
+El indicador no expresa ningún 
+aspecto 
+importante 
+que 
+contribuya a medir el alcance 
+del objetivo propuesto. Es un 
+indicador 
+que 
+mide 
+otro 
+objetivo, no este 
+ 
+ 
+
+
+--- PÁGINA 62 ---
+ 
+ 
+ 
+61 
+ 
+El indicador debe ser independiente, no repetirse o superponerse con la medición de otros 
+indicadores. Preguntas disparadoras: ¿Existe otro indicador que mida algún aspecto 
+similar? ¿En qué medida este indicador está afectado por elementos ajenos a esta 
+intervención? 
+Objetivo 
+Indicador 
+Motivos 
+Los docentes 
+de secundaria de 
+establecimientos 
+públicos e 
+institutos de 
+formación 
+docentes fueron 
+capacitados en 
+uso de TICs 
+dentro del aula 
+% 
+de 
+docentes 
+de 
+secundaria 
+de 
+establecimientos 
+públicos 
+e institutos  
+de 
+formación 
+docente 
+que 
+fueron 
+capacitados en el uso de TICs sobre el total 
+de 
+docentes 
+de 
+secundaria 
+de 
+establecimientos 
+públicos 
+e institutos 
+de formación docente 
+Que un indicador sea o no 
+independiente debe analizarse 
+en relación al conjunto de 
+indicadores formulados. 
+En este caso, el segundo 
+indicador queda comprendido 
+en el primero, por lo que deberá 
+decidirse si se desea medir 
+globalmente la capacitación o 
+discriminar en dos indicadores 
+distintos 
+la 
+situación 
+de   
+los docentes secundarios por 
+un lado y los de institutos de 
+formación docente por otro 
+% de docentes de educación secundaria de 
+establecimientos 
+públicos 
+que 
+fueron 
+capacitados en el uso de TICs sobre el total 
+de 
+docentes 
+de 
+secundaria 
+de 
+establecimientos públicos 
+ 
+Por último, destacaremos que el indicador debe ser verificable objetivamente. Es decir, 
+que se mida excluyendo toda valoración subjetiva sobre su desempeño, para poder 
+confirmar con certeza si se ha cumplido o no la meta propuesta. Retomando el ejemplo 
+anterior: 
+Objetivo 
+Indicador 
+¿Verificable? 
+Motivos 
+Los docentes de 
+educación 
+secundaria de 
+establecimientos 
+públicos fueron 
+capacitados en 
+uso de TICs 
+dentro del aula 
+% de docentes de educación 
+secundaria de 
+establecimientos públicos 
+que fueron capacitados en 
+el uso de TICs dentro del 
+aula respecto al total de 
+docentes de educación 
+secundaria de 
+establecimientos públicos 
+SÍ 
+Apunta a medir sin parcialidad 
+el objetivo esperado, siendo 
+información que pueda extraerse 
+de la base de registros de 
+asistentes a la capacitación 
+NO 
+No sería objetivamente verificable 
+si pretendemos obtener resultados 
+de 
+este 
+indicador 
+a 
+partir 
+de 
+la aproximación que pueda dar algún 
+directivo, representante ministerial, etc. 
+ 
+Otro ejemplo común es intentar reconstruir la valoración sobre algún servicio o 
+capacitación no sobre los propios destinatarios sino a partir de la percepción de 
+capacitadores, supervisores o personal de apoyo en el proyecto. 
+ 
+
+
+--- PÁGINA 63 ---
+ 
+ 
+ 
+62 
+ 
+4. Paso a paso en la construcción de un indicador y ejemplos 
+Detallaremos a continuación los pasos que se deben explicitar durante el proceso de 
+construcción de un indicador. 
+1) Identificar los objetivos y los aspectos (factor) a medir. Asimismo, en la definición 
+del objetivo debe expresarse cuál es la población sobre la que se realizará 
+la medición. 
+Objetivo 
+Aspecto a medir 
+¿Sobre quién se medirá? 
+Los docentes de 
+educación 
+secundaria de establecimientos 
+públicos fueron capacitados en 
+el uso de TICs dentro del aula 
+Uso de TICs dentro 
+del aula 
+Docentes de educación secundaria 
+de establecimientos públicos 
+ 
+2) Proponer indicadores para cada aspecto relevante. 
+3) Definir la fórmula utilizada para el indicador. También se debe explicitar la unidad 
+de medida utilizada (personas, solicitudes, %, promedios, tasas, índices, tiempo 
+medido en horas, kilómetros, toneladas, monto en pesos, etc.) 
+Objetivo 
+Indicador 
+Fórmula 
+Los docentes de educación 
+secundaria de establecimientos 
+públicos fueron capacitados en 
+el uso de TICs dentro del aula 
+% de docentes de secundaria 
+de establecimientos 
+públicos 
+capacitados en el uso de TICs 
+sobre total de docentes de 
+secundaria de establecimientos 
+públicos 
+Cantidad de docentes de 
+secundaria de establecimientos 
+públicos que se capacitaron en 
+el uso de TICs 
+Cantidad total de docentes de 
+secundaria de establecimientos 
+públicos 
+ 
+4) Establecer la meta y la línea base. 
+La meta refiere al valor del indicador que esperamos obtener, el cual permite definir 
+si el desempeño fue o no adecuado. Para establecer la meta es importante 
+precisar primero la línea base que representa el punto de partida para, a partir de 
+allí, dar un posterior seguimiento al indicador. 
+ 
+ 
+ 
+
+
+--- PÁGINA 64 ---
+ 
+ 
+ 
+63 
+ 
+5) Establecer la frecuencia de medición. 
+Para determinar la frecuencia de medición se toma en cuenta tanto cuestiones 
+intrínsecas a las características del relevamiento (tiempo necesario para captar 
+el dato, disponibilidad, etc.) como las necesidades concretas de uso de     
+esa información. 
+6) Explicitar la fuente de donde se extraerá o construirá la información. 
+La fuente de datos puede provenir por ejemplo de registros que posea 
+el organismo, de estadísticas oficiales de otros organismos o de encuestas que 
+se desarrollen para tal fin. 
+7) Definir el responsable de la medición. 
+Una vez construido el indicador o el conjunto de indicadores se realizarán    
+las siguientes acciones: 
+8) Cargar y consolidar datos. 
+9) Analizar resultados y comunicar. 
+ 
+ 
+
+
+--- PÁGINA 65 ---
+ 
+ 
+ 
+64 
+ 
+ANEXO II: CUADROS EDITABLES PARA REALIZAR EL PROCESO DE 
+PLANIFICACIÓN Y SEGUIMIENTO DE GESTIÓN  
+Archivo descargable.  
+ 

@@ -1,0 +1,85 @@
+
+--- PÁGINA 1 ---
+
+
+--- PÁGINA 2 ---
+1 
+ 
+SISTEMA DE INFORMACIÓN – USUARIOS FINALES 
+SIC IURIX FLEX 
+INSTRUCTIVO PARA LA REMISIÓN DE UN EXPEDIENTE 
+A LISTA DIARIA CON MOVIMIENTO POSTERIOR 
+ 
+ 
+1- Para remitir un expediente a Lista Diaria se debe seleccionar la función MOVIMIENTO, y 
+luego NUEVO MOVIMIENTO. 
+ 
+ 
+ 
+2- En el Tipo de Movimiento seleccionar “Lista- Lista Diaria” 
+ 
+ 
+ 
+3- Se abrirá automáticamente un cuadro que indica las actuaciones disponibles para 
+publicar en lista, debiendo tildar las que se desean publicar para que sean incluidas. 
+Una vez elegidas y tildadas, confirmar.  
+ 
+ 
+ 
+ 
+ 
+
+
+--- PÁGINA 3 ---
+2 
+ 
+ 
+ 
+ 
+4- Seleccionar Destino: El sistema da varias opciones. Seleccionar Mesa de Entradas. 1° 
+5- Seleccionar Motivo/Ubicación: EN LISTA DIARIA, es la única opción que da. 2° 
+6- Finalmente, hacer clic en ENVIAR. 3° 
+ 
+ 
+ 
+7- Una vez cargado en lista, se debe seleccionar otra vez la función NUEVO MOVIMIENTO, 
+para registrar el movimiento siguiente que corresponde. 
+ 
+ 
+ 
+ 
+ 
+3° 
+1° 
+2° 
+
+
+--- PÁGINA 4 ---
+3 
+ 
+8- En el Tipo de Movimiento seleccionar: movimiento interno / movimiento externo al 
+organismo. Ejemplo: PASESO - pase a asesoría, etc. según corresponda de acuerdo a lo 
+ordenado en el expediente, enviándolo así a la dependencia u organismo donde deba 
+continuar tramitando el mismo. 
+ 
+ 
+ 
+9- Completar 
+los 
+campos 
+“Destino”, 
+“Dependencia”, 
+“Motivo/Ubicación”, 
+“Observaciones”, etc. según corresponda al movimiento interno o externo que se está 
+realizando. 
+10- Presionar “enviar”. 
+ 
+ 
+ 
+NOTA: 
+El expediente queda en la bandeja “A Recibir” del organismo o dependencia al que se envió 
+en el segundo movimiento, y además las actuaciones que se tildaron en el primer 
+movimiento quedan cargadas en lista diaria del día hábil siguiente. 
+ 
+ 
+ 

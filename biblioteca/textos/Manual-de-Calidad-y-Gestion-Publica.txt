@@ -1,0 +1,2311 @@
+
+--- PÁGINA 1 ---
+0 
+Calidad Estatal en un Modelo de 
+Gestión Pública Democrática, 
+Inclusiva y Federal 
+Dirección Nacional de Mejora de los Servicios a la Ciudadanía 
+Subsecretaría de Fortalecimiento Institucional 
+ 
+
+
+--- PÁGINA 2 ---
+1 
+Autoridades 
+Presidencia de la Nación 
+Dr. Alberto Fernández 
+Vicepresidencia de la Nación 
+Dra. Cristina Fernández de Kirchner 
+Jefatura de Gabinete de Ministros 
+Dr. Juan Luis Manzur
+Secretaría de Gestión y Empleo Público 
+Dra. Ana Gabriela Castellani 
+Subsecretaría de Fortalecimiento Institucional 
+Mg. Beatriz de Anchorena 
+Dirección Nacional de Mejora de los Servicios a la Ciudadanía 
+Dr. Maximiliano Rey 
+Diagramación, corrección y diseño
+Equipo de Comunicación de la SSFI 
+
+
+--- PÁGINA 3 ---
+2 
+Contenido 
+Introducción ........................................................................................................................................ 3 
+1. ¿Qué es la Calidad Estatal? Capacidad estatal para crear valor público .................................. 7 
+1.I. Definición de Calidad Estatal: Mirando más allá del output… hacia el outcome ............... 7 
+1.II. Dimensiones de la Calidad Estatal: Trámites sí, resultados políticos también ............... 10 
+1.III. Vínculo entre valores y principios administrativos-herramientas .................................. 12 
+2. Construyendo Calidad Estatal: Sus ejes componentes ............................................................ 13 
+2.I. La relación con la sociedad y la ciudadanía .......................................................................... 14 
+A. La autonomía estatal para garantizar el Proyecto de Gobierno ..................................... 16 
+B. La capacidad de conocer, explicar y deliberar con los colectivos sociales...................... 18 
+C. Rol performativo del Estado ................................................................................................ 25 
+2.II. Estructuración y funcionamiento de las organizaciones estatales ................................. 26 
+D. Organización ordenada, sistemática y vinculada con la voluntad política ................... 28 
+E. Compromiso de las/os funcionarias/os y agentes estatales con los valores públicos .. 33
+F. Vínculos de la organización con el conjunto de la administración pública .................... 38 
+G. Utilización socialmente inclusiva y administrativamente eficaz de las nuevas
+tecnologías ................................................................................................................................. 42 
+La generación y el manejo de los datos ........................................................................................ 46 
+Cuadro 1 - Resumen ........................................................................................................................ 49 
+Bibliografía ........................................................................................................................................ 52 
+
+
+--- PÁGINA 4 ---
+3 
+Introducción
+Sin pretender crear nada de cero, pero siendo conscientes de que los modelos de 
+gestión pública y sus instrumentos no son neutros ni a-históricos, creemos necesario 
+repensarlos a la luz de los desafíos actuales para el Estado y la gestión pública (no 
+solamente los de corto plazo, como la pandemia), de las cuestiones que definen 
+el interés general en los contextos presentes, y de la orientación político-administrativa 
+del gobierno democráticamente electo. 
+En este trabajo aplicamos esta idea a la cuestión de la Calidad Estatal (cuando lo 
+amerite, hablaremos de la “calidad en/de la gestión estatal”), poniendo en debate algunos 
+ejes centrales que vinculan los instrumentos y las perspectivas generales en materia de 
+gestión de la calidad en el sector público, y con esa intención debe ser leído. 
+La Calidad Estatal no es un fin en sí mismo, no tiene (o no debería tener) una lógica 
+propia, “neutra”, sino que siempre es parte de un Modelo de Gestión Estatal; y a su vez, 
+este se deriva de los marcos teóricos y políticos que caracterizan a un determinado 
+Estado y a su gobierno, a su lectura del interés general y la forma de realizarlo. Por lo 
+tanto, la calidad de la gestión estatal incluirá siempre, además de sus especificidades 
+técnicas, un componente o una dimensión política. 
+En nuestro caso, catalogamos el modelo de gestión estatal que sostenemos 
+como Democrático e Inclusivo. Esto es, las políticas públicas deben apuntar a 
+fortalecer la democracia, el desarrollo y la inclusión social, y para ello es necesario que 
+las estructuras, capacidades y recursos del Estado incorporen dichos valores/objetivos 
+y los puedan traducir en acciones, procesos y normativas concretas. Y, por lo tanto, 
+también los conceptos-guía para la gestión pública —calidad, participación, 
+descentralización, fortalecimiento institucional, etc.— deben tenerlos como encuadre. 
+Todo modelo es una representación conceptual que ayuda a pensar la realidad, a 
+caracterizarla en función de los valores y objetivos que se quieren alcanzar y a elaborar 
+las herramientas que deberán aplicarse para orientarla hacia dichos valores. Esto 
+presupone a su vez un paradigma determinado de desarrollo y, como resultado, un tipo 
+de Estado a construir (o reformar), armado con las capacidades y recursos necesarios 
+para llevar dicho modelo a la práctica. No es objeto de este texto describir los vínculos 
+entre todas estas dimensiones, sino solo alertar sobre los riesgos de no tomarlos en 
+consideración y pensarlos de modo independiente o aislando cada dimensión. 
+
+
+--- PÁGINA 5 ---
+4 
+Desde las últimas décadas del siglo pasado, la tradicional dicotomía política-
+administración mostró un fuerte sesgo hacia el segundo término (tanto en los debates 
+teóricos como en los aspectos instrumentales). Por ejemplo, el debate sobre modelos 
+que han adquirido una suerte de “valor universal”, como la Nueva Gestión Pública, 
+terminan de hecho obviando su dimensión de proyecto político, concentrándose en sus 
+aspectos operativos, como si los mismos fueran de raíz exclusivamente tecnológica (o 
+tecnocrática) y, por lo tanto, políticamente neutros1. 
+En consecuencia, creemos que para repensar la Calidad Estatal hay que reconsiderar 
+esa perspectiva, poniendo sobre la mesa los resultados concretos que se alcanzaron, 
+analizándolos no solamente desde la propia perspectiva organizacional o administrativa, 
+sino también —y sobre todo— desde el punto de vista político que nos interesa: 
+¿Cuánto de esa deriva instrumentalista se concretó en resultados sociales que 
+aumentaron la inclusión, el desarrollo y fortalecieron la democracia? Y ¿cómo debe ser 
+el instrumental metodológico y práctico que nos permita captar, sistematizar y evaluar 
+los impactos en esos ámbitos? 
+Esto implica recuperar la dimensión política del debate sobre la gestión pública, para 
+articular así las dos dimensiones que, en definitiva, conforman el Estado: la política y 
+la organizacional (o administrativa). 
+No estamos negando la importancia de —ni descartando la mirada sobre— lo 
+organizacional, sino que queremos recuperar la idea de articulación que reside en el par 
+política-administración, para minimizar características antitéticas que puedan surgir en 
+esta relación: las herramientas, las tecnologías y los tipos de organización (estructuras, 
+normativa, procesos) deben ser evaluados también en función de cuánto han contribuido 
+—y contribuyen— a una acción estatal que privilegia la democratización, el desarrollo y 
+la inclusión social. En este plano, entonces, hablar de calidad en/de la gestión pública nos 
+lleva a colocarla en un marco más amplio, que partiendo desde lo democrático e inclusivo 
+incorpore cuestiones que operacionalicen dichos conceptos, como por ejemplo el del 
+valor público o el proyecto de gobierno. 
+1 La ola neoliberal de los años 90 del siglo pasado, en el marco del Consenso de Washington, inundó de “recetas infalibles”
+el discurso y la acción sobre el Estado, recetas únicas para todos los casos, que no distinguían las especificidades de 
+los países. Así, privatización, agencialización, desregulación, descentralización y otras, formaron parte de las agendas 
+de los gobiernos neoliberales, y sus resultados, en general, supusieron desarmar capacidades estatales históricamente 
+construidas sin construir alternativas provechosas. 
+
+
+--- PÁGINA 6 ---
+5 
+Antes de comenzar esta tarea, debemos completar la perspectiva expuesta hasta aquí 
+con algunas consideraciones generales que la vinculan con la Calidad Estatal: 
+•
+Aunque suene obvio, el Estado no solo brinda bienes y servicios, sino que también
+desarrolla una multiplicidad de otras tareas: establecer regulaciones y controlar
+su cumplimiento, extraer recursos y redistribuirlos, intervenir directamente en
+la producción, acumular capital físico mediante obras de infraestructura económica
+y social, mediar entre actores en pugna y construir sentido, por lo cual todos estas
+acciones —y sus particularidades— deben ser tomadas en cuenta a la hora de
+proponer una mirada sobre la calidad.
+•
+Es fundamental que el Estado opere con autonomía de los sectores e intereses
+dominantes, de modo de poder llevar adelante las acciones necesarias para
+materializar los compromisos democráticos y promover el interés general.
+Operar con autonomía requiere la construcción y/o fortalecimiento de capacidades,
+tanto de las burocráticas (organizativas, técnicas, administrativas), como de
+las político-estratégicas (capacidad de leer, interpretar e intervenir en contextos
+diversos) y las relacionales (coordinación y articulación de organismos; articulación
+con otros niveles de gobierno para fortalecer lo federal, y apertura a la participación
+ciudadana y de sectores sociales). La calidad estatal también se juega entonces
+—y mucho— en este plano de la construcción y/o fortalecimiento de las capacidades
+estatales, por lo que deberá ser un punto importante en nuestro modelo.
+•
+Desde lo metodológico, cabe decir que en general se trabaja el tema de calidad
+especificando una serie de herramientas de gestión que, de implementarse,
+la asegurarían. Por el contrario, nuestro Modelo de Calidad Estatal plantea
+que las herramientas posibles son muchas y variadas, incompletas en su
+singularidad, y con tantas posibles combinaciones entre sí (que dependen de
+los contextos, las culturas, los valores, etc.) que es muy difícil establecer a priori un
+set específico con el cual se obtendría, inevitablemente, la calidad. El pensamiento
+situado, a diferencia de los “programas enlatados”, favorece pensar soluciones
+según cada caso, aspecto importante dado la gran heterogeneidad que caracteriza
+a los aparatos estatales argentinos (y de cualquier Estado moderno).
+Precisamente por ello en este texto presentamos un marco general, que debe
+diferenciarse en su aplicación según los tipos de actividades que emprenda el
+Estado, haciendo hincapié en dimensiones diferentes cuando las organizaciones
+brinden servicios o ejerzan la potestad pública. Al ser principios generales (y por
+ende transversales) están pensados como norte, como escenarios hacia los que
+transitar, más que como instrucciones precisas y, por lo tanto, deberán adoptarse
+con matices, énfasis y herramientas diversas.
+
+
+--- PÁGINA 7 ---
+6 
+•
+Si bien los mejores modelos de calidad especifican algunas acciones a realizar pero
+dejan a cada organización cómo hacerlo, por lo general esto remite a cuestiones
+procedimentales (como por ejemplo, documentar). Nuestro modelo, al colocar en
+rol preponderante al Proyecto de Gobierno, agrega cuestiones sustantivas: valores
+como la igualdad o la justicia social, o enfoques como el de derechos, que derivan
+en postulados para acciones concretas como “ir a buscar a los más desprotegidos”.
+De todas formas, cabe marcar que si se construye esa mirada sin incluir
+a los actores intra-organizacionales, se corre el riesgo de que “lo situado” o
+lo contingente sea interpretado por ellos como discrecionalidad política —en
+el mal sentido— con lo cual estaremos reforzando –en lugar de superarlo—
+la desarticulación entre el nivel de la política y el de la administración.
+•
+Si la calidad se construye y evalúa en el plano de la articulación entre lo político y
+lo administrativo, entonces es necesario agregarle una escala o nivel de análisis
+diferente. Un plano central de la Calidad Estatal debe hacer que la “organización”
+—el lugar donde se pone la mira y se actúa— tienda a ser el aparato estatal en
+su conjunto, o sea no solo mirando a nivel de cada organismo sino al conjunto de
+organismos involucrados en una política pública. Esta escala permitiría salir
+del encierro que en muchas ocasiones genera la dicotomía política-administración,
+porque se hacen análisis separados de la dimensión política y de la dimensión
+administrativa, pero no de su articulación. Y dado que en los modelos clásicos de
+calidad la dimensión política suele estar ausente —al menos en términos relativos
+respecto de la dimensión organizacional— por default la calidad queda resumida
+al plano de esta última. Es un error seguir pensando que la calidad estatal pasa
+solamente por trabajar incrementalmente, en el margen y afinando al infinito
+los aspectos de gestión de los organismos tomados como unidades autónomas.
+Es necesario introducir en nuestra mirada sobre la Calidad Estatal criterios ligados
+a “lo inter”, “lo articulado”.
+El siguiente esquema expresa nuestro razonamiento hasta aquí: 
+Valores y objetivos (definen la...) → Situación a construir/sociedad deseada (abre a 
+un…) → Modelo de desarrollo (presupone, requiere de un…) → Proyecto de gobierno 
+(requiere de un…) → Estado “necesario”: estructuras/capacidades/recursos (para 
+asegurar la efectividad de las…) → políticas públicas (“las herramientas”, que 
+articulan y enmarcan la acción de los…) → organismos de la administración pública 
+(que con su práctica concreta realimentan –o no— el proceso) → Valores y objetivos. 
+La calidad recorre toda la cadena, y debe ser evaluada en consecuencia. 
+
+
+--- PÁGINA 8 ---
+7 
+1. ¿Qué es la Calidad Estatal? Capacidad estatal para crear valor público
+_________________________________________________________________________________________ 
+1.I. Definición de Calidad Estatal: Mirando más allá del output… hacia el outcome 
+“[…] la elaboración de una definición de la calidad de los servicios públicos no debería 
+contentarse con traspasar los conceptos a la moda que hayan sido exitosos en 
+el sector privado. Se trata de integrar en esa definición eso que hace a la especificidad 
+de los servicios públicos, como la noción de interés general, aún si todos sabemos 
+las dificultades que genera el trabajo con esa noción (Simard et col., 2006)”.2 
+“Ovrertveit (2005) resume bien la complejidad de definir la noción de calidad 
+de los servicios públicos, subrayando que ella no puede ser técnica sino política: 
+«A quality public services is not one which just produces happy customers, but is one 
+which has to meet other higher level regulations and do so economically» 
+(Un servicio público de calidad no es el que produce consumidores felices, sino 
+uno que tiene que cumplir con otras regulaciones de nivel superior y hacerlo de 
+manera económica).3 
+¿Qué es la calidad cuando estamos en el ámbito de la gestión pública? Varias propuestas 
+han afirmado que es una cultura que promueve la mejora permanente para satisfacer 
+las necesidades y expectativas del/a usuario/a o ciudadano/a4. Sin desechar del todo 
+esta mirada, proponemos incorporarla en un marco más complejo, que transforma su 
+núcleo. También se la ha pensado como un enfoque, una orientación, un proceso, o 
+incluso un principio administrativo. 
+Sin dejar de considerar diversos modelos de calidad existentes (por ejemplo las Normas 
+ISO IRAM, o la propia Carta del CLAD) como valiosas herramientas adaptables y 
+asequibles, se plantean aquí los fundamentos de un modelo de calidad que resulte 
+representativo de nuestra trayectoria como sociedad y de los valores que conforman un 
+tipo de Estado distintivo, destinado a fortalecer la democracia y a construir desarrollo con 
+inclusión social. Empezaremos por establecer algunas definiciones. 
+2 Nassera Touati: “La gestion de la qualité dans le secteur public: a-t-on fait le tour de la question? En: La Revue
+de l´innovation: La Revue de l’innovation dans le secteur public, Vol. 14(3), 2009, article 1. Rescatado de: 
+https://www.innovation.cc/francais/2009_14_3_1_touati_qualitity-admin.pdf 
+3 Ibidem
+4 Por ejemplo, en su Carta Iberoamericana de Calidad en la gestión Pública (2008), el CLAD dice que constituye “una cultura
+transformadora que impulsa a la Administración Pública a su mejora permanente para satisfacer progresivamente 
+las necesidades y expectativas de la ciudadanía, al servicio público, con justicia, equidad, objetividad y eficiencia en el uso 
+de los recursos públicos. La calidad en la gestión pública debe medirse en función de la capacidad para satisfacer 
+las necesidades y expectativas de los ciudadanos, de acuerdo a metas preestablecidas alineadas con los fines y propósitos 
+superiores de la Administración Pública y de acuerdo a resultados cuantificables que tengan en cuenta el interés y 
+las necesidades de la sociedad”. 
+
+
+--- PÁGINA 9 ---
+8 
+En nuestra visión, las iniciativas estatales son/tienen calidad cuando logran el mayor 
+impacto alcanzable sobre las condiciones de vida social. De tal modo, la calidad se 
+construye con y en las políticas públicas, y cuando cristaliza produce impactos tanto 
+en los organismos (cultura, procesos, reglas de juego, normativas internas) como en 
+la tarea política central del Estado: gobernar la sociedad. 
+Esto implica que la Calidad Estatal es bastante más amplia que satisfacer necesidades 
+de ciudadano/as y que debe ser interpretada en sentido dinámico y no “estático”, porque 
+adquiere “sentido estatal, público” en el nivel de la política pública y no solamente al 
+interior de cada organismo. 
+En definitiva, lograr calidad en la gestión pública no significa solamente aplicar un 
+paquete de reglas estandarizadas en un determinado organismo, sino contribuir 
+efectivamente a la generación de valor público, evaluado en función de los valores 
+que informan el Proyecto de Gobierno y con los cuales se interpreta el interés general5, 
+en nuestro caso, democracia, desarrollo e inclusión social, (y que incluyen los objetivos 
+prioritarios de la gestión pública: integralidad, integridad, planificación, igual trato, etc.). 
+Ahora bien, esta concepción de la calidad, que define su sustancia fundamentalmente 
+en el ámbito del impacto del accionar estatal —las políticas públicas—, requiere una 
+definición clara de los ejes previstos para alcanzarla. Este punto lo trataremos en 
+el apartado siguiente. 
+Por lo tanto, en nuestro enfoque de la Calidad Estatal, el concepto de valor público 
+está en su centro. Este ha sido desarrollado desde distintos puntos de vista. Nos 
+concentraremos en las propuestas que se distancian de ideas subsidiarias del 
+mercado, como por ejemplo, entre otras, la de Mariana Mazzucato (2019) y la de 
+Jorge Sotelo Maciel. Este último muestra la Cadena de Valor Público (CVP) o 
+Modelo de Agregación de Valor Público (MAVP) como un modelo —descriptivo más 
+que prescriptivo— que ayuda más a entender y, en alguna medida, a “descubrir”, 
+las políticas y el accionar del sector público, que a determinar su deber ser. 
+5 En tanto se trata de un concepto inserto en importantes debates teóricos y su definición es eminentemente política, en 
+el marco de este Modelo de Calidad Estatal se hará referencia a la noción de Interés General vinculándola a principios 
+fundamentales, validados tanto por la Constitución Nacional como por Tratados Internacionales suscriptos por nuestro 
+país, en particular, la Declaración Universal de los Derechos Humanos. Se trata de los principios de la vida y la igualdad, del 
+goce de la libertad, así como del deber de reconocer y respetar los términos de la sociedad democrática. En nuestro modelo 
+se hará referencia a los valores de democracia, desarrollo e inclusión social, para visibilizar la brecha social existente, como 
+deuda pendiente de nuestras sociedades en términos de alcanzar una verdadera igualdad. 
+
+
+--- PÁGINA 10 ---
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+El núcleo del modelo lo constituye la denominada cadena de producción pública, para  
+la cual el sector público puede ser entendido como un conjunto de instituciones dedicadas 
+a generar productos —regulaciones, producciones económicas, acumulaciones de 
+capital, bienes, servicios, etc.— que se brindan a la población. Estos productos constituyen 
+la razón de ser de una organización ya que, a través de ellos, contribuyen en forma 
+directa al logro de objetivos de políticas. Estos, a su vez, se operacionalizan en resultados 
+e impactos esperados; ambos cotejables y susceptibles de seguimiento.6 
+En esta línea, desde la CEPAL se propone un enfoque diferente a los convencionales, que 
+están más centrados en administración, o sea, perspectivas que tienden a enfocarse  
+en las actividades y las entregas, sin necesariamente responder por el valor creado como 
+consecuencia de esas actividades y entregas. Así, se genera valor público tanto en   
+las respuestas a problemas relevantes para los ciudadano/as y usuario/as, como    
+en la apertura de nuevas posibilidades para las generaciones actuales y futuras,       
+y en el despliegue de procesos que construyen desarrollo, comunidad, ciudadanía, 
+democracia y capital social, tales como deliberación, participación, etc.7 
+Este enfoque es interesante porque al output le incluye el outcome, conformando así   
+la unidad de análisis en donde evaluar la calidad o el valor público. Como también 
+plantea Thoenig, los productos estatales tienen dos dimensiones (cada una resultado  
+de una función de producción diferente). Por un lado los Productos operativos, 
+relacionados con su eficiencia interna y con la producción de acciones estatales 
+específicas que pueden identificarse y numerarse con facilidad; son los outputs. Por  
+otro lado, los Resultados de cambio en la sociedad, encargados de proveer         
+la efectividad, los que se relacionan con efectos indirectos y son menos cuantificables  
+a mediano plazo; son los outcomes8. O sea, cada intervención estatal hay que pensarla 
+en términos de esa doble dimensión, en la línea de lo que estamos planteando respecto 
+de que no se debe concentrar el foco exclusivamente en lo organizacional y    
+respecto de una mirada más amplia que la mera satisfacción del usuario/a y ciudadano/a. 
+ 
+6 Aníbal Jorge Sotelo Maciel (2012): “La cadena de valor público: un principio ordenador que previene la colisión 
+metodológica”. 80 - Revista Internacional de Presupuesto Público - ASIP, N° 80, Buenos Aires, NOVIEMBRE/DICIEMBRE 
+2012. Rescatado de: https://asip.org.ar/80-revista-internacional-de-presupuesto-publico-asip/ 
+7 Marco Moreno (2009): Curso Planificación y Gestión Estratégica para las Políticas Públicas, ILPES-AECID, Santa Cruz, 
+Bolivia, 4-15 Mayo. Rescatado de: Valor Público – Cepal www.cepal.org › noticias › paginas › C16_Valor_Publico 
+8 Thoenig, Jean-Claude (2026). El rescate de la publicness en los estudios de la organización. Gestión y Política Pública Vol. 
+XV. N° 2 II. México D.F. 
+
+
+--- PÁGINA 11 ---
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+Así, desde este marco, no hay intervención del Estado que se pueda evaluar —por 
+ejemplo en su calidad o en su generación de valor público— solamente en función de  
+una de las dos dimensiones. 
+En definitiva, los productos estatales, además de tecnologías y procesos, contienen 
+definiciones sobre la sociedad que se quiere construir, sobre cómo se define el interés 
+general y se genera valor público; por lo tanto, contienen política. Entonces, si estamos 
+construyendo una nueva mirada sobre la calidad de la gestión estatal, debemos tomar en 
+cuenta que la misma involucre —en su definición conceptual, sus métodos de evaluación, 
+sus indicadores— tanto a la dimensión administrativo-organizacional como a la 
+dimensión política. No hay Calidad Estatal si no están involucradas ambas dimensiones. 
+1.II. Dimensiones de la Calidad Estatal: Trámites sí, resultados políticos también 
+Estas dos dimensiones se pueden expresar, en términos de la Calidad Estatal, en dos planos. 
+En lo que hace a los-as ciudadanos-as/beneficiarios-as/usuarios-as/destinatarios-as 
+individuales y su relación con los organismos estatales, la calidad parece jugarse en   
+el plano administrativo. Este es de vital importancia para la legitimidad del Estado, 
+aunque al mismo tiempo debe advertirse que, en la relación inmediata con el trámite,  
+se pierden de vista los marcos de referencia generales que explican por qué ese 
+organismo hace lo que hace, y cómo lo hace. 
+En cambio, cuando hablamos del conjunto social, la calidad se juega en el nivel de    
+la política pública, momento en el que aparecen los rasgos constitutivos de la misma, a 
+diferencia del plano anterior, en que los aspectos relacionados con el vínculo de 
+proximidad y la entrega del producto de la acción estatal pesan o “se ven” más. 
+En el primer caso, los rasgos a identificar son similares a los que se definen, por ejemplo, 
+en los criterios y herramientas del Programa Carta Compromiso con la Ciudadanía: 
+cumplimiento de características y plazos; tiempo de espera para ser atendido/a; 
+respuesta uniforme por diversos canales de comunicación; canales y tiempos para 
+reclamo; disponibilidad y tiempos de respuesta de las aplicaciones; la claridad, simpleza, 
+amigabilidad o lo intuitivo de las mismas. En definitiva, un compromiso con una buena 
+"experiencia de usuario/a" aseguraría la calidad. 
+ 
+
+
+--- PÁGINA 12 ---
+ 
+ 
+ 
+ 
+ 
+ 
+11 
+El sujeto implicado en la forma de provisión (modo en que el servicio le llega al/a 
+destinatario/a) de los servicios es el/a individuo/a-usuario/a (presencial o virtual), por lo 
+que en este caso valdría la pena adaptar cada prestación hasta el nivel más desagregado 
+posible (siempre que no se habiliten por esa vía la cooptación o la puerta giratoria). 
+Cuando lo que entra en juego es la política pública, la calidad pasa a ser política.     
+Los-as individuos-as/ciudadanos-as pasan a ser parte del conjunto social, y la cuestión 
+de la satisfacción individual se relativiza a favor de una perspectiva universalista. Y 
+entonces la información necesaria sobre la sociedad y sus demandas no se obtiene 
+solamente mapeando a los-as beneficiarios-as/usuarios/as directos/as sino también a 
+aquellos/as a los/as que se pudiera llegar a afectar indirectamente. 
+Este “mapa” ayuda a perfeccionar los lineamientos políticos y prever modificaciones de 
+la política vigente, así como a orientar las preferencias ciudadanas hacia objetivos 
+nuevos (ver punto 3). Por ende, en este caso, los sistemas de información estatales (ver 
+más abajo) no solo deben recolectar datos administrativos sino que deben ser un canal 
+eficaz para la visualización y comprensión de la política por los distintos actores 
+involucrados (como mínimo, por las autoridades políticas del organismo). 
+Tómese como ejemplo el tan citado caso de la madre que se entera de que su hija está 
+embarazada mediante los vouchers del supermercado que le llegan a su domicilio como 
+promoción. Sea este mecanismo algorítmico u otro más tradicional, este caso aplicado 
+a la política pública ejemplifica que la recolección de información en otro nivel de 
+análisis, quizás más compleja, permite hoy a la conducción política evaluar mejor    
+las acciones estatales que merecen modificaciones; ya no solamente sobre la base   
+de la eficacia de la propia política (a través del monitoreo y evaluación de las políticas) 
+sino también interpretando los cambios en la sociedad a través de fuentes diversas. 
+Obviamente, en el caso de las organizaciones estatales que brindan servicios,       
+la información sobre deseos concretos de las/los usuarias/os, accesibles a través de 
+estas nuevas fuentes, también contribuye a la mejor forma de producirlos/entregarlos y 
+genera, a su vez, una fuerte responsabilidad sobre las variables éticas de su uso y su 
+correcto resguardo. 
+ 
+ 
+
+
+--- PÁGINA 13 ---
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+1.III. Vínculo entre valores y principios administrativos-herramientas 
+Como se desprende de lo que venimos proponiendo, adoptamos un enfoque general  
+que posee dos niveles estrechamente vinculados: el de los valores e intereses que  
+busca consolidar un Proyecto de gobierno —el nivel político—, que a su vez prefigura,  
+pre-determina u orienta el de los principios administrativos y herramientas específicas 
+de organización que permitirán asegurarlos. La calidad en la gestión estatal es, por    
+lo tanto, resultante de la capacidad de gobernar (planificar, implementar, evaluar y 
+reformular) la articulación entre estos niveles. 
+Rescatamos la importancia de una gestión orientada hacia la eficacia y eficiencia; estas 
+son de absoluta relevancia para que realmente las políticas públicas lleguen al terreno y 
+generen desarrollo e inclusión social; al mismo tiempo, también es necesario preguntarse 
+para qué o para quiénes se avanza en esa eficiencia y eficacia, puesto que no hay “una 
+única” eficiencia ni “una única” eficacia; estas nunca son neutras políticamente. 
+Siguiendo este enfoque, la estructura y funcionamiento de las organizaciones del sector 
+público deben expresar esta amalgama entre lineamientos generales y adecuaciones 
+empíricas, que además estarán necesariamente enmarcadas en la naturaleza del entorno 
+en que se materialicen. El Estado tiene como finalidad producir resultados de cambio 
+social (en el cual se enmarcan los bienes y servicios provistos), por lo que los resultados, 
+la calidad, el valor público, operan y se miden siempre en el contexto, en función de si lo 
+orientan o no hacia los valores e intereses del conjunto social. 
+Son las políticas públicas las que despliegan visiones deseables del mundo (Müller 
+2006), valores e intereses sobre el entorno, sobre la sociedad, y la transforman. Y en   
+las políticas públicas actúan —explícita o implícitamente— conjuntos de organismos  
+que son interdependientes. Así, la calidad de la gestión estatal remite siempre a      
+la articulación entre lo político y lo organizacional, y por lo tanto al plano de        
+las políticas públicas; si la centramos exclusivamente en la dimensión organizacional, 
+corremos el riesgo de reproducir una gestión pública “centrípeta” —la organización como 
+“locus exclusivo” de la calidad— y en el límite, “desgajada” o “big-banizada”. 
+Como el entorno es variable, lo que sigue son criterios orientadores, planteados con   
+un alto grado de generalidad, que de ninguna manera se deben traducir en  
+instrumentos estandarizados rígidos e inmodificables. 
+ 
+
+
+--- PÁGINA 14 ---
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+2. Construyendo Calidad Estatal: Sus ejes componentes 
+_________________________________________________________________________________________ 
+Que una política tenga/sea de calidad supone que genera valor público en la línea 
+marcada por el proyecto de gobierno y el interés general. Y si una política es/tiene 
+calidad, es algo que se conoce luego de que ha sido desarrollada. 
+Para alcanzarla no hay fórmulas mágicas: no basta con aplicar un listado de 
+herramientas preconfiguradas, sino que hay que asegurar que las políticas públicas (y 
+las organizaciones que las llevan a la práctica) contengan algunos de estos grandes ejes: 
+la conducción estatal autónoma y basada en el Proyecto de Gobierno; que esa 
+conducción dé cuenta/incorpore las voces de los/as sujetos/as y actores sociales9, 
+priorizando así una lógica de concertación en la búsqueda del interés general; ciertas 
+características organizacionales y de las/os trabajadoras/es estatales que fomenten  
+el compromiso con las tareas político-administrativas encomendadas. 
+Si bien en la práctica forman parte del mismo conjunto, en términos analíticos, y para 
+hacer más claro el proceso de elaboración y análisis de iniciativas de Calidad Estatal, 
+estos ejes pueden separarse en dos niveles: por un lado, I) el del vínculo del Estado con 
+la sociedad y la ciudadanía, y por otro, II) el de la estructuración y funcionamiento interno 
+de las organizaciones estatales. 
+Esta distinción refleja, parcialmente, la diferencia que el modelo empresarial realiza  
+entre calidad de diseño y de concordancia10, pero aplicada al ámbito estatal. Solo 
+parcialmente porque el vínculo con la sociedad se puede extender hacia los dos 
+momentos (diseño y conformidad) mientras que el funcionamiento interno (si bien es 
+impactado por la relación con la ciudadanía) constituye el continente propio de lo 
+administrativo-organizacional. 
+ 
+ 
+ 
+ 
+ 
+9 Se hace referencia a los diferentes actores sociales —privados y públicos— como ser asociaciones sindicales, 
+instituciones educativas y de investigación, movimientos sociales, organizaciones de la sociedad civil, empresas, etc. 
+10 La literatura de calidad del sector privado entiende por calidad de diseño la capacidad de diseñar un modelo de producto 
+cuyas características se ajusten a las necesidades del cliente, y por calidad de concordancia o conformidad, la adecuación 
+del producto fabricado a los rasgos que el diseño había pensado. 
+
+
+--- PÁGINA 15 ---
+ 
+ 
+ 
+ 
+ 
+ 
+14 
+ 
+Insistimos en que esta distinción es analítica, para hacer más clara la presentación, pero 
+no debe hacer pensar que son dos procesos separados: por ejemplo, en cualquier 
+momento o etapa de la política el vínculo con la ciudadanía también puede dar lugar a 
+repensar los lineamientos generales y los acuerdos originales entre actores, que en esta 
+presentación —separada en momentos— ubica en la “conducción estatal” o en la de 
+“concertación con los/as sujetos/as y actores sociales”. 
+2.I. La relación con la sociedad y la ciudadanía 
+Las iniciativas gubernamentales que propendan al interés general no necesariamente 
+coinciden exactamente con aquellas que esperan algunos de los/as sujetos/as y  
+actores sociales a quienes se destinan esas políticas; eso se resuelve construyendo   
+la articulación entre el Proyecto de Gobierno y las preferencias de dichos/as sujetos/as 
+y actores sociales. Esta lógica de concertación debe ser conducida por la autoridad 
+estatal mediante los mecanismos que estime convenientes, pero de ningún modo 
+implica la co-gobernanza público-privada, sino la dirección estatal con participación o 
+colaboración social, lo cual también, según los casos, puede necesitar e imponer fuertes 
+niveles de reciprocidad de los actores sociales participantes para con las acciones   
+que finalmente emprende el Estado (lo cual significa que, si son escuchados en el diseño 
+de políticas, deben colaborar —en la medida de las posibilidades de cada actor social— 
+en el resto de los momentos de la política y en su legitimación). 
+De lo dicho se desprende que el mejor escenario es el de construir junto a los/as 
+destinatarios/as de las políticas las acciones que más cerca estén de sus deseos e 
+intereses sin que ello implique lesionar el bienestar del conjunto social o condicionar  
+las posibilidades del desarrollo nacional. 
+Por ejemplo, y solo para graficar el argumento: los requerimientos que el Proyecto de 
+Gobierno tenga sobre la situación de la cuenta comercial del país es central para   
+decidir si cabe brindar todas las facilidades posibles al sector importador. Si bien este  
+es el principal destinatario de las políticas y herramientas administrativas de comercio 
+exterior (sin contar la parte de exportaciones), existen otros sectores y sujetos que 
+también se pudieran ver afectados, como por ejemplo las empresas nacionales     
+que fabriquen productos similares a los importados, y la ciudadanía en general, en 
+función del impacto económico global de esa política. Por estas externalidades y  
+muchas otras posibles es que la Calidad Estatal no se juega exclusivamente en      
+el vínculo con el destinatario inmediato o con quien tenga capacidad de presión.     
+
+
+--- PÁGINA 16 ---
+ 
+ 
+ 
+ 
+ 
+ 
+15 
+Por otra parte, incluso si cupiese generar facilidades cercanas a las expectativas del 
+sector importador, al mismo tiempo debieran alejarse lo suficiente de brindar lugar a   
+la sobrefacturación o adelantamiento irresponsable de operaciones y la consecuente 
+excesiva solicitud de divisas. En términos herramentales, facilitar las importaciones 
+puede suponer implementar una ventanilla única y simplificar al máximo posible     
+los trámites para ingresar mercaderías al país, pero supone al mismo tiempo un   
+control férreo (ejercido exclusivamente por funcionarios estatales) sobre el cumplimiento 
+de las reglas sobre importaciones, cosa que no siempre es del agrado de quienes    
+las realizan; reglas que en la configuración de su detalle puede contar con la consulta a 
+los actores interesados, por ejemplo si se va a establecer precios de referencia, se  
+puede armar una mesa de consultas con los importadores, pero siempre con la decisión 
+final en manos de un actor estatal autónomo. 
+ 
+Contrariamente, el modelo de gestión de calidad derivado del ámbito empresarial tiene 
+en la satisfacción del/la cliente su eje central: lo que este identifica como necesario  
+para satisfacer plenamente sus expectativas, es decir, lo que necesita y espera en 
+términos de producto (calidad de diseño del output) es la única guía para definir     
+los productos organizacionales. Luego, se agrega el control sobre lo producido (calidad 
+de conformidad con las especificaciones previas). 
+En este sentido, es una perspectiva centrada en la demanda, que no puede ser trasladada 
+acríticamente a la gestión estatal. La construcción —discursiva y en la práctica— de una 
+oferta específica de acciones estatales es la particularidad y la base de un gobierno, y uno 
+de los desafíos principales en la gestión es conseguir que dicha mirada sobre la oferta 
+articule mayorías. Por ello, nuestro modelo de calidad enfatiza la articulación entre oferta 
+estatal y demandas ciudadanas, en el marco de una mirada específica sobre el interés 
+general, expresada en los conceptos de democracia, desarrollo e inclusión social.  
+Expuesto este enfoque sobre la relación con la sociedad, debemos explicitar       
+la fundamentación que está por detrás: la diferencia entre la perspectiva gerencialista   
+y el modelo democrático inclusivo radica en el actor sobre el que construyen su 
+legitimidad (y, por ende, en las relaciones de poder en que se sustentan). La primera 
+coloca al/a cliente-a/ciudadano-a como el actor cuyas preferencias individuales   
+deben ser satisfechas, y que determinan las condiciones y atributos del servicio que   
+le brinda una organización en particular. Por el contrario, nuestro modelo enfatiza   
+que el actor político-estatal (el gobierno) detenta la conducción de la política pública y, 
+por ende, debe ponerse al frente del proceso de su elaboración y comunicación, en    
+el que también toman parte las organizaciones sociales y otros actores sociales.    
+
+
+--- PÁGINA 17 ---
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+Sin embargo, ninguno de estos actores —ni organizaciones ni individuos/as— deben tener 
+o conseguir, en el proceso, la preeminencia en las decisiones, puesto que es el Estado  
+—a través del gobierno— el que tiene la responsabilidad de sopesar las diferentes 
+necesidades dentro del conjunto y los impactos sobre este de las demandas particulares. 
+Por ejemplo, y solo para graficar el argumento: en una ciudad, un proceso participativo 
+puede derivar en que los vecinos de un barrio, por razones de seguridad, decidan cerrarlo, 
+de modo que accedan solamente quienes viven allí. Desde el punto de vista de satisfacción 
+acrítica de las demandas, correspondería apoyarlos. Sin embargo, trasladado al conjunto 
+de los barrios, el resultado sería una ciudad compartimentada, en la que el derecho a   
+la circulación estaría limitado. El gobierno de la ciudad debería evaluar esa demanda 
+contra el interés general (los derechos generales que vulnera) y por lo tanto desestimarla. 
+ 
+Una forma de evitar la exclusividad de la demanda ciudadana como fuente única de   
+las decisiones estatales es construir la legitimidad para orientar a la ciudadanía en torno 
+a políticas que construyan valor público. A esto llamamos el rol performativo del Estado. 
+De tal forma, para nuestro modelo de Calidad Estatal, la relación con la ciudadanía por 
+definición debe ser diferente —más amplia— que la que se refiere cuando se habla de 
+calidad en el ámbito empresarial, aunque ello no necesariamente implica descartar 
+todos sus componentes. Por eso, en lo que hace al vínculo con la sociedad, nuestro 
+Modelo de Calidad Estatal debe contener instrumentos y herramientas que aseguren: 
+A. La autonomía estatal para garantizar la aplicación del Proyecto de Gobierno; 
+B. La capacidad de conocer, explicar y deliberar con los colectivos sociales; 
+C. El rol performativo del Estado. 
+A. La autonomía estatal para garantizar el Proyecto de Gobierno 
+Cada Proyecto de Gobierno surge de los compromisos asumidos durante el proceso 
+democrático de selección de autoridades estatales. En estos términos, se tiende     
+la Calidad Estatal si las políticas públicas reflejan con la mayor fidelidad posible      
+el interés general (vinculado a las inclinaciones políticas del electorado), sin que esto 
+suponga dejar de articular con grupos de interés o actores sociales. Pero, por ello mismo, 
+la conducción estatal tendría poco sentido si la misma fuera solo en favor de los intereses 
+inmediatos de algunos de los actores sociales con los que debe articular/interactuar 
+cada organismo público; si el/a usuario/a (inmediato/a) tuviera siempre razón. 
+
+
+--- PÁGINA 18 ---
+ 
+ 
+ 
+ 
+ 
+ 
+17 
+Es necesario entonces garantizar la Autonomía estatal. Esta supone un escenario, un 
+esquema de articulación virtuosa de procesos, normativas, mecanismos y actitudes de 
+funcionarios/as y trabajadores/as que impida la toma de decisiones sesgadas hacia 
+algunos intereses sectoriales en detrimento del interés general. 
+Garantizar dicha autonomía es una tarea ardua, difícil de lograr enteramente. Para 
+intentarlo, deben erigirse mecanismos y condiciones que, desde el costado estatal, 
+tiendan a fortalecer la cultura de lo público, del valor público, como forma de desterrar  
+la “porosidad” estatal; y que regulen a la vez el poder de aquellos actores del ámbito 
+privado acostumbrados a desarrollar la cooptación estatal como estrategia política. 
+También se trata de crear condiciones que permitan comunicar, implementar y sostener, 
+al interior del aparato estatal, los lineamientos generales del Proyecto de Gobierno. 
+El trabajo articulado entre diversos organismos, con foco en la integralidad estatal, 
+también apunta a evitar que se instalen esos poros —“túneles que reemplazan       
+a los mecanismos formales de acceso al Estado”, como los llama Oszlak (s/f)- por   
+los cuales permean intereses sectoriales ajenos al interés general. La autonomización 
+de los organismos favorece la cooptación, mientras que la articulación favorece     
+el control, creando instancias de control de hecho por parte de los demás organismos. 
+Ana Castellani y Flavia Llampart (2012:167) nos recuerdan la advertencia de Chibber 
+sobre “que un Estado fragmentado por disputas entre agencias estatales también  
+ofrece una situación apta para socavar la autonomía estatal, ya que puede incentivar   
+el establecimiento de vinculaciones de tipo predatorias entre funcionarios y empresarios”. 
+Nuestro modelo de Calidad Estatal contiene, entonces, ciertos lineamientos políticos 
+generales, determinados básicamente por la agenda comprometida en las elecciones, 
+que luego el Proyecto de Gobierno operacionaliza, incluyendo los lineamientos 
+particulares de la autoridad política de cada organismo sobre su área o sector específico. 
+En un modelo democrático para el desarrollo inclusivo, esos lineamientos son:      
+la centralidad del Estado en el desarrollo económico y en la regulación de las relaciones 
+entre actores sociales, el enfoque de derechos, la equidad en el acceso, la perspectiva de 
+género, la mirada federal y la acción prioritaria en favor de los/as más desposeídos/as 
+
+
+--- PÁGINA 19 ---
+ 
+ 
+ 
+ 
+ 
+ 
+18 
+(“empezar por los últimos para llegar a todo/as”11). A estos obviamente hay que sumarles 
+otros alineados con los derechos constitucionales y legales, y los derivados de 
+compromisos internacionales, como el caso de los Objetivos para el Desarrollo 
+Sustentable (ODS), el Pacto de San José de Costa Rica sobre Derechos Humanos, etc. 
+Estos lineamientos políticos sustantivos deben ser transversales a todas las políticas 
+públicas y a los bienes y servicios regulares que presta el Estado, y además reflejarse  
+en el plano organizacional —la dimensión administrativa— según la tarea de cada 
+organismo, de modo que permitan, por ejemplo, facilitar el acceso de los sectores más 
+vulnerados a través de un enfoque comunitario, territorializar las acciones estatales, 
+asegurar la omnicanalidad en la interacción de la ciudadanía con la administración 
+pública, simplificar la tramitación y lograr efectividad en la prestación. 
+De lo enunciado hasta aquí se siguen los siguientes elementos de calidad estatal y    
+los instrumentos que tienden a conseguirlos/mejorarlos/consolidarlos: 
+     - Proyecto de Gobierno: La guía que orienta el accionar estatal, explicitando los vínculos 
+entre la política pública a tratar y los lineamientos generales del gobierno, 
+operativizándolos en objetivos concretos. 
+     - Autonomía estatal: Normas que evitan la “puerta giratoria”; espacios destinados   
+al cambio cultural en ese sentido; la Matriz de Riesgo, etc., que en general son   
+aplicados al organismo que desempeña la política más que a una política en particular. 
+     - La articulación entre los organismos públicos. 
+ 
+B. La capacidad de conocer, explicar y deliberar con los colectivos sociales 
+La búsqueda de la concertación social incluye pero excede a los/as sujetos/as y  
+actores sociales directamente involucrados en una política. Ciertamente, si hemos 
+afirmado que el Proyecto de Gobierno debe dialogar con las diferentes preferencias 
+sociales, obviamente es necesario conocer las mismas y dotarlas de mecanismos para 
+expresarse (capacidad para escuchar a los actores sociales). 
+Para ello existen métodos directos que apuntan a que los actores sociales expresen   
+su voz y métodos indirectos, que buscan recopilar la información de otra forma.      
+ 
+11 Palabras del Presidente Alberto Fernández en la Inauguración del Periodo de Sesiones Ordinarias del Congreso de 
+la Nación 2019. 
+
+
+--- PÁGINA 20 ---
+ 
+ 
+ 
+ 
+ 
+ 
+19 
+A los primeros, que en la práctica pueden plasmarse de múltiples formas, los llamaremos 
+participación o protagonismo social (A). Denominaremos a los segundos, sistema de 
+información sobre las características de la sociedad (B). 
+B1. Participación social12 
+Por participación social se pueden significar muchas cosas. Acaso una de sus 
+características salientes sea precisamente la variedad de formas, actores, ámbitos, etc. a 
+los que se puede referir cualquier etiqueta genérica del mismo. Por lo tanto, lo necesario 
+es definirlo genéricamente pero con orientaciones valorativas concretas, que como ya se 
+ha dicho largamente, luego cada organismo debe adecuar a su tarea. 
+En primer lugar, debemos ampliar la mirada que entiende que la participación social  
+solo sirve para ejercer “control” sobre el Estado. Por el contrario, es principalmente un 
+modo en el que los actores sociales acompañan y se comprometen con las políticas 
+públicas, lo que excede largamente tanto las perspectivas más tradicionales, que     
+le asignan el rol específico de seguimiento/control ciudadano de las acciones del Estado 
+(o de accountability cuando se trata de las autoridades estatales) como las novedosas 
+miradas del paradigma colaborativo que sitúa en la sociedad saberes diferentes (más 
+amplios) que los estatales. 
+El protagonismo social no implica que el Estado ceda terreno en la definición de      
+la direccionalidad estratégica de las políticas públicas, sino que sus capacidades    
+de intervención se ven fortalecidas a través de la legitimación social. En este sentido,   
+el aporte positivo de la participación será resultado de la fortaleza de los mecanismos 
+que se constituyan y de las capacidades públicas y organizacionales para articular a  
+las organizaciones estatales con las de la sociedad civil. 
+En segundo lugar, debemos problematizar la idea de sociedad civil. Algunas propuestas 
+y políticas de participación ciudadana presuponen una ciudadanía “homogénea”,  
+cuando en realidad, en nuestras sociedades hay profundas desigualdades, que generan 
+diferencias radicales de acceso a los bienes económicos, públicos, culturales y sociales. 
+ 
+12 Parte del texto está basado en el Documento De los Conflictos de Intereses a la Captura de la Decisión Pública: Aportes 
+para un abordaje integral, Colección INTEGRIDAD Y TRANSPARENCIA, Serie SABER REFLEXIONAR. Año 1. 2021. Dirección 
+Nacional de Integridad y Transparencia. Subsecretaría de Fortalecimiento Institucional-SEyEP-JGM. 
+
+
+--- PÁGINA 21 ---
+ 
+ 
+ 
+ 
+ 
+ 
+20 
+Así, las políticas de participación social que no tomen en cuenta esta situación de 
+inequidad pueden propiciar el efecto opuesto al que enuncian querer alcanzar:  
+reproducir o profundizar la desigualdad, generando modalidades de participación en  
+las que los sectores más vulnerables de la sociedad no estén involucrados. 
+Las sociedades civiles de esta parte del mundo están permanentemente amenazadas 
+en su pluralismo, en tanto concentran bolsones de desigualdades que a su vez  
+producen anomia y el retiro de la dinámica social, lo que aumenta el desequilibrio de 
+poder entre actores. En ese marco, muchos de esos sectores pueden quedar presos   
+de enormes fragilidades económicas y exigencias burocráticas que podrían comprometer 
+su capacidad e independencia respecto del Estado y del mercado (García Linera 2011; 
+Piqueras 2001, citado en Cao y Bultman 2019). 
+Surgen así dos cuestiones de suma importancia para nuestro modelo de Calidad Estatal: 
+• 
+Cualquier iniciativa de participación en los asuntos públicos debe coadyuvar a   
+la organización social en general y, en particular, a los sectores que mayores 
+dificultades poseen para involucrarse en la acción colectiva. La participación  
+debe tener en cuenta y potenciar, antes que negar, la experiencia asociativa    
+de las personas y los grupos involucrados, motorizando desde allí la asociatividad 
+con el Estado, en especial para los segmentos de menores recursos. Un   
+modelo para el desarrollo inclusivo se basa en el diálogo con colectivos 
+organizados más que con ciudadanas/os aisladas/os. La Carta Iberoamericana  
+de Participación Ciudadana en la Gestión Pública, aprobada en el año 2003, 
+sostiene esta perspectiva al afirmar la necesidad de “crear las condiciones que 
+permitan que los sectores más vulnerables accedan a la participación ciudadana 
+para la defensa y exigencia de sus derechos, estableciéndose como un medio para 
+la transformación social”. En esta cita queda claro que las políticas de protagonismo 
+social no solo deben habilitar mecanismos para ingresar la voz de los colectivos 
+sociales al Estado, sino también que hay que promover las condiciones para que 
+las/os sujetas/os sociales se tornen actores y puedan entrar con cierto poder en 
+los distintos ámbitos de participación, lo cual incluye la adopción de políticas para 
+la formación, sensibilización e información de los sectores con menores recursos. 
+ 
+
+
+--- PÁGINA 22 ---
+ 
+ 
+ 
+ 
+ 
+ 
+21 
+• 
+La participación social resulta también clave para fomentar herramientas que 
+garanticen reciprocidad. En este sentido, la participación no debe ser entendida 
+como un fin en sí mismo sino como una de las condiciones centrales para    
+que las políticas que el Estado despliega alcancen un nivel de realización 
+satisfactorio de cara al conjunto de la sociedad. Tampoco como un espacio que 
+abre el Estado y en el que solo comunica lo que se va a hacer. Reciprocidad 
+significa que los actores sociales que se embarcan en procesos participativos de 
+políticas públicas sostengan un lugar importante en su desarrollo y posterior 
+legitimación. Ciertamente, el protagonismo social aquí adquiere también una 
+dimensión de construcción de una visión compartida. 
+De esta forma, la participación social no es un fin en sí mismo, algo que “hay que   
+hacer” por moda o corrección política, sino que se convierte en un elemento para     
+el fortalecimiento de las capacidades de gobierno de un Estado presente, activo, 
+resguardado de la presión de intereses particulares o parciales que lo desvíen de su 
+propósito último: garantizar el interés general desde un enfoque que privilegia el desarrollo 
+inclusivo, la democracia, la igualdad y la justicia social. 
+Aunque con un lenguaje que denota su cercanía con las ideas de la “gobernanza” y 
+haciendo referencia explícita a “personas” y a los aportes colaborativos más que al 
+compromiso con la política, la Declaración de Gobierno Abierto del CLAD, de septiembre 
+de 2011, señala algo similar: “La participación pública, incluida la plena participación de 
+las mujeres, aumenta la efectividad de los gobiernos, que se benefician del conocimiento, 
+las ideas y la capacidad de las personas”. 
+Obviamente estos principios generales se adaptarán de manera diversa según      
+la instancia en que se plantea la participación y los resultados que se persigan. De más 
+está decir que cuestiones como la cercanía, por ejemplo, son diferentes en el ámbito 
+nacional respecto del provincial y el municipal. Pero aún en el ámbito nacional,      
+el protagonismo social adquiere modalidades diferentes según de qué materia se trate13. 
+ 
+13 Debe notarse también que la normativa nacional da cuenta de la participación social, ya sea sobre sectores específicos 
+o reglando ciertos mecanismos. La reforma de la Constitución Nacional ocurrida en 1994, aportó innovaciones para    
+el marco jurídico de la República Argentina en materia de participación social: 
+-En materia de consumidores y usuarios de bienes y servicios, se garantiza la constitución de asociaciones de ese  
+carácter y se dispone que la legislación establecerá procedimientos y los marcos regulatorios de los servicios públicos  
+de competencia nacional, "previendo la necesaria participación de las asociaciones de consumidores y usuarios y de   
+las provincias interesadas, en los organismos de control”, según el art. 42 de la Constitución Nacional. 
+
+
+--- PÁGINA 23 ---
+ 
+ 
+ 
+ 
+ 
+ 
+22 
+Por ello, se puede hacer una primera diferenciación respecto de los tipos de participación: 
+1) En la formulación de políticas; 2) En la co-producción de bienes y servicios públicos,  
+y 3) En el contralor de los resultados (outputs y outcomes) de la acción estatal. Cada uno 
+de estos tipos supone distintos niveles y formas de involucramiento, diferentes 
+estrategias y técnicas, y diversos objetivos a alcanzar. 
+Criterio de reciprocidad, por el que los actores sociales que se embarcan en procesos 
+participativos de políticas públicas sostienen un lugar importante en el desarrollo y 
+posterior legitimación de la misma. 
+De entre los formatos posibles de participación en la formulación de políticas: 
+1. Participación en consulta/opinión para la toma de decisiones que atañen a derechos de 
+la ciudadanía en general; 
+2. Participación en procesos deliberativos/argumentativos para la definición de 
+normativas legales, modificaciones de alcance constitucional y/o limitaciones de carácter 
+político; 
+3. Concertación /acuerdos de intereses para el desarrollo de políticas sectoriales que 
+tomen en cuenta los deseos y/o expectativas de los diversos grupos de intereses. 
+En el caso del contralor: 
+1. Modalidades de acceso a la Información, que apunten a hacer más transparente la 
+gestión estatal y más accesible la información que se transmite; 
+2. Mecanismos que faciliten el Involucramiento activo en las actividades de seguimiento 
+y evaluación. 
+ 
+ 
+ 
+- Entre las atribuciones del Congreso se señala respecto a los Pueblos indígenas la necesidad de asegurar "su participación 
+en la gestión referida a sus recursos naturales y a los demás intereses que los afecten" y en relación a la sanción de   
+leyes de organización y base de la educación del país que las mismas deberán asegurar entre otras consideraciones    
+"la responsabilidad indelegable del Estado, la participación de la familia y la sociedad, la promoción de los valores 
+democráticos y la igualdad de oportunidades y posibilidades sin discriminación alguna...", según el art. 75 de la C.N. 
+- En su artículo 39 establece la modalidad de la Iniciativa Popular, posteriormente reglamentada por la Ley 24.747 del 27 de 
+noviembre de 1996. El Artículo 40 habilita la Consulta Popular, reglamentada luego por la ley 25.432, sancionada en mayo 
+del año 2001, que regula el procedimiento de Consulta Popular vinculante y no vinculante. 
+Asimismo, una de las normas pioneras en materia de participación ciudadana, integridad y transparencia es el Decreto 
+1172/03, de diciembre de 2003, a través del cual se aprueban herramientas institucionales que promueven la participación 
+ciudadana y el ejercicio del derecho de acceso a la información pública, entre otras. Por medio de este decreto se aprobaron: 
+- los reglamentos generales de Audiencias Públicas para el Poder Ejecutivo Nacional; 
+- el Reglamento para Gestión de Intereses en el ámbito del Poder Ejecutivo Nacional; 
+- el Reglamento para la Elaboración Participativa de normas; 
+- el Reglamento de Acceso a la Información pública para el Poder Ejecutivo Nacional; 
+- el Reglamento de Reuniones Abiertas de los entes reguladores de los servicios públicos, formularios de inscripciones, 
+registro y presentación de opiniones y propuestas.  
+Asimismo se establece el acceso libre y gratuito vía internet a la edición diaria del Boletín Oficial de la República Argentina. 
+
+
+--- PÁGINA 24 ---
+ 
+ 
+ 
+ 
+ 
+ 
+23 
+ 
+B2. Sistema de información sobre la sociedad 
+Tan importantes como los canales de participación ciudadana son los sistemas de 
+información que brinden a las/os tomadoras/es de decisiones los datos necesarios  
+para conocer las características centrales de la sociedad. Respecto del tema que nos 
+ocupa, esto incluye tanto necesidades y expectativas de las/os destinatarias/os 
+directas/os de las políticas, como al contexto social más amplio. 
+Uno de los mecanismos que se han generalizado/legitimado desde que se discute el tema 
+de la calidad es el de las consultas a los-as usuarios-as/beneficiarios-as sobre su 
+satisfacción respecto de lo que hacen o dejan de hacer, lo que hacen bien o hacen mal, 
+los organismos estatales. Este mecanismo ya es de uso corriente en los instrumentos 
+que evalúan calidad en el sector público (cartas ciudadanas, premios a la calidad), y en 
+algunos casos se ha transformado casi en el oráculo en el que basan sus decisiones  
+los funcionarios. Sin embargo, algunos estudios han concluido que estas consultas tienen 
+puntos débiles cuando se las enfoca desde la perspectiva de la democracia, el desarrollo 
+y la inclusión social. 
+De QuatreBarbes (1998), citado en Bartoli et Hermel (2006), menciona que: 
+El cliente no se corresponde con un único actor en el sector público. De hecho, 
+existen diferentes categorías de clientes/as: los/as que ordenan, los/as 
+prescriptores/as, usuarios/as directos/as, usuarios/as indirectos/as (que se 
+benefician o sufren los servicios sin ser los/as destinatarios/as directos/as), 
+los/as pagadores/as, etc. Bartoli et Hermel (2006) llaman la atención sobre 
+algunos efectos perversos del enfoque cliente, que sería que la focalización  
+sobre el corto plazo, inducida por los dispositivos de escucha del cliente, se   
+hace en detrimento de los desafíos del largo plazo, de un enfoque preventivo    
+y de las opciones de solidaridad colectiva…. Estos autores nos advierten también 
+de los peligros del aumento en la instrumentalización de este enfoque, entre  
+otros el uso abusivo de encuestas y de sondeos ya que, como ha dicho   
+Bourdieu, «l’opinion publique n’existe pas» (la opinión pública no existe). Otro de  
+los riesgos de una concepción clientelista de la calidad, según Bartoli et Hermel 
+(2006), nos lleva a la amplificación de los fenómenos de lobbying para favorecer 
+intereses particulares.  
+ 
+ 
+
+
+--- PÁGINA 25 ---
+ 
+ 
+ 
+ 
+ 
+ 
+24 
+Por todas estas razones, cada vez más algunos autores proponen reemplazar   
+la noción de cliente por la de parte interesado (“partie prenante”), para dar cuenta de 
+la complejidad de los desafíos y sobre todo de la pluralidad de representaciones 
+sobre la calidad que existe en la sociedad 14 
+Por ello y por lo que venimos exponiendo, dar cuenta de las demandas del/a usuario/a 
+no supone validarlas como única guía para (re)elaborar los objetivos de la acción estatal. 
+Por ende, no aplica la consigna de que “el cliente siempre tiene la razón”. Ya los manuales 
+de calidad para el sector privado alertan: “La prestación del servicio debe ser coherente 
+con la capacidad de la empresa y con las restricciones que se le presentan. No debemos 
+pretender ir más lejos de lo que podemos o nos perderemos” (Nebrera Herrera, s/f:30). 
+También hay casos en que quien recibe un servicio no sabe, más que en términos 
+genéricos, cómo debe ser el mismo. En el ámbito público, a ello se le suma que la/el 
+usuaria/o directa/o no es la/el única/o destinataria/o de la acción estatal y muchas veces 
+es dificultoso asociar sus deseos directos con el bienestar general (vgr. sistema 
+penitenciario, agencias recaudatorias, organismos reguladores). Por eso la información 
+sobre las preferencias sustantivas de las/os usuarias/os debe ser tomada no como   
+el objetivo a alcanzar, sino como un insumo entre otros para la toma de decisiones. 
+En consecuencia, para tomar buenas decisiones sobre la oferta de productos que 
+llevarán adelante los organismos estatales, es necesario contar con la capacidad de 
+descifrar el contexto, la cual se nutre centralmente de información contextual sobre   
+las características sociales. Por tal no se incluyen solamente las características 
+estructurales de la sociedad ni las particularidades de los actores sociales con los cuales 
+interactúa el organismo sino de los/as sujetos/as sociales que no lo hacen. En definitiva, 
+este sistema de información debe dotar al organismo de una mirada amplia que exceda 
+las necesidades inmediatas de los sectores que más directamente atiende. 
+En función de lo dicho en B1) y B2), los siguientes elementos se suman a nuestra   
+visión de Calidad Estatal, junto con los instrumentos que pueden servir para 
+alcanzarlos/mejorarlos/consolidarlos: 
+ 
+ 
+ 
+14 Nassera Touati: “La gestion de la qualité dans le secteur public: a-t-on fait le tour de la question? En: La Revue       
+de l´innovation: La Revue de l’innovation dans le secteur public, Vol. 14(3), 2009, article 1. Rescatado de: 
+https://www.innovation.cc/francais/2009_14_3_1_touati_qualitity-admin.pdf 
+
+
+--- PÁGINA 26 ---
+ 
+ 
+ 
+ 
+ 
+ 
+25 
+- 
+Canales de participación ciudadana 
+Los mecanismos que lo concreticen deben poner especial cuidado, por un lado, en 
+fomentar la organización de los colectivos sociales, especialmente de los sectores 
+vulnerados, y por otro lado en aprovechar el potencial social para fortalecer la 
+implementación de las políticas, construyendo sinergias entre las organizaciones sociales, 
+otros actores y el gobierno. Asimismo, si bien los dispositivos que permiten vehiculizar  
+el protagonismo social son diversos, debemos hacer una mención especial a       
+la planificación político-estratégica, entendida como un sistema de conversación política 
+con la sociedad, que tiene la ventaja de inscribirse en lo ya dicho sobre la necesaria 
+conducción estatal del proceso social e incorporando en particular, como parte del debate 
+político, la desigualdad social y/o las contradicciones políticas. 
+- 
+Sistemas de información 
+Un sistema de producción de información, compuesto por un conjunto de instrumentos 
+para recoger, sistematizar e identificar precisamente las preferencias de los distintos 
+públicos (categorías colectivas con diverso nivel de agregación e individuos/as) con   
+los que interactúan las organizaciones estatales, y a los que pueden afectar de manera 
+indirecta sus acciones (Herramientas: Encuestas cualitativas, Data Analytics, ambientes 
+de diálogo innovativo, etc.). 
+ 
+C. Rol performativo del Estado 
+Siguiendo lo afirmado en el punto 1, remarcamos que el Estado es el principal actor en 
+la toma de decisiones sobre la política pública. El enfoque en la ciudadanía, como vimos, 
+implica tanto tener en cuenta sus demandas como darle lugar a algún grado de 
+colaboración en las políticas públicas. Pero la relación con la sociedad no se agota en 
+ese plano, sino que el Estado también tiene un rol performativo: Tan importante como 
+“escuchar” los deseos y necesidades de los actores sociales es conducir su convergencia 
+con/hacia el interés general, construyendo sentido en —y no solo “detectando”—     
+las preferencias y actitudes de la ciudadanía. Vale decir, si bien tomar los resultados   
+de las encuestas y focus groups como herramienta para gobernar es correcto, esto no 
+debe cuestionar la autonomía estatal (no porosidad, no cooptación) ni el rol de liderazgo 
+del Estado, cuya responsabilidad es asegurar el rumbo del colectivo social hacia el interés 
+general. Este liderazgo estatal se vehiculiza esencialmente a través de la materialidad de 
+las propias políticas públicas, pero también a través de acciones del orden de lo simbólico. 
+ 
+ 
+
+
+--- PÁGINA 27 ---
+ 
+ 
+ 
+ 
+ 
+ 
+26 
+En definitiva, la relación entre Estado y sociedad no puede ser unidireccional —ni del/la 
+ciudadano/a al Estado ni viceversa— sino de influencia mutua. Así como la “voz” de   
+los actores sociales es importante para que el Estado tenga registro de sus necesidades, 
+así también es central que la perspectiva global con la que decide y actúa el Estado pueda, 
+además de satisfacerlas, orientar la construcción de las preferencias ciudadanas. 
+Entre otros ejemplos, uno de los más recorridos es la necesidad de modificar       
+las costumbres alimentarias no saludables o incluso las advertencias sobre el daño    
+a la salud que en el propio envase llevan los atados de cigarrillos. 
+La Calidad Estatal se podrá alcanzar entonces a través de un conjunto de herramientas 
+que permitan ejercer y asegurar el liderazgo del Estado en la concreción de los valores e 
+intereses comprometidos en el Proyecto de Gobierno, en el marco del interés general y 
+atendiendo a que no se afecten las garantías constitucionales. Amén de políticas que 
+produzcan resultados “materiales”, es posible —y necesario— implementar acciones 
+estatales que operen sobre los marcos con que la sociedad interpreta la acción estatal. 
+De lo enunciado en este ítem se siguen los siguientes elementos de calidad estatal y   
+los instrumentos que tienden a conseguirlos/mejorarlos/consolidarlos: 
+- En lo macro: Apuntando al cambio cultural, son importantes las acciones tendientes a 
+la construcción de sentido y de la comunicación estatal en general. Definir mecanismos 
+eficaces para la comunicación política es esencial. Acciones que tienen materialidad en 
+sí mismas y al mismo tiempo una dimensión cultural son, por ejemplo, la creación de   
+un Ministerio de las Mujeres, Géneros y Diversidad, o la definición de las tareas 
+socialmente esenciales. 
+- En el ámbito micro: Existen instrumentos que apuntan a lograr que la ciudadanía opte 
+por ciertos comportamientos socialmente más beneficiosos que otros. Por ejemplo,   
+la Economía del comportamiento ha hecho famosos los “pequeños empujoncitos”. Otros 
+ejemplos son las disposiciones a favor de la alimentación saludable, la conducción 
+responsable vehículos o los cuidados sanitarios. 
+ 
+2.II. Estructuración y funcionamiento de las organizaciones estatales 
+Las perspectivas tradicionales sobre calidad denominan “calidad de conformidad” a lograr 
+que lo efectivamente implementado se corresponda lo más estrechamente posible con 
+las ideas que le dieron origen. Vale decir, que el producto final sea fiel reflejo del modelo 
+diseñado previamente. Esto depende de varios factores, que exceden las acciones que 
+emprenda el Estado, pero en cuanto a éstas se refiere, la mirada se centra en el rol de 
+la administración pública. 
+
+
+--- PÁGINA 28 ---
+ 
+ 
+ 
+ 
+ 
+ 
+27 
+Así como vimos en la relación con la ciudadanía, existe una serie muy diversa de 
+herramientas a las cuales se puede recurrir, y algunos lineamientos a tener en cuenta: 
+planificar, sistematizar, hacer seguimiento sobre las políticas y trazable el funcionamiento 
+del aparato administrativo para asegurar la racionalidad sustantiva de sus acciones y  
+el apego a las decisiones políticas, a la vez que propender al involucramiento de sus 
+integrantes —funcionarias/os y trabajadoras/es— para cumplir con las misiones estatales 
+y mejorarlas en el caso que así se requiera. 
+Aun recordando que las distinciones entre política y administración son difusas, el párrafo 
+anterior asigna ciertas prioridades: el Proyecto de Gobierno y las relaciones políticas de 
+concertación con la sociedad establecen los lineamientos generales (de qué ocuparse y 
+con qué acciones) y la administración amolda esa decisión a las especificidades de cada 
+ámbito concreto. De allí que sea importante asegurar el apego de quienes implementen 
+las acciones a lo prefigurado, respondiendo a la normativa y a las disposiciones que 
+emergen de la conducción política en lo sustantivo, pero también adaptando la acción a 
+las particularidades del terreno. Esto último es más factible con una administración 
+pública no rigidizada pero sistemática, comprometida con el valor público y el servicio 
+público, con liderazgos fuertes y alineados con dichos valores. 
+Como ya afirmamos, si bien la Calidad Estatal tiene un componente que se juega en cada 
+organización, es también necesario pensar en las acciones estatales desde el conjunto 
+del aparato organizacional estatal y sus articulaciones. Así, asoma una característica 
+que no está en el modelo de calidad gerencial: otorgarle un fuerte énfasis a la noción de 
+“conjunto de gobierno” ('whole-of-government' approach), que recupera la importancia  
+de la integralidad del Estado, ocupándose tanto de los vínculos entre las diversas 
+organizaciones estatales como de las cuestiones específicas de cada una. 
+Un último elemento imprescindible en la actualidad remite a la utilización de las nuevas 
+tecnologías bajo estricta direccionalidad política. Es ampliamente conocido el rol central 
+que la tecnología digital puede jugar en la mejora de las políticas públicas. Sin embargo, 
+las herramientas tecnológicas por sí mismas difícilmente lo logren, si su aplicación no es 
+orientada por los objetivos políticos referidos previamente.  
+En consecuencia, nuestro Modelo de Calidad Estatal, en lo tocante al funcionamiento 
+interno de la administración pública debe contener instrumentos y herramientas 
+que aseguren: 
+
+
+--- PÁGINA 29 ---
+ 
+ 
+ 
+ 
+ 
+ 
+28 
+D. Funcionamiento organizacional ordenado, sistemático y respetuoso de 
+la voluntad política, 
+E. Compromiso de la/os funcionaria/os y agentes estatales con los valores públicos, 
+F. Vinculación con el conjunto de la administración pública, y 
+G. Utilización socialmente inclusiva y administrativamente eficaz de 
+las nuevas tecnologías. 
+Cada una de estas dimensiones deberá adoptar en cada organismo las herramientas que 
+el contexto y la situación entiendan más pertinentes. 
+D. Organización ordenada, sistemática y vinculada con la voluntad política 
+Como nos recuerda Olsen (2005:3) “existe una tensión potencial entre funcionarios 
+electos, burócratas y ciudadanos, y la cadena que va desde la orden hasta su real 
+cumplimiento puede ser larga e incierta. La organización burocrática puede producir 
+múltiples y contradictorios resultados [...]”. 
+Existen tantas potenciales causas de desvíos en el funcionamiento de las organizaciones 
+respecto de lo que se supone que debieran hacer, que se torna inútil tratar de preverlas en 
+particular. Por ello, la propuesta general, sobre la cual luego podrá avanzar cada 
+organismo en función de sus particularidades, es tratar de consolidar un funcionamiento 
+relativamente claro y ordenado. Esto no involucra solamente la dimensión procedimental 
+sino también la sustantiva. 
+Además de movilizar recursos de manera más efectiva, una organización ordenada 
+favorece que se alcance lo que fue pensado en la etapa de planificación estratégica 
+respecto de la definición de los objetivos de política (impactos y resultados esperados) y 
+la definición del perfil de producción de las organizaciones públicas para alcanzar  
+dichos objetivos. A su vez, la adecuación del producto (outcome) al modelo requiere que 
+los cuerpos administrativos traduzcan en lo operativo los lineamientos políticos que están 
+planteados, lo que hace más dificultoso los procesos de captura. 
+En este sentido, la planificación operativa es una herramienta de gestión que   
+posibilita traducir en actividades concretas los objetivos políticos del proyecto de 
+gobierno, permitiendo diseñar en detalle las acciones que permitirán transformar    
+los insumos en los productos requeridos por la política en cuestión. A su vez,       
+la formulación presupuestaria debe acompañar y reflejar este proceso productivo, 
+
+
+--- PÁGINA 30 ---
+ 
+ 
+ 
+ 
+ 
+ 
+29 
+garantizando que los recursos financieros estén asignados adecuadamente para     
+la adquisición de los insumos necesarios y que se los pueda gestionar de manera ágil y 
+efectiva durante la implementación de las políticas públicas.15 
+En el mismo sentido de “ordenar una organización”, uno de los elementos más 
+importantes que proponen los sistemas de calidad es la adopción de la gestión por 
+procesos, que prioriza una lógica horizontal en la elaboración de la acción estatal de que 
+se trate.16 En la administración pública nacional, tal como existe hoy, esta lógica horizontal 
+se debe articular con la tradicional estructura vertical propia del modelo clásico 
+weberiano. No es aquí momento para enumerar las ventajas y desventajas de cada una 
+de estas perspectivas, pero sí para afirmar que nuestro Modelo de Calidad Estatal también 
+considera oportuna y de valor la utilización de la mirada sobre los procesos para que   
+la dinámica organizacional (en lo interno y en sus inter-relaciones) sea más eficaz     
+a la hora de hacer exitosas las políticas públicas. 
+En 
+términos 
+organizacionales, 
+el 
+enfoque 
+y 
+diseño 
+de 
+procesos 
+tiene           
+las siguientes características: 
+I. 
+Es la herramienta de gestión que da sustento (determina el “cómo”) y previsibilidad 
+(cuando están mapeados, documentados y con indicadores asociados) a     
+la puesta en práctica de cualquier política pública. En este sentido, para   
+mejorar la implementación se requiere mejorar los procesos. 
+II. 
+Implica adoptar una mirada horizontal de la organización que empieza por las y 
+los destinatarios de los servicios. De este modo se evitan los compartimentos 
+estancos, la fragmentación y la individualización de la gestión y se pone en valor 
+el trabajo colectivo, colaborativo y en pos de un fin común, otorgándole además un 
+sentido a la labor cotidiana. 
+III. 
+Existe un viejo debate que contrapone la gestión por procesos a la gestión    
+por resultados, que refleja las pujas entre el modelo burocrático y el gerencial. 
+ 
+15 Guía de Planificación y Seguimiento de Gestión de Políticas Públicas (2020). Dirección Nacional de Fortalecimiento de 
+las Capacidades de Gestión. Subsecretaría de Fortalecimiento Institucional, Secretaría de Gestión y Empleo Público, 
+Jefatura de Gabinete de Ministros. Rescatado de:  
+https://www.argentina.gob.ar/sites/default/files/final_guia_de_planificacion_y_seguimiento_de_gestion_de_politicas_publi
+cas.pdf 
+16 Los procesos pueden distinguirse como actividades recurrentes que movilizan y dan continuidad a la organización, 
+cuando se la considera como un sistema social abierto, como un conjunto en marcha. Los procesos no funcionan aislados, 
+se conectan entre sí, dentro de una función más amplia de mantenimiento y desarrollo de la organización. Etkin, Jorge 
+(2000): Política, gobierno y gerencia de las organizaciones. Prentice Hall, Pearson educations. Rescatado de: 
+https://contaduriagral.rionegro.gov.ar/download/archivos/00002659.pdf 
+
+
+--- PÁGINA 31 ---
+ 
+ 
+ 
+ 
+ 
+ 
+30 
+Sin pretender descalificar la importancia de los “resultados”, coincidimos con 
+Hintze (2003:22) en que “la gestión pública debe rendir cuentas tanto por haber 
+hecho las cosas bien como por haber logrado resultados.  Por lo tanto, la buena 
+gestión de los procesos puede ser tratada como uno de los resultados más 
+importantes de la acción estatal”. 
+Profundizando el tema, creemos que ambas miradas/modelos no son —no deberían ser— 
+incompatibles. No hay forma de evaluar si se han hecho las cosas bien fuera del marco 
+del proyecto de gobierno y, en un nivel más agregado, del aporte a la construcción de valor 
+público. No se pueden autonomizar los procesos organizacionales (que son productos 
+históricos, situados) de los cambios contextuales (incluso de los cambios políticos)  
+para refugiarse en los mismos como el único o el más importante parámetro de 
+evaluación de la calidad de la gestión. Los productos/resultados (outcomes los llamamos 
+en este trabajo, para enfatizar la dimensión de construcción/transformación social que 
+tienen los productos estatales) colocan a la dimensión organizacional (y sus procesos) 
+en un marco más amplio, el del conjunto del aparato estatal —del que es parte— y su 
+relación con la dinámica real de la sociedad. 
+En la misma senda de ampliar la mirada, hay que distinguir entre dos ámbitos en el cual 
+aplicar el enfoque de procesos. Dos ámbitos que no son excluyentes; por el contrario, uno 
+debiera ser parte de la construcción del otro. En concreto, un ámbito individual, que se 
+limita a una organización particular y un ámbito interorganizacional, donde los procesos 
+que conforman una política incluyen a más de un organismo. Ambos son importantes. 
+En una mirada incremental, comenzar por el primero debiera llevar al conjunto, lo que en 
+la práctica supone que las organizaciones deban ampliar su marco de referencia. O sea, 
+ya no alcanza “la perfección interna” de un organismo para asegurar la calidad, excepto 
+obviamente en los casos de las políticas en que los procesos se generan y resuelven en 
+un mismo organismo. 
+En esta línea de razonamiento, Metcalfe17 propone pensar la gestión pública como    
+la gestión de lo macro, del sector público como un todo: “la gestión pública es un macro 
+proceso en el que las diferentes organizaciones e intereses implicados en el sistema de 
+políticas públicas comparten responsabilidades para gestionar el cambio estructural 
+mientras que retienen su autonomía en la gestión del cambio incremental” (pág. 92).  
+ 
+17 Metcalfe, Les (1996): “Gestión pública: de la imitación a la innovación”, en Quim Brugué y Joan Subirats (selección de 
+textos): Lecturas de gestión pública, Ministerio de Administraciones Públicas, Serie Administración General, Madrid. 
+
+
+--- PÁGINA 32 ---
+ 
+ 
+ 
+ 
+ 
+ 
+31 
+Un aparato estatal estructurado —en los términos en que lo plantea Metcalfe— debería 
+ser menos “cooptable”; lo cual significa más garantías de resguardar el interés general, 
+reduciendo la posibilidad de que se impongan intereses sectoriales o particulares. 
+Así, por ejemplo, la “Calidad de conformidad”, con origen en los modelos de calidad 
+gerencialistas y de la que hablamos oportunamente, se vería reforzada en el marco de 
+una gestión por procesos, por varias razones: 
+- 
+Porque lleva a la adecuación de los circuitos administrativos, en tanto la mirada  
+—y la evaluación— ya no se coloca en un organismo aislado, sino que se lo ve como 
+parte del conjunto de organismos involucrados en una política pública. En muchos 
+casos, y por esa mirada endógena, esos circuitos se han convertido en una maraña 
+inextricable, por lo que su adecuación (al contexto, a las tecnologías disponibles, a 
+la forma en que otros organismos “hacen”) es un paso adelante para 
+ordenar/sistematizar el funcionamiento (en lo interno y en lo “inter”), requisito 
+mínimo de cualquier organización medianamente compleja. 
+- 
+Porque la tendencia a la autonomización de los organismos —tendencia muy 
+vigente, reflejo de la dinámica burocrática y la ausencia de orientación política— 
+hace que la reproducción de los procedimientos instalados —y conocidos— se vea 
+como su fortaleza, perdiendo así su contexto; su “ubicación” en el conjunto del 
+aparato estatal se diluye, y se les hace difícil entender cuánto y cómo aportan   
+de valor público y a qué cuestión o política pública. Si nuestra mirada sobre    
+la calidad reforzara esa dinámica –por ejemplo manteniendo la exclusiva mirada 
+sobre lo interno-organizacional- estaríamos produciendo lo que no queremos; por 
+eso intentamos ampliar los marcos teóricos que sustentan las definiciones 
+clásicas de calidad, hacia la gestión por procesos, las políticas públicas, los aportes 
+al valor público, los proyectos de gobierno (cuyos ejes centrales, son en nuestro 
+caso democracia, el desarrollo e inclusión social, como las grandes variables del 
+interés general). 
+- 
+Porque el establecimiento, programación y estandarización de los roles y 
+actividades/responsabilidades de un circuito administrativo no sólo sirve para 
+tender a evitar (y llegado el caso identificar claramente) cuellos de botella sino  
+que también colabora con la impersonalidad y la neutralidad propias de un  
+Estado que pretenda garantizar la igualdad en el acceso a sus políticas. 
+- 
+Porque a esta última ventaja sustantiva —la de la impersonalidad y neutralidad— 
+debe sumarse que la simplificación de pasos para hacer más sencillo que     
+la ciudadanía acceda a derechos y servicios esenciales también es un 
+instrumento propio del estado para el desarrollo con inclusión social, y debe por 
+lo tanto formar parte del marco teórico de calidad en la gestión pública. Ahora 
+bien, agilizar y simplificar no significa reducir el poder regulatorio del Estado.    
+
+
+--- PÁGINA 33 ---
+ 
+ 
+ 
+ 
+ 
+ 
+32 
+El enfoque gerencial utilizó dichos conceptos como instrumento para avanzar en 
+la lógica neoliberal de facilitar la actividad mercantil de las empresas, “liberándolas” 
+de controles estatales. En este sentido, es conocido el Índice Doing Business del 
+Banco Mundial, que busca medir una serie de variables que harían más sencillo 
+realizar negocios. En esta senda, cuantos menos obstáculos deban atravesarse 
+para conseguir permisos, certificados y/o sortear toda norma estatal establecida, 
+mejor. Debemos agregar que hoy en día, una buena utilización de las nuevas 
+tecnologías permite regular la complejidad.  Los sistemas inteligentes lo permiten 
+sin que esto signifique ni tiempos ni costos extras, por un lado, ni relajar el control, 
+por el otro. 
+Siguiendo con la tecnología, otra cuestión importante a destacar es que nuestra mirada 
+sobre los procesos incluye evaluar su incorporación, aspecto que hoy, en una época de 
+informacionalización acentuada, es central para discutir la calidad en el sector público. 
+Esta incorporación debe ser planteada en función de los objetivos políticos, que son   
+los que deben guiar la acción de la administración pública. Por supuesto que también 
+habrá que considerar la dimensión organizacional, su especificidad; al fin y al cabo,   
+los procesos involucran organismos, no son abstractos.  
+Por último, el orden organizacional debe expresar —y expresarse— también en      
+el equilibrio y articulación de la relación entre los niveles político-administrativos centrales 
+y las agencias territoriales de los organismos. Hacer visible la mirada desde el lugar   
+“a donde estos llegan” va de la mano de nuestra perspectiva sustantiva, puesto que 
+conlleva el objetivo de igualar la importancia de todos los territorios, tratando así de 
+desandar las perspectivas excesivamente centralizadoras. 
+Para consolidar un aparato estatal ordenado, con sus organizaciones articuladas con  
+la autoridad política alrededor del valor público y el interés general, puede ser útil    
+que la planificación político-estratégica mencionada más arriba tenga su capítulo de 
+planificación organizacional, respetando la construcción participativa y negociada. Esa 
+planificación podría apuntar, entre otros, a consensuar los indicadores de calidad más 
+pertinentes para evaluar este aspecto de la gestión pública. De la misma manera debería 
+funcionar un adecuado sistema de monitoreo y evaluación. 
+De lo enunciado en este ítem se siguen los siguientes elementos de calidad estatal y   
+los instrumentos que tienden a conseguirlos/mejorarlos/consolidarlos: 
+Planificación organizacional, Monitoreo y evaluación 
+
+
+--- PÁGINA 34 ---
+ 
+ 
+ 
+ 
+ 
+ 
+33 
+Gestión por procesos (metodologías y herramientas concretas que mapeen, registren, 
+controlen y estandaricen la cadena de valor de las políticas); Simplificación de trámites 
+Articulación centro-territorio; Acuerdos de trabajo entre funcionarios políticos y la línea 
+(macro-procesos). 
+ 
+E. Compromiso de las/os funcionarias/os y agentes estatales con los valores públicos 
+Nunca será suficientemente ponderada la centralidad de la/os empleada/os estatales; 
+son el principal elemento con que cuenta el Estado y su tarea es fundamental. Por ello 
+es necesaria su profesionalización y sobre todo, su compromiso con lo público y con  
+las políticas que se abordan desde el Estado.  
+Obviamente, estos aspectos no dependen solamente de la voluntad y responsabilidad de 
+la/os trabajadora/es, sino que es necesario contar con estructuras organizacionales e 
+institucionales dotadas de capacidades y recursos que faciliten su tarea en la creación de 
+valor público. Y también se relaciona con lo visto en el punto 1, sobre Autonomía estatal: 
+funcionarias/os públicas/os conscientes de lo público, trabajando en organizaciones 
+ordenadas y capaces, son un factor central para evitar la cooptación de las políticas por 
+actores externos. 
+Mintzberg llama organizaciones misionales, a aquellas en las cuales una ideología permea 
+la conducta de sus miembros y de esa forma guía el funcionamiento y la coordinación 
+de la organización: 
+[L]a ideología, centrada en una misión, domina toda la actividad de la organización, 
+tomando el lugar de los sistemas de autoridad, habilidad y política; los agentes   
+se identifican con el objetivo de preservar, extender y perfeccionar la misión de    
+la organización; y por tanto se puede confiar en que actuarán de acuerdo a     
+los intereses de la misma. Como resultado se da un alto grado de participación, con 
+una estructura muy simple (aunque burocrática, porque basa su coordinación en un 
+tipo de estandarización: las normas). (Mintzberg, 1992:431). 
+Por lo tanto, es importante poner en el centro de la discusión sobre calidad este par 
+“ideología/misión”, sin el cual la dimensión tecnocrática queda sin orientación. Y esa 
+misión, en nuestro modelo de Calidad Estatal, remite a un estado comprometido con   
+la democracia, el desarrollo y la inclusión social, operacionalizados, por ejemplo, en y a 
+través del concepto de valor público. 
+
+
+--- PÁGINA 35 ---
+ 
+ 
+ 
+ 
+ 
+ 
+34 
+Por tanto, la profesionalización de las/os trabajadora/es estatales, a la que está 
+indudablemente ligada la Calidad Estatal, no es una profesionalización en abstracto, 
+neutral, puramente técnica, sino que debe pensarse en el marco del compromiso político 
+de la administración pública; no con un partido político determinado, sino con la creación 
+de valor público a través del que se materializa el interés general. 
+El propio Convenio Colectivo de Trabajo en el sector público (Decreto 214/06) plantea que 
+“…entre otros factores que hacen a la calidad y mejor actuación de la Administración 
+Pública Nacional en su conjunto, los miles de mujeres y hombres que componen     
+el personal a su servicio configuran uno de los actores más trascendentes en estas 
+cuestiones.” Y a partir de allí se señalan los ítems a profundizar, entre ellos “una cultura 
+de trabajo competente, honesto, austero y eficaz que materialice la organización y 
+funcionamiento de una Administración Pública moderna y de calidad.”. 
+Lo que estamos poniendo en discusión son precisamente los conceptos “moderna” y “de 
+calidad”, en tanto los modelos de gestión hegemónicos priorizaron la mirada tecnológica 
+—o tecnologicista— para definir “lo moderno” y la tecnocrática —o tecnoburocrática— 
+para definir la calidad también en esta temática del empleo público. En ambos casos,   
+la dimensión política queda ausente o relegada a un segundo plano, con lo cual se plantea 
+de hecho –al igual que sucedió con las privatizaciones, por ejemplo, o más recientemente 
+con los programas público/privados- que la sola aplicación de “una receta”, importada 
+acríticamente de otros contextos, llevará fluidamente a los escenarios buscados. En este 
+sentido, el modelo de la Nueva Gestión Pública (NGP) contribuyó, con sus prácticas 
+concretas pero también a partir de sus bases teóricas (resultado quizás no 
+necesariamente buscado), a romper con la articulación necesaria entre el interés general, 
+lo público y el conocimiento técnico. Como bien dice Cunill: 
+[…] lo cierto es que, a partir de la Nueva Economía Institucional, se constituye en un 
+dogma que la ineficiencia gubernamental se debe a un alineamiento erróneo entre 
+los intereses individuales, presumiblemente oportunistas, de los políticos y 
+burócratas, y las estructuras de incentivos institucionales de las que disponen. Por 
+ende, que cualquier reforma debe crear las posibilidades de transformación 
+estructural de los incentivos que afectan la conducta de tales actores… Por lo tanto, 
+se abre la posibilidad de que el egoísmo y el cálculo terminen siendo producidos por 
+los propios incentivos y, con ello, que las interpretaciones de un comportamiento 
+burocrático egoísta auto-interesado se conviertan en una “profecía auto-cumplida”. 
+
+
+--- PÁGINA 36 ---
+ 
+ 
+ 
+ 
+ 
+ 
+35 
+En estas circunstancias aflora la pregunta que formula Gregory (2007: 228): ¿Por qué 
+el personal debiera estar preocupado con una idea del interés público mientras   
+su desempeño individual y organizacional está siendo medido contra objetivos 
+específicos? Y además, cuando se asocian compensaciones pecuniarias que  
+suelen convertirse en los verdaderos objetivos a perseguir…. El problema, en este 
+sentido, es que tales premisas desafían por completo la ética pública y en especial 
+uno de los pilares básicos sobre los que se asienta la lógica del sector público:    
+la creencia en el servicio público. Con ello es derrumbada, en la práctica, la validez 
+de servir a los intereses públicos como motivación clave del personal público.    
+La consecuencia tal vez más gravitante a largo plazo es la desvalorización misma 
+de la noción de lo público.” 
+En esta senda, se requiere entonces una expertise técnico-política, una adecuada 
+articulación entre niveles políticos y técnicos, no sólo porque el conocimiento profesional 
+permite analizar de forma correcta y sistemática las cuestiones de política pública, “sino 
+porque la formación burocrático-política expresa valores culturales que poseen un 
+beneficio intrínseco, pues genera cuadros administrativos centinelas de valores sociales 
+y constitucionales. Nótese que se dijo “técnico-político”, variando así el ideal weberiano 
+que hacía foco en lo técnico, fundamentalmente en la pericia profesional. Por el contrario, 
+aquí se interpreta que es imprescindible una capacitación política (junto a la validación de 
+las trayectorias y la formación profesional) que promueva el compromiso con valores 
+democráticos.” (Rey, 2012: 134). 
+El Consejo Federal de la Función Pública (COFEFUP)18 ha recogido estas nociones y ha 
+elaborado una serie de dimensiones que son un buen resumen de las necesidades de una 
+organización que quiera desarrollar acciones con calidad: las ético-institucionales,   
+las técnico-profesionales y las actitudinales. 
+ 
+ 
+ 
+ 
+18 Documento “Principios y recomendaciones para una carrera profesional administrativa en las administraciones 
+provinciales de la República Argentina”, Comisión de Empleo Público y Carrera. 3° Asamblea Anual del Consejo Federal de 
+la Función Pública. Mendoza, 23 y24 de noviembre de 2006.  
+
+
+--- PÁGINA 37 ---
+ 
+ 
+ 
+ 
+ 
+ 
+36 
+Las primeras “están definidas por el compromiso con los valores de un Proyecto de 
+Gobierno con vocación democrática. La actitud militante, expresión de ese compromiso, 
+es la variable “desconocida” y escurridiza que escapa a los sistemas tradicionales de 
+medición del comportamiento y supera los estrechos márgenes de una carrera o 
+trayectoria individual: los compromisos se asumen colectivamente, en el marco de    
+la conformación de equipos de trabajo” (Bernazza y Ronis, 2013: 10-11). 
+Al respecto, plantea Cormick19: “Si bien la valoración de esta dimensión [un fuerte 
+compromiso con los valores democráticos y con los objetivos institucionales de     
+la administración] puede ser compleja, su identificación es un desafío para el diseño   
+de los procesos de selección.” Lo que este autor plantea para el proceso de selección, 
+nosotros podemos extenderlo al desarrollo general de las prácticas laborales dentro del 
+Estado, si queremos ampliar la mirada hegemónica sobre calidad. 
+Entonces, pensar la calidad en la función pública con este marco conceptual supone 
+encuadrar en el mismo sus dimensiones principales, tanto en el aspecto estructural como 
+en la gestión de los recursos humanos. 
+En el primer caso, la calidad se juega en las políticas que permitan consolidar  
+estructuras institucionales que avancen en la formalización e institucionalización de   
+la función pública, porque las plantas informales o “paralelas” no solo aumentan     
+los riesgos de cooptación sino también de conflictividad interna, lo que complica     
+la eficacia en la gestión y la legitimidad estatal. Aquí marcamos dos instrumentos 
+principales para ello: la Estabilidad y la importancia del Convenio Colectivo del Trabajo de 
+la función pública (CCT). 
+1. Estabilidad supone, en términos de calidad, establecer (consensuar y consolidar) 
+criterios y mecanismos adecuados tanto para el acceso a la planta de       
+las organizaciones públicas como para evaluar desempeños. A continuación   
+se listan algunos, que deben ser pensados como un conjunto y no como  
+aspectos aislados. 
+El mérito para el acceso, pero entendido no como criterio exclusivo o solo en 
+función de credenciales académicas o técnicas, sino valorando también 
+experiencias relacionadas con lo público, por ejemplo, o la pertenencia a colectivos 
+diferentes (género, discapacidad, territoriales, etc.). 
+ 
+19 Hugo T. Cormick: “Una mirada sobre el empleo público”, en Más y mejor estado. Una administración pública al servicio 
+del proyecto nacional. Rescatado de https://www.institutopatria.com.ar/wp-content/uploads/2019/09/Mas-y-mejor-
+Estado.pdf 
+
+
+--- PÁGINA 38 ---
+ 
+ 
+ 
+ 
+ 
+ 
+37 
+En cuanto al mérito en el desempeño, se trata de considerar no solamente     
+la acumulación de credenciales formales, sino también los aportes individuales  
+y grupales a los objetivos políticos y organizacionales y a la construcción de  
+lazos de pertenencia. Respecto de los niveles más altos, una conducción     
+de calidad priorizará, además de lo técnico, la convocatoria a la participación, 
+tanto por la vía sindical como en el plano individual. 
+2. En cuanto al Convenio Colectivo de Trabajo (CCT), su aporte primario a la calidad 
+en la función pública reside en que valoramos especialmente la representación 
+colectiva de los trabajadores. No obstante, cabe marcar que reconocer       
+la importancia de fortalecer la representación sindical no significa necesariamente 
+el co-gobierno en el ámbito de la administración pública. 
+Entre los puntos a trabajar, será importante involucrar a las áreas de gestión 
+(jurídica, recursos humanos) en la lógica del CCT, y relativizar la perspectiva 
+administrativista en función de reforzar la visión laboralista (sobre todo en    
+los servicios jurídicos). También se deberán completar y actualizar los convenios 
+sectoriales, y fortalecer las comisiones específicas de negociación (en particular 
+en lo que hace a condiciones y ambiente de trabajo —CyMAT—, género y violencia 
+laboral, por ejemplo). 
+En cuanto a la gestión de los recursos humanos, se trata de generar participativamente 
+los mecanismos de atención a los requerimientos de los representantes sindicales, 
+construir lógicas de negociación basadas en la buena fe, para lo cual hay que consolidar, 
+desde ambas partes, sistemas de información confiables.  
+En materia de capacitación, hay que pensarla como un instrumento para la construcción 
+de valor público, y no solamente como un medio para la acumulación de méritos 
+individuales. Por ejemplo, alentar la acreditación de cursos o prácticas vinculadas a   
+la gestión organizacional, desalentando, en términos relativos, las que solo se vinculan 
+con el desarrollo personal. Asimismo, habrá que evitar la contratación de “paquetes 
+preconstituidos” 
+de 
+capacitación, 
+apuntando 
+a 
+la 
+importancia 
+de 
+discutir 
+participativamente —con el aporte eventual de instancias académicas u organizaciones 
+sociales que trabajen el tema— la política o estrategia más adecuada en función de   
+los valores y objetivos perseguidos. O sea, en líneas generales se trata de deconstruir  
+las prácticas que han llevado a una rutinización de la capacitación (la capacitación 
+“porque sí”) para organizarla en otros esquemas, más abiertos y participativos. 
+ 
+
+
+--- PÁGINA 39 ---
+ 
+ 
+ 
+ 
+ 
+ 
+38 
+Respecto de los niveles altos de la función pública (directivos públicos), es importante 
+sostener la idea del carácter funcional y no estructural de las responsabilidades directivas, 
+así como la asignación de funciones que conjuguen capacidades técnicas y compromiso 
+político-institucional (no debe confundirse con compromiso político partidario). Una 
+función pública de calidad deberá también establecer una relación salarial razonable entre 
+la función directiva y el resto de las categorías administrativas, evitando tanto la elitización 
+como la ausencia de diferenciación en el ejercicio de las funciones. En la misma línea, 
+promover la incorporación a la función pública nacional de directivos públicos 
+provenientes de diferentes regiones del país, para lo cual será importante avanzar en   
+el desarrollo de una red de formación federal, que articule sin homogeneizar. 
+De lo enunciado en este ítem se siguen los siguientes elementos de calidad estatal y   
+los instrumentos que tienden a conseguirlos/mejorarlos/consolidarlos: 
+- Consolidar la estabilidad en la función pública y el Convenio Colectivo de Trabajo como 
+marco general 
+- Fortalecimiento de la representación sindical y de sus responsabilidades de contraparte, 
+sin que eso suponga co-gobierno 
+- Formación y compromiso con los valores de la democracia, el desarrollo, la inclusión y el 
+valor público, y no solamente con el mérito individual 
+- Formación y compromiso con los objetivos institucionales de la administración pública 
+- Formación y compromiso con la organización y no solamente con la carrera individual 
+- Alta función pública con formación política y de gestión, y con representación federal 
+ 
+F. Vínculos de la organización con el conjunto de la administración pública  
+Si bien la visión clásica de calidad la aplica a cada acción estatal puntual, nuestra 
+perspectiva no se limita a esta mirada ni la asimila a lo que haga cada organismo. Por  
+el contrario, planteamos que la calidad también está ligada a cómo cada acción estatal 
+impacta en la funcionalidad y legitimidad del conjunto del aparato estatal. Esto no implica 
+que los objetivos de cada ente estatal no sean importantes, sino de que se entiendan y 
+piensen en un marco más amplio. 
+Nuestro enfoque apunta a la fortalecer la capacidad y legitimidad estatal en su conjunto, 
+lo cual se asocia a organismos trabajando coordinadamente, ganando valor público  
+con las sinergias que así surgen y evitando acciones de unos que lesionen las de otros. 
+
+
+--- PÁGINA 40 ---
+ 
+ 
+ 
+ 
+ 
+ 
+39 
+Como dice Vilas (2005:8), cada organismo debiera poseer un compromiso con 
+la estatalidad: servir al Estado en su carácter de “unidad de sentido y de propósito”. 
+En esta senda, el peor escenario posible es que un organismo estatal realice acciones que 
+tengan impacto negativo (se supone que indirecto, de allí la dificultad natural de este 
+escenario) sobre otros organismos y/o sobre la resolución de otros problemas públicos. 
+Por ello los Análisis de Riesgo son un buen mecanismo para identificar los efectos de 
+las acciones propias para otras organizaciones o sectores estatales. 
+Por ejemplo, y solo para graficar el argumento: 
+     - Prestaciones dinerarias, como el Ingreso Familiar de Emergencia (IFE): Si el Estado 
+no controla a los bancos, podría ocurrir que a cada beneficiario nuevo le abran una cuenta 
+en dólares sin su consentimiento. Además de que los bancos obtendrían nuevos 
+ingresos indirectamente promovidos por el Estado, alentaría una potencial dolarización 
+con los propios fondos con que el Estado asiste la situación social (vía terceros que 
+utilicen a los beneficiarios de la IFE) en momentos en que otros organismos estatales 
+están haciendo esfuerzos denodados por evitar la dolarización. 
+- Uso de la tierra: Como contrapartida de la política del PROCREAR, el valor del suelo se 
+elevó exponencialmente. Los sectores especuladores de siempre resultaron ganadores de 
+esta dinámica en la que Estado fue sucesivas veces responsable de un fastuoso negocio 
+privado: “verdaderas políticas de suelo que resolvieran la esquizofrenia de un Estado neo-
+desarrollista en las respuestas habitacionales, pero neoliberal en la política de tierra”. 
+Generó las condiciones estructurales para que esas tierras elevasen su valor inmobiliario, 
+a partir de la inversión pública. Una vez puestas al mercado, el Estado no recuperó     
+la inversión pública en favor de rebajar los precios del nuevo suelo urbano o de  
+favorecer la producción social del hábitat. 
+https://www.elcohetealaluna.com/la-tierra-siempre-la-tierra/ 
+Menos perjudicial, pero de todas formas sub-óptimo, es enfocar los problemas a 
+solucionar desde ámbitos estancos. Por ello, cabe marcar un principio administrativo o 
+de gestión que debe estar necesariamente presente en la discusión sobre Calidad Estatal: 
+el principio de Integralidad o Perspectiva integral del funcionamiento estatal. En   
+líneas generales, se la entiende como el poder que tiene el Estado para abordar     
+las problemáticas sociales conjuntamente desde sus múltiples aristas. Para alcanzar 
+este principio se pone en juego la capacidad de las organizaciones de/para interactuar 
+con otras organizaciones, sea cual sea el medio, siempre y cuando estas formas de 
+interactuar estén formalmente reconocidas por las partes. 
+
+
+--- PÁGINA 41 ---
+ 
+ 
+ 
+ 
+ 
+ 
+40 
+En este sentido se ubica el concepto de intersectorialidad, que como plantea Cunill20, en 
+tanto relación entre distintos sectores gubernamentales, provoca que el foco ya no esté 
+exclusivamente en la mejora del desempeño en la provisión de servicios públicos (como 
+en el caso de la relación sector púbico-sector privado). Aunque el desempeño puede 
+estar presente, la mirada tiene otro alcance y se coloca expresamente en lo que se 
+necesita para solucionar el problema que se busca enfrentar; si el problema es 
+multicausal, la integración sectorial puede mejorar su abordaje integral. 
+La búsqueda de la integralidad en el abordaje de determinados problemas o situaciones 
+sociales multicausales es una estrategia política. Implica que diversos sectores 
+gubernamentales –u organismos- no sólo entreguen a un público específico los servicios 
+que son propios de cada uno, sino que de manera articulada encaren o prevean problemas 
+sociales que tienen complejas, diversas y relacionadas causas en sus orígenes. No se 
+trata sólo de que cada sector haga lo que le corresponde de acuerdo con sus respectivos 
+mandatos, o de evitar que se produzcan redundancias entre ellos. Implica un nuevo nivel 
+o escala en la planificación y la acción, en el que los sectores se ponen de acuerdo para 
+actuar conjuntamente a fin de lograr un cambio social respecto de la situación inicial.21 
+Para ello es importante “mapear” los vínculos existentes o posibles, formales e informales, que 
+sirvan para identificar o construir (o deconstruir) los espacios de interacción entre organismos. 
+Una posibilidad para ello es el análisis de Déficit de Capacidades Institucionales22, que 
+sugiere una metodología para armarlos; lo interesante es que los construye no en función 
+de misiones y funciones “estáticas” sino relativos a programas y proyectos concretos y 
+en marcha, con lo cual se lo puede utilizar en el plano de las políticas públicas. 
+Esta opción por la integralidad estatal está ligada a la consolidación de sistemas 
+interoperables, para la cual se definen al menos tres dimensiones. La técnica, que 
+atiende la complejidad tecnológica para su correcta implementación. La dimensión 
+semántica, que implica la selección o creación de estándares y protocolos (estándares 
+abiertos, interoperables desde su diseño; caso contrario, hablamos de compatibilidad) 
+que ayuden a conocer y entender los mecanismos que hacen a la interoperabilidad.     
+ 
+20 Nuria Cunill-Grau: “La intersectorialidad en las nuevas políticas sociales: Un acercamiento analítico-conceptual”. En: 
+Gestión y política pública, versión impresa ISSN 1405-1079, vol.23 no.1 México ene. 2014. Rescatado de: 
+http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1405-10792014000100001 
+21 Ibidem. Con acotaciones nuestras 
+22 Tobelem, Alain (1993): “Sistema de análisis y desarrollo de la capacidad institucional (SADCI), manual de operaciones”. 
+Working paper. Banco Mundial 
+
+
+--- PÁGINA 42 ---
+ 
+ 
+ 
+ 
+ 
+ 
+41 
+Y la dimensión organizacional, que trata las barreras culturales y de lenguaje para 
+garantizar la colaboración de todas las partes involucradas. 
+La dimensión organizacional está presente desde dos ópticas diferentes. Por un lado, 
+debe ser una mirada introspectiva, de cómo funciona la organización hacia adentro. Es 
+decir, si sus diferentes áreas trabajan de forma colaborativa y tienen procesos y 
+protocolos de interacción bien conocidos y entendidos, entre otras características 
+deseables. Por otro lado, debe mostrar cómo se relaciona el organismo con otros 
+organismos, la forma de vincularse (consensuada o no), si desarrolla procesos muy 
+complejos que hacen muy difícil la interacción, etc. 
+En la línea que venimos tratando los temas, y apuntando a reconceptualizar el concepto 
+de calidad, entonces, la interoperabilidad debería ser trabajada como una dimensión de 
+la integralidad, teniendo en cuenta además que ésta no es un fin en sí misma sino que se 
+entiende en el marco de la búsqueda de la equidad en el acceso al Estado, por ejemplo 
+desde una perspectiva de derechos. 
+En cuanto a la atención a la ciudadanía, la integralidad se traduce en el principio Una sola 
+Vez (Once Only): evitar la carga estéril a las personas que utilizan servicios públicos y 
+duplicidad (multiplicidad) de datos. Para ello, los organismos deben realizar análisis   
+de los Casos de Uso (trámites) que requieren de la interoperabilidad para facilitar 
+las gestiones internas del estado o la ciudadanía. 
+De lo enunciado en este ítem se siguen los siguientes elementos de calidad estatal y 
+los instrumentos que tienden a conseguirlos/mejorarlos/consolidarlos: 
+- 
+Perspectiva integral del funcionamiento estatal.  
+- 
+Fortalecer los vínculos entre organismos estatales a través de: Mapas de relaciones 
+interinstitucionales y Análisis de riesgos 
+- 
+Interoperabilidad, expresada en la organización de/participación en una red de 
+sistemas de información y bases de datos interoperables, coordinada por la autoridad 
+política y con criterios de seguridad y privacidad asegurados en su funcionamiento. 
+
+
+--- PÁGINA 43 ---
+ 
+ 
+ 
+ 
+ 
+ 
+42 
+G. Utilización socialmente inclusiva y administrativamente eficaz de 
+las nuevas tecnologías23 
+Vivimos tiempos en que las tecnologías informacionales (TI) ocupan el centro de     
+la escena en la sociedad. Su generalización ha conseguido delinear rumbos tecnológicos 
+en la gestión de organizaciones públicas y privadas, moldear comportamientos  
+sociales, esbozar nuevos y potenciales ámbitos de acción política que obligan a revisar 
+las lógicas tradicionales y los criterios de representación y construcción de lealtades, y 
+transformar la estructura y dinámica de los mercados, entre muchos otros aspectos.   
+El Estado y la administración pública, obviamente, no son ajenos a estas tensiones. 
+Sobre este auge se encuentran dos grandes lecturas encontradas. Por un lado,     
+las corrientes hegemónicas enfatizan en las supuestas virtudes: las TI como motores  
+de la transparencia, de la participación social, de la colaboración y, por ende, del  
+gobierno abierto, todo lo cual redundaría por default en más democracia (liberal). Así 
+como pasó con las privatizaciones en su momento, por ejemplo, esos resultados se  
+dan por supuestos; de alternativa se pasa rápidamente a receta. En la mayoría de     
+la literatura que abona a esta línea se encuentra el mismo eje argumental: la apertura 
+estatal permite el trabajo conjunto estado-ciudadano/a, lo que sería el motor de      
+la restauración de la confianza social en los mecanismos de gobierno, y de su eficacia 
+y eficiencia. 
+Por otro lado, las perspectivas críticas intentan plantear un escenario más complejo, 
+desnudando algunas de las consecuencias que genera el tránsito por el sendero de estos 
+procesos. En estas perspectivas críticas confluyen, como mínimo, dos linajes diferentes: 
+uno económico-productivo y otro filosófico-político. 
+No es necesario aquí desarrollarlos in extenso, sino sólo describir parte de sus 
+impugnaciones a las supuestas virtudes naturales de la tecnología: por un lado, las alertas 
+sobre la mercantilización de los datos individuales24 y de los peligros para la democracia 
+de los dispositivos de poder y subjetivación que componen la “gobernanza algorítmica” o 
+ 
+23 Parte del texto está basado en Badía (2020) y Rey (2021) 
+24 Morozov, Eugeni (2016): La locura del solucionismo tecnológico. Katz editores y Capital Intelectual S.A., Buenos Aires. 
+Rescatado de: https://www.eldiplo.org/wp-
+content/uploads/2018/files/6314/6463/4693/LaLocuradelSolucionismoTecnologico-Morozov-Introduccion.pdf 
+
+
+--- PÁGINA 44 ---
+ 
+ 
+ 
+ 
+ 
+ 
+43 
+“gubernamentalidad25 algorítmica”; por el otro, y más sustantivo si se quiere, la hegemonía 
+de la racionalidad instrumental sobre la política. 
+En todo caso, estas dos miradas (la optimista y la pesimista) tienen parte de realidad: 
+dificultosamente se puedan negar las ventajas de la digitalización, pero tampoco es 
+recomendable menospreciar sus desventajas, cuando se abordan sus riesgos y no se 
+adopta una mirada desde lo público. 
+En consecuencia, sostenemos la necesidad de aprovechar las potencialidades      
+de la tecnología digital pero haciendo notar lo imperioso que resulta regular        
+el funcionamiento de esta gubernamentalidad algorítmica, y sobre todo, anteponiendo 
+la mirada política a la adopción acrítica de una racionalidad instrumental. 
+Debemos ser conscientes, entonces, de los aspectos principales de esta etapa:      
+la tecnología informacional ha hegemonizado el concepto de innovación, por lo que es 
+difícil plantear líneas alternativas. 
+Como la mercancía, la innovación (la tecnología) se fetichiza, se la desprende de su 
+proceso de producción y se le asignan propiedades para todo; y al fetichizarse deja de 
+discutirse. Pero detrás de las tecnologías, en su lógica última, hay empresas e intereses 
+concretos; hay mercado, y no necesariamente interés general. Y también geopolítica.  
+La lógica de desarrollo de la innovación en Tecnología de la Información (TI) se juega   
+—en alianza— entre los intereses de mercado y la posibilidad del control social 
+(capitalismo de vigilancia). La democracia, el desarrollo y la inclusión social no siempre 
+están entre los intereses que persigue esta alianza de facto. 
+Como toda lógica de mercado, la innovación en TI busca diferenciar/individuar y 
+satisfacer demandas casi instantáneamente. Mientras más unidades/individuos/as estén 
+alcanzados/as por ellas, y más rápido, más eficiente se manifiesta. Desde esta lógica, 
+las redes son el nuevo fenómeno de construcción de lo colectivo, que ya no tiene     
+—obviamente— el mismo sentido y características que hace treinta años. De hecho, esta 
+lógica tiene la capacidad de “big-banear” lo colectivo, de mostrar que es un concepto no 
+necesario. Por eso, una innovación en TI sin control socio-estatal es un desafío enorme 
+para el desempeño estatal, pero también para democracia, desarrollo e inclusión social. 
+ 
+25 La noción de gubernamentalidad excede a la de gobierno estatal, extendiéndose a toda práctica y dispositivo que 
+conduce las conductas, por ende comprende aquellas que se dan en el sector privado. 
+
+
+--- PÁGINA 45 ---
+ 
+ 
+ 
+ 
+ 
+ 
+44 
+Como se lee en “Actuando en un mundo incierto”, de Michel Callon, Pierre Lascoumes y 
+Yannick Barthe (Seuil, 2001) una de las reglas para sobrevivir —y no solo progresar— es 
+“desmalezar” al máximo el abanico de las innovaciones y discutir todo cuidadosamente. 
+Esta es la forma en que se juzga la calidad de una civilización”. 
+Por ello, siguiendo a Morozov (op. cit.), hay una gran cantidad de problemas que no se 
+adecuan a la caja de herramientas del solucionismo, y además, muchos problemas que 
+los solucionistas dicen que hay que resolver, no son problemas en absoluto. 
+Entonces lo que hay que discutir primero son los problemas que hay que abordar, y en 
+función de ello debatir las mejores herramientas. Salirse del corsé de la existencia de   
+la solución para hacer encajar el problema. 
+Así, sostenemos la necesidad de adaptar la tecnología a las diversas realidades  
+sociales y la agenda de problemas que atraviesan la Argentina. Por ejemplo, incrementar 
+la cantidad de servicios y trámites que se puedan realizar de “punta a punta” en línea es 
+fundamental, pero mientras se avanza en el desarrollo digital, es imprescindible mejorar 
+el canal de atención presencial debido a: 
+I. Brechas digitales: muchos ciudadanos/as no pueden acceder a los trámites que 
+están disponibles, debido a la falta de identidad legal, de conectividad a banda ancha, 
+de bancarización (acceso a tarjeta de débito o crédito, necesario para realizar pagos 
+por trámites en línea), de alfabetización digital, así como también por discapacidad o 
+en casos de población migrante. 
+II. Incompletas o inconclusas experiencias en línea: aunque haya trámites en línea, y 
+aunque las personas puedan acceder a ellos, puede suceder que la ciudadanía no 
+pueda completar y resolver el trámite. 
+III. Preferencias: muchas personas prefieren el canal presencial, en parte por los tres 
+impedimentos anteriores y en parte por el deseo de contacto humano. 
+En cuanto a la atención a la ciudadanía, la integralidad se traduce en varios principios, 
+como por ejemplo la multicanalidad y la omnicanalidad, conceptos ambos derivados del 
+ámbito empresarial pero que pueden ser adaptados a la gestión pública. 
+En líneas generales, si bien van de la mano, la utilización de dos términos (multicanalidad 
+y omnicanalidad) marca la necesidad de jugar al mismo tiempo la diferenciación y 
+la unidad.  
+
+
+--- PÁGINA 46 ---
+ 
+ 
+ 
+ 
+ 
+ 
+45 
+La primera afirma que es menester brindar diferentes canales de vínculo con la 
+ciudadanía, para que cada quien utilice la que mejor le resulta y de maximizar       
+el rendimiento de cada canal, aprovechando al máximo las características únicas de 
+cada tipo de comunicación. Un elemento a destacar, que será retomado en el punto 
+siguiente, es la brecha digital, por lo cual la posibilidad de atención humana en tiempo 
+real debe tender a ser considerado un criterio central de la multicanalidad. 
+En el sector público, la multicanalidad puede aumentar la complejidad en la relación con 
+la ciudadanía, porque abre el paquete de vías ofrecidas para el contacto y se puede crear 
+más confusión que claridad. 
+Por ello, al mismo tiempo debe lograrse la omnicanalidad, que tiende a la coordinación 
+entre los canales, poniendo al/la usuario/a en el centro de la estrategia, en la búsqueda 
+de crear un contacto coherente y efectivo. Por ejemplo, asegurando la identidad de 
+respuestas no importa la vía por la que se la ofrezca. 
+En esta adecuación de la tecnología a la realidad nacional debemos agregar un eje central: 
+el principio administrativo de soberanía tecnológica. Este atiende principalmente    
+las necesidades e intereses argentinos, regulando la infraestructura tecnológica y    
+de comunicaciones en pos de lograr una autonomía que garantice que dicha 
+infraestructura no sea utilizada o aprovechada por intereses encontrados con los de   
+la Nación. Estas regulaciones no deben sesgarse solamente en la dimensión digital sino 
+que deben ser aplicadas de forma integral teniendo en cuenta el espectro científico-
+tecnológico en su totalidad. 
+ 
+
+
+--- PÁGINA 47 ---
+ 
+ 
+ 
+ 
+ 
+ 
+46 
+La generación y el manejo de los datos 
+“Los talibanes de los datos” creen que big data reemplazará a todo tipo de conocimiento 
+y sólo ven su parte exitosa. Los escépticos, por el contrario, creen que es una moda 
+pasajera y únicamente relatan su costado negativo. A nosotros nos toca contar toda  
+la historia, de éxitos y fracasos, de aciertos y aprendizajes, de revoluciones y fiascos, de 
+muertes y resurrecciones. E inferir la que todavía no hemos visto”. (Walter Sosa 
+Escudero, Big Data)26 
+En la Sociedad de la Información en la que vivimos, hay un aumento exponencial de    
+la generación de datos y por ende de su disponibilidad. El Estado no puede quedar     
+a la zaga en la utilización de esos datos si quiere desempeñar el rol de locomotora del 
+desarrollo e inclusión social. En términos organizacionales, la abundancia de datos es 
+tanto una oportunidad como un riesgo, puesto que cuantos más datos hay, más 
+decisiones fundadas se pueden tomar, pero también mayores riesgos en el manejo de 
+esos datos existen. 
+Esta situación involucra varios de los puntos vistos previamente. Tanto en el sistema  
+de información sobre la sociedad, como en el funcionamiento ordenado de       
+las organizaciones y en la cuestión tecnológica está de una forma u otra      
+presente la compleja temática del tratamiento de los datos para su aprovechamiento.  
+En términos generales, esto es conocido como Gobierno de Datos e incluye, entre   
+otras cosas, la medición de calidad y gestión de riesgos asociados a los datos,      
+los procesamientos e integración de los mismos, su seguridad y su protección, garantizar 
+el cumplimiento de las regulaciones centradas en estos, estandarizar los procesos y 
+homologar los conceptos comunes, etc. 
+Ahora bien, estos elementos, para tratar los datos dentro de los organismos, deben darse 
+en el marco de una mirada conceptual de su utilidad. Como plantea Sosa Escudero27, la 
+irrupción del big data, la profusión de datos que se generan sin intención, por la sola actividad 
+en redes, interacciones en y con sistemas (tarjetas de crédito, etc.) más que big es new. 
+ 
+ 
+26 Walter Sosa Escudero (2019), Big data. Colección Ciencia que ladra. Siglo Veintiuno editores 
+27 Walter Sosa Escudero (2020), Borges, big data y yo. Colección Ciencia que ladra. Siglo Veintiuno editores 
+
+
+--- PÁGINA 48 ---
+ 
+ 
+ 
+ 
+ 
+ 
+47 
+Es decir que hay datos nuevos a disposición, pero el problema principal es de “señal y 
+ruido”: o sea, más datos son una mejor opción siempre que contribuyan a mejorar    
+la calidad de la señal y no a aumentar el ruido, si es capaz de proveer información útil  
+ahí donde antes había sólo silencio y oscuridad. 
+Esto es fundamental para encarar el problema de los datos que puede/debe 
+producir/recopilar el Estado para asegurar una mayor eficacia en sus acciones. En la línea 
+que venimos manejando, es fundamental tener claros los problemas sobre los que se 
+quiere intervenir, recoger/producir los datos necesarios y transformarlos en información 
+para su mejor comprensión, y por lo tanto asegurar así una mejor planificación, 
+implementación y evaluación de las políticas públicas. “Juntar” datos “porque están 
+disponibles” puede ser una mala decisión cuando estamos trabajando en el Estado, 
+teniendo en cuenta, además, que requiere la utilización de fondos públicos. 
+La (buena) información es la base para la toma de decisiones en el gobierno y la gestión 
+pública. Datos no es igual a información, lo segundo supone un proceso de 
+transformación de los primeros en materia útil, en función de alguna hipótesis o 
+interpretación de la realidad. La información no resulta de acumular datos, aunque es 
+imposible sin disponer de ellos. La cuestión es cómo transformar ese caudal de datos  
+en información. Cómo, a diferencia de años atrás en que otra planificación (ex-ante)  
+era posible, construimos ex -post los marcos de análisis que lo permitirán. En el caso  
+del Estado, con qué preguntas, con qué modelo teórico/político de referencia y para   
+qué, abordamos ese caudal de datos y lo transformamos en información sustantiva  
+para mejorar la toma de decisiones. 
+En esta época de hiperconexión permanente, el Estado no puede estar ausente,   
+porque de él dependen —aunque el sentido común no lo registre— muchas —sino todas— 
+de las variables más importantes que hacen a nuestra calidad de vida. El desafío es 
+construir los sistemas de información pública que permitan diseñar, implementar, evaluar 
+y reformular las políticas; alimentar las acciones de los agentes públicos –y no solo, en 
+la medida en que lo público ya ha desbordado el espacio estatal- y aumentar, tanto   
+“los reflejos” (la capacidad de reacción de las administraciones) como el poder y     
+la eficacia de la intervención en lo que hace a la gestión de las políticas públicas, frente a 
+los cambios que se den en la sociedad. 
+ 
+
+
+--- PÁGINA 49 ---
+ 
+ 
+ 
+ 
+ 
+ 
+48 
+En nuestra perspectiva, “sistema” es un concepto que puede hoy abarcar varios formatos, 
+no necesariamente algo que alude a “lo físico”.  Un sistema de información puede ser, por 
+ejemplo, un conjunto de acuerdos intra-estatal, inter-estatal o público-privado para 
+conseguir, resguardar, abrir, procesar e interpretar datos que permitan mejorar la eficacia 
+del Estado al intervenir sobre la agenda de cuestiones comprometida en las elecciones. 
+O sobre cuestiones “de Estado”, como la seguridad o la defensa. También puede/debe 
+incluir un conjunto de algoritmos pensados desde la mirada del valor público, que se 
+encarguen de producir y actualizar la información necesaria para seguir la marcha de 
+las políticas en tiempo real.  
+Aunque la tentación “solucionista” está presente —la tecnología disponible— vale recordar 
+que lo sustantivo de un sistema informático está en la definición/construcción de    
+los conceptos, variables, indicadores, etc., que lo organizan, y que permitirán  
+interpretar los datos y transformarlos en información. Y, sobre todo, en la amplitud, 
+fortaleza y dinámica del acuerdo político que lo sostenga. Esta es nuestra mirada —en 
+líneas generales— sobre cómo encarar la gobernabilidad algorítimica. 
+ 
+De lo enunciado en este ítem se siguen los siguientes elementos de calidad estatal y 
+los instrumentos que tienden a conseguirlos/mejorarlos/consolidarlos: 
+     - Racionalidad política como guía en la incorporación y utilización de tecnología, y en 
+el diseño conceptual de los sistemas de información 
+     - Gobernabilidad algorítmica basada en acuerdos político-sociales sobre recopilación y 
+uso de datos 
+     - Soberanía tecnológica- uso de estándares abiertos 
+     - Multicanalidad y Onmicanalidad 
+ 
+ 
+
+
+--- PÁGINA 50 ---
+ 
+ 
+ 
+ 
+ 
+ 
+49 
+Cuadro 1 - Resumen 
+_________________________________________________________________________________________ 
+Elementos de 
+la calidad estatal 
+Instrumentos 
+Objetivos 
+Proyecto de 
+gobierno 
+- Guía del gobierno 
+Explicitar los vínculos entre la política 
+pública y los lineamientos generales 
+del gobierno 
+Autonomía estatal 
+- Normativa 
+- Estructuras 
+- Matriz de riesgos 
+Limitar el fenómeno de “puerta 
+giratoria”, evitar la captura de 
+la decisión estatal y cooptación 
+de organismos 
+Participación social 
+en el marco de 
+Liderazgo político 
+/estatal 
+- Canales de participación 
+social (planificación 
+político-estratégica) 
+- Mecanismos de 
+reciprocidad (co-creación, 
+co-responsabilidad en 
+las políticas) 
+- Comunicación política 
+Aumentar la capacidad de conocer, 
+explicar, deliberar y construir con 
+los colectivos sociales y sus 
+necesidades, para la democracia, 
+el desarrollo e inclusión social. 
+Construir e institucionalizar nuevas 
+capacidades de gestión que logren 
+el apoyo y la legitimación para 
+las acciones estatales asentadas en 
+la democratización, el desarrollo e 
+inclusión (y otros que correspondan). 
+Sistemas de 
+información sobre 
+la sociedad 
+- Encuestas cualitativas, 
+Data Analytics, ambientes 
+de diálogo innovativo, etc. 
+Fortalecer la capacidad de conocer, 
+explicar, deliberar y construir con 
+los colectivos sociales y sus 
+necesidades, para la democracia, 
+el desarrollo e inclusión social 
+Rol performativo del 
+Estado 
+- Instrumentos para 
+la formación, 
+sensibilización e 
+información de 
+los sectores con 
+menores recursos 
+- Nuevos mecanismos y 
+modalidades de acceso a 
+la Información 
+- Herramientas      
+de la economía del 
+conocimiento 
+Influir sobre las preferencias 
+ciudadanas 
+
+
+--- PÁGINA 51 ---
+ 
+ 
+ 
+ 
+ 
+ 
+50 
+Funcionamiento 
+organizacional 
+ordenado, 
+sistemático y 
+respetuoso de 
+la autoridad política 
+- Acuerdos de trabajo 
+entre funcionarios políticos 
+y la línea 
+- Gestión por procesos 
+- Simplificación de trámites 
+- Tecnologías de 
+la información/Sistemas 
+inteligentes 
+- Articulación centro-
+territorio 
+- Planificación 
+organizacional 
+- Monitoreo y evaluación 
+- Registros administrativos 
+Favorecer una dinámica 
+organizacional (en lo interno y en 
+sus inter-relaciones) más eficaz   
+en la gestión de las políticas públicas. 
+Regular la complejidad sin que esto 
+signifique tiempos y costos extras, ni 
+relajar la función de control. 
+Hacer visible la mirada desde 
+los territorios, para evitar que todas 
+las decisiones de funcionamiento y 
+de cambio queden reservadas al 
+nivel central. 
+Construir participativa y 
+negociadamente los indicadores de 
+calidad más pertinentes. 
+Compromiso de 
+las/os 
+funcionarias/os y 
+agentes estatales 
+con los valores 
+públicos 
+- Consolidar la estabilidad 
+en la función pública y 
+el Convenio Colectivo 
+de Trabajo como marco 
+general 
+- Formación y compromiso 
+con los valores de 
+la democracia, el desarrollo 
+e inclusión y el valor 
+público, y no solamente 
+con el mérito individual 
+- Formación y compromiso 
+con los objetivos 
+institucionales de 
+la Administración Pública 
+Fortalecimiento de la representación 
+sindical y de sus responsabilidades 
+de contraparte, sin que eso suponga 
+co-gobierno. 
+Ampliar la mirada de la calidad 
+centrada en la tecnología y lo 
+tecnocrático, incluyendo la mirada 
+política de los/as funcionarios/as y 
+trabajadores/as estatales. 
+Integralidad en la 
+gestión, 
+interoperabilidad y 
+Articulación entre 
+organismos 
+estatales 
+- Mapas de relaciones 
+interinstitucionales. 
+- Análisis de riesgos. 
+- Ferias de datos 
+- Organización de una red 
+de sistemas de 
+información y bases de 
+datos interoperables, 
+coordinada por la autoridad 
+política y con criterios de 
+seguridad y privacidad 
+asegurados en su 
+funcionamiento 
+Estimular y fortalecer la acción 
+integral e intersectorial del conjunto de 
+los organismos de la Administración 
+Pública alrededor de los objetivos  
+del proyecto de gobierno, 
+la democracia, el desarrollo e 
+inclusión social y el valor público. 
+Avanzar en la interoperabilidad. 
+
+
+--- PÁGINA 52 ---
+ 
+ 
+ 
+ 
+ 
+ 
+51 
+Utilización 
+socialmente 
+inclusiva y 
+administrativamente 
+eficaz de las nuevas 
+tecnologías. 
+- Racionalidad política 
+como guía en 
+la incorporación y 
+utilización de tecnología,  
+y en el diseño conceptual 
+de los sistemas de 
+información 
+- Gobernabilidad 
+algorítmica basada en 
+acuerdos político-sociales 
+sobre recopilación y uso 
+de datos 
+- Omnicanalidad 
+multicanalidad 
+- Uso de estándares 
+abiertos 
+Sistemas de información orientados 
+a la producción de valor público, 
+la democratización de la información, 
+el desarrollo e inclusión social. 
+Ofrecer al ciudadano un esquema de 
+acceso coherente, simple y eficiente 
+para su acceso al estado. 
+Soberanía tecnológica. 
+ 
+ 
+
+
+--- PÁGINA 53 ---
+ 
+ 
+ 
+ 
+ 
+ 
+52 
+Bibliografía 
+_________________________________________________________________________________________ 
+Hintze, Jorge (2003). Gestión por procesos y por resultados en la gestión estatal: Una 
+cuestión abierta. Ponencia presentada en el SEGUNDO CONGRESO ARGENTINO DE 
+ADMINISTRACIÓN 
+PÚBLICA 
+- 
+Sociedad, 
+Gobierno 
+y 
+Administración 
+Pública 
+"Reconstruyendo la estatalidad: Transición, instituciones y gobernabilidad", Córdoba, 27, 
+28 y 29 de noviembre, República Argentina. 
+ 
+Mazzucato, Mariana y Ryan-Collins, Josh (2019) Putting value creation back into ‘public 
+value’: From market fixing to market shaping. UCL Institute for Innovation and    
+Public Purpose, Working Paper Series (IIPP WP 2019-05). 
+https://www.ucl.ac.uk/bartlett/public-purpose/wp2019-05  
+ 
+Muller, Pierre (2006): Las políticas públicas. Universidad Externado de Colombia, Bogotá. 
+https://cursodeposgrado.files.wordpress.com/2011/08/muller.pdf  
+ 
+Nebrera Herera, Jaime (s/f) Introducción a la calidad/Curso de Calidad por Internet – CCI, 
+mimeo. Disponible en 
+http://www.sld.cu/galerias/pdf/sitios/infodir/introduccion_a_la_calidad.pdf 
+ 
+Oszlak, Oscar (s/f) “Privatización autoritaria y recreación de la escena pública”. En Crítica 
+& Utopía N° 10/11. Rescatado de: 
+https://repositorio.cedes.org/bitstream/123456789/3074/1/OSZLAK.pdf  
+ 
+ 
+
+
+--- PÁGINA 54 ---
+ 
+ 
+ 
+ 
+ 
+ 
+53 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

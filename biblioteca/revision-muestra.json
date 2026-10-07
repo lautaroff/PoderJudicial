@@ -1,0 +1,452 @@
+[
+  {
+    "id": "P001",
+    "etapa": "especificos",
+    "tema": "Estado de derecho",
+    "pregunta": "¿Qué caracteriza al Estado de derecho?",
+    "opciones": [
+      "La eliminación de los derechos individuales",
+      "La sustitución de las leyes por órdenes personales",
+      "La ausencia de límites para las autoridades",
+      "El sometimiento de la actuación estatal al orden jurídico"
+    ],
+    "correcta": 3,
+    "explicacion": "El poder público está sujeto a normas y controles; la autoridad no basta para legitimar cualquier conducta.",
+    "fuente": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-1-Concurso-Ingreso-2023.pdf#page=2 | antecedente oficial 2023; concepto preparatorio, no temario 2026 confirmado"
+  },
+  {
+    "id": "P006",
+    "etapa": "especificos",
+    "tema": "Reforma constitucional",
+    "pregunta": "Una convención va a reformar la Constitución Nacional. ¿Qué actuación institucional debe precederla?",
+    "opciones": [
+      "Una orden de una dependencia administrativa",
+      "La declaración de necesidad de reforma por el Congreso",
+      "Una sentencia de divorcio",
+      "Una autorización del colegio de abogados"
+    ],
+    "correcta": 1,
+    "explicacion": "El artículo 30 separa declaración de necesidad y reforma por convención.",
+    "fuente": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-1-Concurso-Ingreso-2023.pdf#page=3 | antecedente oficial 2023; concepto preparatorio, no temario 2026 confirmado"
+  },
+  {
+    "id": "P011",
+    "etapa": "especificos",
+    "tema": "Derechos humanos",
+    "pregunta": "¿Cuál es el fundamento de los derechos humanos?",
+    "opciones": [
+      "La pertenencia a una profesión",
+      "La dignidad inherente a toda persona",
+      "La riqueza patrimonial",
+      "La aprobación de un funcionario"
+    ],
+    "correcta": 1,
+    "explicacion": "La titularidad básica de derechos no depende del mérito, la nacionalidad profesional o el patrimonio.",
+    "fuente": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-1-Concurso-Ingreso-2023.pdf#page=10 | antecedente oficial 2023; concepto preparatorio, no temario 2026 confirmado"
+  },
+  {
+    "id": "P016",
+    "etapa": "especificos",
+    "tema": "Interdependencia",
+    "pregunta": "La falta de accesibilidad impide acceder a justicia y afecta otros derechos. ¿Qué idea permite comprender ese efecto?",
+    "opciones": [
+      "Desaparición de garantías",
+      "Aislamiento absoluto de derechos",
+      "Interdependencia de derechos",
+      "Prioridad exclusiva del patrimonio"
+    ],
+    "correcta": 2,
+    "explicacion": "Las barreras en un área pueden afectar la protección de varias dimensiones de la vida.",
+    "fuente": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-1-Concurso-Ingreso-2023.pdf#page=18 | antecedente oficial 2023; concepto preparatorio, no temario 2026 confirmado"
+  },
+  {
+    "id": "P021",
+    "etapa": "especificos",
+    "tema": "Acceso a justicia",
+    "pregunta": "¿Qué abarca el acceso a la justicia?",
+    "opciones": [
+      "Únicamente localizar un edificio",
+      "Sólo pagar una tasa",
+      "Exclusivamente conocer a un juez",
+      "La posibilidad efectiva de acudir y obtener protección de derechos"
+    ],
+    "correcta": 3,
+    "explicacion": "El acceso efectivo requiere superar barreras económicas, físicas, comunicacionales y culturales.",
+    "fuente": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-1-Concurso-Ingreso-2023.pdf#page=37 | antecedente oficial 2023; concepto preparatorio, no temario 2026 confirmado"
+  },
+  {
+    "id": "P026",
+    "etapa": "especificos",
+    "tema": "Funciones estatales",
+    "pregunta": "Se debate y sanciona una ley general. ¿Qué función se desarrolla?",
+    "opciones": [
+      "Defensa técnica individual",
+      "Legislativa",
+      "Custodia de expediente",
+      "Pericial"
+    ],
+    "correcta": 1,
+    "explicacion": "Las funciones se distinguen por su contenido, aunque los órganos también realicen tareas administrativas.",
+    "fuente": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-1-Concurso-Ingreso-2023.pdf#page=60 | antecedente oficial 2023; concepto preparatorio, no temario 2026 confirmado"
+  },
+  {
+    "id": "P031",
+    "etapa": "especificos",
+    "tema": "Competencia administrativa",
+    "pregunta": "¿Qué es la competencia de un órgano administrativo?",
+    "opciones": [
+      "La preferencia personal del agente",
+      "El conjunto de atribuciones asignadas por el ordenamiento",
+      "La cantidad de personas en espera",
+      "La velocidad de una computadora"
+    ],
+    "correcta": 1,
+    "explicacion": "La aptitud para actuar proviene de normas de competencia, no de buena voluntad o conveniencia.",
+    "fuente": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-1-Concurso-Ingreso-2023.pdf#page=121 | antecedente oficial 2023; concepto preparatorio, no temario 2026 confirmado"
+  },
+  {
+    "id": "P036",
+    "etapa": "especificos",
+    "tema": "Reglamento",
+    "pregunta": "Una autoridad establece reglas generales para un conjunto indeterminado de casos. ¿Qué figura se aproxima?",
+    "opciones": [
+      "Testimonio pericial",
+      "Sentencia individual de alimentos",
+      "Reglamento administrativo",
+      "Recibo de una presentación"
+    ],
+    "correcta": 2,
+    "explicacion": "Generalidad e individualidad permiten distinguir tipos de actividad administrativa.",
+    "fuente": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-1-Concurso-Ingreso-2023.pdf#page=129 | antecedente oficial 2023; concepto preparatorio, no temario 2026 confirmado"
+  },
+  {
+    "id": "P041",
+    "etapa": "especificos",
+    "tema": "Debido proceso",
+    "pregunta": "¿Qué garantía integra el debido proceso?",
+    "opciones": [
+      "La posibilidad de ser oído y ejercer defensa",
+      "La condena automática por una denuncia",
+      "La elección del resultado por el empleado",
+      "La decisión secreta sin intervención alguna"
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 18 de la Constitución Nacional protege defensa en juicio; celeridad no autoriza suprimirla.",
+    "fuente": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-2-Concurso-Ingreso-2023.pdf#page=3 | antecedente oficial 2023; concepto preparatorio, no temario 2026 confirmado"
+  },
+  {
+    "id": "P046",
+    "etapa": "especificos",
+    "tema": "Reconvención",
+    "pregunta": "El demandado formula un reclamo propio contra el actor dentro del proceso cuando la ley lo permite. ¿Cómo se denomina?",
+    "opciones": [
+      "Peritaje",
+      "Ratificación de una estadística",
+      "Reconvención",
+      "Archivo"
+    ],
+    "correcta": 2,
+    "explicacion": "El demandado puede asumir también una posición actora respecto de una pretensión propia.",
+    "fuente": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-2-Concurso-Ingreso-2023.pdf#page=7 | antecedente oficial 2023; concepto preparatorio, no temario 2026 confirmado"
+  },
+  {
+    "id": "P051",
+    "etapa": "especificos",
+    "tema": "Ejecución",
+    "pregunta": "¿Qué busca un proceso de ejecución?",
+    "opciones": [
+      "Realizar una encuesta de satisfacción",
+      "Hacer efectivo un deber exigible según un título apto o una decisión ejecutable",
+      "Designar jueces por votación",
+      "Reformar una constitución provincial"
+    ],
+    "correcta": 1,
+    "explicacion": "La declaración de un derecho y su cumplimiento efectivo son momentos distintos.",
+    "fuente": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-2-Concurso-Ingreso-2023.pdf#page=9 | antecedente oficial 2023; concepto preparatorio, no temario 2026 confirmado"
+  },
+  {
+    "id": "P056",
+    "etapa": "especificos",
+    "tema": "Amparo",
+    "pregunta": "Una lesión actual y manifiestamente arbitraria de derechos requiere analizar una vía protectora rápida y sus requisitos. ¿Qué instituto estudiar?",
+    "opciones": [
+      "Sucesión testamentaria",
+      "Quiebra de oficio automática",
+      "Sorteo de un perito",
+      "Acción de amparo"
+    ],
+    "correcta": 3,
+    "explicacion": "El amparo tiene presupuestos y límites; no es una vía universal que evita todo procedimiento.",
+    "fuente": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-2-Concurso-Ingreso-2023.pdf#page=10 | antecedente oficial 2023; concepto preparatorio, no temario 2026 confirmado"
+  },
+  {
+    "id": "P061",
+    "etapa": "especificos",
+    "tema": "Expediente",
+    "pregunta": "¿Qué función cumple el expediente?",
+    "opciones": [
+      "Asegurar por sí solo que el actor tenga razón",
+      "Reemplazar la competencia del juez",
+      "Reunir y ordenar las actuaciones de un procedimiento",
+      "Ser siempre público sin excepciones"
+    ],
+    "correcta": 2,
+    "explicacion": "El expediente permite trazabilidad; acceso y reserva están sujetos al régimen aplicable.",
+    "fuente": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-2-Concurso-Ingreso-2023.pdf#page=18 | antecedente oficial 2023; concepto preparatorio, no temario 2026 confirmado"
+  },
+  {
+    "id": "P066",
+    "etapa": "especificos",
+    "tema": "Notificación",
+    "pregunta": "Una decisión debe ponerse legalmente en conocimiento de una parte. ¿Qué acto corresponde gestionar?",
+    "opciones": [
+      "Notificación según el régimen aplicable",
+      "Una reforma legislativa",
+      "Una encuesta general",
+      "Un comentario informal en redes"
+    ],
+    "correcta": 0,
+    "explicacion": "La forma y fecha de notificación pueden incidir en plazos; no se improvisan.",
+    "fuente": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-2-Concurso-Ingreso-2023.pdf#page=20 | antecedente oficial 2023; concepto preparatorio, no temario 2026 confirmado"
+  },
+  {
+    "id": "P071",
+    "etapa": "especificos",
+    "tema": "Celeridad y concentración",
+    "pregunta": "¿Qué persiguen celeridad y concentración procesal?",
+    "opciones": [
+      "Dar prioridad sólo por contactos",
+      "Eliminar la fundamentación",
+      "Resolver sin defensa ni prueba",
+      "Evitar demoras innecesarias y reunir actos compatibles"
+    ],
+    "correcta": 3,
+    "explicacion": "La concentración mejora el trámite sin suprimir garantías.",
+    "fuente": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-2-Concurso-Ingreso-2023.pdf#page=4 | antecedente oficial 2023; concepto preparatorio, no temario 2026 confirmado"
+  },
+  {
+    "id": "P076",
+    "etapa": "especificos",
+    "tema": "Sucesión",
+    "pregunta": "Tras un fallecimiento se requiere determinar herederos y tramitar la herencia. ¿Qué proceso estudiar?",
+    "opciones": [
+      "Sucesorio",
+      "Juicio penal juvenil",
+      "Apremio tributario por definición",
+      "Acción electoral partidaria"
+    ],
+    "correcta": 0,
+    "explicacion": "La sucesión es un proceso patrimonial asociado al fallecimiento y la herencia.",
+    "fuente": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-2-Concurso-Ingreso-2023.pdf#page=17 | antecedente oficial 2023; concepto preparatorio, no temario 2026 confirmado"
+  },
+  {
+    "id": "P081",
+    "etapa": "especificos",
+    "tema": "Justicia de paz",
+    "pregunta": "¿Qué criterio es correcto respecto de la Justicia de Paz?",
+    "opciones": [
+      "Sólo resuelve disputas internacionales",
+      "Su competencia debe determinarse por las normas de materia, territorio y demás criterios aplicables",
+      "Toda causa es penal juvenil",
+      "Puede decidir cualquier asunto sin límites"
+    ],
+    "correcta": 1,
+    "explicacion": "La denominación del fuero no sustituye el análisis concreto de competencia.",
+    "fuente": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-2-Concurso-Ingreso-2023.pdf#page=91 | antecedente oficial 2023; concepto preparatorio, no temario 2026 confirmado"
+  },
+  {
+    "id": "P086",
+    "etapa": "especificos",
+    "tema": "Interés superior de niñez",
+    "pregunta": "Una decisión afectará a una niña. ¿Qué enfoque debe incorporarse?",
+    "opciones": [
+      "Decidir sólo según conveniencia de adultos",
+      "Evaluar sus derechos e interés superior en el caso concreto",
+      "Aplicar estereotipos sin análisis",
+      "Excluir toda consideración de su situación"
+    ],
+    "correcta": 1,
+    "explicacion": "La niñez es titular de derechos; el interés superior no es una frase que sustituye análisis.",
+    "fuente": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-2-Concurso-Ingreso-2023.pdf#page=137 | antecedente oficial 2023; concepto preparatorio, no temario 2026 confirmado"
+  },
+  {
+    "id": "P091",
+    "etapa": "especificos",
+    "tema": "Derecho laboral",
+    "pregunta": "¿Qué vínculo regula de manera central el derecho del trabajo?",
+    "opciones": [
+      "Únicamente elecciones legislativas",
+      "Las relaciones de trabajo comprendidas en su régimen",
+      "Sólo relaciones entre herederos",
+      "Todos los delitos contra la libertad"
+    ],
+    "correcta": 1,
+    "explicacion": "El derecho del trabajo posee principios protectores y regulación sustantiva y procesal específica.",
+    "fuente": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-2-Concurso-Ingreso-2023.pdf#page=160 | antecedente oficial 2023; concepto preparatorio, no temario 2026 confirmado"
+  },
+  {
+    "id": "P096",
+    "etapa": "especificos",
+    "tema": "Legalidad penal",
+    "pregunta": "Se propone castigar penalmente una conducta sin ley previa que la tipifique. ¿Qué principio se vulneraría?",
+    "opciones": [
+      "Legalidad penal",
+      "Concentración de audiencias civiles",
+      "Orden cronológico",
+      "Publicación de listas"
+    ],
+    "correcta": 0,
+    "explicacion": "No corresponde crear delitos y penas por analogía perjudicial o voluntad informal.",
+    "fuente": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-2-Concurso-Ingreso-2023.pdf#page=178 | antecedente oficial 2023; concepto preparatorio, no temario 2026 confirmado"
+  },
+  {
+    "id": "P101",
+    "etapa": "institucional",
+    "tema": "Estado",
+    "pregunta": "¿Cuál es el elemento humano del Estado?",
+    "opciones": [
+      "Poder",
+      "Población",
+      "Gobierno",
+      "Territorio"
+    ],
+    "correcta": 1,
+    "explicacion": "La población reúne a las personas asentadas en el ámbito estatal.",
+    "fuente": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-1-Concurso-Ingreso-2023.pdf#page=1 | práctica institucional basada en antecedentes; NO cuestionarios ni videos oficiales 2026"
+  },
+  {
+    "id": "P105",
+    "etapa": "institucional",
+    "tema": "Poderes constituidos",
+    "pregunta": "¿Qué son los poderes constituidos?",
+    "opciones": [
+      "Órganos organizados por la Constitución",
+      "Los únicos titulares de derechos",
+      "Cualquier grupo de vecinos",
+      "Los redactores de todo texto particular"
+    ],
+    "correcta": 0,
+    "explicacion": "Constituyente crea u organiza; constituido ejerce competencias.",
+    "fuente": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-1-Concurso-Ingreso-2023.pdf#page=3 | práctica institucional basada en antecedentes; NO cuestionarios ni videos oficiales 2026"
+  },
+  {
+    "id": "P109",
+    "etapa": "institucional",
+    "tema": "Derecho común",
+    "pregunta": "¿Qué error debe evitarse sobre los códigos de fondo dictados por el Congreso?",
+    "opciones": [
+      "Identificar competencia local",
+      "Distinguir derecho de fondo de procedimiento",
+      "Suponer que toda causa que los aplica es necesariamente federal",
+      "Leer normas constitucionales"
+    ],
+    "correcta": 2,
+    "explicacion": "Dictar derecho común no desplaza por sí mismo las jurisdicciones locales.",
+    "fuente": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-1-Concurso-Ingreso-2023.pdf#page=101 | práctica institucional basada en antecedentes; NO cuestionarios ni videos oficiales 2026"
+  },
+  {
+    "id": "P113",
+    "etapa": "institucional",
+    "tema": "Gestión asociada",
+    "pregunta": "¿Qué idea orienta la gestión judicial asociada?",
+    "opciones": [
+      "Suprimir toda trazabilidad",
+      "Convertir al empleado en juez",
+      "Organizar y compartir recursos de gestión según el modelo institucional",
+      "Eliminar toda función jurisdiccional"
+    ],
+    "correcta": 2,
+    "explicacion": "Se diferencia organización de gestión de la responsabilidad jurisdiccional.",
+    "fuente": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-1-Concurso-Ingreso-2023.pdf#page=108 | práctica institucional basada en antecedentes; NO cuestionarios ni videos oficiales 2026"
+  },
+  {
+    "id": "P117",
+    "etapa": "institucional",
+    "tema": "Enjuiciamiento",
+    "pregunta": "¿Qué finalidad tiene un procedimiento de remoción de magistrados?",
+    "opciones": [
+      "Resolver una herencia",
+      "Examinar responsabilidad institucional y eventual destitución según su régimen",
+      "Sustituir automáticamente cualquier juicio penal",
+      "Conceder empleos administrativos por sorteo"
+    ],
+    "correcta": 1,
+    "explicacion": "Remoción y responsabilidad penal son planos distintos.",
+    "fuente": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-1-Concurso-Ingreso-2023.pdf#page=115 | práctica institucional basada en antecedentes; NO cuestionarios ni videos oficiales 2026"
+  },
+  {
+    "id": "P121",
+    "etapa": "institucional",
+    "tema": "Actividad administrativa",
+    "pregunta": "¿Qué distingue un hecho administrativo de una declaración jurídica?",
+    "opciones": [
+      "Es siempre una sentencia penal",
+      "Es una actuación material de la administración",
+      "Es siempre una reforma constitucional",
+      "Es una ley general necesariamente"
+    ],
+    "correcta": 1,
+    "explicacion": "La actividad material y la declaración con efectos jurídicos se diferencian.",
+    "fuente": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-1-Concurso-Ingreso-2023.pdf#page=131 | práctica institucional basada en antecedentes; NO cuestionarios ni videos oficiales 2026"
+  },
+  {
+    "id": "P141",
+    "etapa": "lectura",
+    "tema": "L1 - Registro de consultas",
+    "pregunta": "¿Cuántas consultas se registraron?",
+    "opciones": [
+      "120",
+      "36",
+      "60"
+    ],
+    "correcta": 0,
+    "explicacion": "El primer enunciado informa el total.",
+    "fuente": "Texto original de práctica L1; NO examen ni texto oficial",
+    "texto": "Durante una semana, una oficina registró 120 consultas: 60 sobre requisitos, 36 sobre seguimiento y 24 sobre horarios. El equipo propuso publicar una guía porque la mayoría de las consultas trataba sobre requisitos. Sin embargo, la coordinadora pidió probarla durante dos semanas antes de extender su uso. La prueba compararía las consultas repetidas antes y después de publicar la guía, manteniendo el mismo horario de atención. Una reducción de consultas repetidas sugeriría una mejora en la información, pero no demostraría por sí sola que todas las personas comprendieron cada trámite. La oficina conservaría un canal de atención personal para quienes necesitaran ayuda. El objetivo era facilitar el acceso, no reducir el número de personas atendidas."
+  },
+  {
+    "id": "P152",
+    "etapa": "lectura",
+    "tema": "L2 - Archivo y permisos",
+    "pregunta": "¿Qué verificaron luego de identificar expedientes?",
+    "opciones": [
+      "Presupuesto de otro organismo",
+      "Legibilidad de las imágenes",
+      "Salario del equipo"
+    ],
+    "correcta": 1,
+    "explicacion": "El texto indica verificar imágenes legibles.",
+    "fuente": "Texto original de práctica L2; NO examen ni texto oficial",
+    "texto": "Un equipo digitalizó documentos para facilitar su consulta. Primero identificó los expedientes, después verificó que cada imagen fuera legible y, por último, relacionó los archivos con su registro. La digitalización no modificó los permisos de acceso: un documento reservado continuaría siendo reservado. Para evitar errores, dos personas revisaron una muestra y detectaron que algunos archivos habían quedado asociados a otro expediente. El equipo suspendió la carga de ese lote y corrigió las asociaciones antes de publicarlo. La revisión no permitió afirmar que todo el archivo estuviera libre de errores, pues sólo abarcó una muestra. Se acordó registrar las correcciones y realizar controles periódicos. Así, mejorar la disponibilidad documental exigía tanto calidad de registro como respeto por la confidencialidad."
+  },
+  {
+    "id": "P163",
+    "etapa": "lectura",
+    "tema": "L3 - Indicadores y contexto",
+    "pregunta": "¿Cuál es la tasa salidas/entradas de A?",
+    "opciones": [
+      "90 %",
+      "110 %",
+      "180 %"
+    ],
+    "correcta": 0,
+    "explicacion": "180/200×100=90.",
+    "fuente": "Texto original de práctica L3; NO examen ni texto oficial",
+    "texto": "Dos oficinas informaron sus resultados anuales. La oficina A recibió 200 causas y resolvió 180; la oficina B recibió 100 y resolvió 110. En B, parte de las resoluciones correspondía a causas iniciadas en años anteriores. Por eso, una tasa de resolución superior al cien por ciento no era un error por sí misma: comparaba salidas del año con entradas del mismo año, sin exigir que fueran los mismos expedientes. El informe aclaró que el indicador no medía por sí solo la calidad de las decisiones ni la complejidad de cada causa. Para estudiar la carga pendiente se necesitaban además datos sobre existencias al inicio y al cierre. El equipo propuso leer cada indicador junto con su definición, período y fuente, en lugar de utilizar una cifra aislada para decidir qué oficina funcionaba mejor."
+  },
+  {
+    "id": "P174",
+    "etapa": "lectura",
+    "tema": "L4 - Comunicación accesible",
+    "pregunta": "¿Qué garantizaba la respuesta sobre el resultado?",
+    "opciones": [
+      "Aprobación automática",
+      "No garantizaba un resultado favorable",
+      "Éxito seguro"
+    ],
+    "correcta": 1,
+    "explicacion": "Orientar trámite no promete decisión.",
+    "fuente": "Texto original de práctica L4; NO examen ni texto oficial",
+    "texto": "Una oficina redactó una respuesta para explicar un trámite. El primer borrador utilizaba expresiones técnicas y remitía a tres normas sin indicar qué debía hacer la persona. Una revisión sustituyó palabras difíciles cuando era posible y mantuvo los términos indispensables acompañados de una explicación. También separó los requisitos de los pasos, identificó el canal de consulta y aclaró qué decisión correspondía al tribunal. La respuesta no garantizaba un resultado favorable; explicaba cómo presentar la solicitud. Antes de adoptar el texto, la oficina lo probó con un pequeño grupo de usuarios. Algunos comprendieron los pasos, pero confundieron un requisito con una recomendación. El equipo corrigió esa diferencia y decidió mantener un medio de asistencia. La claridad se entendió como una tarea de revisión continua, no como eliminar todo lenguaje técnico."
+  }
+]

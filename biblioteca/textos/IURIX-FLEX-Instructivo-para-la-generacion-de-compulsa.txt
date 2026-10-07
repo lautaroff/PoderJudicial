@@ -1,0 +1,108 @@
+
+--- PÁGINA 1 ---
+
+
+--- PÁGINA 2 ---
+1 
+SISTEMA DE INFORMACIÓN – USUARIOS FINALES 
+SIC IURIX FLEX 
+INSTRUCTIVO PARA LA GENERACIÓN DE COMPULSA 
+DE UN EXPEDIENTE DEL FUERO DE FAMILIA 
+ 
+Desde la ficha de un expediente ir a OTROS / CREAR NUEVO EXPEDIENTE RELACIONADO: 
+ 
+ 
+Se crea una nueva pestaña “Ingrese un nuevo Expediente Relacionado” y el cursor se 
+posiciona automáticamente en la edición de la carátula. En esta etapa no debe editarse la 
+carátula, se hará más adelante 
+ 
+ 
+ 
+Posteriormente, más abajo completar los datos de tipo de expediente completando el 
+combo con la opción COM (de compulsa), como también el combo de Estado 
+Administrativo, con la opción que corresponda al caso: 
+ 
+ 
+ 
+ 
+
+
+--- PÁGINA 3 ---
+2 
+ 
+ 
+ 
+Presionar Guardar: 
+ 
+ 
+ 
+A continuación, se abre una ventana donde uno debe seleccionar las partes que 
+intervendrán en el expediente tipo COMPULSA, ofreciendo las partes directas del 
+expediente principal. Cabe mencionar que al seleccionar las partes también se asociarán 
+sus representantes legales. Allí debe seleccionarse los correspondientes y luego presionar 
+AGREGAR. 
+ 
+ 
+ 
+ 
+
+
+--- PÁGINA 4 ---
+3 
+ 
+ 
+ 
+Se visualizarán las partes agregadas en el cuadro de abajo, luego presionar CONFIRMAR 
+ 
+ 
+ 
+Se muestra a continuación la ficha del expediente tipo compulsa creado, se visualizará el 
+mismo CUIJ y número anterior que el expediente principal seguido de un sufijo “-1”. En 
+caso de crear más compulsas del mismo expediente se crearán con sufijo “-2”, “-3” y así 
+sucesivamente. 
+El próximo paso es de editar la carátula del expediente tipo compulsa agregando la 
+palabra COMPULSA al inicio, y luego presionando GUARDAR. 
+ 
+
+
+--- PÁGINA 5 ---
+4 
+ 
+ 
+ 
+El expediente tipo compulsa no asigna automáticamente el mismo juez del expediente, 
+por lo que esta tarea puede completarse desde la ficha del expediente opción OTROS / 
+JUEZ DE TRÁMITE: 
+ 
+ 
+ 
+Seleccionar Tipo de Asignación MANUAL, Juez, Observaciones y presionar el botón 
+CONFIRMAR. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PÁGINA 6 ---
+5 
+ 
+ 
+ 
+De esta forma queda configurada la compulsa del expediente. 
+Otras consideraciones: 
+- 
+Las compulsas creadas no contienen las actuaciones y adjuntos del principal, como 
+tampoco copia el historial de movimientos de este.  
+- 
+La compulsa se crea con los sujetos seleccionados, sus representantes legales y los 
+domicilios registrados en el principal. 
+- 
+La compulsa tiene habilitada las mismas funcionalidades que el expediente 
+principal, también se visualiza en internet y lo hace a los 5 minutos de su creación.  
+ 
