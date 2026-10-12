@@ -1,0 +1,5 @@
+{
+  "checks": 18,
+  "failures": [],
+  "nota": "Reproducción real breve; el evento ended se dispara en prueba para verificar la transición sin esperar seis minutos."
+}

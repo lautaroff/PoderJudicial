@@ -1,6 +1,6 @@
 # Guía operativa del concurso administrativo Mendoza 2026
 
-Verificación: 5 de octubre de 2026. Preparación con Codex. Esta guía cubre las reglas publicadas y las nueve etapas; el programa y los videos de 2026 todavía no están publicados. Ningún material histórico permite prometer conocer el examen futuro completo.
+Verificación: 12 de octubre de 2026. Preparación con Codex. Esta guía cubre las nueve etapas. Ya se publicó el índice y los cinco módulos para conocimientos específicos; la página oficial aclara que las etapas previas no se rigen por esa bibliografía. Los videos de evaluación y sus cuestionarios futuros no se conocen de antemano.
 
 ## Fuentes y cómo leer las referencias
 
@@ -13,13 +13,13 @@ Verificación: 5 de octubre de 2026. Preparación con Codex. Esta guía cubre la
 
 Las referencias al final de un párrafo sostienen todas sus reglas. Los consejos de preparación son propuestas de este cuaderno, no instrucciones de Recursos Humanos.
 
-## Lo urgente y lo que todavía falta
+## Estado de la convocatoria y lo que falta confirmar
 
-Inscripción exclusivamente digital desde **5/10/2026 a las 10:00 hasta 9/10/2026 a las 23:59**, mediante el [formulario oficial](https://ingreso26.pjm.gob.ar/). Tener Mi Argentina a nombre propio y Gmail accesible; revisar spam. La copia enviada al correo es la única constancia válida. La solicitud tiene carácter de declaración jurada, se valida con Mi Argentina y, si hubiera más de un registro con el mismo CUIL, se toma el último. [W26; A26 art. 4, pp. 10–11]
+El plazo publicado de inscripción fue exclusivamente digital desde **5/10/2026 a las 10:00 hasta 9/10/2026 a las 23:59**, mediante el [formulario oficial](https://ingreso26.pjm.gob.ar/). Tener Mi Argentina a nombre propio y Gmail accesible; revisar spam. La copia enviada al correo es la única constancia válida. La solicitud tiene carácter de declaración jurada, se valida con Mi Argentina y, si hubiera más de un registro con el mismo CUIL, se toma el último. [W26; A26 art. 4, pp. 10–11]
 
-El programa y material oficial se anuncian para **el 12/10/2026**. Los horarios y fechas de evaluación serán comunicados por Recursos Humanos; pueden modificarse cuando existan circunstancias que lo ameriten. Hoy no corresponde inventar un cronograma de exámenes. [A26 art. 4.d, art. 5 y art. 20, pp. 11 y 19]
+El programa oficial **ya está publicado**: índice y cinco módulos, 220 páginas PDF, más las remisiones indicadas dentro de los módulos. La [publicación del material](https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026-material-de-estudio/) informa que las fechas de exámenes aún no están definidas. Consultar [la actualización y comparación](ACTUALIZACION-2026.md) y [la biblioteca](BIBLIOTECA-Y-TEMARIO.md). Los horarios y fechas serán comunicados por Recursos Humanos. [A26 art. 4.d, art. 5 y art. 20, pp. 11 y 19]
 
-**Hay una contradicción en el micrositio:** el resumen del examen específico dice 50 minutos, pero las preguntas frecuentes dicen 40. La acordada dispone expresamente **40 minutos para 50 preguntas**; la noticia oficial también informa 40. Entrenar con 40 y solicitar aclaración por [Sistema de Tickets](https://ticketsform.mendoza.gov.ar/) sobre cualquier cambio o rectificación posterior. No presentar la contradicción como resuelta por una rectificación que aún no se ha visto. [W26; A26 art. 5.3.c, p. 14; N26]
+**Hay una contradicción visible:** la nueva página del material y el resumen del examen específico dicen **50 minutos**, pero las preguntas frecuentes dicen 40. La acordada dispone expresamente **40 minutos para 50 preguntas**; la noticia oficial también informa 40. El portal permite entrenar con ambos tiempos. Comprobar la comunicación de Recursos Humanos y solicitar aclaración por [Sistema de Tickets](https://ticketsform.mendoza.gov.ar/) sobre cualquier cambio o rectificación posterior. No presentar la contradicción como resuelta por una rectificación que aún no se ha visto. [W26; A26 art. 5.3.c, p. 14; N26]
 
 ## Requisitos y elección territorial
 
@@ -77,9 +77,9 @@ Preparación propuesta: textos institucionales/jurídicos en lenguaje claro; loc
 
 ### 5. Conocimientos específicos presencial
 
-**50 preguntas, 4 opciones, una correcta, 40 minutos**. Cada respuesta correcta vale 2 puntos; máximo 100 y mínimo **70 puntos = 35/50 (70%)**. Representa **70% del puntaje final**. Las preguntas se vinculan con el material publicado y son elaboradas por Centro de Capacitación con colaboración de coordinaciones de fueros. Identificación igual a comprensión lectora. [A26 art. 5.3, p. 14]
+**50 preguntas, 4 opciones, una correcta. La publicación del material indica 50 minutos; la Acordada 32.748 dispone 40 minutos.** Cada respuesta correcta vale 2 puntos; máximo 100 y mínimo **70 puntos = 35/50 (70%)**. Representa **70% del puntaje final**. Las preguntas se vinculan con el material publicado y son elaboradas por Centro de Capacitación con colaboración de coordinaciones de fueros. Identificación igual a comprensión lectora. [A26 art. 5.3, p. 14]
 
-No se establece en estas reglas la penalización de 25% por respuestas incorrectas que existía en 2023. No importarla al simulador 2026. El ritmo global es 48 segundos por pregunta, incluyendo marcación y control. Practicar 50 en 40 minutos; aspirar a rendimiento superior al mínimo porque aprobar no asegura un lugar de mérito suficiente. [A26 art. 5.3, p. 14; P23 para la diferencia histórica]
+No se establece en estas reglas la penalización de 25% por respuestas incorrectas que existía en 2023. No importarla al simulador 2026. El ritmo global es 60 segundos por pregunta con 50 minutos, o 48 segundos con 40, incluyendo marcación y control. Practicar con ambos tiempos; aspirar a rendimiento superior al mínimo porque aprobar no asegura un lugar de mérito suficiente. [A26 art. 5.3, p. 14; P23 para la diferencia histórica]
 
 **Corrección de ambos presenciales:** lectura óptica automatizada Remark Office OMR, anonimato estricto y hoja ajustada a instrucciones gráficas que se publicarán. Enmienda, tachadura, borrón o doble marcación invalida la respuesta afectada sin reclamo posterior. No inventar tipo de lapicera, posibilidad de borrar o diseño oficial de hoja antes del instructivo. [A26 art. 5.4, pp. 14–15]
 
@@ -133,23 +133,23 @@ El concurso obliga a revisar web y mantener correo actualizado: depender sólo d
 
 ## Qué usar de 2023 y qué no copiar
 
-El material oficial 2023 sigue disponible y ofrece cuatro áreas: organización institucional, conocimientos jurídicos, sistemas/herramientas informáticas y otras competencias. Sirve para adelantar conceptos; no demuestra que todas esas unidades entrarán en 2026. [P23]
+El material oficial 2023 sigue disponible y ofrece cuatro áreas: organización institucional, conocimientos jurídicos, sistemas/herramientas informáticas y otras competencias. Se aprovechan los conceptos que coinciden con el programa nuevo. Para preparar el escrito, estudiar desde 2026; la [comparación detallada](ACTUALIZACION-2026.md) señala cambios y exclusiones de prioridad. [P23]
 
 En 2023 hubo dos exámenes, tiempos/pesos distintos, penalización por error y desempate por suma del tiempo empleado. El segundo se realizó presencialmente los días 15–16 de septiembre. Esas reglas históricas **no gobiernan 2026**: ahora hay videos eliminatorios, lectura separada, específicos con hoja óptica y sorteo para empates. [P23; N23; A26 arts. 5–6]
 
 También hubo prórrogas y ampliaciones de cupos documentadas en la página 2023. La enseñanza práctica es vigilar nuevas acordadas y notificaciones, no asumir inmutabilidad del anuncio inicial. [W23]
 
-## Checklist de actualización del 12 de octubre
+## Checklist actual de preparación
 
-- [ ] Descargar programa 2026, módulos, anexos, videos disponibles e instrucciones oficiales.
-- [ ] Registrar URL, fecha de descarga y versión de cada archivo.
-- [ ] Comparar índice 2026 con índice 2023, unidad por unidad.
-- [ ] Retirar de simulacros afirmaciones jurídicas o técnicas que quedaron desactualizadas.
-- [ ] Añadir temas nuevos; marcar históricos que no figuran en programa vigente como complementarios.
-- [ ] Confirmar horarios, plataforma y plazo de habilitación de videos/formulario.
-- [ ] Confirmar duración del específico y conservar cualquier aclaración oficial.
-- [ ] Leer instructivo de marcación OMR y reproducir sólo entonces su formato.
-- [ ] Gestionar formalmente adecuaciones razonables pendientes.
-- [ ] Resolver simulacros 20/15, 10/30 y 50/40 con corrección explicada.
+- [x] Descargar índice y cinco módulos oficiales, registrar URL y huellas SHA-256.
+- [x] Revisar 220 páginas y remisiones; incluir normas obligatorias y anexo juvenil de octubre.
+- [x] Comparar 2023 con 2026; renovar preguntas específicas y conservar antecedentes identificados.
+- [ ] Comprobar nombre/datos en nómina publicada y conservar constancia de inscripción.
+- [ ] Confirmar cronograma, sede y horarios por la web oficial.
+- [ ] Confirmar disponibilidad y plazo de habilitación de cada video y formulario.
+- [ ] Confirmar la duración definitiva del escrito ante la discrepancia de 40/50 minutos.
+- [ ] Leer el instructivo OMR cuando se publique; seguir el marcado indicado.
+- [ ] Solicitar adecuaciones razonables aplicables por canal formal con anticipación.
+- [ ] Resolver prácticas 20/15, 10/30 y 50/50; agregar 50/40 como entrenamiento exigente.
 
-La completitud actual es sobre **reglas disponibles**; la completitud del temario 2026 sólo podrá verificarse frente a la publicación oficial y sus actualizaciones.
+Las guías, tarjetas y preguntas son elaboración independiente. La bibliografía nueva cubre conocimientos específicos; no autoriza afirmar que se conocen los videos, textos o preguntas futuras ni la batería del psicofísico.

@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "titulo": "Organización del Estado",
+    "corto": "Estado",
+    "color": "#285dab",
+    "guia": "estudio-2026/GUIA-M1-M3.md",
+    "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "paginas": 39,
+    "apartados": [
+      {
+        "id": "1.1",
+        "titulo": "Conceptos claves de Estado y derecho",
+        "pagina": 2
+      },
+      {
+        "id": "1.2",
+        "titulo": "Funciones del poder estatal",
+        "pagina": 10
+      },
+      {
+        "id": "1.3",
+        "titulo": "Poder Judicial de Mendoza",
+        "pagina": 25
+      },
+      {
+        "id": "1.4",
+        "titulo": "Funciones de la Suprema Corte",
+        "pagina": 28
+      },
+      {
+        "id": "1.5",
+        "titulo": "Organización administrativa",
+        "pagina": 30
+      },
+      {
+        "id": "1.6",
+        "titulo": "Estatuto del empleado público",
+        "pagina": 38
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "El Poder Judicial de Mendoza",
+    "corto": "Fueros",
+    "color": "#0b7274",
+    "guia": "estudio-2026/GUIA-M2.md",
+    "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+    "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+    "paginas": 113,
+    "apartados": [
+      {
+        "id": "2.1",
+        "titulo": "Civil, comercial, tributario, paz y concursal",
+        "pagina": 2
+      },
+      {
+        "id": "2.2",
+        "titulo": "Familia",
+        "pagina": 63
+      },
+      {
+        "id": "2.3",
+        "titulo": "Laboral",
+        "pagina": 70
+      },
+      {
+        "id": "2.4",
+        "titulo": "Penal y penal juvenil",
+        "pagina": 86
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "Derechos Humanos",
+    "corto": "Derechos",
+    "color": "#7354a5",
+    "guia": "estudio-2026/GUIA-M1-M3.md",
+    "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "paginas": 23,
+    "apartados": [
+      {
+        "id": "3.1",
+        "titulo": "Derechos y protección normativa",
+        "pagina": 3
+      },
+      {
+        "id": "3.2",
+        "titulo": "Principios",
+        "pagina": 5
+      },
+      {
+        "id": "3.3",
+        "titulo": "Características y clasificación",
+        "pagina": 8
+      },
+      {
+        "id": "3.4",
+        "titulo": "Obligaciones de los Estados",
+        "pagina": 10
+      },
+      {
+        "id": "3.5",
+        "titulo": "Grupos en situación de vulnerabilidad",
+        "pagina": 16
+      },
+      {
+        "id": "3.6",
+        "titulo": "Enfoque de derechos humanos",
+        "pagina": 18
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "titulo": "Violencia de Género",
+    "corto": "Género",
+    "color": "#af466c",
+    "guia": "estudio-2026/GUIA-M4-M5.md",
+    "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "paginas": 10,
+    "apartados": [
+      {
+        "id": "4.1",
+        "titulo": "Conceptos elementales",
+        "pagina": 2
+      },
+      {
+        "id": "4.2",
+        "titulo": "Diversidad",
+        "pagina": 4
+      },
+      {
+        "id": "4.3",
+        "titulo": "Tipos y modalidades de violencia",
+        "pagina": 5
+      },
+      {
+        "id": "4.4",
+        "titulo": "Revictimización y violencia institucional",
+        "pagina": 8
+      },
+      {
+        "id": "4.5",
+        "titulo": "Protocolo de violencia laboral",
+        "pagina": 9
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "titulo": "Atención para un Servicio de Justicia",
+    "corto": "Atención",
+    "color": "#936c17",
+    "guia": "estudio-2026/GUIA-M4-M5.md",
+    "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "paginas": 32,
+    "apartados": [
+      {
+        "id": "5.1",
+        "titulo": "Justicia centrada en la ciudadanía",
+        "pagina": 2
+      },
+      {
+        "id": "5.2",
+        "titulo": "Experiencia del usuario de justicia",
+        "pagina": 6
+      },
+      {
+        "id": "5.3",
+        "titulo": "Comunicación y lenguaje claro",
+        "pagina": 8
+      },
+      {
+        "id": "5.4",
+        "titulo": "Atención y resolución de conflictos",
+        "pagina": 14
+      },
+      {
+        "id": "5.5",
+        "titulo": "Accesibilidad universal e inclusión",
+        "pagina": 18
+      },
+      {
+        "id": "5.6",
+        "titulo": "Perfil del agente judicial",
+        "pagina": 23
+      }
+    ]
+  }
+]

@@ -1,79 +1,75 @@
-# Plan de preparación desde el 5 de octubre de 2026
+# Plan de estudio del programa 2026
 
-Plan original ajustable. Ninguna fecha de estudio aquí es una fecha oficial de examen. El nuevo material fue anunciado para el 12 de octubre; las jornadas y horarios se comunicarán por los canales oficiales. No se crea ninguna automatización.
+Plan personal desde el 12/10/2026. **Los días de este plan no son fechas oficiales de examen.** Ajustar al cronograma cuando se publique. El orden de módulos es el del índice oficial; el M2 necesita más sesiones porque reúne 113 páginas y varios fueros.
 
-## Del 5 al 11 de octubre: base y diagnóstico
+## La sesión diaria
 
-| Día | Bloque principal | Práctica | Resultado concreto |
-|---|---|---|---|
-| Lunes 5 | Revisar bases e inscripción; diagnóstico; Estado y Constitución |20 preguntas específicas sin apuntes y texto L1 | Identificar errores y confirmar constancia de inscripción |
-| Martes 6 | Jerarquía, federalismo, funciones y control |20 preguntas nuevas, explicar 5 distinciones | Cuadro Nación/provincias y jerarquía |
-| Miércoles 7 | Derechos humanos, acceso, género y vulnerabilidad |Texto L2 +20 institucionales | Mapa de barreras y ejemplos |
-| Jueves 8 | Organización judicial, funciones y administración |20 institucionales en 15 min | Cuadro fuero/instancia/territorio y roles |
-| Viernes 9 | Derecho procesal, partes, prueba y garantías |20 específicas + revisar inscripción antes del cierre oficial | Secuencia del proceso y cuaderno de errores |
-| Sábado 10 | Fueros: civil, paz, tributario, concursal, familia y laboral |Texto L3 +25 específicas | Tabla de materias y conceptos |
-| Domingo 11 | Penal, garantías, roles; repaso acumulativo |Texto L4 +15 específicas restantes | Lista de normativa por actualizar y simulacro diagnóstico |
+Una sesión de 90–120 minutos: 10 de recuerdo de ayer sin apuntes; 40–50 de lectura oficial con guía; 15 de reconstruir un mapa o explicar un caso; 15–20 de preguntas y 10 de corrección. Agregar 15–20 minutos de comprensión lectora en días alternos. Con 45 minutos disponibles, dividir la sesión en dos días y conservar la corrección.
 
-Las cantidades son objetivos de entrenamiento, no obligación rígida. Todas las preguntas del banco pueden utilizarse por tema antes de los simulacros; si se repite una pregunta, justificá la respuesta sin mirar opciones primero.
+No subrayar todo. Para cada apartado escribir: definición, con qué se confunde, ejemplo, regla o número relevante, y página de la fuente. Cada error termina en una pregunta breve para repasar, no en copiar un párrafo entero.
 
-Disponibilidad recomendada: entre 90 y 150 minutos diarios. Si sólo disponés 45, conservá 20 de comprensión/lectura,15 de preguntas y 10 de corrección. Si disponés más tiempo, aumentá lectura de las fuentes oficiales y práctica nueva, no sólo repetición de claves.
+## Primera vuelta: 21 sesiones
 
-## El 12 de octubre: cambio de material
+| Sesión | Fuente principal | Producto para comprobar aprendizaje |
+|---|---|---|
+| 1 | [Índice](biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Indice-de-Contenidos-Material-de-Estudio-1.pdf#page=2); [guía de etapas](GUIA-CONCURSO-2026.md); [M1 pp. 2–9](biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=2) | Mapa Estado/Constitución/derecho y lista de etapas |
+| 2 | [M1 pp. 10–18](biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=10) | Comparar Legislativo/Ejecutivo, Congreso y DNU; revisar erratas |
+| 3 | [M1 pp. 19–30](biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=19) | Organizar justicia nacional/provincial y funciones de la Corte |
+| 4 | [M1 pp. 31–39](biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=31) + [lecturas obligatorias](estudio-2026/GUIA-ANEXOS.md) | Jerarquía/competencia, actos/reglamentos; derechos y deberes judiciales |
+| 5 | [M2 pp. 2–18](biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=2) | Fuero civil: roles, comunicaciones, Bus Federal y BLSG |
+| 6 | [M2 pp. 19–35](biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=19) | Secuencia de procesos y audiencias; distinguir resoluciones y sistemas |
+| 7 | [M2 pp. 36–49](biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=36) | Paz y tributario; comparar competencia y vías |
+| 8 | [M2 pp. 50–62](biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=50) + gráficos pp. 111–113 | Concurso preventivo/quiebra/consumidor; consultar normas exigidas |
+| 9 | [M2 pp. 63–70](biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=63) | Familia: principios, competencia, reformas y gestión |
+| 10 | [M2 pp. 71–84](biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=71) | Laboral: participantes, órganos, etapas y herramientas |
+| 11 | [M2 pp. 85–95](biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=85) | Penal: garantías, órganos y funciones; revisar mapa |
+| 12 | [M2 pp. 96–109](biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=96) | Penal juvenil; contraste con el anexo de octubre, no usar régimen viejo |
+| 13 | [Ley 9.735](biblioteca/2026/referencias/Ley-9735-Responsabilidad-Penal-Juvenil.pdf#page=1) + [Código Procesal Penal Juvenil](biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=1) + [revisión M2](estudio-2026/REVISION-M2.md) | Cuadro cuerpo del módulo/anexos y transición normativa |
+| 14 | [M3 pp. 2–12](biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=2) | Jerarquía, principios, clasificación y obligaciones estatales |
+| 15 | [M3 pp. 13–23](biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=13) | Vulnerabilidad, barreras y enfoque de derechos; casos |
+| 16 | [M4 pp. 2–6](biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=2) | Sexo/género/identidad/orientación; tipos/modalidades |
+| 17 | [M4 pp. 7–10](biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=7) + [protocolo de apoyo](biblioteca/2026/referencias/Protocolo-Violencia-Laboral-30979.pdf#page=1) | Revictimización, violencia institucional y actuación laboral |
+| 18 | [M5 pp. 2–11](biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=2) | Justicia centrada en ciudadanía y experiencia de usuario |
+| 19 | [M5 pp. 12–21](biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=12) | Comunicación, conflicto, accesibilidad; casos de atención |
+| 20 | [M5 pp. 22–32](biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=22) | Perfil del agente, ejemplos y tabla final |
+| 21 | Índice completo y revisiones | Explicar cada subtema; cerrar temas pendientes antes del simulacro |
 
-1. Entrar al sitio oficial y descargar el paquete 2026 cuando se publique. Si aún no está disponible, continuar la base sin inventar el nuevo temario.
-2. Leer índice y bases; registrar versión, anexos, criterios, duración y canales de incidencias.
-3. Comparar el programa conM 1–M 4 históricos y el manual. Marcar cada tema como coincide, cambia, nuevo, fuera o pendiente.
-4. Actualizar primero normas y detalles sensibles: penal juvenil, competencia, composición institucional, plazos, porcentajes, cuantías e instrucciones tecnológicas.
-5. Redistribuir tiempo por contenidos efectivamente exigidos. Informática, calidad y estadística histórica sólo reciben prioridad específica si 2026 las incluye.
-6. Hacer una primera prueba con preguntas ajustadas al material nuevo y registrar qué falta aprender.
+Las divisiones por páginas distribuyen trabajo, no recortan el programa ni atribuyen pesos al examen. Si una sección comienza antes o termina después, completar la sección y marcar el próximo inicio. Las portadas y bibliografía también fueron conservadas; no estudiar los gráficos sólo desde el texto extraído.
 
-No se debe presentar el paquete 2023 como material oficial 2026 por el hecho de continuar publicado.
+## Segunda vuelta: 7 sesiones de consolidación
 
-## Ciclo semanal posterior, hasta que se informen las fechas
+22: M1 + lecturas obligatorias, preguntas por módulo y mapa en blanco. 23: M2 civil/paz/tributario y concursal, casos comparados. 24: M2 familia/laboral/penal/juvenil y normas nuevas. 25: M3 + M4, casos de derechos y atención sin estereotipos. 26: M5 + comprensión lectora completa. 27: simulacro de 50 preguntas en 50 minutos y corrección por tema. 28: preguntas pendientes, otro texto y simulacro exigente de 40 minutos si ya se domina el contenido.
 
-- Dos sesiones de organización constitucional/institucional.
-- Tres sesiones de conocimientos jurídicos por unidades del programa 2026.
-- Una sesión de práctica institucional de escucha/apuntes con material autorizado para preparar, sin asumir que sea el video del examen.
-- Tres ejercicios de lectura, incluyendo uno completo de 10 preguntas en 30 minutos.
-- Un simulacro específico de 50 preguntas con el tiempo oficial vigente confirmado en las bases. Esta carpeta permite practicar 40 minutos; comprobar cualquier comunicación oficial posterior.
-- Una revisión semanal de errores y de novedades oficiales. No hace falta vigilar continuamente: antes de cada etapa, comprobar horario y reglas del canal oficial.
+Después, repetir ciclos de repaso alternando módulos débiles. No usar sólo la nota global: un 46/50 puede esconder cuatro errores del mismo apartado.
 
-Al menos la mitad del tiempo de corrección debe dedicarse a explicar el motivo de cada error. Si un fallo se repite, volver a la unidad y construir un ejemplo propio.
+## Repaso espaciado y recuerdo visual
 
-## Simulacros del paquete
+Repasar cada tema al día siguiente, a los tres días, a los siete y a los catorce. En tarjetas: primero responder en voz alta, después revelar. Marcar «recordé» sólo si se pudo explicar; «revisar» si hubo duda o se reconoció la frase sin poder producirla. Los colores de los mapas ubican los módulos; las flechas muestran relaciones y no crean jerarquías legales nuevas.
 
-| Simulacro original | Selección | Tiempo de entrenamiento | Uso |
-|---|---|---|---|
-| Institucional A |P101–P120 |15 min | Repasar contenido general; no reproduce video 2026 |
-| Institucional B |P121–P140 |15 min | Segunda práctica de ritmo |
-| LecturaL 1 |P141–P150 |30 min | Registro y evaluación de una guía |
-| LecturaL 2 |P151–P160 |30 min | Archivo, permisos y límites de muestra |
-| LecturaL 3 |P161–P170 |30 min | Indicadores y contexto |
-| LecturaL 4 |P171–P180 |30 min | Comunicación accesible |
-| Específico A |P001–P050 |40 min | Primera mitad del banco jurídico/institucional |
-| Específico B |P051–P100 |40 min | Segunda mitad; incluye más contenidos de fueros |
-| Específico avanzado |P181–P220 |32 min | 40 casos comparativos; revisar distractores y fundamentos |
-| Lectura avanzada L5 |P221–P230 |30 min | Texto de 400–600 palabras: límites de evidencia y decisiones |
-| Lectura avanzada L6 |P231–P240 |30 min | Texto de 400–600 palabras: competencia, trazabilidad y privacidad |
+Una práctica útil: mirar un mapa durante un minuto, ocultarlo y dibujarlo con títulos y conexiones. Al corregir, buscar la idea que falta y su página. La imagen funciona como pista de recuperación, no como sustituto de la definición.
 
-Los específicos A/B no son equilibrados por diseño curricular 2026: siguen el orden del banco. Para una prueba mixta seleccionar 25 de cada mitad sin repetir, con la fuente disponible sólo al corregir. El aprendizaje de conceptos tiene más valor que el puntaje de una prueba cuyo reparto no representa el programa nuevo.
+## Jornadas virtuales y comprensión
 
-Para incorporar dificultad, sustituí entre 10 y 20 preguntas del simulacro de 50 por casos de P181–P220, manteniendo 50 en total. El objetivo es distinguir conceptos cercanos y justificar por qué los distractores plausibles no corresponden. Las primeras cuatro lecturas son iniciales; L5 y L6 añaden extensión e inferencias más finas.
+Las dos jornadas virtuales se contestan sobre los videos que se habiliten: 20 preguntas en 15 minutos cada día y mínimo 15 correctas por jornada. Ensayar con un video institucional disponible: observar, anotar estructura/roles/cifras, ocultarlo y reconstruirlo. Las preguntas institucionales de esta carpeta son práctica general; no se presentan como cuestionarios de esos videos.
 
-## Preparación inmediata de cada etapa
+Comprensión lectora: tres sesiones semanales de 10 preguntas en 30 minutos. Antes de responder, ubicar tema, tesis, conectores, referentes, hechos y opiniones. Justificar cada opción desde el texto. No resolver por conocimiento jurídico externo cuando la consigna pide qué dice el pasaje.
 
-**Jornadas virtuales:** verificar credenciales, horario, instrucciones de navegación, equipamiento y canal de asistencia. En entrenamiento usar 20 preguntas/15 minutos. Las reglas reales determinarán acceso al video, apuntes, pausas y posibilidad de volver a una pregunta; no inferirlo del simulador.
+## Últimas 48 horas y el día de rendir
 
-**Comprensión presencial:** practicar lectura con evidencia, tres opciones por pregunta y 10 en 30 minutos. Revisar documentos y elementos autorizados por la convocatoria; llegar con margen conforme a la citación. Evitar marcar por conocimiento externo cuando la consigna depende del texto.
+Comprobar anuncio oficial, sede, horario, documentación y materiales permitidos. Revisar instrucciones de la hoja de respuestas y de envío; una respuesta elegida pero mal marcada o no enviada puede no computar. No trasladar automáticamente la navegación del simulador al examen real.
 
-**Conocimientos específicos:** recorrer todas las unidades 2026, realizar 50 preguntas con cuatro alternativas y el tiempo oficial confirmado. Revisar fuentes de fallos conceptuales. Los objetivos de práctica pueden ser superiores al mínimo oficial, pero no son un baremo ni garantía de aprobación.
+Hacer repaso breve de errores, números y distinciones. Descansar y evitar abrir material ajeno al programa a último momento. En psicofísico seguir la convocatoria y responder con sinceridad: no hay un banco legítimo que garantice aptitud ni una técnica para falsificarla.
 
-**Después de evaluaciones:** seguir resultado, listas provisorias y vías/plazos oficiales para revisión o reclamo. Conservar constancias y presentar cualquier petición por el canal habilitado, con evidencia precisa. Aprobar y estar en una lista no implica nombramiento inmediato; leer reglas y pasos posteriores en las bases.
+## Usar el taller en el recorrido
 
-## Registro de progreso
+Desde la primera vuelta, al terminar un apartado, resolvé cuatro preguntas abiertas y dos pares de casos del [Taller de dominio](taller.html). Alterná una secuencia o un párrafo con error y reconstruí un mapa sin mirar. Corregí la precisión, las condiciones y las excepciones desde la página de origen. La [rutina detallada](estudio-2026/COMO-USAR-TALLER.md) distingue rúbrica propia, posición de pasos y aciertos por clave.
 
-| Fecha | Unidad 2026 | Preguntas nuevas/aciertos | Error predominante | Corrección | Próxima revisión |
-|---|---|---|---|---|---|
-| | | |Concepto/lectura/tiempo/memoria | | |
+Reservá la forma A para después de la sesión 26, corregí sus errores y usá B unos tres días después. Conservá los dos pasajes nuevos para medir comprensión sin exposición previa. Los dos videos originales permiten ensayar observar y responder; conocer sus transcripciones o repetirlos queda identificado como estudio apoyado o material conocido. Continuá usando el banco general para repaso, así no consumís los diagnósticos reservados durante el estudio cotidiano.
 
-Antes de considerarte preparado para una unidad, explicá sus conceptos sin apuntes, distinguí los distractores y resolvé casos nuevos. A partir del 12 de octubre, toda afirmación de cobertura debe referirse al programa efectivamente publicado.
+## Objetivos de comprobación
+
+- Poder explicar los 27 apartados del índice sin depender de las opciones.
+- Haber leído los cinco PDF completos, las remisiones obligatorias y el anexo juvenil.
+- Resolver casos nuevos y justificar por qué cada distractor es incorrecto.
+- Sostener varias prácticas específicas con 45–50/50 y lectura con 9–10/10, sin confundir esos objetivos personales con mínimos oficiales ni con una garantía de nota.
+- Tener claros los puntos que requieren confirmación oficial, especialmente la discrepancia de 40/50 minutos.

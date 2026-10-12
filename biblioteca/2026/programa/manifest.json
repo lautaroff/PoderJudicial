@@ -1,0 +1,169 @@
+{
+  "consulta": "2026-10-12T16:22:29.003306+00:00",
+  "pagina": "https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026-material-de-estudio/",
+  "documentos": [
+    {
+      "titulo": "Concurso-Ingreso-2026-SCJM-Indice-de-Contenidos-Material-de-Estudio-1",
+      "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Indice-de-Contenidos-Material-de-Estudio-1.pdf",
+      "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Indice-de-Contenidos-Material-de-Estudio-1.pdf",
+      "texto": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Indice-de-Contenidos-Material-de-Estudio-1.txt",
+      "paginas": 3,
+      "bytes": 135170,
+      "sha256": "1099f5231280ef952d64083e30f5da6eeb5c8be16e26870023ad78e2ae16dd11",
+      "enlaces_pdf": [],
+      "urls_texto": []
+    },
+    {
+      "titulo": "Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio",
+      "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+      "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+      "texto": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.txt",
+      "paginas": 39,
+      "bytes": 1608390,
+      "sha256": "f2c805ba87d38dd4ca6c172f08f95bc7c3a628ea12ea3d6e665b020e1d3ae079",
+      "enlaces_pdf": [
+        {
+          "pagina_pdf": 39,
+          "url": "https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Reglamento-del-Poder-Judicial-de-Mendoza-21-09-1953.pdf"
+        },
+        {
+          "pagina_pdf": 39,
+          "url": "https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Reglamento-del-Poder-Judicial-de-Mendoza-21-09-1953.pdf"
+        },
+        {
+          "pagina_pdf": 39,
+          "url": "https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Acordada-15422.pdf"
+        },
+        {
+          "pagina_pdf": 39,
+          "url": "https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Decreto-Ley-560.pdf"
+        },
+        {
+          "pagina_pdf": 39,
+          "url": "https://www.argentina.gob.ar/normativa/provincial/ley-9665-123456789-0abc-defg-566-9000mvorpyel/actualizacion"
+        },
+        {
+          "pagina_pdf": 39,
+          "url": "https://www.argentina.gob.ar/normativa/provincial/ley-9665-123456789-0abc-defg-566-9000mvorpyel/actualizacion"
+        }
+      ],
+      "urls_texto": [
+        "https://mpfmza.jus.mendoza.gov.ar/",
+        "https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Reglamento-del-",
+        "https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Acordada-15422.pdf",
+        "https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Decreto-Ley-560.pdf",
+        "https://www.argentina.gob.ar/normativa/provincial/ley-9665-123456789-"
+      ]
+    },
+    {
+      "titulo": "Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio",
+      "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+      "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+      "texto": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.txt",
+      "paginas": 113,
+      "bytes": 5539493,
+      "sha256": "f1ecd430e53f676b374180f57fdf4086beee1cb4d925dd58ef83e99b708e4a95",
+      "enlaces_pdf": [
+        {
+          "pagina_pdf": 13,
+          "url": "https://auth-prod.bus-justicia.org.ar/realms/bf-backend/protocol/openid-connect/auth?client_id=frontend_pub&redirect_uri=https%3A%2F%2Fportal.bus-justicia.org.ar%2F&state=58ffc665-f759-4704-8b8d-effa9a8d1865&response_mode=fragment&response_type=code&scope=openid&nonce=ac522d7e-f253-4493-8f25-1249566e3ec7"
+        },
+        {
+          "pagina_pdf": 13,
+          "url": "https://auth-prod.bus-justicia.org.ar/realms/bf-backend/protocol/openid-connect/auth?client_id=frontend_pub&redirect_uri=https%3A%2F%2Fportal.bus-justicia.org.ar%2F&state=58ffc665-f759-4704-8b8d-effa9a8d1865&response_mode=fragment&response_type=code&scope=openid&nonce=ac522d7e-f253-4493-8f25-1249566e3ec7"
+        },
+        {
+          "pagina_pdf": 13,
+          "url": "https://auth-prod.bus-justicia.org.ar/realms/bf-backend/protocol/openid-connect/auth?client_id=frontend_pub&redirect_uri=https%3A%2F%2Fportal.bus-justicia.org.ar%2F&state=58ffc665-f759-4704-8b8d-effa9a8d1865&response_mode=fragment&response_type=code&scope=openid&nonce=ac522d7e-f253-4493-8f25-1249566e3ec7"
+        },
+        {
+          "pagina_pdf": 13,
+          "url": "https://auth-prod.bus-justicia.org.ar/realms/bf-backend/protocol/openid-connect/auth?client_id=frontend_pub&redirect_uri=https%3A%2F%2Fportal.bus-justicia.org.ar%2F&state=58ffc665-f759-4704-8b8d-effa9a8d1865&response_mode=fragment&response_type=code&scope=openid&nonce=ac522d7e-f253-4493-8f25-1249566e3ec7"
+        },
+        {
+          "pagina_pdf": 13,
+          "url": "https://auth-prod.bus-justicia.org.ar/realms/bf-backend/protocol/openid-connect/auth?client_id=frontend_pub&redirect_uri=https%3A%2F%2Fportal.bus-justicia.org.ar%2F&state=58ffc665-f759-4704-8b8d-effa9a8d1865&response_mode=fragment&response_type=code&scope=openid&nonce=ac522d7e-f253-4493-8f25-1249566e3ec7"
+        },
+        {
+          "pagina_pdf": 15,
+          "url": "https://www.bus-justicia.org.ar/index.php/bus-federal/guias-tramite"
+        },
+        {
+          "pagina_pdf": 15,
+          "url": "https://www.bus-justicia.org.ar/index.php/bus-federal/guias-tramite"
+        },
+        {
+          "pagina_pdf": 18,
+          "url": "https://blsg.pjm.gob.ar/"
+        },
+        {
+          "pagina_pdf": 106,
+          "url": "https://www.oas.org/es/cidh/infancia/docs/pdf/justiciajuvenil.pdf"
+        }
+      ],
+      "urls_texto": [
+        "https://jusmendoza.gob.ar/guia-judicial-2/",
+        "https://auth-prod.bus-justicia.org.ar/realms/bf-backend/protocol/openid-",
+        "https://www.bus-",
+        "https://blsg.pjm.gob.ar/",
+        "https://jusmendoza.gob.ar/guia-judicial-2/",
+        "https://www.bus-",
+        "http://www2.jus.mendoza.gov.ar/listas/proveidos/listas.php",
+        "https://www.oas.org/es/cidh/infancia/docs/pdf/justiciajuvenil.pdf",
+        "https://boe.mendoza.gov.ar/publico/pdf_pedido/76293ce55269c619fc6f8def3da685e7",
+        "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8de"
+      ]
+    },
+    {
+      "titulo": "Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio",
+      "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+      "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+      "texto": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.txt",
+      "paginas": 23,
+      "bytes": 1260185,
+      "sha256": "8858079d7c5dbe8ecc8aa1acb5f4857b4099a0f65a770123c3f53f26f6a7b615",
+      "enlaces_pdf": [
+        {
+          "pagina_pdf": 20,
+          "url": "https://jusmendoza.gob.ar/wp-content/uploads/2025/06/Trayectorias-judiciales-de-Acceso-a-Justicia-en-Argentina.pdf"
+        },
+        {
+          "pagina_pdf": 20,
+          "url": "https://jusmendoza.gob.ar/wp-content/uploads/2025/06/Trayectorias-judiciales-de-Acceso-a-Justicia-en-Argentina.pdf"
+        }
+      ],
+      "urls_texto": [
+        "https://jusmendoza.gob.ar/wp-content/uploads/2025/06/Trayectorias-judiciales-de-Acceso-a-Justicia-"
+      ]
+    },
+    {
+      "titulo": "Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio",
+      "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+      "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+      "texto": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.txt",
+      "paginas": 10,
+      "bytes": 939083,
+      "sha256": "926902c036f0653ca0ab3a5fae1a37f3cad21dc7fef9e1c169b18e6f3d6275c0",
+      "enlaces_pdf": [],
+      "urls_texto": []
+    },
+    {
+      "titulo": "Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio",
+      "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+      "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+      "texto": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.txt",
+      "paginas": 32,
+      "bytes": 1493807,
+      "sha256": "a886ecd4f0cefcb6489a55fc73d15116554800ca49bdc342822bda67f7ff42e6",
+      "enlaces_pdf": [
+        {
+          "pagina_pdf": 20,
+          "url": "https://www.w3.org/TR/WCAG22/"
+        }
+      ],
+      "urls_texto": [
+        "https://www.w3.org/TR/WCAG22/."
+      ]
+    }
+  ]
+}

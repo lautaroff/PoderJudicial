@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "C1-001",
+    "module": 1,
+    "topic": "1.1",
+    "title": "Constitución o ley ordinaria",
+    "a": {
+      "text": "Un órgano reunido mediante el procedimiento constitucional de reforma modifica la Constitución.",
+      "prompt": "Clasificá el poder ejercido y justificá por su objeto.",
+      "model": "Ejerce poder constituyente al reformar la Constitución. Se distingue de los poderes constituidos que esa norma organiza.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Identifica poder constituyente.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Relaciona la clasificación con reforma constitucional.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 3,
+          "label": "M1 · PDF 3"
+        }
+      ]
+    },
+    "b": {
+      "text": "El órgano legislativo, mediante el procedimiento ordinario, modifica una ley dentro de sus competencias constitucionales.",
+      "prompt": "Clasificá el poder ejercido y justificá por su objeto.",
+      "model": "Ejerce poder constituido legislativo. Modificar una ley ordinaria no equivale a crear o reformar la Constitución que le da competencias.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Identifica poder constituido.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Distingue reforma legal de reforma constitucional.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 3,
+          "label": "M1 · PDF 3"
+        }
+      ]
+    },
+    "changed": "La norma que se modifica: Constitución o ley ordinaria.",
+    "keyDifference": "El poder constituyente reforma la norma fundamental; el constituido recibe competencias de ella.",
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 3,
+        "label": "M1 · PDF 3"
+      }
+    ]
+  },
+  {
+    "id": "C1-002",
+    "module": 1,
+    "topic": "1.2",
+    "title": "El órgano no basta para clasificar la función",
+    "a": {
+      "text": "Un tribunal adquiere papel para sus oficinas dentro de sus atribuciones de funcionamiento interno.",
+      "prompt": "Identificá órgano y función material.",
+      "model": "El órgano es judicial; la actividad es materialmente administrativa porque consiste en adquisición de insumos y organización interna.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Distingue órgano judicial de función administrativa.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Justifica por el contenido de la compra.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 20,
+          "label": "M1 · PDF 20"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 21,
+          "label": "M1 · PDF 21"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 22,
+          "label": "M1 · PDF 22"
+        }
+      ]
+    },
+    "b": {
+      "text": "El mismo tribunal dicta sentencia sobre el fondo de un litigio de su competencia.",
+      "prompt": "Identificá órgano y función material.",
+      "model": "El órgano es judicial y la función jurisdiccional: resuelve un conflicto mediante sentencia. Aquí el contenido también corresponde a su función principal.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Identifica función jurisdiccional.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Justifica por resolución del conflicto.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 20,
+          "label": "M1 · PDF 20"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 21,
+          "label": "M1 · PDF 21"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 22,
+          "label": "M1 · PDF 22"
+        }
+      ]
+    },
+    "changed": "La actividad del tribunal: adquirir insumos o resolver un litigio.",
+    "keyDifference": "Importa el contenido material del acto además del órgano que lo realiza.",
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 20,
+        "label": "M1 · PDF 20"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 21,
+        "label": "M1 · PDF 21"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 22,
+        "label": "M1 · PDF 22"
+      }
+    ]
+  },
+  {
+    "id": "C1-003",
+    "module": 1,
+    "topic": "1.4",
+    "title": "Acordada y resolución",
+    "a": {
+      "text": "La Suprema Corte dicta una disposición reglamentaria general sobre funcionamiento institucional.",
+      "prompt": "¿Qué forma corresponde y cómo se publica?",
+      "model": "Corresponde acordada por tratarse de un reglamento; se publica en el Boletín Oficial conforme al art. 6.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Elige acordada.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Menciona publicación en Boletín Oficial.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+          "page": 5,
+          "label": "Ley 9423 · artículo 6 · PDF 5"
+        }
+      ]
+    },
+    "b": {
+      "text": "La Suprema Corte dicta un acto administrativo de alcance particular relativo a una situación individual.",
+      "prompt": "¿Qué forma corresponde y cómo se publica?",
+      "model": "Corresponde resolución por su alcance particular. También se publica en el Boletín Oficial; la publicidad no distingue por sí ambas formas.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Elige resolución.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Mantiene publicación aunque tenga alcance particular.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+          "page": 5,
+          "label": "Ley 9423 · artículo 6 · PDF 5"
+        }
+      ]
+    },
+    "changed": "Alcance general reglamentario o particular del acto administrativo.",
+    "keyDifference": "La Ley 9423 art. 6 distingue formas y exige publicación de ambas.",
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+        "page": 5,
+        "label": "Ley 9423 · artículo 6 · PDF 5"
+      }
+    ]
+  },
+  {
+    "id": "C1-004",
+    "module": 1,
+    "topic": "1.2.2",
+    "title": "Nombramiento de magistrados nacionales",
+    "a": {
+      "text": "El Presidente debe cubrir un cargo de juez federal inferior, fuera de la Corte Suprema.",
+      "prompt": "Explicá intervención del Consejo, Ejecutivo y Senado.",
+      "model": "El Consejo realiza concurso y presenta terna vinculante. El Presidente elige dentro de ella y necesita acuerdo del Senado para nombrar.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Identifica terna vinculante del Consejo.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Identifica elección presidencial y acuerdo senatorial.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 18,
+          "label": "M1 · PDF 18"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 24,
+          "label": "M1 · PDF 24"
+        }
+      ]
+    },
+    "b": {
+      "text": "El Presidente debe cubrir un cargo de miembro de la Corte Suprema nacional.",
+      "prompt": "Explicá designación y acuerdo sin trasladar la terna de inferiores.",
+      "model": "El Presidente designa con acuerdo de dos tercios de los senadores presentes en sesión pública convocada para ello. El procedimiento presentado para la Corte no es la terna vinculante del Consejo de inferiores.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Identifica Presidente y Senado.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Precisa dos tercios de presentes y sesión pública convocada al efecto.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 18,
+          "label": "M1 · PDF 18"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 24,
+          "label": "M1 · PDF 24"
+        }
+      ]
+    },
+    "changed": "El cargo a cubrir: tribunal inferior o Corte Suprema nacional.",
+    "keyDifference": "Para inferiores hay terna vinculante; para Corte, acuerdo de dos tercios de presentes en sesión pública convocada al efecto.",
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 18,
+        "label": "M1 · PDF 18"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 24,
+        "label": "M1 · PDF 24"
+      }
+    ]
+  },
+  {
+    "id": "C2-001",
+    "module": 2,
+    "topic": "2.1",
+    "title": "Capital nominal y competencia",
+    "a": {
+      "text": "Una demanda de responsabilidad civil reclama 18 JUS de capital y 6 de intereses. No hay acumulación ni supuesto especial que altere competencia.",
+      "prompt": "Determiná cuantía computable y fuero.",
+      "model": "Se computan 18 JUS sin intereses. No excede 20 JUS y corresponde a Paz en el supuesto delimitado.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Computa 18 JUS excluyendo intereses.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Atribuye Paz según el supuesto.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 25,
+          "label": "M2 · PDF 25"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 27,
+          "label": "M2 · PDF 27"
+        }
+      ]
+    },
+    "b": {
+      "text": "Una demanda de responsabilidad civil reclama 25 JUS de capital y 6 de intereses. No hay acumulación ni supuesto especial que altere competencia.",
+      "prompt": "Determiná cuantía computable y fuero.",
+      "model": "Se computan 25 JUS sin intereses. Supera 20 JUS y corresponde a Civil y Comercial.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Computa 25 JUS excluyendo intereses.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Atribuye Civil y Comercial.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 25,
+          "label": "M2 · PDF 25"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 27,
+          "label": "M2 · PDF 27"
+        }
+      ]
+    },
+    "changed": "Capital pasa de 18 a 25 JUS; intereses siguen en 6 JUS.",
+    "keyDifference": "En responsabilidad civil sin acumulación especial se excluyen intereses; 25 supera el límite de 20 JUS.",
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 25,
+        "label": "M2 · PDF 25"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 27,
+        "label": "M2 · PDF 27"
+      }
+    ]
+  },
+  {
+    "id": "C2-002",
+    "module": 2,
+    "topic": "2.1",
+    "title": "Requisito documental del monitorio",
+    "a": {
+      "text": "Se reclama suma líquida mediante monitorio común. Se acompaña título con fuerza ejecutiva del que surge el derecho y que reúne los recaudos del art. 234.",
+      "prompt": "¿Se cumple el requisito documental? Ubicá la oportunidad de defensa.",
+      "model": "Sí, se cumple el requisito documental delimitado. Se dicta sentencia inicial y se brinda después oportunidad de oposición; la vía no elimina defensa.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Reconoce título idóneo.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Ubica oposición después de sentencia inicial.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 29,
+          "label": "M2 · PDF 29"
+        }
+      ]
+    },
+    "b": {
+      "text": "Se reclama la misma suma mediante monitorio común. No se acompaña título o instrumento idóneo; solo se afirma oralmente que existe deuda.",
+      "prompt": "¿Se cumple el requisito documental? ¿Qué conclusión no permite esta falta?",
+      "model": "No. La afirmación no sustituye el título del art. 234. Eso impide dar por satisfecho este acceso, pero no equivale a resolver definitivamente que el derecho no existe ni descarta otras vías legales.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Rechaza suficiencia de mera afirmación.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Distingue requisito de vía de existencia del derecho.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 29,
+          "label": "M2 · PDF 29"
+        }
+      ]
+    },
+    "changed": "Presencia o ausencia de título idóneo del art. 234.",
+    "keyDifference": "La rapidez o cuantía no sustituyen el título exigido para esta vía.",
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 29,
+        "label": "M2 · PDF 29"
+      }
+    ]
+  },
+  {
+    "id": "C2-003",
+    "module": 2,
+    "topic": "2.1",
+    "title": "Respuesta automática del BLSG",
+    "a": {
+      "text": "En una solicitud válida de BLSG, el usuario autorizado verifica identidad y obtiene constancia SINTyS «ACCEDE».",
+      "prompt": "Explicá comunicación judicial y destino del PDF.",
+      "model": "El juzgado comunica otorgamiento por decreto y adjunta la constancia al expediente. El resultado informático es parte del trámite.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Identifica decreto de otorgamiento.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Incorpora constancia PDF.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 18,
+          "label": "M2 · PDF 18"
+        },
+        {
+          "file": "biblioteca/2026/referencias/Acordada-32299-BLSG.pdf",
+          "page": 16,
+          "label": "Ac. 32299 · PDF 16"
+        },
+        {
+          "file": "biblioteca/2026/referencias/Acordada-32299-BLSG.pdf",
+          "page": 17,
+          "label": "Ac. 32299 · PDF 17"
+        }
+      ]
+    },
+    "b": {
+      "text": "En una solicitud válida de BLSG, el usuario autorizado verifica identidad y obtiene constancia SINTyS «NO PODRÍA ACCEDER».",
+      "prompt": "Explicá comunicación y vía que permanece abierta.",
+      "model": "Se comunica negativa con constancia y emplazamiento a pagar gabelas. La persona puede iniciar incidente y probar condiciones legales; no es prohibición absoluta de obtener beneficio.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Identifica negativa, constancia y gabelas.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Conserva la vía incidental.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 18,
+          "label": "M2 · PDF 18"
+        },
+        {
+          "file": "biblioteca/2026/referencias/Acordada-32299-BLSG.pdf",
+          "page": 16,
+          "label": "Ac. 32299 · PDF 16"
+        },
+        {
+          "file": "biblioteca/2026/referencias/Acordada-32299-BLSG.pdf",
+          "page": 17,
+          "label": "Ac. 32299 · PDF 17"
+        }
+      ]
+    },
+    "changed": "La constancia dice ACCEDE o NO PODRÍA ACCEDER.",
+    "keyDifference": "La negativa directa permite incidente; la constancia no sustituye el decreto.",
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 18,
+        "label": "M2 · PDF 18"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Acordada-32299-BLSG.pdf",
+        "page": 16,
+        "label": "Ac. 32299 · PDF 16"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Acordada-32299-BLSG.pdf",
+        "page": 17,
+        "label": "Ac. 32299 · PDF 17"
+      }
+    ]
+  },
+  {
+    "id": "C2-004",
+    "module": 2,
+    "topic": "2.1",
+    "title": "Petición de quiebra directa",
+    "a": {
+      "text": "Se pide directamente quiebra, sin concurso preventivo previo ni extensión. La solicitud proviene del deudor.",
+      "prompt": "Clasificá y justificá.",
+      "model": "Es directa voluntaria por petición del propio deudor. No es indirecta por fracaso de un acuerdo previo inexistente.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Identifica directa voluntaria.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Justifica por solicitante deudor.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 60,
+          "label": "M2 · PDF 60"
+        }
+      ]
+    },
+    "b": {
+      "text": "Se pide directamente quiebra, sin concurso preventivo previo ni extensión. La solicitud proviene de un acreedor.",
+      "prompt": "Clasificá y justificá.",
+      "model": "Es directa necesaria por petición de un acreedor. La clasificación no depende aquí de que el deudor acepte la petición.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Identifica directa necesaria.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Justifica por solicitante acreedor.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 60,
+          "label": "M2 · PDF 60"
+        }
+      ]
+    },
+    "changed": "El solicitante es deudor o acreedor.",
+    "keyDifference": "Directa voluntaria y directa necesaria se distinguen por quién pide.",
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 60,
+        "label": "M2 · PDF 60"
+      }
+    ]
+  },
+  {
+    "id": "C2-005",
+    "module": 2,
+    "topic": "2.4 · anexo",
+    "title": "Excepción unipersonal juvenil",
+    "a": {
+      "text": "El asunto corresponde al Tribunal Penal Juvenil, fuera de reglas especiales de flagrancia. Su menor complejidad podría justificar integración unipersonal, pero las partes no la solicitan.",
+      "prompt": "¿Basta la menor complejidad? Explicá la regla.",
+      "model": "No basta. La regla es actuación colegiada de tres jueces y esta excepción añade solicitud de las partes. El dato material aislado no reúne todas las condiciones.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Mantiene regla colegiada de tres jueces.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Exige petición además de justificación material.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+          "page": 4,
+          "label": "Código Procesal Penal Juvenil · art. 12 · PDF 4"
+        }
+      ]
+    },
+    "b": {
+      "text": "El asunto corresponde al Tribunal Penal Juvenil, fuera de reglas especiales de flagrancia. Su menor complejidad podría justificar integración unipersonal y las partes la solicitan.",
+      "prompt": "¿Qué posibilidad abre la petición? ¿Obliga a concederla?",
+      "model": "Puede actuar excepcionalmente en integración unipersonal si valora justificada la condición material. La petición permite considerar la excepción; no vuelve automática la decisión.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Reconoce posibilidad excepcional.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Distingue facultad de obligación automática.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+          "page": 4,
+          "label": "Código Procesal Penal Juvenil · art. 12 · PDF 4"
+        }
+      ]
+    },
+    "changed": "Solicitud de las partes presente o ausente; menor complejidad se conserva.",
+    "keyDifference": "El art. 12 exige justificación y pedido de las partes; podrá no significa otorgamiento automático.",
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 4,
+        "label": "Código Procesal Penal Juvenil · art. 12 · PDF 4"
+      }
+    ]
+  },
+  {
+    "id": "C2-006",
+    "module": 2,
+    "topic": "2.4 · anexo",
+    "title": "Difusión excepcional e identidad juvenil",
+    "a": {
+      "text": "Un sujeto procesal pide difusión muy limitada para la seguridad del adolescente. Hay dictamen favorable de la Asesoría, estricta necesidad y respeto de dignidad, pero no resolución judicial fundada que la autorice.",
+      "prompt": "¿Puede difundirse por el dictamen? Incluí datos indirectos.",
+      "model": "No. Falta resolución judicial fundada. La reserva protege también datos indirectos que identifican, como escuela, domicilio o lazos familiares.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "No autoriza sin resolución fundada.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Protege identificación directa e indirecta.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+          "page": 2,
+          "label": "Código Procesal Penal Juvenil · art. 6 · PDF 2"
+        }
+      ]
+    },
+    "b": {
+      "text": "Un sujeto procesal pide difusión muy limitada para la seguridad del adolescente. Hay dictamen favorable de la Asesoría, estricta necesidad y respeto de dignidad, y resolución judicial fundada que la autoriza con ese alcance.",
+      "prompt": "¿Qué permite y qué límite conserva?",
+      "model": "Solo permite difusión restrictiva dentro de lo autorizado. No habilita publicación libre del legajo, nombres, escuela o imágenes; la protección subsiste fuera de ese alcance.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Reconoce excepción autorizada limitada.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "No convierte excepción en publicidad general.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+          "page": 2,
+          "label": "Código Procesal Penal Juvenil · art. 6 · PDF 2"
+        }
+      ]
+    },
+    "changed": "Existe o falta resolución judicial fundada; pedido y dictamen favorable se mantienen.",
+    "keyDifference": "La excepción restrictiva exige resolución judicial fundada, pedido y dictamen favorable, además de necesidad y dignidad.",
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 2,
+        "label": "Código Procesal Penal Juvenil · art. 6 · PDF 2"
+      }
+    ]
+  },
+  {
+    "id": "C3-001",
+    "module": 3,
+    "topic": "3.2",
+    "title": "Cuál es la norma más protectora",
+    "a": {
+      "text": "Para un mismo supuesto hay dos reglas válidas y aplicables. El estándar convencional reconoce una protección mínima; la regla interna ofrece protección más amplia, sin otros conflictos jurídicos planteados.",
+      "prompt": "Aplicá pro personae y explicá si el tratado reduce el derecho interno.",
+      "model": "Debe preferirse la solución interna más amplia. El estándar convencional no recorta una protección mayor ya reconocida internamente.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Elige protección más amplia.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Niega que el tratado recorte el derecho interno más protector.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+          "page": 7,
+          "label": "M3 · PDF 7"
+        }
+      ]
+    },
+    "b": {
+      "text": "Para un mismo supuesto hay dos reglas válidas y aplicables. El estándar convencional reconoce una protección mínima; la regla interna ofrece protección menor, sin otros conflictos jurídicos planteados.",
+      "prompt": "Aplicá pro personae y explicá el parámetro de comparación.",
+      "model": "Debe preferirse la solución convencional más protectora en este supuesto. El principio compara extensión de reconocimiento o intensidad de restricción, no el origen de la regla por sí solo.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Elige solución convencional más protectora.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Justifica por mayor protección y no por origen automático.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+          "page": 7,
+          "label": "M3 · PDF 7"
+        }
+      ]
+    },
+    "changed": "La regla interna resulta más o menos protectora que el piso convencional.",
+    "keyDifference": "Pro personae no elige siempre tratado o derecho interno: compara protección en el supuesto.",
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 7,
+        "label": "M3 · PDF 7"
+      }
+    ]
+  },
+  {
+    "id": "C3-002",
+    "module": 3,
+    "topic": "3.4",
+    "title": "Lesión estatal y lesión de un particular",
+    "a": {
+      "text": "Las autoridades conocen un riesgo real e inmediato contra una persona. La lesión finalmente es ejecutada por un agente que se vale de su poder público, excediendo sus atribuciones.",
+      "prompt": "Identificá obligación comprometida y explicá el efecto del exceso de funciones.",
+      "model": "La lesión oficial compromete deber de respeto; exceder atribuciones no elimina por sí la responsabilidad estatal. Debe analizarse actuación oficial y deberes de garantía.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Identifica deber de respeto ante lesión oficial.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "No exime al Estado por exceso del agente.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+          "page": 10,
+          "label": "M3 · PDF 10"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+          "page": 11,
+          "label": "M3 · PDF 11"
+        }
+      ]
+    },
+    "b": {
+      "text": "Las autoridades conocen un riesgo real e inmediato contra una persona. La lesión finalmente es ejecutada por un particular sin poder público.",
+      "prompt": "Identificá obligación comprometida y evitá atribución automática.",
+      "model": "Se analiza si las autoridades incumplieron protección y debida diligencia frente al riesgo conocido. El hecho privado no se atribuye automáticamente; importa prevención y respuesta estatal.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Identifica protección/debida diligencia.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Distingue hecho privado de incumplimiento estatal.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+          "page": 10,
+          "label": "M3 · PDF 10"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+          "page": 11,
+          "label": "M3 · PDF 11"
+        }
+      ]
+    },
+    "changed": "El autor actúa con poder público o como particular.",
+    "keyDifference": "La lesión oficial involucra respeto; ante tercero se analiza diligencia protectora, sin atribución automática del hecho privado.",
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 10,
+        "label": "M3 · PDF 10"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 11,
+        "label": "M3 · PDF 11"
+      }
+    ]
+  },
+  {
+    "id": "C3-003",
+    "module": 3,
+    "topic": "3.5",
+    "title": "La misma regla digital y dos condiciones de acceso",
+    "a": {
+      "text": "El trámite se inicia en un canal digital idéntico para todos. La persona concreta dispone de conexión y habilidad para completarlo; no se describe otra barrera.",
+      "prompt": "¿Qué permite afirmar este dato y qué no prueba sobre todos los usuarios?",
+      "model": "En este caso no se describe la barrera digital que impediría completar el trámite. No demuestra accesibilidad universal ni elimina la obligación de evaluar a otros usuarios en desventaja.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "No inventa barrera digital en este supuesto.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "No generaliza igualdad real a todos por un caso.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+          "page": 17,
+          "label": "M3 · PDF 17"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+          "page": 18,
+          "label": "M3 · PDF 18"
+        }
+      ]
+    },
+    "b": {
+      "text": "El trámite se inicia en un canal digital idéntico para todos. La persona concreta mantiene la misma habilidad, pero carece de conexión para completarlo; no se describe otra barrera.",
+      "prompt": "¿Basta la igualdad del requisito? Proponé orientación institucional.",
+      "model": "No basta tratar igual en el papel: aparece un obstáculo al ejercicio real. Corresponde facilitar apoyo o alternativa institucional disponible y evaluar medidas de equiparación, dentro de competencia.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Distingue igualdad formal de sustantiva.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Propone remover barrera sin prometer requisitos inventados.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+          "page": 17,
+          "label": "M3 · PDF 17"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+          "page": 18,
+          "label": "M3 · PDF 18"
+        }
+      ]
+    },
+    "changed": "La disponibilidad de conexión; se mantiene la misma habilidad para utilizar el canal.",
+    "keyDifference": "Igualdad formal del requisito no acredita igual acceso real; la barrera debe evaluarse en contexto.",
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 17,
+        "label": "M3 · PDF 17"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 18,
+        "label": "M3 · PDF 18"
+      }
+    ]
+  },
+  {
+    "id": "C4-001",
+    "module": 4,
+    "topic": "4.3",
+    "title": "Vínculo y modalidad de hostigamiento",
+    "a": {
+      "text": "Una mujer recibe por chat humillaciones y amenazas reiteradas basadas en una relación desigual de poder. El emisor es su expareja, con quien ya no convive.",
+      "prompt": "Identificá tipo y modalidad vinculada al contexto. ¿Importa que no convivan?",
+      "model": "Hay afectación psicológica y modalidad doméstica por vínculo de expareja, aunque no convivan. El medio digital puede añadir otra modalidad y no elimina la doméstica.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Identifica tipo psicológico y doméstica.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "No exige convivencia; admite concurrencia digital.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+          "page": 5,
+          "label": "M4 · PDF 5"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+          "page": 6,
+          "label": "M4 · PDF 6"
+        }
+      ]
+    },
+    "b": {
+      "text": "Una mujer recibe por chat humillaciones y amenazas reiteradas basadas en una relación desigual de poder. El emisor es su superior laboral, sin relación familiar o afectiva, y la hostiga en ese vínculo.",
+      "prompt": "Identificá tipo y modalidad vinculada al contexto.",
+      "model": "Se conserva tipo psicológico y se identifica modalidad laboral por hostigamiento en el vínculo de trabajo. Puede concurrir modalidad digital; esta no sustituye automáticamente el contexto laboral.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Identifica tipo psicológico y laboral.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Distingue tipo de modalidad y admite concurrencia.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+          "page": 5,
+          "label": "M4 · PDF 5"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+          "page": 6,
+          "label": "M4 · PDF 6"
+        }
+      ]
+    },
+    "changed": "El emisor es expareja o superior laboral sin vínculo familiar.",
+    "keyDifference": "El tipo psicológico se conserva; la modalidad relevante cambia con el vínculo, sin excluir concurrencia digital.",
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 5,
+        "label": "M4 · PDF 5"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 6,
+        "label": "M4 · PDF 6"
+      }
+    ]
+  },
+  {
+    "id": "C4-002",
+    "module": 4,
+    "topic": "4.2",
+    "title": "Atracción o autopercepción",
+    "a": {
+      "text": "Una persona explica quiénes le atraen afectiva y sexualmente. No expresa su vivencia interna del género ni se aportan datos sobre apariencia.",
+      "prompt": "¿Qué dimensión describe? ¿Qué no se puede inferir?",
+      "model": "Describe orientación sexual. No permite deducir por sí identidad de género ni expresión; se respeta lo que manifiesta sin completar datos mediante estereotipos.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Identifica orientación sexual.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "No infiere identidad o expresión.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+          "page": 4,
+          "label": "M4 · PDF 4"
+        }
+      ]
+    },
+    "b": {
+      "text": "Una persona explica cómo vive internamente su género. No expresa quiénes le atraen ni se aportan datos sobre apariencia.",
+      "prompt": "¿Qué dimensión describe? ¿Qué no se puede inferir?",
+      "model": "Describe identidad de género. No informa automáticamente orientación sexual ni exige una apariencia estereotipada para reconocerla.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Identifica identidad de género.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "No infiere orientación ni condiciona a apariencia.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+          "page": 4,
+          "label": "M4 · PDF 4"
+        }
+      ]
+    },
+    "changed": "El contenido de la manifestación personal: atracción o vivencia interna del género.",
+    "keyDifference": "Orientación sexual e identidad de género responden a preguntas distintas; apariencia no permite inferir ambas.",
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 4,
+        "label": "M4 · PDF 4"
+      }
+    ]
+  },
+  {
+    "id": "C4-003",
+    "module": 4,
+    "topic": "4.5",
+    "title": "Firma individual en denuncia colectiva",
+    "a": {
+      "text": "Un grupo de empleadas presenta ante el órgano del protocolo una denuncia colectiva identificada. Adjuntan los consentimientos informados y el escrito tiene firma individual de cada denunciante. Ninguna cuenta con abogado.",
+      "prompt": "¿La falta de abogado impide el trámite? Precisá el requisito de firma del escrito.",
+      "model": "El patrocinio letrado no es requisito. La denuncia colectiva sí tiene las firmas individuales exigidas y se presenta ante la Dirección de la Mujer, Género y Diversidad, con los consentimientos señalados.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "No exige patrocinio letrado.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Reconoce firmas individuales del escrito colectivo y órgano de aplicación.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+          "page": 9,
+          "label": "M4 · PDF 9"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+          "page": 10,
+          "label": "M4 · PDF 10"
+        }
+      ]
+    },
+    "b": {
+      "text": "Un grupo de empleadas presenta ante el órgano del protocolo una denuncia colectiva identificada. Adjuntan los consentimientos informados y el escrito no tiene firmas individuales de las denunciantes. Ninguna cuenta con abogado.",
+      "prompt": "¿La falta de abogado y la de firmas tienen el mismo efecto? Precisá qué requisito falta.",
+      "model": "No. No requiere abogado, pero el resumen no admite denuncias colectivas sin firma individual. Debe completarse ese requisito del escrito; la identificación y los consentimientos adjuntos no lo sustituyen. Se conserva confidencialidad.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Distingue abogado no requerido de firmas individuales exigidas.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "No trata la identificación o consentimientos adjuntos como sustituto de firma del escrito.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+          "page": 9,
+          "label": "M4 · PDF 9"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+          "page": 10,
+          "label": "M4 · PDF 10"
+        }
+      ]
+    },
+    "changed": "Presencia o ausencia de firmas individuales en el escrito colectivo; identificación, consentimiento y falta de abogado se conservan.",
+    "keyDifference": "No exigir patrocinio no elimina la firma individual exigida a las denuncias colectivas.",
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 9,
+        "label": "M4 · PDF 9"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 10,
+        "label": "M4 · PDF 10"
+      }
+    ]
+  },
+  {
+    "id": "C5-001",
+    "module": 5,
+    "topic": "5.4",
+    "title": "Orientación dentro o fuera de atribuciones",
+    "a": {
+      "text": "Una persona pide conocer la fecha de su audiencia. El agente autorizado ve el dato confirmado en el sistema y tiene competencia para informarlo.",
+      "prompt": "Redactá una respuesta breve y el cierre de la atención. Usá [fecha], [hora] y [lugar/modalidad] como marcadores de los datos verificados; no inventes valores.",
+      "model": "Su audiencia es el [fecha], a las [hora], en [lugar/modalidad]. Estos son los datos confirmados en el sistema. ¿Podría decirme cuándo y dónde se presentará, para comprobar que la información quedó clara? Los marcadores representan los datos verificados; no se agregan consecuencias ni resultados del juicio.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Informa dato verificado sin inventar.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Verifica comprensión/próximo paso.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+          "page": 16,
+          "label": "M5 · PDF 16"
+        }
+      ]
+    },
+    "b": {
+      "text": "La misma persona pide que el agente elija la mejor estrategia jurídica para ganar su caso. Esa decisión excede sus atribuciones administrativas.",
+      "prompt": "Redactá una respuesta y una derivación útil.",
+      "model": "Explicar el límite de competencia y orientar al área o asistencia jurídica adecuada con datos de contacto disponibles. No elegir estrategia ni terminar con un mero «no es acá».",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "No sustituye asesoramiento fuera de atribuciones.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Deriva con orientación/contacto disponible.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+          "page": 16,
+          "label": "M5 · PDF 16"
+        }
+      ]
+    },
+    "changed": "La consulta pide fecha registrada o elección de estrategia jurídica.",
+    "keyDifference": "Responder con precisión dentro de competencia y derivar asistidamente fuera de ella.",
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 16,
+        "label": "M5 · PDF 16"
+      }
+    ]
+  },
+  {
+    "id": "C5-002",
+    "module": 5,
+    "topic": "5.3",
+    "title": "Comprobar comprensión cambia el siguiente paso",
+    "a": {
+      "text": "Tras explicar un requisito en palabras sencillas, el agente pide que la persona cuente su primer paso. Lo reproduce correctamente y no plantea otra duda.",
+      "prompt": "¿Qué evidencia aporta y cómo cerrarías?",
+      "model": "Aporta evidencia de comprensión de ese paso. Confirmar el contenido correcto y cerrar verificando dudas; no es garantía de éxito judicial ni prueba de entender todo el proceso.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Reconoce evidencia concreta de comprensión.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "No la confunde con garantía de resultado.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+          "page": 10,
+          "label": "M5 · PDF 10"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+          "page": 16,
+          "label": "M5 · PDF 16"
+        }
+      ]
+    },
+    "b": {
+      "text": "Tras explicar el mismo requisito en palabras sencillas, el agente pide que la persona cuente su primer paso. No puede reproducirlo y conserva la duda.",
+      "prompt": "¿Cómo ajustarías la atención?",
+      "model": "Reformular con palabras más simples o ejemplo pertinente, explicar por pasos y comprobar nuevamente la devolución. No culpabilizar ni repetir sin cambios el mismo mensaje.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Reformula/adapta explicación.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Vuelve a comprobar comprensión sin culpabilizar.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+          "page": 10,
+          "label": "M5 · PDF 10"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+          "page": 16,
+          "label": "M5 · PDF 16"
+        }
+      ]
+    },
+    "changed": "La persona reproduce o no puede reproducir el paso comunicado.",
+    "keyDifference": "La verificación es una devolución del contenido; si falla, hay que ajustar explicación.",
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 10,
+        "label": "M5 · PDF 10"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 16,
+        "label": "M5 · PDF 16"
+      }
+    ]
+  },
+  {
+    "id": "C5-003",
+    "module": 5,
+    "topic": "5.5",
+    "title": "Accesibilidad general y ajuste individual",
+    "a": {
+      "text": "Una persona con discapacidad utiliza las medidas generales de accesibilidad y puede participar efectivamente; no solicita otro apoyo ni se identifica necesidad adicional.",
+      "prompt": "¿Corresponde imponer una adaptación particular solo por su discapacidad?",
+      "model": "No corresponde imponer una ayuda no necesaria ni infantilizar. Mantener medidas accesibles, escuchar y ofrecer apoyo respetando autonomía; evaluar nuevas necesidades si aparecen.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "No presume incapacidad o necesidad adicional.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Respeta autonomía y disponibilidad de apoyo.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+          "page": 19,
+          "label": "M5 · PDF 19"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+          "page": 20,
+          "label": "M5 · PDF 20"
+        }
+      ]
+    },
+    "b": {
+      "text": "La misma persona utiliza las medidas generales, pero no puede participar efectivamente y requiere una adaptación necesaria y adecuada sin carga desproporcionada o indebida.",
+      "prompt": "¿Qué medida corresponde y por qué no es una ventaja?",
+      "model": "Corresponde ajuste razonable del caso, por ejemplo apoyo o tiempo adicional según necesidad comprobada. Nivela acceso efectivo y complementa el diseño universal; no es ventaja indebida.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Identifica ajuste razonable necesario y adecuado.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Lo vincula a igualdad efectiva, no privilegio.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+          "page": 19,
+          "label": "M5 · PDF 19"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+          "page": 20,
+          "label": "M5 · PDF 20"
+        }
+      ]
+    },
+    "changed": "La medida general alcanza o no para la participación de esa persona.",
+    "keyDifference": "Diseño universal y ajuste razonable son complementarios; el ajuste se vincula a necesidad concreta.",
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 19,
+        "label": "M5 · PDF 19"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 20,
+        "label": "M5 · PDF 20"
+      }
+    ]
+  },
+  {
+    "id": "C5-004",
+    "module": 5,
+    "topic": "5.6",
+    "title": "Motivación y medios para actuar",
+    "a": {
+      "text": "Un agente conoce el procedimiento, sabe aplicarlo y quiere ayudar. Tiene sistema operativo, información actualizada y respaldo institucional.",
+      "prompt": "¿Qué componente aportan esos medios? Diferencialo de motivación.",
+      "model": "Los recursos constituyen poder hacer; la disposición a ayudar es querer hacer. También se requieren saber, saber hacer y actitud: ningún componente sustituye todos los demás.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Identifica poder hacer por recursos.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "Distingue querer hacer como motivación.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+          "page": 24,
+          "label": "M5 · PDF 24"
+        }
+      ]
+    },
+    "b": {
+      "text": "Un agente conoce el procedimiento, sabe aplicarlo y quiere ayudar. El sistema necesario está caído y no dispone de alternativa institucional habilitada.",
+      "prompt": "¿Qué componente está obstaculizado? ¿Podés concluir desinterés?",
+      "model": "Está obstaculizado poder hacer por falta de medios. No puede concluirse falta de motivación; debe informar la limitación, usar vías autorizadas y gestionar el problema sin inventar una solución.",
+      "checkpoints": [
+        {
+          "id": "p1",
+          "text": "Identifica falta de medios/poder hacer.",
+          "critical": true
+        },
+        {
+          "id": "p2",
+          "text": "No atribuye automáticamente desinterés ni inventa vía.",
+          "critical": true
+        }
+      ],
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+          "page": 24,
+          "label": "M5 · PDF 24"
+        }
+      ]
+    },
+    "changed": "Disponibilidad del sistema y respaldo institucional.",
+    "keyDifference": "Poder hacer son medios; su falta no equivale automáticamente a falta de querer hacer.",
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 24,
+        "label": "M5 · PDF 24"
+      }
+    ]
+  }
+]

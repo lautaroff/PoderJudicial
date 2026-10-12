@@ -1,7 +1,70 @@
+// Lógica real del portal con DOM mínimo. La verificación visual se realiza aparte.
 const fs=require('fs'),vm=require('vm'),assert=require('assert');
 const root=__dirname,storage=new Map(),elements=new Map();
-function element(id){if(!elements.has(id))elements.set(id,{innerHTML:'',textContent:'',value:0,disabled:false,scrollIntoView(){},insertAdjacentHTML(){}});return elements.get(id)}
-const context={window:{PREGUNTAS:JSON.parse(fs.readFileSync(root+'/preguntas.json','utf8'))},document:{getElementById:element,querySelectorAll(){return []}},localStorage:{getItem:k=>storage.get(k),setItem:(k,v)=>storage.set(k,v)},setInterval(){return 1},clearInterval(){},setTimeout(){},Date,Math,JSON,Set,Blob,URL,console};
-vm.createContext(context);vm.runInContext(fs.readFileSync(root+'/app.js','utf8'),context);
-async function run(mode,correct){element('mode').value=mode;await vm.runInContext('start()',context);const n=vm.runInContext('current.length',context);vm.runInContext(`current.forEach((q,i)=>{if(i<${correct})answers[i]=q.correcta})`,context);vm.runInContext(`finish('${mode}')`,context);const row=JSON.parse(storage.get('pjm-history'))[0];assert.equal(row.aciertos,correct);assert.equal(row.total,n);assert.equal(row.sinResponder,n-correct);assert.equal(JSON.parse(storage.get('pjm-errors')).length,n-correct);console.log(mode+': '+correct+'/'+n+'; sin responder '+row.sinResponder);return n}
-(async()=>{assert.equal(await run('especificos',50),50);assert.equal(JSON.parse(storage.get('pjm-errors')).length,0);assert.equal(await run('institucional',0),20);storage.set('pjm-errors','[]');assert.equal(await run('lectura',7),10);const before=JSON.parse(storage.get('pjm-history')).length;vm.runInContext("finish('lectura')",context);assert.equal(JSON.parse(storage.get('pjm-history')).length,before);element('mode').value='errores';await vm.runInContext('start()',context);assert.equal(vm.runInContext('current.length',context),3);assert.equal(element('clock').textContent,'Sin reloj');vm.runInContext('current.forEach((q,i)=>answers[i]=q.correcta);finish("errores")',context);assert.equal(JSON.parse(storage.get('pjm-errors')).length,0);element('mode').value='institucional';await vm.runInContext('start()',context);vm.runInContext('deadline=Date.now()-1000;tick("institucional")',context);assert.equal(JSON.parse(storage.get('pjm-history'))[0].sinResponder,20);assert.equal(vm.runInContext('finished',context),true);console.log('PASS: corrección completa/parcial/omisiones, agrupación lectura, repaso errores, protección doble envío, vencimiento de reloj.');console.log('Prueba de lógica con DOM simulado; complementa la comprobación visual en navegador, no la sustituye.')})().catch(e=>{console.error(e);process.exitCode=1});
+function element(id){if(!elements.has(id))elements.set(id,{innerHTML:'',textContent:'',value:'',disabled:false,classList:{toggle(){}},addEventListener(){},scrollIntoView(){},focus(){}});return elements.get(id)}
+for(const [id,value] of Object.entries({mode:'estudio',moduleFilter:'0',topicFilter:'',examMinutes:'50',examDistribution:'balanced',readerDoc:'0',readerPage:'1'}))element(id).value=value;
+const historic={fecha:'2026-10-05T12:00:00Z',tipo:'especificos',aciertos:40,total:50,sinResponder:0};
+storage.set('pjm-history',JSON.stringify([historic]));storage.set('pjm-errors',JSON.stringify(['P001']));
+const context={window:{},document:{getElementById:element,querySelectorAll(){return []},addEventListener(){}},localStorage:{getItem:k=>storage.has(k)?storage.get(k):null,setItem:(k,v)=>storage.set(k,v)},setInterval(){return 1},clearInterval(){},setTimeout(){},Date,Math,JSON,Set,Blob,URL,console};
+vm.createContext(context);
+for(const file of ['datos-preguntas.js','fuentes-2026.js','app.js'])vm.runInContext(fs.readFileSync(root+'/'+file,'utf8'),context);
+const run=code=>vm.runInContext(code,context),rows=()=>JSON.parse(storage.get('pjm-history'));
+let checks=0;function check(fn){fn();checks++}
+async function start(mode){element('mode').value=mode;await run('start()');return run('current.length')}
+function complete(n){run(`current.forEach((q,i)=>{if(i<${n})answers[i]=q.correcta});finish(activeMode)`)}
+(async()=>{
+  check(()=>assert.deepEqual(rows(),[historic]));
+  check(()=>assert.equal(run('modules.length'),5));
+  check(()=>assert.equal(run('modules.reduce((n,m)=>n+m.apartados.length,0)'),27));
+  check(()=>assert.equal(run("bank.filter(q=>q.etapa==='especificos'&&q.version!==2026).length"),0));
+  await start('especificos');
+  check(()=>assert.equal(run('current.length'),50));
+  check(()=>assert.equal(run('activeMinutes'),50));
+  check(()=>assert.equal(element('clock').textContent,'50:00'));
+  for(let m=1;m<=5;m++)check(()=>assert.equal(run(`current.filter(q=>q.modulo===${m}).length`),10));
+  check(()=>assert(!element('exam').innerHTML.includes('source-link')));
+  complete(50);
+  check(()=>assert.equal(rows()[0].aciertos,50));
+  check(()=>assert.equal(rows()[0].sinResponder,0));
+  check(()=>assert(element('exam').innerHTML.includes('.pdf#page=')));
+  const size=rows().length;run('finish(activeMode)');check(()=>assert.equal(rows().length,size));
+  element('examMinutes').value='40';element('examDistribution').value='random';await start('especificos');
+  check(()=>assert.equal(run('activeMinutes'),40));
+  check(()=>assert.equal(run('new Set(current.map(q=>q.id)).size'),50));
+  complete(35);check(()=>assert.equal(rows()[0].sinResponder,15));
+  check(()=>assert(element('exam').innerHTML.includes('Alcanzaste el mínimo')));
+  storage.set('pjm-errors','[]');
+  element('moduleFilter').value='4';element('topicFilter').value='4.3';await start('estudio');
+  check(()=>assert(run("current.every(q=>q.modulo===4&&q.subtema==='4.3')")));
+  check(()=>assert.equal(run('deadline'),null));
+  check(()=>assert(element('exam').innerHTML.includes('Profundizar en la fuente')));
+  const studyTotal=run('current.length');complete(studyTotal-1);
+  await start('errores');check(()=>assert.equal(run('current.length'),1));complete(1);
+  check(()=>assert.deepEqual(JSON.parse(storage.get('pjm-errors')),[]));
+  storage.set('pjm-errors','["P001"]');await start('errores');
+  check(()=>assert(element('exam').textContent.includes('No hay errores activos')));
+  await start('lectura');
+  check(()=>assert.equal(run('current.length'),10));
+  check(()=>assert.equal(run('new Set(current.map(q=>q.texto)).size'),1));
+  check(()=>assert.equal(run('activeMinutes'),30));
+  complete(7);check(()=>assert.equal(rows()[0].aciertos,7));
+  check(()=>assert.equal(rows()[0].sinResponder,3));
+  check(()=>assert(element('exam').innerHTML.includes('id="readingText"')));
+  check(()=>assert(element('exam').innerHTML.includes('href="#readingText"')));
+  await start('institucional');check(()=>assert.equal(run('current.length'),20));
+  check(()=>assert.equal(run('activeMinutes'),15));
+  run('deadline=Date.now()-1000;tick(activeMode)');
+  check(()=>assert.equal(rows()[0].sinResponder,20));
+  check(()=>assert.equal(run('finished'),true));
+  check(()=>assert.deepEqual(rows().at(-1),historic));
+  run('renderHistory()');check(()=>assert(element('history').innerHTML.includes('Resultado conservado')));
+  element('readerDoc').value='1';element('readerPage').value='999';run('renderReader()');
+  check(()=>assert.equal(Number(element('readerPage').value),39));
+  check(()=>assert(element('pdfFrame').src.endsWith('#page=39')));
+  element('readerPage').value='-8';run('renderReader()');check(()=>assert.equal(Number(element('readerPage').value),1));
+  check(()=>assert(!run("markdown('[x](javascript:alert)')").includes('href=')));
+  const multi=run('bank.find(q=>q.fuentes?.length>1)');
+  check(()=>assert.equal((run('questionSources(bank.find(q=>q.fuentes?.length>1))').match(/Abrir PDF/g)||[]).length,multi.fuentes.length));
+  console.log(`PASS: ${checks} comprobaciones. Selección por apartado, 50/40 minutos, distribución, corrección, fuentes, lectura, errores, reloj, conservación y lector.`);
+  fs.writeFileSync(root+'/validacion-logica-2026.json',JSON.stringify({fecha:'2026-10-12',comprobaciones:checks,resultado:'PASS',alcance:'DOM simulado; complementado por navegador real'},null,2));
+})().catch(e=>{console.error(e);process.exitCode=1});

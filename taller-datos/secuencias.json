@@ -1,0 +1,975 @@
+[
+  {
+    "id": "S1-001",
+    "module": 1,
+    "topic": "1.2.3",
+    "title": "Designación de juez federal inferior",
+    "scope": "Procedimiento de un juez federal inferior, fuera de Corte Suprema; candidatos que superan el concurso y nombramiento finalmente acordado.",
+    "prompt": "Ordená los pasos para el supuesto indicado. Justificá las dependencias y distinguí los actos desde los que corren los plazos.",
+    "steps": [
+      {
+        "id": "s3",
+        "text": "El Ejecutivo elige uno de los tres candidatos de la terna."
+      },
+      {
+        "id": "s4",
+        "text": "El Senado presta acuerdo para el candidato elegido."
+      },
+      {
+        "id": "s5",
+        "text": "Se realiza el nombramiento presidencial con ese acuerdo."
+      },
+      {
+        "id": "s1",
+        "text": "Concurso público de oposición y antecedentes del Consejo de la Magistratura."
+      },
+      {
+        "id": "s2",
+        "text": "Orden de mérito y elevación de terna vinculante al Poder Ejecutivo."
+      }
+    ],
+    "correct": [
+      "s1",
+      "s2",
+      "s3",
+      "s4",
+      "s5"
+    ],
+    "explanation": "El Consejo preselecciona; la terna limita la elección del Ejecutivo. El acuerdo del Senado es condición para nombrar. No trasladar a este procedimiento el régimen de miembros de la Corte ni inventar un plazo de designación.",
+    "links": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "because": "La terna se forma a partir de la preselección y orden de mérito."
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "because": "El Ejecutivo debe recibir la terna vinculante antes de elegir dentro de ella."
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "because": "Se solicita acuerdo respecto del candidato que eligió el Ejecutivo."
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "because": "El nombramiento requiere el acuerdo senatorial."
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 18,
+        "label": "M1 · PDF 18"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 24,
+        "label": "M1 · PDF 24"
+      }
+    ]
+  },
+  {
+    "id": "S1-002",
+    "module": 1,
+    "topic": "1.4",
+    "title": "Asignación y dirección en colegio de la Corte mendocina",
+    "scope": "Causa jurisdiccional que no corresponde al pleno de los arts. 2 o 9 Ley 9423; sin subrogaciones ni incidentes que alteren el camino.",
+    "prompt": "Ordená los pasos para el supuesto indicado. Justificá las dependencias y distinguí los actos desde los que corren los plazos.",
+    "steps": [
+      {
+        "id": "s3",
+        "text": "El ministro sorteado primero asume dirección y sustanciación de la causa."
+      },
+      {
+        "id": "s4",
+        "text": "Las actuaciones se sustancian hasta dejar el expediente en estado de resolver."
+      },
+      {
+        "id": "s5",
+        "text": "Se emiten votos en el orden determinado por el sorteo para la decisión correspondiente."
+      },
+      {
+        "id": "s1",
+        "text": "Ingreso de la acción o recurso que corresponde al colegio."
+      },
+      {
+        "id": "s2",
+        "text": "Sorteo auditable de los tres ministros que integrarán la sala y del orden de votos."
+      }
+    ],
+    "correct": [
+      "s1",
+      "s2",
+      "s3",
+      "s4",
+      "s5"
+    ],
+    "explanation": "El art. 7 dispone sorteo al ingreso y el art. 8 atribuye al primer ministro la dirección y sustanciación. Se delimita el ejercicio al camino hacia una decisión de la causa, no a cualquier providencia ni a pleno/plenario.",
+    "links": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "because": "El sorteo se hace respecto de la acción o recurso ingresado."
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "because": "La dirección se asigna a quien fue sorteado primero."
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "because": "La sustanciación prepara el expediente para resolver."
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "because": "El estado de resolver precede a la votación de la decisión preparada."
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+        "page": 5,
+        "label": "Ley 9423 · arts. 7–8 · PDF 5"
+      }
+    ]
+  },
+  {
+    "id": "S2-001",
+    "module": 2,
+    "topic": "2.1",
+    "title": "Conocimiento civil hasta sentencia",
+    "scope": "Proceso civil de conocimiento que continúa sin acuerdo, contestación oportuna y prueba pertinente; no monitorio ni pequeña causa. Se usa el esquema didáctico M2 p. 34.",
+    "prompt": "Ordená los pasos para el supuesto indicado. Justificá las dependencias y distinguí los actos desde los que corren los plazos.",
+    "steps": [
+      {
+        "id": "s3",
+        "text": "Cumplidas las etapas previas, el tribunal señala audiencia inicial: art. 172 II exige realizarla dentro de los veinte días siguientes; en ella intenta conciliación y admite prueba."
+      },
+      {
+        "id": "s4",
+        "text": "Producción de la prueba preparatoria admitida y organización de la audiencia final."
+      },
+      {
+        "id": "s5",
+        "text": "Audiencia final: conciliación y producción de prueba oral."
+      },
+      {
+        "id": "s6",
+        "text": "Alegatos sobre lo probado y llamamiento de autos para sentencia."
+      },
+      {
+        "id": "s7",
+        "text": "Sentencia: plazo general de treinta días vinculado al llamamiento firme, salvo regla especial."
+      },
+      {
+        "id": "s1",
+        "text": "Presentación de la demanda de conocimiento."
+      },
+      {
+        "id": "s2",
+        "text": "Notificación del traslado y contestación: el demandado dispone de veinte días desde esa notificación."
+      }
+    ],
+    "correct": [
+      "s1",
+      "s2",
+      "s3",
+      "s4",
+      "s5",
+      "s6",
+      "s7"
+    ],
+    "explanation": "Demanda y contestación preceden a la inicial; prueba precede a alegatos y sentencia. Los veinte días para contestar parten de notificación del traslado. Para inicial, el art. 172 II actualizado dice cumplidas etapas previas, tribunal señala día y hora y audiencia dentro de los veinte días siguientes; se distingue de la simplificación de M2 p. 34 «a los 20 días de contestar». Los treinta días de sentencia parten del llamamiento firme. No se suman como duración total garantizada.",
+    "links": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "because": "No puede contestarse el traslado de una demanda inexistente."
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "because": "La audiencia inicial organiza el litigio ya planteado y contestado."
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "because": "La prueba admitida se prepara y produce conforme a esa decisión."
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "because": "La preparación precede a la prueba oral en la final."
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "because": "Se alega sobre la prueba ya rendida."
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "because": "El llamamiento firme inicia el reloj de la sentencia según la regla presentada."
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 7,
+        "label": "M2 · PDF 7"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 8,
+        "label": "M2 · PDF 8"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 9,
+        "label": "M2 · PDF 9"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 10,
+        "label": "M2 · PDF 10"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 34,
+        "label": "M2 · PDF 34"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Ley-9001-CPCCT-lectura.html",
+        "label": "Ley 9001 · artículo 172 II"
+      }
+    ]
+  },
+  {
+    "id": "S2-002",
+    "module": 2,
+    "topic": "2.1",
+    "title": "Monitorio común con oposición y prueba",
+    "scope": "Título idóneo, monitorio común sin régimen especial de consumo/desalojo/hipoteca; oposición oportuna con prueba que el tribunal admite. No se ordenan actos alternativos del supuesto sin oposición.",
+    "prompt": "Ordená los pasos para el supuesto indicado. Justificá las dependencias y distinguí los actos desde los que corren los plazos.",
+    "steps": [
+      {
+        "id": "s6",
+        "text": "Sentencia que resuelve las defensas: diez días de quedar en estado la causa, conforme al art. 236 III CPCCyT."
+      },
+      {
+        "id": "s5",
+        "text": "Audiencia para sustanciar la prueba admitida sobre la oposición."
+      },
+      {
+        "id": "s4",
+        "text": "Traslado de la defensa al actor para contestarla en cinco días."
+      },
+      {
+        "id": "s3",
+        "text": "Notificación de esa sentencia y oposición del demandado dentro de los cinco días siguientes."
+      },
+      {
+        "id": "s2",
+        "text": "Sentencia monitoria inicial: el resumen da cinco días desde la presentación de la demanda."
+      },
+      {
+        "id": "s1",
+        "text": "Demanda documentada con título idóneo."
+      }
+    ],
+    "correct": [
+      "s1",
+      "s2",
+      "s3",
+      "s4",
+      "s5",
+      "s6"
+    ],
+    "explanation": "La sentencia inicial precede a la oposición sin eliminar defensa. El resumen da cinco días para la inicial desde demanda y para oposición desde notificación de sentencia; la respuesta del actor parte del traslado de oposición. El art. 236 III CPCCyT precisa diez días para sentencia de oposición desde quedar en estado la causa. No parten todos de la demanda ni constituyen duración total garantizada.",
+    "links": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "because": "El título acompaña la demanda que fundamenta la sentencia inicial."
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "because": "El plazo de oposición sigue a la notificación de la sentencia."
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "because": "Solo la oposición existente puede trasladarse al actor."
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "because": "Después del debate sobre defensas se sustancia prueba pertinente."
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "because": "La prueba de la oposición precede a su decisión final."
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 29,
+        "label": "M2 · PDF 29"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 30,
+        "label": "M2 · PDF 30"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Ley-9001-CPCCT-lectura.html",
+        "label": "Ley 9001 · artículo 236 III"
+      }
+    ]
+  },
+  {
+    "id": "S2-003",
+    "module": 2,
+    "topic": "2.3",
+    "title": "Laboral ordinario con sentencia contenciosa",
+    "scope": "Demanda laboral ordinaria ya habilitada para presentarse; no se desarrolla la OCL previa. Sin accidente/enfermedad que anticipe pericia médica, sin acuerdo y sin pedidos urgentes que cambien el recorrido.",
+    "prompt": "Ordená los pasos para el supuesto indicado. Justificá las dependencias y distinguí los actos desde los que corren los plazos.",
+    "steps": [
+      {
+        "id": "s3",
+        "text": "Traslado de la contestación a la actora por tres días."
+      },
+      {
+        "id": "s4",
+        "text": "Audiencia inicial indelegable del juez: conciliación y decisión sobre prueba."
+      },
+      {
+        "id": "s5",
+        "text": "Producción de prueba escrita mediante informes y pericias, con impulso compartido."
+      },
+      {
+        "id": "s6",
+        "text": "Vista de causa: declaraciones de partes/testigos y después alegatos."
+      },
+      {
+        "id": "s7",
+        "text": "Dictado de sentencia contenciosa al quedar terminado el debate."
+      },
+      {
+        "id": "s1",
+        "text": "Demanda escrita ante MECLA y asignación a cámara: en Cuarta solo ingreso y remisión porque hay una cámara."
+      },
+      {
+        "id": "s2",
+        "text": "Control básico, traslado y contestación escrita dentro de ocho días hábiles posteriores a la notificación al demandado."
+      }
+    ],
+    "correct": [
+      "s1",
+      "s2",
+      "s3",
+      "s4",
+      "s5",
+      "s6",
+      "s7"
+    ],
+    "explanation": "Los ocho días hábiles parten de notificación de la demanda; los tres corresponden al traslado de la contestación, no a la demanda original. La prueba médica anticipada pertenece a otro supuesto. Iurix ADF y gestión laboral no se confunden con LeD penal ni con una elección de jurados.",
+    "links": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "because": "La cámara asignada controla la demanda antes de disponer traslado."
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "because": "La contestación debe existir antes de trasladarse a la actora."
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "because": "Concluidos esos pasos el tribunal puede celebrar inicial."
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "because": "La inicial decide qué prueba producir."
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "because": "La escrita precede a vista de causa en el recorrido delimitado."
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "because": "Finalizado el debate queda la causa en condiciones de sentencia."
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 84,
+        "label": "M2 · PDF 84"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 85,
+        "label": "M2 · PDF 85"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 86,
+        "label": "M2 · PDF 86"
+      }
+    ]
+  },
+  {
+    "id": "S2-004",
+    "module": 2,
+    "topic": "2.1",
+    "title": "BLSG: negativa electrónica seguida de incidente",
+    "scope": "Solicitud válida, consulta identificada con resultado negativo, litigante que elige y sostiene incidente, prueba suficiente y resolución judicial. No se presupone que el incidente se conceda.",
+    "prompt": "Ordená los pasos para el supuesto indicado. Justificá las dependencias y distinguí los actos desde los que corren los plazos.",
+    "steps": [
+      {
+        "id": "s3",
+        "text": "Se genera constancia PDF «NO PODRÍA ACCEDER» con criterios incumplidos."
+      },
+      {
+        "id": "s4",
+        "text": "Juzgado comunica negativa directa, adjunta constancia y emplaza al pago de gabelas."
+      },
+      {
+        "id": "s5",
+        "text": "La persona interesada pide incidente y aporta prueba de condiciones legales."
+      },
+      {
+        "id": "s6",
+        "text": "Se obtiene dictamen del Ministerio Público Fiscal sobre la petición incidental."
+      },
+      {
+        "id": "s7",
+        "text": "El juez resuelve por auto inapelable y se notifica a la contraria."
+      },
+      {
+        "id": "s1",
+        "text": "Solicitud de BLSG a través de la presentación del profesional."
+      },
+      {
+        "id": "s2",
+        "text": "Usuario autorizado consulta SINTyS y corrobora identidad."
+      }
+    ],
+    "correct": [
+      "s1",
+      "s2",
+      "s3",
+      "s4",
+      "s5",
+      "s6",
+      "s7"
+    ],
+    "explanation": "La consulta negativa habilita la vía incidental, que requiere petición y prueba; no es otorgamiento automático. El incidente puede tramitar separado sin suspender una causa existente y sin intervención de la contraria durante su sustanciación, aunque el auto se le notifica.",
+    "links": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "because": "La consulta responde a una solicitud del beneficio."
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "because": "La identidad debe corroborarse para emitir constancia del solicitante correcto."
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "because": "La negativa judicial documenta el resultado recibido."
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "because": "El incidente se inicia como vía posterior elegida frente a la negativa."
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "because": "La petición y prueba permiten el dictamen fiscal."
+      },
+      {
+        "from": "s6",
+        "to": "s7",
+        "because": "El auto se pronuncia previo dictamen y luego se notifica."
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 18,
+        "label": "M2 · PDF 18"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Acordada-32299-BLSG.pdf",
+        "page": 15,
+        "label": "Ac. 32299 · PDF 15"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Acordada-32299-BLSG.pdf",
+        "page": 16,
+        "label": "Ac. 32299 · PDF 16"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Acordada-32299-BLSG.pdf",
+        "page": 17,
+        "label": "Ac. 32299 · PDF 17"
+      }
+    ]
+  },
+  {
+    "id": "S2-005",
+    "module": 2,
+    "topic": "2.4 · anexo",
+    "title": "Requerimiento y audiencia de preventiva juvenil",
+    "scope": "Fiscal pide preventiva luego de imputación, sin pedir ampliación de su plazo. Audiencia con todos los participantes necesarios y víctima debidamente citada. El ejercicio no presupone concesión de la medida.",
+    "prompt": "Ordená los pasos para el supuesto indicado. Justificá las dependencias y distinguí los actos desde los que corren los plazos.",
+    "steps": [
+      {
+        "id": "s3",
+        "text": "Se convoca audiencia y se cita debidamente a la víctima y a los participantes necesarios."
+      },
+      {
+        "id": "s4",
+        "text": "Se celebra audiencia contradictoria con juez, fiscal, adolescente, defensa y representantes legales; se incorpora informe y se oye a la víctima si concurre."
+      },
+      {
+        "id": "s5",
+        "text": "El juez resuelve oral e inmediatamente al concluir la audiencia, con decisión fundada."
+      },
+      {
+        "id": "s1",
+        "text": "Se efectúa la imputación que inicia el plazo para requerir la medida."
+      },
+      {
+        "id": "s2",
+        "text": "Fiscal presenta requerimiento fundado dentro de cinco días hábiles desde la imputación, incluyendo necesidad y duración solicitada."
+      }
+    ],
+    "correct": [
+      "s1",
+      "s2",
+      "s3",
+      "s4",
+      "s5"
+    ],
+    "explanation": "Los cinco días corren desde imputación. Si se solicita preventiva, su duración inicial máxima de tres meses se cuenta desde detención efectiva, no desde audiencia ni imputación; el máximo total con prórrogas es dieciocho meses. La víctima citada tiene derecho a ser oída, pero su ausencia no invalida. El plazo de un día del art. 41 se refiere a resolver ampliación del término para requerir, ausente en este supuesto.",
+    "links": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "because": "La imputación fija el comienzo del término de requerimiento."
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "because": "El requerimiento presentado es objeto de la audiencia a convocar."
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "because": "La citación precede a participación o ausencia debidamente notificada."
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "because": "La decisión oral se adopta al cierre del contradictorio."
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 2,
+        "label": "Código juvenil · artículo 4 · PDF 2"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 12,
+        "label": "Código juvenil · art. 41 · PDF 12"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 13,
+        "label": "Código juvenil · art. 41, continuación · PDF 13"
+      }
+    ]
+  },
+  {
+    "id": "S3-001",
+    "module": 3,
+    "topic": "3.6",
+    "title": "Diseñar y evaluar una intervención con enfoque de derechos",
+    "scope": "Primer ciclo de un proyecto institucional de acceso a justicia aún no implementado; orden metodológico del ejercicio, no procedimiento judicial ni lista legal de actos obligatorios.",
+    "prompt": "Ordená los pasos para el supuesto indicado. Justificá las dependencias y distinguí los actos desde los que corren los plazos.",
+    "steps": [
+      {
+        "id": "s6",
+        "text": "Evaluar resultados frente a metas y rendir cuentas para ajustar el proyecto."
+      },
+      {
+        "id": "s5",
+        "text": "Monitorear la ejecución y recoger información sobre acceso efectivo."
+      },
+      {
+        "id": "s4",
+        "text": "Ejecutar las acciones diseñadas."
+      },
+      {
+        "id": "s3",
+        "text": "Formular la intervención, sus metas y criterios para medir avances."
+      },
+      {
+        "id": "s2",
+        "text": "Analizar las barreras concretas y los estándares aplicables."
+      },
+      {
+        "id": "s1",
+        "text": "Reconocer a las personas afectadas como titulares de derechos y al Estado como obligado."
+      }
+    ],
+    "correct": [
+      "s1",
+      "s2",
+      "s3",
+      "s4",
+      "s5",
+      "s6"
+    ],
+    "explanation": "M3 pp. 18–19 incorpora estándares en análisis, formulación, ejecución, monitoreo y evaluación. En el primer ciclo delimitado, metas preceden a ejecución y los datos de seguimiento preceden a evaluación. El control posterior alimenta otro ciclo; no es una prohibición de revisar el diseño durante la implementación.",
+    "links": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "because": "Reconocer derechos orienta qué obstáculos se analizan."
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "because": "El diagnóstico fundamenta objetivos y medidas."
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "because": "No se ejecuta este proyecto inicial antes de formularlo."
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "because": "El monitoreo observa acciones efectivamente ejecutadas."
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "because": "La evaluación utiliza datos de seguimiento y metas previas."
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 18,
+        "label": "M3 · PDF 18"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 19,
+        "label": "M3 · PDF 19"
+      }
+    ]
+  },
+  {
+    "id": "S4-001",
+    "module": 4,
+    "topic": "4.3",
+    "title": "Un ciclo con reconciliación y luego un nuevo episodio",
+    "scope": "Reconstrucción didáctica de dos episodios descritos: el primero incluye las tres fases de Walker y después empieza otro. No es requisito para reconocer violencia ni pronóstico inevitable.",
+    "prompt": "Ordená los pasos para el supuesto indicado. Justificá las dependencias y distinguí los actos desde los que corren los plazos.",
+    "steps": [
+      {
+        "id": "s3",
+        "text": "Primer episodio: luna de miel, pedidos de perdón y promesas de cambio."
+      },
+      {
+        "id": "s4",
+        "text": "Después de esa reconciliación: nueva acumulación de tensión."
+      },
+      {
+        "id": "s5",
+        "text": "Segundo episodio: nueva explosión o descarga."
+      },
+      {
+        "id": "s1",
+        "text": "Primer episodio: acumulación de tensión con agresiones verbales y desestabilización."
+      },
+      {
+        "id": "s2",
+        "text": "Primer episodio: explosión o descarga de violencia grave."
+      }
+    ],
+    "correct": [
+      "s1",
+      "s2",
+      "s3",
+      "s4",
+      "s5"
+    ],
+    "explanation": "El modelo de p. 7 presenta tensión, explosión y luna de miel. Se individualizan dos episodios para dar un orden único; el modelo también explica desaparición de la luna de miel y aumento de gravedad. No cabe exigir estas fases para admitir una situación como violencia ni concluir que promesas eliminan riesgo.",
+    "links": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "because": "En el primer episodio delimitado, la tensión antecede a la descarga."
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "because": "Los pedidos de perdón de ese episodio siguen a su descarga."
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "because": "El supuesto ubica la nueva tensión después de la reconciliación."
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "because": "La descarga del segundo episodio sigue a su propia acumulación."
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 7,
+        "label": "M4 · PDF 7"
+      }
+    ]
+  },
+  {
+    "id": "S5-001",
+    "module": 5,
+    "topic": "5.4",
+    "title": "Circuito de una queja de servicio",
+    "scope": "Reclamo administrativo de atención, según los cinco pasos del módulo; no es una denuncia penal ni un recurso contra sentencia.",
+    "prompt": "Ordená los pasos para el supuesto indicado. Justificá las dependencias y distinguí los actos desde los que corren los plazos.",
+    "steps": [
+      {
+        "id": "s3",
+        "text": "Investigación objetiva: analizar causa raíz."
+      },
+      {
+        "id": "s4",
+        "text": "Comunicación de resolución: explicar medidas con transparencia."
+      },
+      {
+        "id": "s5",
+        "text": "Cierre y aprendizaje: ajustar el protocolo y compartir la lección."
+      },
+      {
+        "id": "s1",
+        "text": "Recepción activa: escuchar y validar el malestar."
+      },
+      {
+        "id": "s2",
+        "text": "Registro y acuse: documentar y entregar número de seguimiento."
+      }
+    ],
+    "correct": [
+      "s1",
+      "s2",
+      "s3",
+      "s4",
+      "s5"
+    ],
+    "explanation": "Se conserva el flujo de cinco pasos de M5. Escuchar no sustituye registrar, comunicar no sustituye investigar y cerrar exige aprendizaje. No se prometen plazo ni decisión que el módulo no establece.",
+    "links": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "because": "El registro formaliza el reclamo recibido."
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "because": "La investigación utiliza el problema registrado."
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "because": "Las medidas comunicadas se sustentan en la investigación."
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "because": "El cierre incorpora la solución y su aprendizaje institucional."
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 17,
+        "label": "M5 · PDF 17"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 18,
+        "label": "M5 · PDF 18"
+      }
+    ]
+  },
+  {
+    "id": "S5-002",
+    "module": 5,
+    "topic": "5.6",
+    "title": "Etapas del aprendizaje de una habilidad",
+    "scope": "Modelo didáctico de la adquisición progresiva de una misma habilidad; no todos los agentes recorren tiempos iguales y el ejercicio no impone un plazo.",
+    "prompt": "Ordená los pasos para el supuesto indicado. Justificá las dependencias y distinguí los actos desde los que corren los plazos.",
+    "steps": [
+      {
+        "id": "s4",
+        "text": "Competencia inconsciente: la ejecución se integra como hábito."
+      },
+      {
+        "id": "s3",
+        "text": "Competencia consciente: la ejecuta con esfuerzo y atención."
+      },
+      {
+        "id": "s2",
+        "text": "Incompetencia consciente: reconoce que todavía no la domina."
+      },
+      {
+        "id": "s1",
+        "text": "Incompetencia inconsciente: no domina la habilidad ni reconoce su falta."
+      }
+    ],
+    "correct": [
+      "s1",
+      "s2",
+      "s3",
+      "s4"
+    ],
+    "explanation": "La tabla de p. 27 distingue reconocimiento de carencia, ejecución deliberada y automatización. El último estado no significa ignorar todo ni carecer de habilidad. No es jerarquía de cargos ni regla disciplinaria.",
+    "links": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "because": "El reconocimiento de la carencia transforma la ignorancia inicial en consciente."
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "because": "La práctica permite ejecutar lo antes no dominado."
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "because": "La ejecución repetida puede automatizar la habilidad."
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 27,
+        "label": "M5 · PDF 27"
+      }
+    ]
+  },
+  {
+    "id": "S5-003",
+    "module": 5,
+    "topic": "5.2",
+    "title": "Mapa del viaje de una persona usuaria",
+    "scope": "Recorrido ilustrativo de M5 desde búsqueda hasta finalización; es un mapa de experiencia y emociones, no cronograma único de todo fuero.",
+    "prompt": "Ordená los pasos para el supuesto indicado. Justificá las dependencias y distinguí los actos desde los que corren los plazos.",
+    "steps": [
+      {
+        "id": "s6",
+        "text": "Finalización: orientación práctica para concluir sin trámites innecesarios."
+      },
+      {
+        "id": "s5",
+        "text": "Comunicación de la resolución con empatía y opciones disponibles."
+      },
+      {
+        "id": "s4",
+        "text": "Audiencia con explicación de roles y trato respetuoso."
+      },
+      {
+        "id": "s3",
+        "text": "Seguimiento del expediente y de las notificaciones."
+      },
+      {
+        "id": "s2",
+        "text": "Formalización mediante recepción de documentos."
+      },
+      {
+        "id": "s1",
+        "text": "Búsqueda de información por web, teléfono o atención presencial."
+      }
+    ],
+    "correct": [
+      "s1",
+      "s2",
+      "s3",
+      "s4",
+      "s5",
+      "s6"
+    ],
+    "explanation": "El mapa ubica seis etapas y estrategias. La experiencia abarca todo el recorrido, aunque la decisión jurídica final sea correcta. No trasladar las emociones típicas como diagnóstico obligatorio de cada persona ni el mapa como procedimiento legal universal.",
+    "links": [
+      {
+        "from": "s1",
+        "to": "s2",
+        "because": "La búsqueda inicial prepara la formalización del caso ilustrado."
+      },
+      {
+        "from": "s2",
+        "to": "s3",
+        "because": "El seguimiento se hace del trámite formalizado."
+      },
+      {
+        "from": "s3",
+        "to": "s4",
+        "because": "En este mapa, el seguimiento acompaña preparación de audiencia."
+      },
+      {
+        "from": "s4",
+        "to": "s5",
+        "because": "La resolución ilustrada se comunica después de la audiencia."
+      },
+      {
+        "from": "s5",
+        "to": "s6",
+        "because": "El cierre práctico sigue a la comunicación de la resolución."
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 6,
+        "label": "M5 · PDF 6"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 7,
+        "label": "M5 · PDF 7"
+      }
+    ]
+  }
+]
+

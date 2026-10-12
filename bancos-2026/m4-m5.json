@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "N4-001",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.1",
+    "tema": "Perspectiva de género",
+    "pregunta": "¿Qué permite identificar la perspectiva de género descrita en el módulo?",
+    "opciones": [
+      "Las diferencias biológicas como explicación suficiente de toda desigualdad",
+      "La asignación social jerárquica de roles y valores a partir del sexo",
+      "La superioridad natural de una experiencia sobre otra",
+      "La obligatoriedad de decidir siempre a favor de una mujer"
+    ],
+    "correcta": 1,
+    "explicacion": "Es una herramienta crítica que visibiliza asignaciones sociales y asimetrías; no sustituye el análisis por preferencias automáticas.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=2 | oficial 2026 p. PDF 2; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 2
+  },
+  {
+    "id": "N4-002",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.1",
+    "tema": "Transversalización",
+    "pregunta": "Una institución integra perspectiva de género en normas, decisiones y prácticas de todas sus áreas. ¿Qué concepto aplica?",
+    "opciones": [
+      "Restricción de la perspectiva a una oficina especializada",
+      "Segregación sexual del trabajo",
+      "Transversalización",
+      "Heteronormatividad"
+    ],
+    "correcta": 2,
+    "explicacion": "Transversalizar supone incorporar la perspectiva en todas las políticas, normas, decisiones y prácticas institucionales.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=2 | oficial 2026 p. PDF 2; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 2
+  },
+  {
+    "id": "N4-003",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.1",
+    "tema": "Interseccionalidad",
+    "pregunta": "Al evaluar barreras que afronta una mujer migrante con discapacidad, ¿qué enfoque reconoce cómo se entrelazan esas condiciones?",
+    "opciones": [
+      "Androcentrismo",
+      "Análisis del género como factor aislado",
+      "Segregación del espacio privado",
+      "Interseccionalidad"
+    ],
+    "correcta": 3,
+    "explicacion": "El enfoque interseccional considera la interacción del género con otros ejes de vulnerabilidad, como migración y discapacidad.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=2 | oficial 2026 p. PDF 2; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 2
+  },
+  {
+    "id": "N4-004",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.1",
+    "tema": "Androcentrismo",
+    "pregunta": "Presentar la experiencia masculina como parámetro neutral y universal de toda la humanidad es un ejemplo de:",
+    "opciones": [
+      "Androcentrismo",
+      "Transversalización",
+      "Identidad de género",
+      "Accesibilidad universal"
+    ],
+    "correcta": 0,
+    "explicacion": "El androcentrismo universaliza la experiencia masculina y trata las demás como desviación o minoría.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=2 | oficial 2026 p. PDF 2; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 2
+  },
+  {
+    "id": "N4-005",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.1",
+    "tema": "Trabajo reproductivo",
+    "pregunta": "¿Qué describe la división histórica del trabajo que critica el cuadro del módulo?",
+    "opciones": [
+      "La existencia de una aptitud biológica exclusiva de las mujeres para cuidar",
+      "La asociación del cuidado doméstico no remunerado con lo femenino y su menor valoración social",
+      "La igualdad de prestigio atribuida históricamente a ambos espacios",
+      "La ausencia de efectos económicos de los roles sociales"
+    ],
+    "correcta": 1,
+    "explicacion": "El cuadro describe una asignación jerárquica histórica, no una prescripción ni una capacidad natural exclusiva.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=3 | oficial 2026 p. PDF 3; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 3
+  },
+  {
+    "id": "N4-006",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.1",
+    "tema": "Sexismo",
+    "pregunta": "¿Cuál de estas conductas se aproxima más al concepto de sexismo del módulo?",
+    "opciones": [
+      "Reconocer desigualdades para eliminarlas",
+      "Adaptar un servicio para garantizar igualdad efectiva",
+      "Prácticas educativas e institucionales que mantienen a las mujeres en subordinación",
+      "Analizar combinaciones de género, edad y clase"
+    ],
+    "correcta": 2,
+    "explicacion": "El sexismo reúne métodos y pautas culturales e institucionales que reproducen inferioridad y subordinación.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=3 | oficial 2026 p. PDF 3; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 3
+  },
+  {
+    "id": "N4-007",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.1",
+    "tema": "Sexo y género",
+    "pregunta": "¿Qué distinción entre sexo y género coincide con el material?",
+    "opciones": [
+      "Sexo y género designan exclusivamente la vestimenta",
+      "Género es una característica anatómica inmodificable",
+      "Sexo designa los mandatos culturales y género solo la genética",
+      "Sexo refiere a características biológicas; género, a construcciones sociohistóricas de roles"
+    ],
+    "correcta": 3,
+    "explicacion": "El texto distingue características biológicas de atribuciones sociales, históricas y dinámicas.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=3 | oficial 2026 p. PDF 3; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 3
+  },
+  {
+    "id": "N4-008",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.1",
+    "tema": "Estereotipos",
+    "pregunta": "Una oficina presupone que las mujeres deben contener emociones y los varones tomar decisiones técnicas. ¿Qué reproduce?",
+    "opciones": [
+      "Estereotipos de género",
+      "Una evaluación individual de capacidades",
+      "Un ajuste razonable",
+      "Un principio de imparcialidad"
+    ],
+    "correcta": 0,
+    "explicacion": "La distribución presupone funciones deseables por sexo sin examinar capacidades individuales.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=3 | oficial 2026 p. PDF 3; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 3
+  },
+  {
+    "id": "N4-009",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.2",
+    "tema": "Dimensiones de sexualidad",
+    "pregunta": "¿Cuál es la dimensión que responde a cómo una persona se autopercibe internamente?",
+    "opciones": [
+      "Orientación sexual",
+      "Identidad de género",
+      "Expresión de género",
+      "Proximidad interpersonal"
+    ],
+    "correcta": 1,
+    "explicacion": "Identidad es la vivencia interna e individual del género; orientación refiere a atracción y expresión a manifestación externa.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=4 | oficial 2026 p. PDF 4; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 4
+  },
+  {
+    "id": "N4-010",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.2",
+    "tema": "Orientación sexual",
+    "pregunta": "¿Qué dimensión describe la atracción emocional, afectiva y sexual hacia otras personas?",
+    "opciones": [
+      "Identidad de género",
+      "Expresión de género",
+      "Orientación sexual",
+      "Sexo asignado al nacer"
+    ],
+    "correcta": 2,
+    "explicacion": "El módulo formula orientación con la pregunta sobre quién atrae a la persona.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=4 | oficial 2026 p. PDF 4; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 4
+  },
+  {
+    "id": "N4-011",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.2",
+    "tema": "Expresión de género",
+    "pregunta": "Vestimenta, peinado, modales y lenguaje corporal corresponden principalmente a:",
+    "opciones": [
+      "Orientación sexual",
+      "Identidad registral obligatoria",
+      "Cisnormatividad",
+      "Expresión de género"
+    ],
+    "correcta": 3,
+    "explicacion": "Son manifestaciones externas del género; no permiten por sí solas deducir orientación sexual.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=4 | oficial 2026 p. PDF 4; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 4
+  },
+  {
+    "id": "N4-012",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.2",
+    "tema": "Heteronormatividad",
+    "pregunta": "¿Qué presupone la heteronormatividad?",
+    "opciones": [
+      "Que la heterosexualidad es la única orientación válida, natural y deseable",
+      "Que todas las identidades deben reconocerse en igualdad",
+      "Que el género y la orientación son conceptos diferentes",
+      "Que las identidades trans requieren reconocimiento"
+    ],
+    "correcta": 0,
+    "explicacion": "El concepto critica la presentación de la heterosexualidad como única posibilidad legítima.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=4 | oficial 2026 p. PDF 4; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 4
+  },
+  {
+    "id": "N4-013",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.2",
+    "tema": "Cisnormatividad",
+    "pregunta": "Presuponer que la identidad de todas las personas coincide con el sexo asignado al nacer es:",
+    "opciones": [
+      "Interseccionalidad",
+      "Cisnormatividad",
+      "Orientación sexual",
+      "Transversalización"
+    ],
+    "correcta": 1,
+    "explicacion": "La cisnormatividad presume universalmente la condición cisgénero; el cisexismo añade desvalorización o discriminación de personas trans.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=4 | oficial 2026 p. PDF 4; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 4
+  },
+  {
+    "id": "N4-014",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.2",
+    "tema": "Identidad de género",
+    "pregunta": "Según el artículo 1 de la Ley 26.743 resumido en el módulo, ¿qué derecho se reconoce?",
+    "opciones": [
+      "Ser reconocida solo después de una cirugía",
+      "Ser identificada según estereotipos de apariencia",
+      "Ser tratada e identificada conforme a la identidad autopercibida",
+      "Ser reconocida únicamente mediante sentencia penal"
+    ],
+    "correcta": 2,
+    "explicacion": "El resumen garantiza reconocimiento, libre desarrollo y trato e identificación de acuerdo con la identidad de género.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=4 | oficial 2026 p. PDF 4; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 4
+  },
+  {
+    "id": "N4-015",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.2",
+    "tema": "Rectificación registral",
+    "pregunta": "¿Cuál de estos requisitos NO puede exigirse según el resumen del artículo 4 de la Ley 26.743?",
+    "opciones": [
+      "Tramitar administrativamente la rectificación",
+      "Respetar la confidencialidad del procedimiento",
+      "Mantener la gratuidad del trámite",
+      "Acreditar cirugía, tratamientos hormonales o diagnóstico médico o psicológico"
+    ],
+    "correcta": 3,
+    "explicacion": "El módulo excluye expresamente las intervenciones y diagnósticos como requisitos; no enumera exhaustivamente todos los requisitos legales.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=5 | oficial 2026 p. PDF 5; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 5
+  },
+  {
+    "id": "N4-016",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.3",
+    "tema": "Definición de violencia",
+    "pregunta": "¿Cuál afirmación coincide con la definición de violencia contra las mujeres estudiada?",
+    "opciones": [
+      "Puede consistir en acciones u omisiones, en ámbitos públicos o privados, sobre una relación desigual de poder",
+      "Solo existe si hay lesiones físicas visibles",
+      "Se limita a relaciones familiares con convivencia",
+      "Excluye conductas del Estado y sus agentes"
+    ],
+    "correcta": 0,
+    "explicacion": "La definición es amplia e incluye acciones, omisiones, afectaciones diversas y violencia estatal.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=5 | oficial 2026 p. PDF 5; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 5
+  },
+  {
+    "id": "N4-017",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.3",
+    "tema": "Violencia indirecta",
+    "pregunta": "Una disposición discriminatoria coloca a mujeres en desventaja frente a varones sin una agresión corporal directa. ¿Qué categoría describe el módulo?",
+    "opciones": [
+      "Ausencia de violencia por no haber golpes",
+      "Violencia indirecta",
+      "Violencia exclusivamente obstétrica",
+      "Un ajuste razonable"
+    ],
+    "correcta": 1,
+    "explicacion": "La violencia indirecta comprende prácticas, criterios o disposiciones discriminatorias que generan desventaja.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=5 | oficial 2026 p. PDF 5; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 5
+  },
+  {
+    "id": "N4-018",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.3",
+    "tema": "Tipos de violencia",
+    "pregunta": "Retener bienes y controlar los ingresos de una mujer corresponde principalmente al tipo:",
+    "opciones": [
+      "Obstétrico",
+      "Doméstico",
+      "Económico o patrimonial",
+      "Mediático"
+    ],
+    "correcta": 2,
+    "explicacion": "Económica o patrimonial es un tipo; doméstica, obstétrica y mediática son modalidades.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=5 | oficial 2026 p. PDF 5; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 5
+  },
+  {
+    "id": "N4-019",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.3",
+    "tema": "Violencia psicológica",
+    "pregunta": "¿Qué conducta ejemplifica violencia psicológica según la tabla del módulo?",
+    "opciones": [
+      "Otorgar información clara para decidir",
+      "Respetar autonomía y privacidad",
+      "Facilitar acceso a medios de subsistencia",
+      "Aislar, humillar y vigilar constantemente"
+    ],
+    "correcta": 3,
+    "explicacion": "Humillación, aislamiento y vigilancia aparecen expresamente como formas de daño psicológico.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=5 | oficial 2026 p. PDF 5; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 5
+  },
+  {
+    "id": "N4-020",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.3",
+    "tema": "Violencia sexual",
+    "pregunta": "¿Qué afirmación sobre el tipo sexual coincide con el material?",
+    "opciones": [
+      "Puede existir dentro del matrimonio si se vulnera la decisión libre mediante coerción",
+      "El matrimonio elimina la posibilidad de violencia sexual",
+      "Solo existe si la persona agresora es desconocida",
+      "Toda conducta sexual constituye automáticamente una modalidad obstétrica"
+    ],
+    "correcta": 0,
+    "explicacion": "El módulo incluye violación matrimonial y otras vulneraciones de la libertad sexual o reproductiva.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=5 | oficial 2026 p. PDF 5; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 5
+  },
+  {
+    "id": "N4-021",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.3",
+    "tema": "Tipo y modalidad",
+    "pregunta": "¿Qué pareja contiene un tipo y una modalidad, respectivamente?",
+    "opciones": [
+      "Doméstica y laboral",
+      "Psicológica y doméstica",
+      "Obstétrica y digital",
+      "Física y simbólica"
+    ],
+    "correcta": 1,
+    "explicacion": "Psicológica describe la naturaleza de la afectación; doméstica describe el ámbito o vínculo.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=5 | oficial 2026 p. PDF 5; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 5
+  },
+  {
+    "id": "N4-022",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.3",
+    "tema": "Violencia doméstica",
+    "pregunta": "Según el módulo, la modalidad doméstica:",
+    "opciones": [
+      "Requiere matrimonio vigente y convivencia",
+      "Solo comprende familiares consanguíneos",
+      "Puede darse en noviazgos vigentes o finalizados, con o sin convivencia",
+      "Excluye relaciones de pareja finalizadas"
+    ],
+    "correcta": 2,
+    "explicacion": "La definición incluye distintas relaciones familiares y de pareja, actuales o pasadas, y no exige convivencia.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=6 | oficial 2026 p. PDF 6; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 6
+  },
+  {
+    "id": "N4-023",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.3",
+    "tema": "Violencia laboral",
+    "pregunta": "Exigir un test de embarazo para acceder a un empleo corresponde a la modalidad:",
+    "opciones": [
+      "Obstétrica",
+      "Mediática",
+      "En espacios públicos",
+      "Laboral"
+    ],
+    "correcta": 3,
+    "explicacion": "El módulo incluye expresamente el test de embarazo entre manifestaciones de violencia laboral.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=6 | oficial 2026 p. PDF 6; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 6
+  },
+  {
+    "id": "N4-024",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.3",
+    "tema": "Modalidad digital",
+    "pregunta": "Difundir material íntimo sin consentimiento mediante redes corresponde a la modalidad:",
+    "opciones": [
+      "Digital o telemática",
+      "Exclusivamente doméstica",
+      "Obstétrica",
+      "Contra la libertad reproductiva por definición necesaria"
+    ],
+    "correcta": 0,
+    "explicacion": "La violencia mediante tecnologías incluye difusión íntima no consentida y se vincula a la Ley Olimpia.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=6 | oficial 2026 p. PDF 6; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 6
+  },
+  {
+    "id": "N4-025",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.3",
+    "tema": "Marco normativo",
+    "pregunta": "¿Qué asociación ley y nombre coincide con la matriz del módulo?",
+    "opciones": [
+      "27.736: Micaela",
+      "27.736: Olimpia",
+      "27.499: Brisa",
+      "26.485: Parto Humanizado"
+    ],
+    "correcta": 1,
+    "explicacion": "La tabla vincula Olimpia con 27.736 y Micaela con 27.499; 26.485 es protección integral.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=6 | oficial 2026 p. PDF 6; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 6
+  },
+  {
+    "id": "N4-026",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.3",
+    "tema": "Modalidad obstétrica",
+    "pregunta": "El trato deshumanizado por personal de salud durante procesos reproductivos se identifica como modalidad:",
+    "opciones": [
+      "Pública política",
+      "Mediática",
+      "Obstétrica",
+      "Exclusivamente económica"
+    ],
+    "correcta": 2,
+    "explicacion": "La modalidad obstétrica se relaciona con trato deshumanizado y abuso sobre procesos reproductivos por personal sanitario.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=6 | oficial 2026 p. PDF 6; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 6
+  },
+  {
+    "id": "N4-027",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.3",
+    "tema": "Mitos",
+    "pregunta": "¿Cuál afirmación coincide con la desmitificación del material?",
+    "opciones": [
+      "La violencia solo ocurre en sectores de bajos ingresos",
+      "La violencia doméstica debe considerarse un asunto estrictamente privado",
+      "Toda persona agresora necesariamente tiene una enfermedad mental",
+      "Alcohol y drogas pueden agravar, pero no justifican la conducta de dominación"
+    ],
+    "correcta": 3,
+    "explicacion": "El texto rechaza explicaciones justificatorias y reconoce una problemática social y de derechos humanos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=7 | oficial 2026 p. PDF 7; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 7
+  },
+  {
+    "id": "N4-028",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.3",
+    "tema": "Ciclo de violencia",
+    "pregunta": "¿Cuál es el orden del ciclo de Walker presentado?",
+    "opciones": [
+      "Acumulación de tensión, explosión, luna de miel",
+      "Luna de miel, reparación judicial, tensión",
+      "Explosión, sentencia, reconciliación",
+      "Acumulación, denuncia obligatoria, absolución"
+    ],
+    "correcta": 0,
+    "explicacion": "Las fases del modelo son tensión, descarga y arrepentimiento o luna de miel.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=7 | oficial 2026 p. PDF 7; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 7
+  },
+  {
+    "id": "N4-029",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.3",
+    "tema": "Ciclo de violencia",
+    "pregunta": "Pedidos de perdón, regalos y promesas de cambio corresponden a:",
+    "opciones": [
+      "Explosión como fase de máxima descarga",
+      "Luna de miel o arrepentimiento",
+      "Acumulación de prueba objetiva",
+      "Intervención disciplinaria"
+    ],
+    "correcta": 1,
+    "explicacion": "Son conductas compensatorias que el recuadro ubica en la tercera fase.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=7 | oficial 2026 p. PDF 7; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 7
+  },
+  {
+    "id": "N4-030",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.3",
+    "tema": "Factores de riesgo",
+    "pregunta": "Según las propiedades atribuidas a Loinaz, ¿qué orientación resulta adecuada?",
+    "opciones": [
+      "Buscar siempre una única causa que explique toda violencia",
+      "Descartar formas graves por ser relativamente infrecuentes",
+      "Evaluar factores de riesgo dinámicos para prevenir nuevas agresiones",
+      "Considerar la violencia necesariamente involuntaria"
+    ],
+    "correcta": 2,
+    "explicacion": "La multicausalidad orienta a evaluar riesgo; la baja frecuencia relativa no elimina gravedad ni necesidad de prevención.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=7 | oficial 2026 p. PDF 7; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 7
+  },
+  {
+    "id": "N4-031",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.4",
+    "tema": "Imparcialidad",
+    "pregunta": "¿Cómo relaciona el módulo perspectiva de género e imparcialidad judicial?",
+    "opciones": [
+      "Aplicar perspectiva de género obliga a abandonar toda imparcialidad",
+      "Solo son imparciales las decisiones que ignoran desigualdades",
+      "La perspectiva se limita a la opinión privada del juez",
+      "Eliminar sesgos contribuye a garantizar imparcialidad"
+    ],
+    "correcta": 3,
+    "explicacion": "El módulo afirma que la perspectiva permite remover prejuicios que afectan decisiones aparentemente neutrales.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=8 | oficial 2026 p. PDF 8; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 8
+  },
+  {
+    "id": "N4-032",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.4",
+    "tema": "Revictimización",
+    "pregunta": "¿Qué actuación ejemplifica victimización secundaria?",
+    "opciones": [
+      "Someter a la persona a interrogatorios repetidos e indagaciones innecesarias sobre su intimidad",
+      "Brindar acompañamiento interdisciplinario",
+      "Evitar exámenes superfluos",
+      "Explicar los pasos en lenguaje claro"
+    ],
+    "correcta": 0,
+    "explicacion": "El daño institucional añadido por repeticiones innecesarias, demoras o trato deshumanizado constituye revictimización.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=8 | oficial 2026 p. PDF 8; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 8
+  },
+  {
+    "id": "N4-033",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.4",
+    "tema": "Violencia institucional",
+    "pregunta": "Cuestionar credibilidad por vestimenta y exigir pruebas no previstas legalmente son prácticas que el módulo manda erradicar porque:",
+    "opciones": [
+      "Constituyen métodos necesarios para toda denuncia",
+      "Obstaculizan el acceso a justicia y reproducen violencia institucional",
+      "Sustituyen legítimamente el deber de investigación",
+      "Son ajustes razonables"
+    ],
+    "correcta": 1,
+    "explicacion": "El material enumera estereotipos y exigencias ilegales como barreras institucionales.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=8 | oficial 2026 p. PDF 8; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 8
+  },
+  {
+    "id": "N4-034",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.4",
+    "tema": "Jurisprudencia",
+    "pregunta": "¿Qué enseñanza vincula el módulo con López Soto vs. Venezuela?",
+    "opciones": [
+      "La ineficacia estatal siempre es jurídicamente neutra",
+      "La víctima debe soportar hostigamiento para continuar una causa",
+      "Estereotipos y falta de capacitación judicial favorecen impunidad y desalientan denuncias",
+      "La perspectiva de género elimina la necesidad de investigación"
+    ],
+    "correcta": 2,
+    "explicacion": "La síntesis del caso relaciona prejuicios, impunidad, desistimiento y discriminación estatal.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=8 | oficial 2026 p. PDF 8; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 8
+  },
+  {
+    "id": "N4-035",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.4",
+    "tema": "Retractación",
+    "pregunta": "En un delito de acción pública, la persona afectada manifiesta que quiere retirar la denuncia. Según el módulo, el MPF:",
+    "opciones": [
+      "Debe archivar automáticamente por falta de ratificación",
+      "Solo puede investigar si la víctima paga un patrocinio",
+      "Debe amenazar con falsa denuncia para obtener ratificación",
+      "Debe continuar la investigación de oficio"
+    ],
+    "correcta": 3,
+    "explicacion": "El impulso de oficio en delitos de acción pública no depende de la ratificación de la víctima.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=9 | oficial 2026 p. PDF 9; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 9
+  },
+  {
+    "id": "N4-036",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.4",
+    "tema": "Prueba independiente",
+    "pregunta": "¿Qué orientación probatoria propone el material ante la retractación?",
+    "opciones": [
+      "Recabar pericias, informes y testimonios de terceros, evitando cargar toda la prueba en la víctima",
+      "Exigir que la víctima sostenga sola toda la acusación",
+      "Descartar informes médicos y prueba indirecta",
+      "Reemplazar la investigación por una amenaza de falso testimonio"
+    ],
+    "correcta": 0,
+    "explicacion": "La prueba objetiva independiente permite investigar sin hacer depender todo de la declaración sostenida de la persona afectada.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=9 | oficial 2026 p. PDF 9; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 9
+  },
+  {
+    "id": "N4-037",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.4",
+    "tema": "Retractación y amenazas",
+    "pregunta": "¿Qué conducta prohíbe expresamente el recuadro ante una retractación?",
+    "opciones": [
+      "Considerar dependencia económica y temor",
+      "Amenazar con causas por falso testimonio o falsa denuncia para forzar a la víctima",
+      "Mantener acompañamiento interdisciplinario",
+      "Investigar de oficio delitos de acción pública"
+    ],
+    "correcta": 1,
+    "explicacion": "El módulo prohíbe amedrentar mediante amenazas de imputaciones por retractarse.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=9 | oficial 2026 p. PDF 9; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 9
+  },
+  {
+    "id": "N4-038",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.5",
+    "tema": "Protocolo SCJM",
+    "pregunta": "¿Qué acordada identifica el módulo como aprobación del protocolo de violencia laboral por motivos de género?",
+    "opciones": [
+      "32.748, como protocolo de 1953",
+      "15.422, del 8 de marzo de 2026",
+      "30.979, del 8 de marzo de 2023",
+      "29.321, como ley nacional"
+    ],
+    "correcta": 2,
+    "explicacion": "La referencia precisa del resumen es Acordada 30.979, 8 de marzo de 2023.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=9 | oficial 2026 p. PDF 9; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 9
+  },
+  {
+    "id": "N4-039",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.5",
+    "tema": "Alcance del protocolo",
+    "pregunta": "¿Qué ámbito contempla el resumen del protocolo?",
+    "opciones": [
+      "Solo la Primera Circunscripción y trabajo presencial",
+      "Únicamente personal con una antigüedad mínima",
+      "Solo magistratura, con exclusión de empleados",
+      "Cuatro circunscripciones y trabajo presencial, remoto o virtual"
+    ],
+    "correcta": 3,
+    "explicacion": "El alcance personal es amplio y el territorial comprende las cuatro circunscripciones y diferentes modalidades de trabajo.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=9 | oficial 2026 p. PDF 9; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 9
+  },
+  {
+    "id": "N4-040",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.5",
+    "tema": "Confidencialidad",
+    "pregunta": "Según los principios del protocolo resumido, divulgar datos del procedimiento:",
+    "opciones": [
+      "Constituye falta grave",
+      "Está permitido si el agente conoce a las partes",
+      "Es obligatorio para toda la oficina sin restricciones",
+      "Reemplaza el consentimiento informado"
+    ],
+    "correcta": 0,
+    "explicacion": "El módulo destaca confidencialidad y califica su vulneración mediante divulgación como falta grave.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=9 | oficial 2026 p. PDF 9; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 9
+  },
+  {
+    "id": "N4-041",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.5",
+    "tema": "Órgano de aplicación",
+    "pregunta": "¿Cuál es el órgano de aplicación identificado en el módulo?",
+    "opciones": [
+      "Junta Electoral provincial",
+      "Dirección de la Mujer, Género y Diversidad Dra. Carmen María Argibay",
+      "Área de Estadística judicial",
+      "Consejo Federal de Inversiones"
+    ],
+    "correcta": 1,
+    "explicacion": "El cuadro del procedimiento atribuye esa función a la Dirección de la Mujer, Género y Diversidad.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=9 | oficial 2026 p. PDF 9; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 9
+  },
+  {
+    "id": "N4-042",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.5",
+    "tema": "Requisitos del trámite",
+    "pregunta": "¿Cuál combinación coincide con el resumen del protocolo?",
+    "opciones": [
+      "Exige abogado; admite únicamente denuncias anónimas",
+      "Solo admite denuncias colectivas sin firmas",
+      "No exige abogado; no admite denuncias anónimas; requiere consentimiento informado",
+      "No exige consentimiento y prohíbe la consulta individual"
+    ],
+    "correcta": 2,
+    "explicacion": "La página 10 descarta patrocinio obligatorio, anonimato y colectivas sin firma individual; requiere Anexo I.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=10 | oficial 2026 p. PDF 10; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 10
+  },
+  {
+    "id": "N4-043",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.5",
+    "tema": "Medidas de resguardo",
+    "pregunta": "¿Qué medida menciona el material para proteger durante el trámite?",
+    "opciones": [
+      "Imponer condena penal automática sin investigación",
+      "Trasladar obligatoriamente a la afectada aunque se oponga",
+      "Publicar los datos de ambas partes",
+      "Separar espacios de trabajo y disponer medidas preventivas según el caso"
+    ],
+    "correcta": 3,
+    "explicacion": "El módulo enumera resguardos preventivos; el traslado de la afectada aparece si ella lo solicita.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=10 | oficial 2026 p. PDF 10; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 10
+  },
+  {
+    "id": "N4-044",
+    "etapa": "especificos",
+    "modulo": 4,
+    "subtema": "4.5",
+    "tema": "Compulsas",
+    "pregunta": "¿Qué organismo aparece como destino de la compulsa penal en el resumen del protocolo?",
+    "opciones": [
+      "Ministerio Público Fiscal",
+      "Junta Electoral",
+      "Área de Estadística",
+      "Consejo de la Magistratura como receptor penal general"
+    ],
+    "correcta": 0,
+    "explicacion": "El módulo menciona remisión al MPF si hay delito. El protocolo original distingue delitos de oficio de los dependientes de instancia privada; no debe generalizarse un requisito de consentimiento a la remisión por delitos de oficio.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=10 | oficial 2026 p. PDF 10; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+    "pagina": 10
+  },
+  {
+    "id": "N5-001",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.1",
+    "tema": "Tutela efectiva",
+    "pregunta": "Según la introducción del módulo, la tutela judicial efectiva:",
+    "opciones": [
+      "Solo comienza cuando se dicta una sentencia definitiva",
+      "No guarda relación con la atención administrativa",
+      "Se construye también en la atención, la claridad de notificaciones y el trato digno",
+      "Se satisface aunque nadie comprenda las comunicaciones"
+    ],
+    "correcta": 2,
+    "explicacion": "El módulo vincula acceso a justicia con toda la experiencia de atención y comprensión, desde el primer contacto.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=2 | oficial 2026 p. PDF 2; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 2
+  },
+  {
+    "id": "N5-002",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.1",
+    "tema": "Ciudadanía en el centro",
+    "pregunta": "¿Qué caracteriza un servicio centrado en la ciudadanía?",
+    "opciones": [
+      "Limitar la calidad a saludar con amabilidad",
+      "Organizar todos los pasos según comodidad interna exclusivamente",
+      "Prometer a cada persona un fallo favorable",
+      "Diseñar, implementar y evaluar procesos a partir de necesidades legítimas y derechos"
+    ],
+    "correcta": 3,
+    "explicacion": "El enfoque modifica operaciones y decisiones; no consiste solo en cordialidad ni en alterar resultados judiciales.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=3 | oficial 2026 p. PDF 3; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 3
+  },
+  {
+    "id": "N5-003",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.1",
+    "tema": "Orientación a la ciudadanía",
+    "pregunta": "Antes de responder, una agente pregunta qué necesita realmente la persona. ¿Qué principio aplica de manera directa?",
+    "opciones": [
+      "Orientación a la ciudadanía",
+      "Suposición de necesidades",
+      "Sustitución de la decisión judicial",
+      "Segregación funcional"
+    ],
+    "correcta": 0,
+    "explicacion": "Ese principio exige comprender necesidades reales y preguntar antes de asumir.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=3 | oficial 2026 p. PDF 3; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 3
+  },
+  {
+    "id": "N5-004",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.1",
+    "tema": "Transparencia",
+    "pregunta": "Explicar el estado del expediente y los plazos con información clara y oportuna se vincula principalmente con:",
+    "opciones": [
+      "Opacidad técnica",
+      "Transparencia",
+      "Formalismo redundante",
+      "Imparcialidad entendida como silencio"
+    ],
+    "correcta": 1,
+    "explicacion": "El cuadro vincula transparencia con información clara, oportuna y accesible sobre procedimientos y resultados.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=3 | oficial 2026 p. PDF 3; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 3
+  },
+  {
+    "id": "N5-005",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.1",
+    "tema": "Eficiencia",
+    "pregunta": "Evitar solicitar documentos que el sistema ya contiene es un ejemplo de:",
+    "opciones": [
+      "Supresión arbitraria de toda exigencia legal",
+      "Reducción de accesibilidad",
+      "Eficiencia",
+      "Delegación de la responsabilidad al usuario"
+    ],
+    "correcta": 2,
+    "explicacion": "La eficiencia minimiza tiempos y burocracia innecesaria, incluida documentación redundante.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=3 | oficial 2026 p. PDF 3; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 3
+  },
+  {
+    "id": "N5-006",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.1",
+    "tema": "Calidad",
+    "pregunta": "Participar en capacitaciones y proponer mejoras técnicas y humanas expresa el principio de:",
+    "opciones": [
+      "Inmovilidad de procedimientos",
+      "Exclusividad de la tecnología",
+      "Supresión de la participación",
+      "Calidad"
+    ],
+    "correcta": 3,
+    "explicacion": "La calidad se presenta como búsqueda de mejora continua en servicio y atención.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=4 | oficial 2026 p. PDF 4; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 4
+  },
+  {
+    "id": "N5-007",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.1",
+    "tema": "Participación",
+    "pregunta": "Canalizar sugerencias para diseñar y evaluar servicios corresponde a:",
+    "opciones": [
+      "Participación ciudadana",
+      "Revictimización",
+      "Privatización de la decisión judicial",
+      "Aislamiento institucional"
+    ],
+    "correcta": 0,
+    "explicacion": "La participación involucra a las personas en diseño y evaluación mediante canales de opinión.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=4 | oficial 2026 p. PDF 4; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 4
+  },
+  {
+    "id": "N5-008",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.1",
+    "tema": "Beneficios",
+    "pregunta": "¿Qué beneficio operativo señala el módulo para un servicio centrado en la ciudadanía?",
+    "opciones": [
+      "Eliminar toda necesidad de atención personal",
+      "Reducir retrámites y consultas repetitivas",
+      "Aumentar pasos para demostrar actividad",
+      "Garantizar ausencia total de conflictos sociales"
+    ],
+    "correcta": 1,
+    "explicacion": "Una comunicación y gestión mejores reducen repeticiones y frustración; no garantizan la desaparición de todo conflicto.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=4 | oficial 2026 p. PDF 4; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 4
+  },
+  {
+    "id": "N5-009",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.1",
+    "tema": "Función pública",
+    "pregunta": "¿Qué asociación coincide con los principios CLAD presentados?",
+    "opciones": [
+      "Imparcialidad: decidir según afinidad personal",
+      "Transparencia: reservar toda información de gestión",
+      "Mérito y capacidad: selección de personas preparadas mediante concursos transparentes",
+      "Sometimiento a ley: cumplir solo reglas que resulten convenientes"
+    ],
+    "correcta": 2,
+    "explicacion": "El recuadro relaciona mérito y capacidad con concursos y preparación, junto a igualdad y legalidad.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=5 | oficial 2026 p. PDF 5; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 5
+  },
+  {
+    "id": "N5-010",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.1",
+    "tema": "Agente judicial",
+    "pregunta": "¿Por qué el módulo considera estratégico al auxiliar con atención directa?",
+    "opciones": [
+      "Tiene facultad de decidir siempre el fondo de toda causa",
+      "Su única responsabilidad es ejecutar tareas sin contacto humano",
+      "Puede sustituir las normas mediante preferencias personales",
+      "Su recepción y orientación pueden facilitar o impedir el acceso a derechos"
+    ],
+    "correcta": 3,
+    "explicacion": "El agente constituye puerta de entrada y garante activo del acceso mediante acciones cotidianas.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=5 | oficial 2026 p. PDF 5; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 5
+  },
+  {
+    "id": "N5-011",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.2",
+    "tema": "Experiencia del usuario",
+    "pregunta": "¿Qué integra la experiencia del usuario de justicia?",
+    "opciones": [
+      "Interacciones, percepciones y emociones desde buscar información hasta cerrar el caso",
+      "Solo la satisfacción con el resultado del fallo",
+      "Únicamente la duración de una audiencia",
+      "Solo el diseño de la página web"
+    ],
+    "correcta": 0,
+    "explicacion": "El concepto es integral y abarca el recorrido completo y la respuesta emocional.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=6 | oficial 2026 p. PDF 6; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 6
+  },
+  {
+    "id": "N5-012",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.2",
+    "tema": "Mapa del viaje",
+    "pregunta": "¿Para qué sirve el mapa del viaje del ciudadano?",
+    "opciones": [
+      "Determinar de antemano quién ganará el litigio",
+      "Identificar etapas, puntos de contacto, emociones y oportunidades de mejora",
+      "Sustituir el expediente por una encuesta",
+      "Medir únicamente la ubicación geográfica de tribunales"
+    ],
+    "correcta": 1,
+    "explicacion": "El mapa visualiza sistemáticamente la interacción con el servicio y permite detectar mejoras.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=6 | oficial 2026 p. PDF 6; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 6
+  },
+  {
+    "id": "N5-013",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.2",
+    "tema": "Formalización",
+    "pregunta": "En la etapa de formalización, con ansiedad elevada, ¿qué estrategia propone el cuadro?",
+    "opciones": [
+      "Acelerar la explicación aunque no se comprenda",
+      "Prometer una resolución favorable",
+      "Validar emoción y explicar paso a paso sin abrumar con tecnicismos",
+      "Evitar todo contacto para conservar neutralidad"
+    ],
+    "correcta": 2,
+    "explicacion": "La estrategia se adapta a ansiedad y esperanza en recepción de documentación.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=6 | oficial 2026 p. PDF 6; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 6
+  },
+  {
+    "id": "N5-014",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.2",
+    "tema": "Seguimiento",
+    "pregunta": "¿Qué necesita prioritariamente la persona en seguimiento de un caso, según el cuadro?",
+    "opciones": [
+      "Promesas de un plazo inventado para tranquilizar",
+      "Silencio hasta la sentencia definitiva",
+      "Repetir la formalización completa en cada consulta",
+      "Información proactiva del estado y plazos realistas"
+    ],
+    "correcta": 3,
+    "explicacion": "El seguimiento asocia incertidumbre e impaciencia con información útil y plazos realistas.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=7 | oficial 2026 p. PDF 7; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 7
+  },
+  {
+    "id": "N5-015",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.2",
+    "tema": "Momento de la verdad",
+    "pregunta": "¿Qué es un momento de la verdad en el servicio?",
+    "opciones": [
+      "Una interacción en que la persona forma una impresión del servicio",
+      "Exclusivamente el instante de votar una sentencia",
+      "Un acto que elimina automáticamente todos los errores previos",
+      "La última fase del trámite por definición"
+    ],
+    "correcta": 0,
+    "explicacion": "El concepto incluye contactos como recepción, comunicación difícil y audiencia, con influencia en percepción global.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=7 | oficial 2026 p. PDF 7; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 7
+  },
+  {
+    "id": "N5-016",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.2",
+    "tema": "Garantía y expectativa",
+    "pregunta": "Entregar una notificación sin que la persona comprenda su significado muestra una brecha entre:",
+    "opciones": [
+      "Identidad y orientación sexual",
+      "Acceso formal a información y comprensión real",
+      "Competencia consciente e inconsciente necesariamente",
+      "Física y economía como tipos de violencia"
+    ],
+    "correcta": 1,
+    "explicacion": "El cuadro distingue derecho formal de información y expectativa de comprenderla para actuar.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=8 | oficial 2026 p. PDF 8; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 8
+  },
+  {
+    "id": "N5-017",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.2",
+    "tema": "Resolución",
+    "pregunta": "Al comunicar una decisión que frustra expectativas, ¿qué propone el módulo?",
+    "opciones": [
+      "Ocultar la decisión hasta que la persona no pregunte",
+      "Cambiar el resultado para evitar malestar",
+      "Empatía, explicación del porqué y de opciones disponibles",
+      "Suponer que la corrección técnica elimina toda necesidad de explicación"
+    ],
+    "correcta": 2,
+    "explicacion": "En la etapa de resolución hay alivio o frustración; comunicar con empatía y orientación forma parte del servicio.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=7 | oficial 2026 p. PDF 7; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 7
+  },
+  {
+    "id": "N5-018",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.3",
+    "tema": "Cinco dimensiones",
+    "pregunta": "¿Qué lista contiene las cinco dimensiones de comunicación clara del módulo?",
+    "opciones": [
+      "Rapidez, reserva, informalidad, brevedad y autoridad",
+      "Legalidad, sanción, secreto, jerarquía y oralidad",
+      "Tono, distancia, volumen, velocidad y vestimenta",
+      "Claridad, concisión, concreción, corrección y cortesía"
+    ],
+    "correcta": 3,
+    "explicacion": "La lista de cinco dimensiones debe distinguirse de elementos no verbales y principios generales de servicio.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=9 | oficial 2026 p. PDF 9; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 9
+  },
+  {
+    "id": "N5-019",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.3",
+    "tema": "Concreción",
+    "pregunta": "Incluir fecha, lugar y pasos específicos en lugar de una indicación vaga aplica principalmente:",
+    "opciones": [
+      "Concreción",
+      "Ambigüedad",
+      "Arcaísmo",
+      "Infantilización"
+    ],
+    "correcta": 0,
+    "explicacion": "Concreción usa referencias específicas, tangibles y vinculadas a la situación de la persona.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=9 | oficial 2026 p. PDF 9; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 9
+  },
+  {
+    "id": "N5-020",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.3",
+    "tema": "Corrección",
+    "pregunta": "Dar una respuesta breve pero basada en datos desactualizados incumple especialmente:",
+    "opciones": [
+      "Proxémica",
+      "Corrección",
+      "Expresión de género",
+      "Participación colectiva"
+    ],
+    "correcta": 1,
+    "explicacion": "La corrección exige información precisa, veraz y actualizada; la brevedad no compensa errores.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=9 | oficial 2026 p. PDF 9; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 9
+  },
+  {
+    "id": "N5-021",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.3",
+    "tema": "Voz activa",
+    "pregunta": "¿Qué redacción aplica mejor la recomendación de voz activa?",
+    "opciones": [
+      "Ha sido resuelta la solicitud por este tribunal",
+      "La resolución de la solicitud ha acontecido",
+      "El tribunal resolvió la solicitud",
+      "La solicitud fue objeto de resolución"
+    ],
+    "correcta": 2,
+    "explicacion": "La voz activa identifica directamente al sujeto que realiza la acción y simplifica la estructura.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=9 | oficial 2026 p. PDF 9; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 9
+  },
+  {
+    "id": "N5-022",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.3",
+    "tema": "Siglas y términos",
+    "pregunta": "Una explicación menciona una sigla desconocida para el usuario. ¿Qué recomienda el decálogo?",
+    "opciones": [
+      "Agregar más siglas para mantener precisión",
+      "Suponer que toda persona debe conocerla",
+      "Eliminar información necesaria aunque cambie el sentido",
+      "Explicarla y definir los términos técnicos indispensables"
+    ],
+    "correcta": 3,
+    "explicacion": "El decálogo propone evitar siglas inexplicadas y aclarar vocabulario técnico necesario.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=10 | oficial 2026 p. PDF 10; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 10
+  },
+  {
+    "id": "N5-023",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.3",
+    "tema": "Verificar comprensión",
+    "pregunta": "¿Qué pregunta verifica mejor comprensión según el decálogo?",
+    "opciones": [
+      "Para asegurarme de haber sido claro, ¿podría contarme qué pasos seguirá?",
+      "¿Entendió?, sin admitir más explicación",
+      "¿Leyó alguna vez una ley?",
+      "¿Está de acuerdo con el resultado?, como única comprobación"
+    ],
+    "correcta": 0,
+    "explicacion": "La devolución de los pasos permite comprobar comprensión operativa, frente a una pregunta cerrada.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=10 | oficial 2026 p. PDF 10; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 10
+  },
+  {
+    "id": "N5-024",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.3",
+    "tema": "Regla de Mehrabian",
+    "pregunta": "¿En qué ámbito presenta el módulo la distribución 7/38/55?",
+    "opciones": [
+      "Todo significado legal de cualquier documento escrito",
+      "Transmisión de actitudes y sentimientos, con contextualización",
+      "Cálculo de plazos procesales",
+      "Medición de la exactitud de una sentencia"
+    ],
+    "correcta": 1,
+    "explicacion": "El texto contextualiza la regla en actitudes y sentimientos; no autoriza generalizarla a toda información.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=10 | oficial 2026 p. PDF 10; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 10
+  },
+  {
+    "id": "N5-025",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.3",
+    "tema": "Congruencia",
+    "pregunta": "Decir que se comprende a alguien mientras se lo ignora visualmente y se usa tono impaciente afecta:",
+    "opciones": [
+      "Solo la cantidad de formularios disponibles",
+      "El número de etapas del proceso",
+      "La congruencia entre palabras, tono y postura",
+      "La identidad de la persona que consulta"
+    ],
+    "correcta": 2,
+    "explicacion": "El ejemplo de Mehrabian destaca que contradicciones no verbales erosionan credibilidad y confianza.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=10 | oficial 2026 p. PDF 10; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 10
+  },
+  {
+    "id": "N5-026",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.3",
+    "tema": "Proxémica",
+    "pregunta": "¿Qué elemento de comunicación no verbal se refiere al manejo de distancia y espacio personal?",
+    "opciones": [
+      "Parafraseo",
+      "Concreción",
+      "Retroalimentación documental",
+      "Proxémica"
+    ],
+    "correcta": 3,
+    "explicacion": "La proxémica estudia cómo la distancia física incide en la interacción.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=11 | oficial 2026 p. PDF 11; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 11
+  },
+  {
+    "id": "N5-027",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.3",
+    "tema": "Parafraseo",
+    "pregunta": "Si una agente dice: «Si comprendí bien, necesita saber la fecha de audiencia», está aplicando:",
+    "opciones": [
+      "Parafraseo",
+      "Atribución de culpa",
+      "Investigación disciplinaria",
+      "Interrupción sistemática"
+    ],
+    "correcta": 0,
+    "explicacion": "Reformular con palabras propias permite confirmar que se entendió el contenido.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=11 | oficial 2026 p. PDF 11; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 11
+  },
+  {
+    "id": "N5-028",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.3",
+    "tema": "Reflejo de sentimientos",
+    "pregunta": "«Comprendo que esta espera le genera incertidumbre» es un ejemplo de:",
+    "opciones": [
+      "Promesa de fallo favorable",
+      "Reflejo de sentimientos",
+      "Definición de un término técnico",
+      "Acuse de recibo administrativo suficiente por sí solo"
+    ],
+    "correcta": 1,
+    "explicacion": "Reconoce y verbaliza la emoción; no decide el trámite ni garantiza el resultado.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=11 | oficial 2026 p. PDF 11; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 11
+  },
+  {
+    "id": "N5-029",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.3",
+    "tema": "Agresividad verbal",
+    "pregunta": "Ante una consulta expresada a gritos, ¿qué actuación coincide con el caso del módulo?",
+    "opciones": [
+      "Responder a gritos para restablecer jerarquía",
+      "Prometer que la persona ganará su causa",
+      "Mantener calma, validar frustración, revisar la situación y pedir trato respetuoso",
+      "Ignorar por completo el problema y sus emociones"
+    ],
+    "correcta": 2,
+    "explicacion": "El caso combina contención, acción concreta y límite respetuoso para evitar escalada.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=12 | oficial 2026 p. PDF 12; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 12
+  },
+  {
+    "id": "N5-030",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.3",
+    "tema": "Duelo",
+    "pregunta": "Una persona llora al presentar un trámite sucesorio. ¿Qué respuesta coincide con el caso estudiado?",
+    "opciones": [
+      "Exigir que termine inmediatamente para no alterar la fila",
+      "Interpretar el llanto como falta de interés",
+      "Explicar todos los tecnicismos de forma acelerada",
+      "Dar tiempo, expresar consideración y acompañar sin presionarla"
+    ],
+    "correcta": 3,
+    "explicacion": "El caso prioriza trato humanizado, pausa y contención ante vulnerabilidad emocional.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=12 | oficial 2026 p. PDF 12; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 12
+  },
+  {
+    "id": "N5-031",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.3",
+    "tema": "Confusión terminológica",
+    "pregunta": "¿Qué hace el agente del caso de la notificación incomprendida?",
+    "opciones": [
+      "Lee el documento y explica en lenguaje sencillo lo que efectivamente comunica",
+      "Confirma un embargo sin revisar el contenido",
+      "Reprocha al adulto mayor su desconocimiento",
+      "Entrega otra copia idéntica sin explicación"
+    ],
+    "correcta": 0,
+    "explicacion": "El caso muestra orientación concreta a partir del documento, evitando aumentar la angustia.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=13 | oficial 2026 p. PDF 13; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 13
+  },
+  {
+    "id": "N5-032",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.3",
+    "tema": "Retroalimentación",
+    "pregunta": "Si se repite muchas veces la misma consulta, el módulo sugiere considerar que:",
+    "opciones": [
+      "Toda persona que pregunta de nuevo actúa de mala fe",
+      "La comunicación previa puede no haber resultado eficaz",
+      "Debe eliminarse el canal de consultas",
+      "La reiteración prueba necesariamente una falla judicial de fondo"
+    ],
+    "correcta": 1,
+    "explicacion": "El análisis de consultas repetidas es una fuente de feedback para mejorar explicaciones.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=13 | oficial 2026 p. PDF 13; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 13
+  },
+  {
+    "id": "N5-033",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.3",
+    "tema": "Observación",
+    "pregunta": "¿Qué condición menciona el material para la observación directa de interacciones por supervisores?",
+    "opciones": [
+      "Exposición pública de los datos personales",
+      "Ausencia total de información al observado",
+      "Consentimiento",
+      "Sustitución de toda encuesta y buzón"
+    ],
+    "correcta": 2,
+    "explicacion": "La observación directa aparece entre canales de retroalimentación con consentimiento.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=13 | oficial 2026 p. PDF 13; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 13
+  },
+  {
+    "id": "N5-034",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.4",
+    "tema": "Protocolos",
+    "pregunta": "¿Cuál es la función central de un protocolo de atención?",
+    "opciones": [
+      "Impedir adaptaciones necesarias a la persona",
+      "Sustituir las competencias de los tribunales",
+      "Dar prioridad a la comodidad del agente sobre los derechos",
+      "Garantizar un estándar consistente sin depender de quién atienda o del momento del día"
+    ],
+    "correcta": 3,
+    "explicacion": "El protocolo procura equidad y consistencia en la calidad del servicio.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=14 | oficial 2026 p. PDF 14; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 14
+  },
+  {
+    "id": "N5-035",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.4",
+    "tema": "SERVQUAL",
+    "pregunta": "¿Cuál elemento pertenece a las cinco dimensiones SERVQUAL citadas?",
+    "opciones": [
+      "Fiabilidad",
+      "Retractación",
+      "Interseccionalidad",
+      "Idoneidad psicofísica"
+    ],
+    "correcta": 0,
+    "explicacion": "La lista SERVQUAL incluye fiabilidad, capacidad de respuesta, seguridad, empatía y elementos tangibles.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=14 | oficial 2026 p. PDF 14; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 14
+  },
+  {
+    "id": "N5-036",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.4",
+    "tema": "Pilares operativos",
+    "pregunta": "¿Qué lista coincide con los cuatro pilares de atención del apartado?",
+    "opciones": [
+      "Fiabilidad, seguridad, empatía y elementos tangibles como lista completa de cuatro pilares",
+      "Cortesía, respeto, eficiencia y resolución efectiva",
+      "Registro, juicio, recurso y ejecución",
+      "Conocimiento, cirugía, diagnóstico y sentencia"
+    ],
+    "correcta": 1,
+    "explicacion": "El apartado traduce la calidad en cuatro pilares distintos de las cinco dimensiones SERVQUAL.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=14 | oficial 2026 p. PDF 14; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 14
+  },
+  {
+    "id": "N5-037",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.4",
+    "tema": "Privacidad",
+    "pregunta": "Conversar sobre datos del expediente con terceros ajenos afecta directamente el pilar de:",
+    "opciones": [
+      "Cortesía solo por omitir el saludo",
+      "Eficiencia solo por usar mucho tiempo",
+      "Respeto, por incumplir privacidad y confidencialidad",
+      "Diseño visual únicamente"
+    ],
+    "correcta": 2,
+    "explicacion": "El respeto comprende dignidad, diversidad, escucha y protección de información personal.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=15 | oficial 2026 p. PDF 15; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 15
+  },
+  {
+    "id": "N5-038",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.4",
+    "tema": "Derivación adecuada",
+    "pregunta": "La consulta excede las competencias del agente. ¿Qué respuesta propone el módulo?",
+    "opciones": [
+      "Inventar una respuesta para evitar derivar",
+      "Decir únicamente «no es aquí» y concluir",
+      "Prometer actuar como juez de la causa",
+      "Orientar hacia el área competente con datos precisos de contacto"
+    ],
+    "correcta": 3,
+    "explicacion": "La resolución efectiva incluye derivación útil cuando la respuesta excede competencia.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=16 | oficial 2026 p. PDF 16; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 16
+  },
+  {
+    "id": "N5-039",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.4",
+    "tema": "Diagnóstico rápido",
+    "pregunta": "¿Qué técnica permite que la persona describa su necesidad en sus propios términos?",
+    "opciones": [
+      "Preguntas abiertas de diagnóstico",
+      "Preguntas que ya contienen la respuesta deseada",
+      "Interrumpir para completar su relato",
+      "Entregar un formulario sin escuchar"
+    ],
+    "correcta": 0,
+    "explicacion": "Las preguntas abiertas descubren necesidades reales antes de responder o derivar.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=16 | oficial 2026 p. PDF 16; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 16
+  },
+  {
+    "id": "N5-040",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.4",
+    "tema": "Anticipación",
+    "pregunta": "Informar un requisito relevante antes de que la persona llegue a la última ventanilla ejemplifica:",
+    "opciones": [
+      "Presunción irrebatible de su intención",
+      "Anticipación de necesidades",
+      "Ocultamiento de información",
+      "Supresión de todo requisito legal"
+    ],
+    "correcta": 1,
+    "explicacion": "La anticipación ofrece información pertinente a partir del trámite identificado.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=16 | oficial 2026 p. PDF 16; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 16
+  },
+  {
+    "id": "N5-041",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.4",
+    "tema": "Simplificación",
+    "pregunta": "¿Qué pregunta guía la revisión de pasos burocráticos según el módulo?",
+    "opciones": [
+      "¿Cómo podemos aumentar la cantidad de ventanillas?",
+      "¿Cómo trasladar todas las tareas a quien consulta?",
+      "¿Agrega valor para la persona o subsiste por inercia institucional?",
+      "¿Cómo evitar que se conozca el procedimiento?"
+    ],
+    "correcta": 2,
+    "explicacion": "La simplificación revisa duplicaciones e inercia desde la perspectiva ciudadana.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=17 | oficial 2026 p. PDF 17; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 17
+  },
+  {
+    "id": "N5-042",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.4",
+    "tema": "Recepción de quejas",
+    "pregunta": "¿Cuál es el primer paso del flujo de quejas?",
+    "opciones": [
+      "Cerrar el reclamo sin registro",
+      "Publicar la identidad de quien reclama",
+      "Defender el procedimiento antes de comprender el problema",
+      "Recepción activa: escuchar sin interrupciones y validar malestar"
+    ],
+    "correcta": 3,
+    "explicacion": "El flujo comienza con empatía y ambiente seguro; la queja no debe tratarse como ataque personal.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=17 | oficial 2026 p. PDF 17; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 17
+  },
+  {
+    "id": "N5-043",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.4",
+    "tema": "Trazabilidad",
+    "pregunta": "Registrar fecha, descripción, datos y entregar número de seguimiento corresponde al paso:",
+    "opciones": [
+      "Registro y acuse",
+      "Cierre y aprendizaje",
+      "Comunicación de resolución",
+      "Investigación objetiva de causa raíz"
+    ],
+    "correcta": 0,
+    "explicacion": "El segundo paso genera trazabilidad y constancia formal del reclamo.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=18 | oficial 2026 p. PDF 18; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 18
+  },
+  {
+    "id": "N5-044",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.4",
+    "tema": "Causa raíz",
+    "pregunta": "Analizar si el problema surgió de un error humano, un sistema o un procedimiento mal diseñado corresponde a:",
+    "opciones": [
+      "Recepción activa exclusivamente",
+      "Investigación objetiva",
+      "Despedida protocolar",
+      "Desestimación automática"
+    ],
+    "correcta": 1,
+    "explicacion": "La investigación objetiva busca comprender la causa raíz con imparcialidad.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=18 | oficial 2026 p. PDF 18; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 18
+  },
+  {
+    "id": "N5-045",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.4",
+    "tema": "Transparencia en reclamos",
+    "pregunta": "Informar medidas tomadas y reconocer un error cuando lo hubo expresa, en el flujo de quejas:",
+    "opciones": [
+      "Registro y acuse exclusivamente",
+      "Reserva absoluta incluso frente a quien reclamó",
+      "Comunicación de resolución y transparencia",
+      "Ausencia de aprendizaje por definición"
+    ],
+    "correcta": 2,
+    "explicacion": "El cuarto paso exige explicación clara y honesta de la respuesta.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=18 | oficial 2026 p. PDF 18; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 18
+  },
+  {
+    "id": "N5-046",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.4",
+    "tema": "Aprendizaje institucional",
+    "pregunta": "¿Qué completa el circuito de gestión de quejas?",
+    "opciones": [
+      "Archivar sin analizar las causas",
+      "Suprimir el canal para que no haya nuevos reclamos",
+      "Considerar que registrar por sí solo resuelve el problema",
+      "Ajustar protocolos para evitar repetición y compartir la lección con el equipo"
+    ],
+    "correcta": 3,
+    "explicacion": "Cierre y aprendizaje usa la información de la queja para mejora continua.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=18 | oficial 2026 p. PDF 18; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 18
+  },
+  {
+    "id": "N5-047",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.5",
+    "tema": "Modelo social",
+    "pregunta": "El enfoque de accesibilidad del módulo entiende la discapacidad en relación con:",
+    "opciones": [
+      "La interacción de la persona y las barreras del entorno",
+      "Una incapacidad intrínseca que vuelve innecesarias adaptaciones",
+      "La obligación de que todas las personas se adapten sin apoyo",
+      "La inexistencia de obstáculos institucionales"
+    ],
+    "correcta": 0,
+    "explicacion": "El modelo social desplaza la mirada hacia barreras y diseño del entorno.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=18 | oficial 2026 p. PDF 18; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 18
+  },
+  {
+    "id": "N5-048",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.5",
+    "tema": "Diseño universal",
+    "pregunta": "Diseñar servicios desde su inicio para que puedan utilizarlos todas las personas aplica:",
+    "opciones": [
+      "Una adaptación exclusivamente posterior a cada reclamo",
+      "Diseño universal",
+      "Infantilización",
+      "Uniformidad que ignora diversidad"
+    ],
+    "correcta": 1,
+    "explicacion": "La accesibilidad incluye planificación inclusiva desde el comienzo, además de eliminar barreras existentes.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=19 | oficial 2026 p. PDF 19; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 19
+  },
+  {
+    "id": "N5-049",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.5",
+    "tema": "Ajustes razonables",
+    "pregunta": "¿Qué define un ajuste razonable según el módulo?",
+    "opciones": [
+      "Cualquier ventaja arbitraria para una persona",
+      "Exclusivamente una rampa construida para todos",
+      "Adaptación necesaria y adecuada al caso sin carga desproporcionada para ejercer derechos en igualdad",
+      "Una modificación prohibida por afectar igualdad formal"
+    ],
+    "correcta": 2,
+    "explicacion": "La definición incluye necesidad particular, adecuación y ausencia de carga indebida o desproporcionada.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=19 | oficial 2026 p. PDF 19; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 19
+  },
+  {
+    "id": "N5-050",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.5",
+    "tema": "Igualdad efectiva",
+    "pregunta": "Permitir que una persona declare sentada cuando lo necesita:",
+    "opciones": [
+      "Es siempre un privilegio incompatible con igualdad",
+      "Elimina automáticamente los derechos de las otras partes",
+      "Constituye una modalidad de violencia laboral",
+      "Puede ser un ajuste para nivelar condiciones de participación"
+    ],
+    "correcta": 3,
+    "explicacion": "El módulo diferencia ajuste de ventaja indebida: busca igualdad real de oportunidades.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=19 | oficial 2026 p. PDF 19; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 19
+  },
+  {
+    "id": "N5-051",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.5",
+    "tema": "Accesibilidad física",
+    "pregunta": "Pasillos despejados, baños adaptados y puertas amplias se vinculan principalmente con accesibilidad:",
+    "opciones": [
+      "Física",
+      "Exclusivamente actitudinal",
+      "Exclusivamente idiomática",
+      "Económica patrimonial"
+    ],
+    "correcta": 0,
+    "explicacion": "La accesibilidad física comprende circulación autónoma, más allá de rampas y ascensores.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=19 | oficial 2026 p. PDF 19; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 19
+  },
+  {
+    "id": "N5-052",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.5",
+    "tema": "Información accesible",
+    "pregunta": "Lectura fácil, braille, subtítulos y lengua de señas integran principalmente:",
+    "opciones": [
+      "Una sustitución de todo derecho a ser oído",
+      "Accesibilidad de información y comunicación",
+      "Una prohibición del lenguaje claro",
+      "Únicamente gestión de recursos económicos"
+    ],
+    "correcta": 1,
+    "explicacion": "Son formatos y apoyos que vuelven comprensibles y utilizables las comunicaciones.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=20 | oficial 2026 p. PDF 20; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 20
+  },
+  {
+    "id": "N5-053",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.5",
+    "tema": "Accesibilidad actitudinal",
+    "pregunta": "¿Qué conducta respeta la accesibilidad actitudinal?",
+    "opciones": [
+      "Hablar siempre solo con su acompañante",
+      "Infantilizar para simplificar la atención",
+      "Dirigirse directamente a la persona y ofrecer ayuda sin imponerla",
+      "Decidir por la persona sin preguntar sus necesidades"
+    ],
+    "correcta": 2,
+    "explicacion": "El apartado exige escucha, autonomía y ausencia de prácticas paternalistas.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=20 | oficial 2026 p. PDF 20; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 20
+  },
+  {
+    "id": "N5-054",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.5",
+    "tema": "WCAG",
+    "pregunta": "¿Para qué se mencionan los estándares WCAG en el módulo?",
+    "opciones": [
+      "Determinar el orden de mérito del concurso",
+      "Definir tipos penales",
+      "Calcular honorarios profesionales",
+      "Garantizar accesibilidad de contenidos digitales"
+    ],
+    "correcta": 3,
+    "explicacion": "La referencia se vincula con accesibilidad web y la Ley 26.653; no se presenta como articulado penal.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=20 | oficial 2026 p. PDF 20; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 20
+  },
+  {
+    "id": "N5-055",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.5",
+    "tema": "Accesibilidad tecnológica",
+    "pregunta": "¿Qué riesgo señala el apartado de tecnología?",
+    "opciones": [
+      "La digitalización sin accesibilidad puede crear una nueva barrera",
+      "Toda digitalización resuelve por sí misma cualquier desigualdad",
+      "Los canales alternativos deben eliminarse siempre",
+      "Los lectores de pantalla solo sirven para expedientes en papel"
+    ],
+    "correcta": 0,
+    "explicacion": "El apartado exige sistemas utilizables y alternativas para personas que no pueden acceder a medios digitales.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=21 | oficial 2026 p. PDF 21; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 21
+  },
+  {
+    "id": "N5-056",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.5",
+    "tema": "Personas mayores",
+    "pregunta": "Una persona mayor no puede completar un trámite en línea. ¿Qué estrategia coincide con el material?",
+    "opciones": [
+      "Exigir que resuelva sola la dificultad digital",
+      "Asistencia personalizada y mantenimiento de canales presenciales adecuados",
+      "Presumir incapacidad para toda decisión",
+      "Negar información porque el canal es electrónico"
+    ],
+    "correcta": 1,
+    "explicacion": "La respuesta a brecha tecnológica combina apoyo y alternativas, sin desconocer autonomía.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=21 | oficial 2026 p. PDF 21; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 21
+  },
+  {
+    "id": "N5-057",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.5",
+    "tema": "Barreras idiomáticas",
+    "pregunta": "Para una persona que no domina el idioma del procedimiento, ¿qué medida propone el módulo?",
+    "opciones": [
+      "Suponer que firmar prueba comprensión",
+      "Repetir los mismos tecnicismos más rápido",
+      "Gestionar intérpretes y comunicación culturalmente pertinente",
+      "Tratar la diferencia cultural como falta de interés"
+    ],
+    "correcta": 2,
+    "explicacion": "Intérpretes y materiales adecuados protegen comprensión, defensa y debido proceso.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=22 | oficial 2026 p. PDF 22; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 22
+  },
+  {
+    "id": "N5-058",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.5",
+    "tema": "Niñez y adolescencia",
+    "pregunta": "¿Qué combinación coincide con la atención a niños, niñas y adolescentes?",
+    "opciones": [
+      "Usar siempre tecnicismos de adultos sin adaptación",
+      "Excluir toda participación de la persona menor",
+      "Reiterar innecesariamente relatos para comprobar obediencia",
+      "Lenguaje apropiado a la edad, espacios amigables y evitar revictimización"
+    ],
+    "correcta": 3,
+    "explicacion": "El módulo exige adaptación y participación respetuosa de sus derechos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=23 | oficial 2026 p. PDF 23; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 23
+  },
+  {
+    "id": "N5-059",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.5",
+    "tema": "Salud mental",
+    "pregunta": "En atención a personas con problemas de salud mental, el material recomienda:",
+    "opciones": [
+      "Trato empático, respuesta adecuada en crisis y privacidad",
+      "Exposición pública para que terceros decidan",
+      "Presunción automática de incapacidad total",
+      "Eliminar confidencialidad por la condición de salud"
+    ],
+    "correcta": 0,
+    "explicacion": "El apartado enumera empatía, intervención adecuada y garantía de privacidad y confidencialidad.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=23 | oficial 2026 p. PDF 23; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 23
+  },
+  {
+    "id": "N5-060",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.5",
+    "tema": "Situación de pobreza",
+    "pregunta": "¿Qué respuesta aparece para personas en situación de pobreza?",
+    "opciones": [
+      "Aumentar requisitos para desalentar consultas",
+      "Simplificar trámites e informar asistencia jurídica gratuita",
+      "Suponer que no tienen derechos exigibles",
+      "Reemplazar toda orientación por una plataforma obligatoria"
+    ],
+    "correcta": 1,
+    "explicacion": "La inclusión combina simplificación, asistencia disponible y flexibilidad formal dentro del marco aplicable.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=23 | oficial 2026 p. PDF 23; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 23
+  },
+  {
+    "id": "N5-061",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.6",
+    "tema": "Saber",
+    "pregunta": "Conocer normas y plazos aplicables corresponde al componente de competencia:",
+    "opciones": [
+      "Poder hacer",
+      "Querer hacer",
+      "Saber",
+      "Saber ser/estar"
+    ],
+    "correcta": 2,
+    "explicacion": "Saber designa conocimientos técnicos y teóricos; los otros componentes refieren a recursos, motivación y actitudes.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=24 | oficial 2026 p. PDF 24; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 24
+  },
+  {
+    "id": "N5-062",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.6",
+    "tema": "Saber hacer",
+    "pregunta": "Redactar correctamente un acta aplicando conocimientos corresponde a:",
+    "opciones": [
+      "Querer hacer",
+      "Poder hacer",
+      "Valoración simbólica",
+      "Saber hacer"
+    ],
+    "correcta": 3,
+    "explicacion": "Saber hacer refiere a habilidades prácticas para aplicar lo conocido.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=24 | oficial 2026 p. PDF 24; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 24
+  },
+  {
+    "id": "N5-063",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.6",
+    "tema": "Querer hacer",
+    "pregunta": "La disposición e interés personal en ayudar a la ciudadanía expresan:",
+    "opciones": [
+      "Querer hacer",
+      "Poder hacer",
+      "Saber exclusivamente",
+      "Accesibilidad física"
+    ],
+    "correcta": 0,
+    "explicacion": "Querer hacer identifica motivación, diferente de conocer o contar con recursos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=24 | oficial 2026 p. PDF 24; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 24
+  },
+  {
+    "id": "N5-064",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.6",
+    "tema": "Poder hacer",
+    "pregunta": "Disponer de sistemas adecuados, información actualizada y respaldo institucional corresponde a:",
+    "opciones": [
+      "Querer hacer",
+      "Poder hacer",
+      "Saber ser exclusivamente",
+      "Conciencia como juicio moral concreto"
+    ],
+    "correcta": 1,
+    "explicacion": "El componente depende de medios y condiciones proporcionados por la organización.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=24 | oficial 2026 p. PDF 24; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 24
+  },
+  {
+    "id": "N5-065",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.6",
+    "tema": "Iceberg",
+    "pregunta": "¿Qué ubica el modelo del iceberg por debajo de la superficie?",
+    "opciones": [
+      "Solo títulos y destrezas técnicas observables",
+      "Únicamente infraestructura informática",
+      "Autoconcepto, rasgos y valores",
+      "Exclusivamente plazos procesales escritos"
+    ],
+    "correcta": 2,
+    "explicacion": "Los conocimientos y destrezas se presentan como visibles; valores y rasgos integran la parte profunda.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=24 | oficial 2026 p. PDF 24; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 24
+  },
+  {
+    "id": "N5-066",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.6",
+    "tema": "Idoneidad psicofísica",
+    "pregunta": "Mantener autocontrol y gestionar estrés sin deteriorar el trato se vincula con idoneidad:",
+    "opciones": [
+      "Científico-técnica exclusivamente",
+      "De gestión exclusivamente",
+      "Registral",
+      "Psicofísica"
+    ],
+    "correcta": 3,
+    "explicacion": "La dimensión psicofísica incluye equilibrio afectivo, propias emociones y tolerancia al estrés.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=25 | oficial 2026 p. PDF 25; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 25
+  },
+  {
+    "id": "N5-067",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.6",
+    "tema": "Idoneidad ética",
+    "pregunta": "Actuar con probidad incluso sin supervisión demuestra especialmente idoneidad:",
+    "opciones": [
+      "Ética",
+      "Geográfica",
+      "Exclusivamente informática",
+      "Solo psicofísica"
+    ],
+    "correcta": 0,
+    "explicacion": "La idoneidad ética implica adhesión estable a valores e instituciones, no dependiente de vigilancia.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=25 | oficial 2026 p. PDF 25; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 25
+  },
+  {
+    "id": "N5-068",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.6",
+    "tema": "Idoneidad de gestión",
+    "pregunta": "Coordinar áreas y organizar agenda, recursos y procesos se vincula principalmente con:",
+    "opciones": [
+      "Orientación sexual",
+      "Idoneidad de gestión",
+      "Rectificación registral",
+      "Modalidad institucional de violencia necesariamente"
+    ],
+    "correcta": 1,
+    "explicacion": "La dimensión de gestión reúne organización, planificación, coordinación y trabajo en equipo.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=25 | oficial 2026 p. PDF 25; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 25
+  },
+  {
+    "id": "N5-069",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.6",
+    "tema": "Habilidades duras y blandas",
+    "pregunta": "¿Qué pareja contiene una habilidad dura y una blanda, respectivamente?",
+    "opciones": [
+      "Empatía y colaboración",
+      "Adaptabilidad y redacción de actas",
+      "Manejo del sistema de expedientes y escucha activa",
+      "Gestión emocional y trabajo en equipo"
+    ],
+    "correcta": 2,
+    "explicacion": "El manejo informático es técnico; escucha activa es interpersonal. Ambas clases son necesarias.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=26 | oficial 2026 p. PDF 26; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 26
+  },
+  {
+    "id": "N5-070",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.6",
+    "tema": "Aprendizaje inicial",
+    "pregunta": "Una agente desconoce que su tono genera ansiedad y no reconoce necesidad de mejora. ¿En qué etapa está?",
+    "opciones": [
+      "Competencia consciente",
+      "Competencia inconsciente",
+      "Incompetencia consciente",
+      "Incompetencia inconsciente"
+    ],
+    "correcta": 3,
+    "explicacion": "No reconocer la carencia caracteriza la primera etapa del modelo.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=27 | oficial 2026 p. PDF 27; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 27
+  },
+  {
+    "id": "N5-071",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.6",
+    "tema": "Aprendizaje consciente",
+    "pregunta": "Tras recibir feedback, una persona reconoce que debe aprender a comunicar mejor. ¿Qué etapa describe?",
+    "opciones": [
+      "Incompetencia consciente",
+      "Incompetencia inconsciente",
+      "Competencia inconsciente",
+      "Dominio automático"
+    ],
+    "correcta": 0,
+    "explicacion": "Identificar lo que falta es la segunda etapa y punto de partida para mejorar.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=27 | oficial 2026 p. PDF 27; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 27
+  },
+  {
+    "id": "N5-072",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.6",
+    "tema": "Práctica deliberada",
+    "pregunta": "Un agente aplica escucha activa correctamente, pero debe recordar cada técnica y concentrarse. Se encuentra en:",
+    "opciones": [
+      "Incompetencia inconsciente",
+      "Competencia consciente",
+      "Competencia inconsciente",
+      "Ausencia de todo aprendizaje"
+    ],
+    "correcta": 1,
+    "explicacion": "En la tercera etapa la habilidad existe pero exige esfuerzo deliberado; automatización corresponde a la cuarta.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=27 | oficial 2026 p. PDF 27; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 27
+  },
+  {
+    "id": "N5-073",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.6",
+    "tema": "Ética y moral",
+    "pregunta": "¿Qué distinción coincide con el material?",
+    "opciones": [
+      "Ética es solo una lista de costumbres y moral la infraestructura",
+      "Ambas se limitan a conocimientos informáticos",
+      "Ética reflexiona sobre fundamentos de la moral; moral reúne reglas y costumbres de conducta",
+      "Conciencia y moral significan únicamente habilidades motoras"
+    ],
+    "correcta": 2,
+    "explicacion": "El texto distingue reflexión filosófica de reglas prácticas socialmente consideradas correctas.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=27 | oficial 2026 p. PDF 27; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 27
+  },
+  {
+    "id": "N5-074",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.6",
+    "tema": "Conciencia",
+    "pregunta": "Juzgar qué debe hacerse aquí y ahora en una situación concreta corresponde al concepto de:",
+    "opciones": [
+      "Transparencia digital exclusivamente",
+      "Proxémica",
+      "Formalización del viaje",
+      "Conciencia"
+    ],
+    "correcta": 3,
+    "explicacion": "La conciencia es la función práctica que valora bondad o maldad de acciones concretas.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=28 | oficial 2026 p. PDF 28; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 28
+  },
+  {
+    "id": "N5-075",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.6",
+    "tema": "Integridad e imparcialidad",
+    "pregunta": "¿Qué asociación coincide con las cualidades éticas del módulo?",
+    "opciones": [
+      "Integridad: coherencia entre lo que se cree, se dice y se hace",
+      "Imparcialidad: favorecer a conocidos si eso agiliza",
+      "Lealtad: anteponer interés privado al institucional",
+      "Responsabilidad: negar consecuencias de decisiones propias"
+    ],
+    "correcta": 0,
+    "explicacion": "Integridad exige coherencia; imparcialidad, criterios objetivos; lealtad, principios institucionales; responsabilidad, asumir consecuencias.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=28 | oficial 2026 p. PDF 28; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 28
+  },
+  {
+    "id": "N5-076",
+    "etapa": "especificos",
+    "modulo": 5,
+    "subtema": "5.6",
+    "tema": "Barreras y responsabilidad",
+    "pregunta": "Si el costo del trámite impide acceder, ¿qué actuación del agente coincide con la barrera identificada?",
+    "opciones": [
+      "Inventar una exención sin competencia",
+      "Informar sobre defensoría, asistencia gratuita o exenciones disponibles",
+      "Atribuir el problema a una barrera exclusivamente idiomática",
+      "Negar orientación porque la política económica excede su función"
+    ],
+    "correcta": 1,
+    "explicacion": "La barrera económica se enfrenta desde el puesto informando opciones existentes. La página 30 distingue límites institucionales y responsabilidad individual.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=29 | oficial 2026 p. PDF 29; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+    "pagina": 29
+  }
+]

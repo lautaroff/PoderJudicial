@@ -1,0 +1,526 @@
+[
+  {
+    "titulo": "Reglamento-Poder-Judicial",
+    "url": "https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Reglamento-del-Poder-Judicial-de-Mendoza-21-09-1953.pdf",
+    "alcance": "M1 p39: obligatorios arts3 y13; art3 modificado por Ac15422",
+    "consulta": "2026-10-12",
+    "http": 200,
+    "url_final": "https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Reglamento-del-Poder-Judicial-de-Mendoza-21-09-1953.pdf",
+    "archivo": "biblioteca/2026/referencias/Reglamento-Poder-Judicial.pdf",
+    "bytes": 176503,
+    "sha256": "59745709b3a79d0fc78eb49d7cf59091f9cfb19843d9514c68840254cca2201d",
+    "paginas": 34,
+    "enlaces_pdf": [],
+    "texto": "biblioteca/2026/referencias/Reglamento-Poder-Judicial.txt"
+  },
+  {
+    "titulo": "Acordada-15422",
+    "url": "https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Acordada-15422.pdf",
+    "alcance": "M1 p39: lectura obligatoria; residencia",
+    "consulta": "2026-10-12",
+    "http": 200,
+    "url_final": "https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Acordada-15422.pdf",
+    "archivo": "biblioteca/2026/referencias/Acordada-15422.pdf",
+    "bytes": 131635,
+    "sha256": "f959437ff0e041451b5e3ace94ef07da33d0ff6b6f0fd4dd637205193da96dfe",
+    "paginas": 1,
+    "enlaces_pdf": [],
+    "texto": "biblioteca/2026/referencias/Acordada-15422.txt"
+  },
+  {
+    "titulo": "Decreto-Ley-560",
+    "url": "https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Decreto-Ley-560.pdf",
+    "alcance": "M1 p39: obligatorio capítuloIII; leer con Ley9665",
+    "consulta": "2026-10-12",
+    "http": 200,
+    "url_final": "https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Decreto-Ley-560.pdf",
+    "archivo": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+    "bytes": 210236,
+    "sha256": "df0bdba8cb7402104a7578390743e096747c84250760dc2b176cba6c3a984d3a",
+    "paginas": 23,
+    "enlaces_pdf": [],
+    "texto": "biblioteca/2026/referencias/Decreto-Ley-560.txt"
+  },
+  {
+    "titulo": "Ley-9665",
+    "url": "https://www.argentina.gob.ar/normativa/provincial/ley-9665-123456789-0abc-defg-566-9000mvorpyel/actualizacion",
+    "alcance": "M1 p39: modificatoria expresamente indicada",
+    "consulta": "2026-10-12",
+    "http": 200,
+    "url_final": "https://www.argentina.gob.ar/normativa/provincial/ley-9665-123456789-0abc-defg-566-9000mvorpyel/actualizacion",
+    "archivo": "biblioteca/2026/referencias/Ley-9665.html",
+    "bytes": 46307,
+    "sha256": "3efce781095b86156f2b2c33cc07b30f01ae99cf0570b5658c7c52cd185574ef",
+    "lectura": "biblioteca/2026/referencias/Ley-9665-lectura.html",
+    "texto": "biblioteca/2026/referencias/Ley-9665.txt"
+  },
+  {
+    "titulo": "Trayectorias-judiciales-2025",
+    "url": "https://jusmendoza.gob.ar/wp-content/uploads/2025/06/Trayectorias-judiciales-de-Acceso-a-Justicia-en-Argentina.pdf",
+    "alcance": "M3 p20: lectura recomendada, no declarada obligatoria",
+    "consulta": "2026-10-12",
+    "http": 200,
+    "url_final": "https://jusmendoza.gob.ar/wp-content/uploads/2025/06/Trayectorias-judiciales-de-Acceso-a-Justicia-en-Argentina.pdf",
+    "archivo": "biblioteca/2026/referencias/Trayectorias-judiciales-2025.pdf",
+    "bytes": 1117713,
+    "sha256": "bc06c64338ee089d70016ce0d15471e464a2c2f2defe8c2613cd0e04ebc187c6",
+    "paginas": 27,
+    "enlaces_pdf": [
+      {
+        "pagina_pdf": 7,
+        "url": "https://jusbairesabierto.gob.ar/wp-content/uploads/2023/08/Directrices-para-la-construccion-de-indicadores-de-acceso-a-justicia-con-enfoque-de-ddhh-en-los-ambitos-de-administracion-de-Jus-1.pdf"
+      },
+      {
+        "pagina_pdf": 23,
+        "url": "https://raco.cat/index.php/Athenea/article/view/34106"
+      },
+      {
+        "pagina_pdf": 23,
+        "url": "https://www.acnur.org/fileadmin/Documentos/BDL/2009/7037.pdf"
+      },
+      {
+        "pagina_pdf": 24,
+        "url": "https://jusbairesabierto.gob.ar/participacion-ciudadana-y-acceso-a-justicia/acceso-comunitario/"
+      },
+      {
+        "pagina_pdf": 24,
+        "url": "https://jusbairesabierto.gob.ar/participacion-ciudadana-y-acceso-a-justicia/acceso-comunitario/"
+      },
+      {
+        "pagina_pdf": 25,
+        "url": "https://www.jus.mendoza.gov.ar/web/direccion-de-derechos-humanos"
+      },
+      {
+        "pagina_pdf": 25,
+        "url": "https://www.jus.mendoza.gov.ar/web/direccion-de-derechos-humanos"
+      },
+      {
+        "pagina_pdf": 26,
+        "url": "https://www.justiciacordoba.gob.ar/justiciacordoba/tsj/ddhh_justicia_sectores_vulnerables"
+      },
+      {
+        "pagina_pdf": 26,
+        "url": "https://www.justucuman.gov.ar/blogs/derechos-humanos-y-justicia"
+      }
+    ],
+    "texto": "biblioteca/2026/referencias/Trayectorias-judiciales-2025.txt"
+  },
+  {
+    "titulo": "CIDH-Justicia-Juvenil",
+    "url": "https://www.oas.org/es/cidh/infancia/docs/pdf/justiciajuvenil.pdf",
+    "alcance": "M2 p106: referencia al informe CIDH2011",
+    "consulta": "2026-10-12",
+    "http": 200,
+    "url_final": "https://www.oas.org/es/cidh/infancia/docs/pdf/justiciajuvenil.pdf",
+    "archivo": "biblioteca/2026/referencias/CIDH-Justicia-Juvenil.pdf",
+    "bytes": 2958300,
+    "sha256": "d8c631b1478394d007cd4ead34af77094556160fa5e99781664ce49867f1c38e",
+    "paginas": 192,
+    "enlaces_pdf": [
+      {
+        "pagina_pdf": 25,
+        "url": "http://www.utexas.edu/lbj/news/story/856/"
+      },
+      {
+        "pagina_pdf": 30,
+        "url": "http://www.coe.int/t/commissioner/Viewpoints/070611_en.asp"
+      },
+      {
+        "pagina_pdf": 38,
+        "url": "http://www.utexas.edu/lbj/news/story/856/"
+      },
+      {
+        "pagina_pdf": 38,
+        "url": "http://www.utexas.edu/lbj/news/story/856/"
+      },
+      {
+        "pagina_pdf": 42,
+        "url": "http://www.cidh.oas.org/demandas/12.502SP.pdf"
+      },
+      {
+        "pagina_pdf": 43,
+        "url": "http://www.cidh.oas.org/demandas/12.502SP.pdf"
+      },
+      {
+        "pagina_pdf": 44,
+        "url": "http://www.cidh.oas.org/demandas/12.502SP.pdf"
+      },
+      {
+        "pagina_pdf": 44,
+        "url": "http://www.cidh.oas.org/demandas/12.502SP.pdf"
+      },
+      {
+        "pagina_pdf": 44,
+        "url": "http://www.cidh.oas.org/demandas/12.502SP.pdf"
+      },
+      {
+        "pagina_pdf": 47,
+        "url": "http://www.hrw.org/en/reports/2008/01/13/when-i-die-they-ll-send-me-home"
+      },
+      {
+        "pagina_pdf": 48,
+        "url": "http://www.utexas.edu/lbj/news/story/856/"
+      },
+      {
+        "pagina_pdf": 48,
+        "url": "http://www2.ohchr.org/english/issues/minorities/expert/index.htm"
+      },
+      {
+        "pagina_pdf": 49,
+        "url": "http://www.omct.org/files/2005/09/3070/guatemala_cat36_0406_esp.pdf"
+      },
+      {
+        "pagina_pdf": 50,
+        "url": "http://www.hrw.org/node/83452"
+      },
+      {
+        "pagina_pdf": 50,
+        "url": "http://www.hrw.org/en/news/2009/02/19/letter-prime-minister-golding"
+      },
+      {
+        "pagina_pdf": 51,
+        "url": "http://www.cidh.oas.org/Comunicados/Spanish/2004/26.04.htm"
+      },
+      {
+        "pagina_pdf": 53,
+        "url": "http://www.oas.org/dsp/documentos/pandillas/AnexoVI.Honduras.pdf"
+      },
+      {
+        "pagina_pdf": 53,
+        "url": "http://www.poderjudicial.gob.hn/"
+      },
+      {
+        "pagina_pdf": 55,
+        "url": "http://www.dnicostarica.org/wordpress/wp-content/uploads/pdf/violencia_juvenil/Carceles.pdf"
+      },
+      {
+        "pagina_pdf": 55,
+        "url": "http://www.oas.org/dsp/documentos/pandillas/AnexoIV.El%20Salvador.pdf"
+      },
+      {
+        "pagina_pdf": 55,
+        "url": "http://www.oas.org/csh/spanish/GTPD.asp#OD2010"
+      },
+      {
+        "pagina_pdf": 56,
+        "url": "http://www.usaid.gov/gt/docs/guatemala_profile.pdf"
+      },
+      {
+        "pagina_pdf": 56,
+        "url": "http://www.prensalibre.com.gt/noticias/comunitario/Jovenes-oponen-ley-antimaras_0_371962931.html"
+      },
+      {
+        "pagina_pdf": 56,
+        "url": "http://www.univision.com/contentroot/wirefeeds/noticias/8334078.shtml"
+      },
+      {
+        "pagina_pdf": 56,
+        "url": "http://www.excelsior.com.mx/index.php?m=nota&id_nota=686479"
+      },
+      {
+        "pagina_pdf": 56,
+        "url": "http://www.unicef.org/mexico/spanish/mx__PRONUNCIAMIENTO_UNICEFNOV_7_2010.pdf"
+      },
+      {
+        "pagina_pdf": 57,
+        "url": "http://www.cidh.oas.org/Comunicados/Spanish/2004/26.04.htm"
+      },
+      {
+        "pagina_pdf": 58,
+        "url": "http://documentacion.asambleanacional.gov.ec/alfresco/d/d/workspace/SpacesStore/fa0b54fc-31fa-4cbe-a416-6f2e62feab35/Ley%20de%20Responsabilidad%20Penal%20para%20Adolescentes%20Infractores"
+      },
+      {
+        "pagina_pdf": 58,
+        "url": "http://documentacion.asambleanacional.gov.ec/alfresco/d/d/workspace/SpacesStore/fa0b54fc-31fa-4cbe-a416-6f2e62feab35/Ley%20de%20Responsabilidad%20Penal%20para%20Adolescentes%20Infractores"
+      },
+      {
+        "pagina_pdf": 58,
+        "url": "http://documentacion.asambleanacional.gov.ec/alfresco/d/d/workspace/SpacesStore/d7235f27-259e-4e46-abf8-4c2bf17a5924/Ley%20Reformatoria%20al%20C%C3%B3digo%20Penal%2C%20C%C3%B3digo%20de%20Procedimiento%20Penal%20y%20Leyes%20Conexas"
+      },
+      {
+        "pagina_pdf": 58,
+        "url": "http://documentacion.asambleanacional.gov.ec/alfresco/d/d/workspace/SpacesStore/d7235f27-259e-4e46-abf8-4c2bf17a5924/Ley%20Reformatoria%20al%20C%C3%B3digo%20Penal%2C%20C%C3%B3digo%20de%20Procedimiento%20Penal%20y%20Leyes%20Conexas"
+      },
+      {
+        "pagina_pdf": 58,
+        "url": "http://documentacion.asambleanacional.gov.ec/alfresco/d/d/workspace/SpacesStore/d7235f27-259e-4e46-abf8-4c2bf17a5924/Ley%20Reformatoria%20al%20C%C3%B3digo%20Penal%2C%20C%C3%B3digo%20de%20Procedimiento%20Penal%20y%20Leyes%20Conexas"
+      },
+      {
+        "pagina_pdf": 62,
+        "url": "http://www.derechosinfancia.org.mx/Especiales/pronunciamiento031210.htm"
+      },
+      {
+        "pagina_pdf": 104,
+        "url": "http://viasalternas.dnicostarica.org/v2/documentos/633893876330375000.pdf"
+      },
+      {
+        "pagina_pdf": 104,
+        "url": "http://www.justicepolicy.org/images/upload/09_05_REP_CostsofConfinement_JJ_PS.pdf"
+      },
+      {
+        "pagina_pdf": 110,
+        "url": "http://www.utexas.edu/lbj/news/story/856/"
+      },
+      {
+        "pagina_pdf": 111,
+        "url": "http://www.hrw.org/en/reports/2008/01/13/when-i-die-they-ll-send-me-home"
+      },
+      {
+        "pagina_pdf": 111,
+        "url": "http://www.hrw.org/en/reports/2008/01/13/when-i-die-they-ll-send-me-home"
+      },
+      {
+        "pagina_pdf": 125,
+        "url": "http://www.utexas.edu/lbj/news/story/856/"
+      },
+      {
+        "pagina_pdf": 128,
+        "url": "http://www.dnicostarica.org/wordpress/wp-content/uploads/pdf/violencia_juvenil/Carceles.pdf"
+      },
+      {
+        "pagina_pdf": 128,
+        "url": "http://www.dnicostarica.org/wordpress/wp-content/uploads/pdf/violencia_juvenil/Carceles.pdf"
+      },
+      {
+        "pagina_pdf": 139,
+        "url": "http://www.corteidh.or.cr/expediente_caso.cfm?id_caso=250"
+      },
+      {
+        "pagina_pdf": 144,
+        "url": "http://www.dnicostarica.org/wordpress/wp-content/uploads/pdf/violencia_juvenil/Carceles.pdf"
+      },
+      {
+        "pagina_pdf": 155,
+        "url": "http://www.dnicostarica.org/wordpress/wp-content/uploads/pdf/violencia_juvenil/Carceles.pdf"
+      },
+      {
+        "pagina_pdf": 158,
+        "url": "http://www.dnicostarica.org/wordpress/wp-content/uploads/pdf/violencia_juvenil/Carceles.pdf"
+      },
+      {
+        "pagina_pdf": 167,
+        "url": "http://www.crin.org/resources/infoDetail.asp?ID=20232&flag=news"
+      },
+      {
+        "pagina_pdf": 172,
+        "url": "http://www.unodc.org/pdf/criminal_justice/06-55616_ebook.pdf"
+      }
+    ],
+    "texto": "biblioteca/2026/referencias/CIDH-Justicia-Juvenil.txt"
+  },
+  {
+    "titulo": "Ley-9735-Responsabilidad-Penal-Juvenil",
+    "url": "https://boe.mendoza.gov.ar/publico/pdf_pedido/76293ce55269c619fc6f8def3da685e7a0e56bd251",
+    "alcance": "M2 p109: anexo leyes publicadas octubre2026",
+    "consulta": "2026-10-12",
+    "http": 200,
+    "url_final": "https://boe.mendoza.gov.ar/publico/pdf_pedido/76293ce55269c619fc6f8def3da685e7a0e56bd251",
+    "archivo": "biblioteca/2026/referencias/Ley-9735-Responsabilidad-Penal-Juvenil.pdf",
+    "bytes": 86587,
+    "sha256": "c5753539fe41c66919077e13414783641a7e0768955410505dfd785a1080aa4f",
+    "paginas": 5,
+    "enlaces_pdf": [
+      {
+        "pagina_pdf": 5,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd253/anexo"
+      },
+      {
+        "pagina_pdf": 5,
+        "url": "http://www.boletinoficial.mendoza.gov.ar/"
+      }
+    ],
+    "texto": "biblioteca/2026/referencias/Ley-9735-Responsabilidad-Penal-Juvenil.txt"
+  },
+  {
+    "titulo": "Codigo-Procesal-Penal-Juvenil-2026",
+    "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "alcance": "M2 p109: anexo leyes publicadas octubre2026",
+    "consulta": "2026-10-12",
+    "http": 200,
+    "url_final": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+    "bytes": 15559768,
+    "sha256": "c931fc9559c2a83cd939c867d603afcf1cd0eb69fd0873d9053433e24fd117e7",
+    "paginas": 29,
+    "enlaces_pdf": [],
+    "texto": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.txt",
+    "accesos_equivalentes_verificados": [
+      {
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd253/anexo",
+        "consulta": "2026-10-12",
+        "http": 200,
+        "paginas": 29,
+        "sha256": "c931fc9559c2a83cd939c867d603afcf1cd0eb69fd0873d9053433e24fd117e7",
+        "resultado": "Identico byte a byte al archivo local; remision desde Ley9735 p.PDF5"
+      }
+    ]
+  },
+  {
+    "titulo": "WCAG-2.2",
+    "url": "https://www.w3.org/TR/WCAG22/",
+    "alcance": "M5 p20: estándar citado; apoyo, sin mandato leer especificación entera",
+    "consulta": "2026-10-12",
+    "http": 200,
+    "url_final": "https://www.w3.org/TR/WCAG22/",
+    "archivo": "biblioteca/2026/referencias/WCAG-2.2.html",
+    "bytes": 512457,
+    "sha256": "6e3c5fe397257cae509a2fb4752b73062cf8cbeb92c2cec618989b17e4cf7057",
+    "lectura": "biblioteca/2026/referencias/WCAG-2.2-lectura.html",
+    "texto": "biblioteca/2026/referencias/WCAG-2.2.txt"
+  },
+  {
+    "titulo": "Bus-Federal-Guias",
+    "url": "https://www.bus-justicia.org.ar/index.php/bus-federal/guias-tramite",
+    "alcance": "M2 p15: guía operativa; enlace de servicio",
+    "consulta": "2026-10-12",
+    "http": 200,
+    "url_final": "https://www.bus-justicia.org.ar/index.php/bus-federal/guias-tramite",
+    "archivo": "biblioteca/2026/referencias/Bus-Federal-Guias.html",
+    "bytes": 63674,
+    "sha256": "20d7263e68c08a81feb77622f61400f053dbd982be0ddf050c4e57897bde035e",
+    "lectura": "biblioteca/2026/referencias/Bus-Federal-Guias-lectura.html",
+    "texto": "biblioteca/2026/referencias/Bus-Federal-Guias.txt"
+  },
+  {
+    "titulo": "Guia-Judicial",
+    "url": "https://jusmendoza.gob.ar/guia-judicial-2/",
+    "alcance": "M2 pp2,21: directorio institucional de consulta",
+    "consulta": "2026-10-12",
+    "http": 200,
+    "url_final": "https://jusmendoza.gob.ar/guia-judicial-2/",
+    "archivo": "biblioteca/2026/referencias/Guia-Judicial.html",
+    "bytes": 12829547,
+    "sha256": "78b1d2119df49e5bd9d39a23e86f65940819f8b811a21d05d6ebb1980969cd55",
+    "lectura": "biblioteca/2026/referencias/Guia-Judicial-lectura.html",
+    "texto": "biblioteca/2026/referencias/Guia-Judicial.txt"
+  },
+  {
+    "titulo": "Beneficio-Litigar-Sin-Gastos",
+    "url": "https://blsg.pjm.gob.ar/",
+    "alcance": "M2 p18: portal de trámite, no PDF adicional",
+    "consulta": "2026-10-12",
+    "http": 200,
+    "url_final": "https://blsg.pjm.gob.ar/",
+    "archivo": "biblioteca/2026/referencias/Beneficio-Litigar-Sin-Gastos.html",
+    "bytes": 459,
+    "sha256": "5d56e491560ca255fa4d991e474a54ea6f0cc8b7682d44c60df210ac06a2c11f",
+    "lectura": "biblioteca/2026/referencias/Beneficio-Litigar-Sin-Gastos-lectura.html",
+    "texto": "biblioteca/2026/referencias/Beneficio-Litigar-Sin-Gastos.txt"
+  },
+  {
+    "titulo": "Listas-Proveidos",
+    "url": "http://www2.jus.mendoza.gov.ar/listas/proveidos/listas.php",
+    "alcance": "M2 p41: consulta de listas, servicio",
+    "consulta": "2026-10-12",
+    "http": 200,
+    "url_final": "https://www2.jus.mendoza.gov.ar/listas/proveidos/listas.php",
+    "archivo": "biblioteca/2026/referencias/Listas-Proveidos.html",
+    "bytes": 29465,
+    "sha256": "207012a940c663d78af6ae32941937415999d821cd1a8575d2b34ce7092a8eae",
+    "lectura": "biblioteca/2026/referencias/Listas-Proveidos-lectura.html",
+    "texto": "biblioteca/2026/referencias/Listas-Proveidos.txt"
+  },
+  {
+    "titulo": "Ley-24522-Concursos-y-Quiebras",
+    "url": "https://www.argentina.gob.ar/normativa/nacional/ley-24522-1995-25379/actualizacion",
+    "alcance": "M2 p61: conocimiento exigido de las partes respectivas; texto de consulta completo, no obligación de memorizar todos los artículos",
+    "consulta": "2026-10-12",
+    "http": 200,
+    "url_final": "https://www.argentina.gob.ar/normativa/nacional/ley-24522-1995-25379/actualizacion",
+    "archivo": "biblioteca/2026/referencias/Ley-24522-Concursos-y-Quiebras.html",
+    "bytes": 320139,
+    "sha256": "94f49640cc6f8382d56d542b91ac5b3c5537f3d625d0e1528b4b7d71c7a5d99a",
+    "lectura": "biblioteca/2026/referencias/Ley-24522-Concursos-y-Quiebras-lectura.html",
+    "texto": "biblioteca/2026/referencias/Ley-24522-Concursos-y-Quiebras.txt"
+  },
+  {
+    "titulo": "Ley-9001-CPCCT",
+    "url": "https://www.argentina.gob.ar/normativa/provincial/ley-9001-123456789-0abc-defg-100-9000mvorpyel/actualizacion",
+    "alcance": "M2 p61: arts359–372 y temas procesales mencionados; texto actualizado de consulta",
+    "consulta": "2026-10-12",
+    "http": 200,
+    "url_final": "https://www.argentina.gob.ar/normativa/provincial/ley-9001-123456789-0abc-defg-100-9000mvorpyel/actualizacion",
+    "archivo": "biblioteca/2026/referencias/Ley-9001-CPCCT.html",
+    "bytes": 519739,
+    "sha256": "ca2c7db275f3626a82ec714176552baa55dffe1961a7d29742a3def411f3943b",
+    "lectura": "biblioteca/2026/referencias/Ley-9001-CPCCT-lectura.html",
+    "texto": "biblioteca/2026/referencias/Ley-9001-CPCCT.txt"
+  },
+  {
+    "titulo": "Protocolo-Violencia-Laboral-30979",
+    "url": "https://jusmendoza.gob.ar/wp-content/uploads/2023/03/Protocolo-de-Actuacion-frente-a-casos-de-Violencia-Laboral-en-el-Poder-Judicial.pdf",
+    "alcance": "M4 p9: protocolo citado; copia de apoyo enlazada por Dirección de la Mujer",
+    "consulta": "2026-10-12",
+    "http": 200,
+    "url_final": "https://jusmendoza.gob.ar/wp-content/uploads/2023/03/Protocolo-de-Actuacion-frente-a-casos-de-Violencia-Laboral-en-el-Poder-Judicial.pdf",
+    "archivo": "biblioteca/2026/referencias/Protocolo-Violencia-Laboral-30979.pdf",
+    "bytes": 504113,
+    "sha256": "6da7d0571890991a015d57e6bd2ac18243877e7476773a855f7b87801418fa23",
+    "paginas": 26,
+    "enlaces_pdf": [
+      {
+        "pagina_pdf": 3,
+        "url": "https://dialnet.unirioja.es/servlet/autor?codigo=103143"
+      },
+      {
+        "pagina_pdf": 16,
+        "url": "mailto:direccióndelamujer@jus.mendoza.gov.ar"
+      }
+    ],
+    "texto": "biblioteca/2026/referencias/Protocolo-Violencia-Laboral-30979.txt"
+  },
+  {
+    "titulo": "Ley-27801-Regimen-Penal-Juvenil",
+    "url": "https://www.argentina.gob.ar/normativa/nacional/ley-27801-423722/texto",
+    "alcance": "M2 pp102–107 y anexo Ley9735: norma nacional citada; texto original oficial de consulta",
+    "consulta": "2026-10-12",
+    "http": 200,
+    "url_final": "https://www.argentina.gob.ar/normativa/nacional/ley-27801-423722/texto",
+    "archivo": "biblioteca/2026/referencias/Ley-27801-Regimen-Penal-Juvenil.html",
+    "bytes": 75454,
+    "sha256": "6c97d82448aab64beab34585b804d0c67ead7a9a49e1e03960e8cedf2606cd25",
+    "lectura": "biblioteca/2026/referencias/Ley-27801-Regimen-Penal-Juvenil-lectura.html",
+    "texto": "biblioteca/2026/referencias/Ley-27801-Regimen-Penal-Juvenil.txt"
+  },
+  {
+    "titulo": "Ley-9423",
+    "url": "https://jusmendoza.gob.ar/wp-content/uploads/2023/05/Ley-N%C2%B0-9423-2.pdf",
+    "alcance": "M1 apartado1.4: norma citada para composición y funciones de la Corte; remisión interna MII incompleta",
+    "consulta": "2026-10-12",
+    "http": 200,
+    "url_final": "https://jusmendoza.gob.ar/wp-content/uploads/2023/05/Ley-N%C2%B0-9423-2.pdf",
+    "archivo": "biblioteca/2026/referencias/Ley-9423.pdf",
+    "bytes": 1068209,
+    "sha256": "dbb5907f699df510f29598ecdf688a60f0e38c3038dab5e464b570b57703aeb3",
+    "paginas": 7,
+    "enlaces_pdf": [],
+    "texto": "biblioteca/2026/referencias/Ley-9423.txt"
+  },
+  {
+    "titulo": "Ley-9003-Procedimiento-Administrativo",
+    "url": "https://www.argentina.gob.ar/normativa/provincial/ley-9003-123456789-0abc-defg-300-9000mvorpyel/actualizacion",
+    "alcance": "M1 apartado1.5: norma citada; consulta para aclarar organización y acto administrativo",
+    "consulta": "2026-10-12",
+    "http": 200,
+    "url_final": "https://www.argentina.gob.ar/normativa/provincial/ley-9003-123456789-0abc-defg-300-9000mvorpyel/actualizacion",
+    "archivo": "biblioteca/2026/referencias/Ley-9003-Procedimiento-Administrativo.html",
+    "bytes": 188417,
+    "sha256": "1b38031155e1c224f306cb6c012bbda7b4ea3d2fe328f9eaf38163a7f4183889",
+    "lectura": "biblioteca/2026/referencias/Ley-9003-Procedimiento-Administrativo-lectura.html",
+    "texto": "biblioteca/2026/referencias/Ley-9003-Procedimiento-Administrativo.txt"
+  },
+  {
+    "titulo": "Acordada-32299-BLSG",
+    "url": "https://jusmendoza.gob.ar/wp-content/uploads/2025/11/Acordada-N%C2%B0-32.299-BLSG.pdf",
+    "alcance": "M2 p18: norma de apoyo para verificar alcance del trámite electrónico de beneficio de litigar sin gastos",
+    "consulta": "2026-10-12",
+    "http": 200,
+    "url_final": "https://jusmendoza.gob.ar/wp-content/uploads/2025/11/Acordada-N%C2%B0-32.299-BLSG.pdf",
+    "archivo": "biblioteca/2026/referencias/Acordada-32299-BLSG.pdf",
+    "bytes": 15966051,
+    "sha256": "d5338ce3ece5bbb989f9c58a09884915c81a2d7f46b4aaa59df769d4bdfeaf83",
+    "paginas": 20,
+    "enlaces_pdf": [],
+    "texto": "biblioteca/2026/referencias/Acordada-32299-BLSG.txt"
+  }
+]

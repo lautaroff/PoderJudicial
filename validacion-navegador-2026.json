@@ -1,0 +1,24 @@
+{
+  "fecha": "2026-10-12",
+  "navegador": "Chromium",
+  "protocolo": "HTTP local, 127.0.0.1:8766",
+  "portal": {
+    "recorrido_principal": 28,
+    "comprobaciones_finales": 10,
+    "comprobaciones_navegacion": 5,
+    "resultado": "PASS",
+    "errores_javascript_observados": 0,
+    "anchos_px": [1440, 390],
+    "desborde_horizontal": false,
+    "peticiones_http_externas_en_carga_final": 0,
+    "scripts": ["output/playwright/comprobar-portal.js", "output/playwright/comprobar-final.js", "output/playwright/comprobar-navegacion.js"]
+  },
+  "atlas": {
+    "mapas_probados_en_390px": 12,
+    "fuentes_pdf_validadas": 282,
+    "flujos": ["leer", "ocultar etiquetas", "reconstruir", "revelar sin registrar éxito", "autoevaluar y programar +1 día", "revisar y reiniciar intervalo", "casos", "contrastes", "exportar JSON", "foco de teclado y Tab al PDF"],
+    "resultado": "PASS",
+    "verificacion": "Agente autor en Chromium; capturas inspeccionadas también en integración"
+  },
+  "limites": ["Móvil emulado; no dispositivo físico", "file: bloqueado por el control automatizado; recorrido verificado por servidor local", "Un enlace #page pide una hoja; algunos visores requieren ingresarla manualmente"]
+}

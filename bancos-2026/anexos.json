@@ -1,0 +1,1385 @@
+[
+  {
+    "id": "N2A-001",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Ley 9735: objeto",
+    "pregunta": "¿Qué aprueba expresamente el art.2 de la Ley 9735?",
+    "opciones": [
+      "El Código Procesal Penal Juvenil como anexo de la ley.",
+      "El Código Procesal Civil nacional.",
+      "La supresión de la defensa técnica juvenil.",
+      "Un reglamento exclusivamente escolar."
+    ],
+    "correcta": 0,
+    "explicacion": "El art.2 aprueba el Código Procesal Penal Juvenil, que forma parte integrante de la ley.",
+    "fuente": "biblioteca/2026/referencias/Ley-9735-Responsabilidad-Penal-Juvenil.pdf#page=1 | Anexo enlazado en M2 p109; Ley9735, página PDF 1; URL https://boe.mendoza.gov.ar/publico/pdf_pedido/76293ce55269c619fc6f8def3da685e7a0e56bd251",
+    "pagina": 1,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Ley-9735-Responsabilidad-Penal-Juvenil.pdf",
+        "pagina": 1,
+        "url": "https://boe.mendoza.gov.ar/publico/pdf_pedido/76293ce55269c619fc6f8def3da685e7a0e56bd251",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-002",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "DRPJ",
+    "pregunta": "¿Cuál es la función institucional de la DRPJ en la Ley 9735?",
+    "opciones": [
+      "Representar exclusivamente a las víctimas como querellante.",
+      "Implementar, coordinar y supervisar medidas y programas conforme a resoluciones judiciales.",
+      "Dictar condenas penales en lugar del tribunal.",
+      "Resolver todos los recursos contra sentencias."
+    ],
+    "correcta": 1,
+    "explicacion": "La DRPJ es un órgano administrativo especializado; la decisión judicial corresponde al órgano competente.",
+    "fuente": "biblioteca/2026/referencias/Ley-9735-Responsabilidad-Penal-Juvenil.pdf#page=1 | Anexo enlazado en M2 p109; Ley9735, página PDF 1; URL https://boe.mendoza.gov.ar/publico/pdf_pedido/76293ce55269c619fc6f8def3da685e7a0e56bd251",
+    "pagina": 1,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Ley-9735-Responsabilidad-Penal-Juvenil.pdf",
+        "pagina": 1,
+        "url": "https://boe.mendoza.gov.ar/publico/pdf_pedido/76293ce55269c619fc6f8def3da685e7a0e56bd251",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-003",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Organización administrativa",
+    "pregunta": "¿Qué unidad atiende la ejecución territorial de medidas no privativas de libertad?",
+    "opciones": [
+      "La Unidad de Privación de Libertad como única estructura.",
+      "El Registro Público de Comercio.",
+      "La Unidad de Medidas Alternativas a la Privación de la Libertad (UMA).",
+      "La Cámara de Apelaciones Civil."
+    ],
+    "correcta": 2,
+    "explicacion": "El art.6 distingue administración, privación de libertad y UMA; esta última gestiona medidas no privativas y dispositivos comunitarios.",
+    "fuente": "biblioteca/2026/referencias/Ley-9735-Responsabilidad-Penal-Juvenil.pdf#page=2 | Anexo enlazado en M2 p109; Ley9735, página PDF 2; URL https://boe.mendoza.gov.ar/publico/pdf_pedido/76293ce55269c619fc6f8def3da685e7a0e56bd251",
+    "pagina": 2,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Ley-9735-Responsabilidad-Penal-Juvenil.pdf",
+        "pagina": 2,
+        "url": "https://boe.mendoza.gov.ar/publico/pdf_pedido/76293ce55269c619fc6f8def3da685e7a0e56bd251",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-004",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Dispositivos DRPJ",
+    "pregunta": "¿Qué continuidad prevé la Ley 9735 para el dispositivo de guardia permanente?",
+    "opciones": [
+      "Sólo días hábiles de 7:30 a 13:30.",
+      "Únicamente mientras se realiza el juicio.",
+      "Sólo durante el ciclo lectivo.",
+      "Veinticuatro horas durante los 365 días del año."
+    ],
+    "correcta": 3,
+    "explicacion": "La guardia permanente garantiza continuidad operativa de 24 horas, 365 días, para situaciones urgentes.",
+    "fuente": "biblioteca/2026/referencias/Ley-9735-Responsabilidad-Penal-Juvenil.pdf#page=3 | Anexo enlazado en M2 p109; Ley9735, página PDF 3; URL https://boe.mendoza.gov.ar/publico/pdf_pedido/76293ce55269c619fc6f8def3da685e7a0e56bd251",
+    "pagina": 3,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Ley-9735-Responsabilidad-Penal-Juvenil.pdf",
+        "pagina": 3,
+        "url": "https://boe.mendoza.gov.ar/publico/pdf_pedido/76293ce55269c619fc6f8def3da685e7a0e56bd251",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-005",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Supervisión",
+    "pregunta": "Ante un incumplimiento grave e injustificado, ¿qué corresponde al Supervisor Especializado?",
+    "opciones": [
+      "Informarlo de manera inmediata y fundada al juez competente.",
+      "Aumentar por sí la condena.",
+      "Imponer una sanción corporal.",
+      "Mantenerlo oculto hasta el informe anual."
+    ],
+    "correcta": 0,
+    "explicacion": "El art.8 exige comunicación inmediata y fundada. La función de seguimiento no convierte al supervisor en juez.",
+    "fuente": "biblioteca/2026/referencias/Ley-9735-Responsabilidad-Penal-Juvenil.pdf#page=3 | Anexo enlazado en M2 p109; Ley9735, página PDF 3; URL https://boe.mendoza.gov.ar/publico/pdf_pedido/76293ce55269c619fc6f8def3da685e7a0e56bd251",
+    "pagina": 3,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Ley-9735-Responsabilidad-Penal-Juvenil.pdf",
+        "pagina": 3,
+        "url": "https://boe.mendoza.gov.ar/publico/pdf_pedido/76293ce55269c619fc6f8def3da685e7a0e56bd251",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-006",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Educación durante alojamiento",
+    "pregunta": "¿Puede suspenderse la escolarización obligatoria como sanción disciplinaria?",
+    "opciones": [
+      "Sólo se prohíbe durante el primer mes.",
+      "No; la Ley 9735 lo prohíbe expresamente.",
+      "Sí, si lo decide informalmente cualquier agente.",
+      "Sí, por cualquier falta de convivencia."
+    ],
+    "correcta": 1,
+    "explicacion": "El art.10 da prioridad a la escolarización y prohíbe suspenderla como sanción.",
+    "fuente": "biblioteca/2026/referencias/Ley-9735-Responsabilidad-Penal-Juvenil.pdf#page=4 | Anexo enlazado en M2 p109; Ley9735, página PDF 4; URL https://boe.mendoza.gov.ar/publico/pdf_pedido/76293ce55269c619fc6f8def3da685e7a0e56bd251",
+    "pagina": 4,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Ley-9735-Responsabilidad-Penal-Juvenil.pdf",
+        "pagina": 4,
+        "url": "https://boe.mendoza.gov.ar/publico/pdf_pedido/76293ce55269c619fc6f8def3da685e7a0e56bd251",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-007",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Disciplina",
+    "pregunta": "¿Qué conjunto de garantías exige la ley para los protocolos de disciplina?",
+    "opciones": [
+      "Decisión secreta sin defensa.",
+      "Suspensión de alimentación como medida ordinaria.",
+      "Lenguaje claro, notificación, derecho a ser oído y posibilidad de apelar.",
+      "Sanciones no escritas y sin audiencia."
+    ],
+    "correcta": 2,
+    "explicacion": "El art.11 exige protocolos accesibles, faltas y sanciones taxativas, procedimiento y revisión; prohíbe tratos y privaciones incompatibles con derechos.",
+    "fuente": "biblioteca/2026/referencias/Ley-9735-Responsabilidad-Penal-Juvenil.pdf#page=4 | Anexo enlazado en M2 p109; Ley9735, página PDF 4; URL https://boe.mendoza.gov.ar/publico/pdf_pedido/76293ce55269c619fc6f8def3da685e7a0e56bd251",
+    "pagina": 4,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Ley-9735-Responsabilidad-Penal-Juvenil.pdf",
+        "pagina": 4,
+        "url": "https://boe.mendoza.gov.ar/publico/pdf_pedido/76293ce55269c619fc6f8def3da685e7a0e56bd251",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-008",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Derogaciones",
+    "pregunta": "¿Qué norma deroga expresamente el art.14 de la Ley 9735?",
+    "opciones": [
+      "La Constitución provincial.",
+      "La Ley 9735 en su totalidad.",
+      "El Código Civil y Comercial nacional.",
+      "La Ley 6354 y el art.3 de la Ley 8550."
+    ],
+    "correcta": 3,
+    "explicacion": "El art.14 enumera esas derogaciones. No debe seguir estudiándose la Ley 6354 como si el anexo de octubre no existiera.",
+    "fuente": "biblioteca/2026/referencias/Ley-9735-Responsabilidad-Penal-Juvenil.pdf#page=5 | Anexo enlazado en M2 p109; Ley9735, página PDF 5; URL https://boe.mendoza.gov.ar/publico/pdf_pedido/76293ce55269c619fc6f8def3da685e7a0e56bd251",
+    "pagina": 5,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Ley-9735-Responsabilidad-Penal-Juvenil.pdf",
+        "pagina": 5,
+        "url": "https://boe.mendoza.gov.ar/publico/pdf_pedido/76293ce55269c619fc6f8def3da685e7a0e56bd251",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-009",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Edad dudosa",
+    "pregunta": "Si la edad mínima o mayoría de edad no puede acreditarse inmediatamente, ¿qué pauta fija el código?",
+    "opciones": [
+      "Presumir la menor edad o no punibilidad y aplicar el régimen más favorable.",
+      "Presumir siempre que la persona es adulta.",
+      "Imponer una pena para después comprobar la edad.",
+      "Omitir toda comprobación posterior por decisión policial."
+    ],
+    "correcta": 0,
+    "explicacion": "El art.1 establece una pauta favorable ante la duda inmediata; no autoriza a presumir mayoría de edad.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=1 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 1; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 1,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 1,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-010",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Aplicación procesal",
+    "pregunta": "¿Qué dispone el art.1 sobre procesos en trámite?",
+    "opciones": [
+      "Prohibición de aplicar reglas nuevas a cualquier trámite abierto.",
+      "Aplicación inmediata de las disposiciones procesales sin afectar actos regularmente cumplidos.",
+      "Nulidad automática de todos los actos anteriores.",
+      "Aplicación sólo a hechos posteriores a diez años."
+    ],
+    "correcta": 1,
+    "explicacion": "La regla expresamente preserva la validez de los actos regularmente cumplidos.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=1 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 1; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 1,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 1,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-011",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Especialidad",
+    "pregunta": "La investigación conjunta con adultos, ¿elimina las garantías procesales especiales del adolescente?",
+    "opciones": [
+      "Sí, por pedido informal de la policía.",
+      "Sólo conserva la especialidad si la víctima lo autoriza.",
+      "No; no prorroga su competencia especial ni lo somete automáticamente al régimen ordinario.",
+      "Sí, siempre que exista un adulto coimputado."
+    ],
+    "correcta": 2,
+    "explicacion": "El art.3 mantiene procedimientos, plazos y garantías especializados, aun con conexidad o investigación conjunta.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=1 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 1; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 1,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 1,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-012",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Plazos juveniles",
+    "pregunta": "Como regla general del art.4, ¿cómo se computan los plazos del código?",
+    "opciones": [
+      "Siempre en días corridos, sin excepciones.",
+      "Únicamente en meses calendario.",
+      "Según el horario elegido por cada oficina.",
+      "En días hábiles, conforme a los artículos indicados del CPP."
+    ],
+    "correcta": 3,
+    "explicacion": "El art.4 remite a los arts. 194–196CPP y establece días hábiles; deben respetarse las formulaciones específicas de horas o días corridos.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=2 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 2; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 2,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 2,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-013",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Identidad protegida",
+    "pregunta": "¿La protección de identidad alcanza datos que permiten identificar indirectamente a un adolescente?",
+    "opciones": [
+      "Sí, comprende también domicilio, centro de vida u otros datos individualizantes.",
+      "No, sólo el nombre completo.",
+      "No, publicar la escuela siempre está permitido.",
+      "Sólo protege al adolescente condenado."
+    ],
+    "correcta": 0,
+    "explicacion": "El art.6 protege identidad de imputados, víctimas y testigos adolescentes, incluida identificación indirecta.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=2 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 2; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 2,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 2,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-014",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Reserva",
+    "pregunta": "¿Frente a quién rige en principio la reserva y confidencialidad de las actuaciones?",
+    "opciones": [
+      "Frente al juez, que no puede consultar el expediente.",
+      "Frente a terceros ajenos al proceso, sin excluir en general a las partes constituidas.",
+      "Frente a la defensa desde el inicio hasta la sentencia en todos los casos.",
+      "Sólo frente a periodistas extranjeros."
+    ],
+    "correcta": 1,
+    "explicacion": "El art.7 distingue reserva ante terceros del acceso de las partes; diligencias reservadas y secreto de sumario tienen reglas específicas.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=3 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 3; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 3,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 3,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-015",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Supletoriedad",
+    "pregunta": "¿Qué régimen procesal se aplica supletoriamente en lo no regulado, de modo compatible con la especialidad?",
+    "opciones": [
+      "El reglamento interno de cualquier empresa.",
+      "Ningún régimen puede aplicarse supletoriamente.",
+      "El Código Procesal Penal de Mendoza.",
+      "El Código Procesal Civil nacional en forma exclusiva."
+    ],
+    "correcta": 2,
+    "explicacion": "El art.10 establece supletoriedad del CPP, concordante con los estándares especializados.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=3 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 3; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 3,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 3,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-016",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Tribunal juvenil",
+    "pregunta": "Como regla general, ¿cómo actúa el Tribunal Penal Juvenil según el art.12?",
+    "opciones": [
+      "Siempre por jurado popular de doce personas.",
+      "Como órgano administrativo unipersonal de la DRPJ.",
+      "Sin jueces, por decisión del supervisor.",
+      "Colegiadamente, integrado por tres jueces."
+    ],
+    "correcta": 3,
+    "explicacion": "El art. 12 establece como regla un colegio de tres jueces. Permite excepcionalmente integración unipersonal si la naturaleza del caso, su menor complejidad fáctica o jurídica o la entidad de la pena prevista lo justifican y las partes lo solicitan; flagrancia tiene además reglas específicas.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=4 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 4; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 4,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 4,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-017",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Ejecución juvenil",
+    "pregunta": "¿Qué órgano controla judicialmente la ejecución de la condena según el art.14?",
+    "opciones": [
+      "El órgano jurisdiccional que impuso la condena.",
+      "La policía sin intervención judicial.",
+      "El mediador como única autoridad.",
+      "La escuela del adolescente."
+    ],
+    "correcta": 0,
+    "explicacion": "El art.14 asigna ejecución y control de legalidad al órgano que condenó; la DRPJ presta ejecución administrativa y apoyo especializado.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=4 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 4; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 4,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 4,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-018",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Defensa técnica",
+    "pregunta": "¿Desde qué momento se garantiza defensa técnica personalizada?",
+    "opciones": [
+      "Únicamente si la víctima lo solicita.",
+      "Desde el inicio del proceso y durante todas sus etapas.",
+      "Sólo desde la sentencia condenatoria.",
+      "Sólo al interponer revisión amplia."
+    ],
+    "correcta": 1,
+    "explicacion": "El art.16 permite defensor particular de confianza y prioriza defensores públicos especializados cuando no se designa particular.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=5 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 5; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 5,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 5,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-019",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Supervisión y audiencia",
+    "pregunta": "¿Puede el supervisor convertir por sí un incumplimiento en una pena más grave?",
+    "opciones": [
+      "Sí, si el adolescente tiene antecedentes escolares.",
+      "Sí, si se omite dejar constancia.",
+      "No; informa y corresponde una audiencia contradictoria con decisión judicial fundada.",
+      "Sí, por correo interno sin audiencia."
+    ],
+    "correcta": 2,
+    "explicacion": "El art.19 reserva al juez la decisión posterior a la audiencia; seguimiento e informe no son condena.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=7 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 7; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 7,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 7,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-020",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Acción civil",
+    "pregunta": "¿Un acuerdo restaurativo extingue por sí solo la acción civil derivada del hecho?",
+    "opciones": [
+      "Sí, siempre y sin intervención de la víctima.",
+      "Sí, aunque se reserve expresamente la acción civil.",
+      "Sólo depende del nombre usado en el acta.",
+      "No; se requiere el acuerdo expreso, informado y homologado con el alcance que exige el art.23."
+    ],
+    "correcta": 3,
+    "explicacion": "El art.23 niega extinción automática y exige condiciones para una renuncia total o parcial inequívoca.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=8 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 8; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 8,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 8,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-021",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Disposición inmediata",
+    "pregunta": "¿Qué plazo máximo fija el art.25 al fiscal especializado para decidir la situación inmediata del adolescente?",
+    "opciones": [
+      "Tres horas.",
+      "Tres meses.",
+      "Treinta días.",
+      "Un año."
+    ],
+    "correcta": 0,
+    "explicacion": "El art.25 fija máximo improrrogable de 3 horas y exige evitar permanencia en dependencias no especializadas.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=8 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 8; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 8,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 8,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-022",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "UPANA",
+    "pregunta": "¿Qué carácter tiene la permanencia en UPANA según el art.26?",
+    "opciones": [
+      "Sustituye siempre al centro especializado en prisión preventiva.",
+      "Excepcional, con máximo de doce días y sin finalidad punitiva.",
+      "Es una pena definitiva de prisión.",
+      "No tiene límite temporal."
+    ],
+    "correcta": 1,
+    "explicacion": "UPANA es alojamiento transitorio; dispuesta la preventiva, corresponde traslado inmediato a centro especializado DRPJ.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=8 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 8; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 8,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 8,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-023",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Imputación juvenil",
+    "pregunta": "¿Cuál es el plazo del art.27 para imputar desde la puesta a disposición?",
+    "opciones": [
+      "Cinco días más cinco en todos los casos.",
+      "Noventa días desde la sentencia.",
+      "Doce horas, prorrogables fundadamente por otras doce.",
+      "Doce meses sin prórroga."
+    ],
+    "correcta": 2,
+    "explicacion": "No confundir 12 + 12 horas para imputación con plazos de investigación o de preventiva.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=9 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 9; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 9,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 9,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-024",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Informe situacional",
+    "pregunta": "Producida la imputación, ¿qué combinación de plazos fija el art.28?",
+    "opciones": [
+      "Notificar al mes e informar al año.",
+      "Notificar en 48 días e informar en 3 meses.",
+      "No exige comunicación a DRPJ.",
+      "Notificar a DRPJ en máximo 3 horas e informe al fiscal dentro de 48 horas."
+    ],
+    "correcta": 3,
+    "explicacion": "El contacto inmediato y diagnóstico situacional permiten evaluar contexto y alternativas.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=9 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 9; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 9,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 9,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-025",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Investigación juvenil",
+    "pregunta": "¿Cuál es el plazo ordinario de investigación desde la imputación?",
+    "opciones": [
+      "Tres meses, con las prórrogas y límites previstos en el art.29.",
+      "Dieciocho meses como plazo ordinario sin decisión adicional.",
+      "Veinticuatro horas sin posibilidad de investigar después.",
+      "Cinco años en todos los casos."
+    ],
+    "correcta": 0,
+    "explicacion": "El plazo ordinario es de 3 meses; puede prorrogarse por otro tanto y llegar a máximo total de 12 meses en casos de suma gravedad y muy difícil investigación.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=9 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 9; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 9,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 9,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-026",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Inimputabilidad",
+    "pregunta": "Acreditada inimputabilidad y dictado sobreseimiento, si subsiste necesidad sanitaria, ¿qué prevé el art.34?",
+    "opciones": [
+      "Transformación del tratamiento en castigo disciplinario.",
+      "Cese de intervención penal y remisión inmediata al juez de familia competente.",
+      "Condena penal automática por el padecimiento.",
+      "Alojamiento policial indefinido por razones de salud."
+    ],
+    "correcta": 1,
+    "explicacion": "El art.34 separa inimputabilidad y control sanitario de una sanción penal.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=10 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 10; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 10,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 10,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-027",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Coerción",
+    "pregunta": "¿En qué puede fundarse una medida privativa de libertad cautelar según el art.35?",
+    "opciones": [
+      "En la simple conveniencia de la oficina.",
+      "En la falta de recursos para reparar, por sí sola.",
+      "Peligro real de fuga u obstaculización, con carácter excepcional y restrictivo.",
+      "En una sanción anticipada por pobreza."
+    ],
+    "correcta": 2,
+    "explicacion": "La coerción busca fines del proceso y debe considerar medidas menos gravosas; no es una condena anticipada.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=10 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 10; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 10,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 10,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-028",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Control de libertad",
+    "pregunta": "¿Quién puede solicitar control jurisdiccional de una restricción de libertad, en cualquier momento?",
+    "opciones": [
+      "Sólo el supervisor al finalizar la condena.",
+      "Sólo la víctima después de un año.",
+      "Nadie hasta que exista sentencia.",
+      "El adolescente o su defensa técnica ante el Juez Penal Juvenil."
+    ],
+    "correcta": 3,
+    "explicacion": "El art.39 prevé petición directa y audiencia oral.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=11 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 11; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 11,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 11,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-029",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Pedido de preventiva",
+    "pregunta": "¿Qué plazo tiene el fiscal para requerir preventiva desde la imputación según el art.41?",
+    "opciones": [
+      "Cinco días, con ampliación única de hasta otros 5 en las condiciones previstas.",
+      "Dieciocho meses sin control.",
+      "Un año sin motivar el pedido.",
+      "Tres horas como duración total del proceso."
+    ],
+    "correcta": 0,
+    "explicacion": "El art.41 permite ampliación excepcional por complejidad, solicitada antes de vencer; no es el plazo de duración de la preventiva.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=12 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 12; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 12,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 12,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-030",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Duración de preventiva",
+    "pregunta": "¿Qué máximo total fija el art.41 para prisión preventiva computando prórrogas?",
+    "opciones": [
+      "Cinco años.",
+      "Dieciocho meses.",
+      "Doce días.",
+      "Cuarenta y ocho horas."
+    ],
+    "correcta": 1,
+    "explicacion": "La duración requerida no puede superar inicialmente 3 meses desde la efectiva detención, prorrogables por períodos trimestrales hasta un máximo total de 18 meses. No confundir este cómputo con el plazo fiscal para solicitarla.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=12 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 12; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 12,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 12,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-031",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Víctima en audiencia",
+    "pregunta": "Si la víctima fue debidamente citada a la audiencia de prisión preventiva pero no comparece, ¿qué dispone el art. 41?",
+    "opciones": [
+      "Obliga a archivar la causa.",
+      "Convierte la preventiva en condena.",
+      "Su ausencia no impide la audiencia ni afecta su validez.",
+      "Siempre produce nulidad automática."
+    ],
+    "correcta": 2,
+    "explicacion": "Se garantiza citación y derecho a ser escuchada; su incomparecencia notificada tiene tratamiento distinto al de los participantes obligatorios.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=12 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 12; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 12,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 12,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-032",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Cautelares alternativas",
+    "pregunta": "¿Qué límite establece el art.43 al diseñar medidas no privativas?",
+    "opciones": [
+      "Exige siempre una caución que la familia no pueda pagar.",
+      "Prohíbe considerar educación y salud.",
+      "Permite medidas sin adecuación a finalidad socioeducativa.",
+      "Prohíbe cauciones o exigencias económicamente inalcanzables."
+    ],
+    "correcta": 3,
+    "explicacion": "El diseño prioriza salud, educación y vínculos, con informe situacional; no puede basarse en exigencias materialmente inaccesibles.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=13 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 13; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 13,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 13,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-033",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Custodia",
+    "pregunta": "Recibida la solicitud de custodia, ¿dentro de qué plazo máximo convocará a audiencia el órgano jurisdiccional según el art. 47?",
+    "opciones": [
+      "Dos días hábiles.",
+      "Dos años.",
+      "Dieciocho meses.",
+      "Noventa días corridos."
+    ],
+    "correcta": 0,
+    "explicacion": "Recibida la solicitud, el órgano jurisdiccional convocará a audiencia dentro del plazo máximo de dos días hábiles. Finalizado el acto, resolverá en forma oral e inmediata y diferirá los fundamentos dentro de los tres días hábiles. El texto exige que el adolescente sea oído y prevé los participantes de la audiencia.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=14 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 14; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 14,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 14,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-034",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Custodia y mayoría",
+    "pregunta": "¿Cuál de estas afirmaciones distingue correctamente custodia y condena?",
+    "opciones": [
+      "Custodia y condena son nombres idénticos de la misma medida.",
+      "Cumplir 18 años hace cesar la custodia del art. 50; no equivale por sí a extinguir una condena penal.",
+      "Cumplir 18 años borra automáticamente toda condena en cualquier supuesto.",
+      "La custodia nunca puede cesar por edad."
+    ],
+    "correcta": 1,
+    "explicacion": "El art. 50 dispone cese automático de custodia al cumplir 18 años. La ejecución de una condena es distinta: el art. 81 regula las gestiones de traslado a un establecimiento de mayores, sin extinción automática de la pena.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=14 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 14; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo | Complemento: biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=24, art. 81, página PDF 24",
+    "pagina": 14,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 14,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      },
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 24,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Art. 81: gestiones al cumplir 18 años durante investigación o ejecución; no extingue la condena"
+      }
+    ]
+  },
+  {
+    "id": "N2A-035",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Debate juvenil",
+    "pregunta": "¿Cuál es la modalidad del debate juvenil y su relación con jurados?",
+    "opciones": [
+      "Exclusivamente escrito, sin escuchar a las partes.",
+      "Por jurados populares como regla obligatoria juvenil.",
+      "Oral y reservado, sin juicio por jurados populares para el adolescente.",
+      "Siempre público y con difusión de identidad."
+    ],
+    "correcta": 2,
+    "explicacion": "El art.53 protege confidencialidad y especialidad, con ajustes adecuados a edad y condiciones.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=15 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 15; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 15,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 15,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-036",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Juicio conjunto técnico",
+    "pregunta": "En el supuesto de juicio conjunto del art.57, ¿cómo se integra el tribunal?",
+    "opciones": [
+      "Tres supervisores de DRPJ.",
+      "Un juez ordinario sin magistrados juveniles.",
+      "Doce jurados populares para juzgar al adolescente.",
+      "Dos magistrados del Tribunal Penal Juvenil y uno de la justicia ordinaria."
+    ],
+    "correcta": 3,
+    "explicacion": "El art.57 regula integración colegiada mixta técnica, sin suprimir garantías especiales.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=16 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 16; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 16,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 16,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-037",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Separación y jurados",
+    "pregunta": "Si al coimputado adulto le corresponde juicio por jurados, ¿qué sucede respecto del adolescente?",
+    "opciones": [
+      "Se separan los procesos y el adolescente es juzgado por jueces técnicos juveniles.",
+      "El adolescente es juzgado siempre por el mismo jurado popular.",
+      "Se archiva automáticamente el proceso juvenil.",
+      "El adulto queda sometido por ello a sanciones escolares."
+    ],
+    "correcta": 0,
+    "explicacion": "El art.58 reserva jurados al adulto y mantiene el juicio técnico especializado del adolescente.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=17 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 17; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 17,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 17,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-038",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Juicio abreviado",
+    "pregunta": "¿Es vinculante para el juez el acuerdo de juicio abreviado juvenil?",
+    "opciones": [
+      "Sólo lo controla el coimputado adulto.",
+      "No; hay control reforzado y puede rechazarlo fundadamente conforme a las condiciones legales.",
+      "Sí, aunque exista coacción acreditada.",
+      "Sí, sin verificar comprensión del adolescente."
+    ],
+    "correcta": 1,
+    "explicacion": "El art.62 exige defensa efectiva y consentimiento personal libre, informado e inequívoco; el asentimiento formal no basta.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=18 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 18; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 18,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 18,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-039",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Abreviado en flagrancia",
+    "pregunta": "¿Puede decidirse el juicio abreviado juvenil en la audiencia inicial de flagrancia?",
+    "opciones": [
+      "Sí, necesariamente antes de toda información al adolescente.",
+      "Sólo por decisión del policía actuante.",
+      "No, el art.62 lo excluye expresamente en ese momento.",
+      "Sí, siempre que se omita la defensa."
+    ],
+    "correcta": 2,
+    "explicacion": "La regla evita equiparar una resolución apresurada con consentimiento válido y control reforzado.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=18 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 18; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 18,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 18,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-040",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Audiencia de flagrancia",
+    "pregunta": "En flagrancia juvenil, ¿cuál es el plazo máximo ordinario para celebrar la audiencia inicial desde la imputación formal?",
+    "opciones": [
+      "Tres años sin necesidad de motivación.",
+      "Dieciocho meses en todos los casos.",
+      "Treinta días como plazo ordinario.",
+      "Tres días, con prórroga excepcional por igual período en las condiciones previstas."
+    ],
+    "correcta": 3,
+    "explicacion": "El art.63 exige audiencia rápida y resolución oral; la prórroga está fundada en pruebas imprescindibles o ampliación del informe de UMA.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=19 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 19; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 19,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 19,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-041",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Soluciones alternativas",
+    "pregunta": "¿Hasta qué momento permite el art.64 proponer los mecanismos alternativos que regula?",
+    "opciones": [
+      "Desde el inicio de actuaciones hasta la apertura del debate.",
+      "Sólo una vez extinguida la pena.",
+      "Únicamente después de diez años.",
+      "Nunca antes de la condena firme."
+    ],
+    "correcta": 0,
+    "explicacion": "El art.64 favorece resolución integral temprana, con requisitos y límites de los artículos siguientes.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=19 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 19; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 19,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 19,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-042",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Límites a mediación",
+    "pregunta": "¿Qué supuesto excluye conciliación o mediación según el art.65?",
+    "opciones": [
+      "Que se utilice lenguaje claro en audiencia.",
+      "Que el hecho haya importado la muerte de la víctima, doloso o culposo.",
+      "Que la víctima quiera ser informada.",
+      "Que el adolescente tenga defensa pública."
+    ],
+    "correcta": 1,
+    "explicacion": "El art.65 enumera muerte y otros límites como condenas previas o dos o más procesos por delitos de gravedad; no toda causa admite estas soluciones.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=20 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 20; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 20,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 20,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-043",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Mediadores",
+    "pregunta": "¿Qué debe preservar el informe de resultado de los mediadores juveniles?",
+    "opciones": [
+      "La identidad del adolescente en redes.",
+      "La sustitución del juez por el mediador.",
+      "La reserva del contenido de las discusiones.",
+      "La difusión pública de toda conversación."
+    ],
+    "correcta": 2,
+    "explicacion": "El art.67 exige informar el resultado sin detalles de conversaciones, para proteger voluntariedad y confidencialidad.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=20 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 20; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 20,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 20,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-044",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Suspensión a prueba",
+    "pregunta": "¿El ofrecimiento de reparación en suspensión del proceso a prueba equivale a confesión?",
+    "opciones": [
+      "Sí, siempre equivale a condena.",
+      "Sí, elimina automáticamente el derecho de defensa.",
+      "Sólo si la defensa es pública.",
+      "No; tampoco reconoce por sí responsabilidad."
+    ],
+    "correcta": 3,
+    "explicacion": "El art.69 preserva la vía civil y aclara que ofrecer reparación no implica confesión ni reconocimiento de responsabilidad.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=21 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 21; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 21,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 21,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-045",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Revisión amplia",
+    "pregunta": "¿Contra qué procede específicamente la revisión amplia juvenil del art.71?",
+    "opciones": [
+      "Contra sentencias condenatorias, a instancia del adolescente o su defensa técnica.",
+      "Contra cualquier comunicación informal de la escuela.",
+      "Contra toda consulta administrativa de DRPJ sin excepción.",
+      "Sólo contra sentencias absolutorias a pedido de la víctima."
+    ],
+    "correcta": 0,
+    "explicacion": "No confundir el recurso especial de revisión amplia con el régimen general de impugnaciones del art.70.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=21 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 21; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 21,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 21,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-046",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Revisión amplia: plazo",
+    "pregunta": "¿Qué plazo fija el art.73 para interponer y fundar la revisión amplia?",
+    "opciones": [
+      "Un año desde el primer informe.",
+      "Diez días desde la notificación, ante el órgano que dictó la resolución.",
+      "Tres horas desde la aprehensión.",
+      "Dieciocho meses desde el egreso."
+    ],
+    "correcta": 1,
+    "explicacion": "El recurso se presenta fundado por escrito ante el órgano de origen; la revisión tiene su trámite específico.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=22 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 22; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 22,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 22,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-047",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Proyecto de reintegración",
+    "pregunta": "¿Qué finalidad organiza la ejecución de toda pena según el art.77?",
+    "opciones": [
+      "Una medida exclusivamente recaudatoria.",
+      "Una sanción escolar sin control judicial.",
+      "Un Proyecto de Reintegración Social orientado a inserción socioeducativa y restitución de derechos.",
+      "Un castigo ajeno a educación y derechos."
+    ],
+    "correcta": 2,
+    "explicacion": "El supervisor integra el proyecto con soporte interdisciplinario de DRPJ; el órgano judicial conserva el control.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=23 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 23; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 23,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 23,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-048",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Centros especializados",
+    "pregunta": "¿Cómo deben alojarse los adolescentes con pena privativa según el art.80?",
+    "opciones": [
+      "En cualquier comisaría común por tiempo indefinido.",
+      "Siempre junto a condenados adultos sin distinción.",
+      "En lugares sin acceso a educación ni salud.",
+      "En centros especializados juveniles, separados de personas adultas."
+    ],
+    "correcta": 3,
+    "explicacion": "El art.80 exige especialización, separación y régimen socioeducativo con condiciones dignas.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=24 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 24; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 24,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 24,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-049",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Progresión",
+    "pregunta": "¿Qué significa alcanzar los umbrales temporales de progresión del art.89?",
+    "opciones": [
+      "Permite evaluar el cambio; no genera un derecho automático sin evolución y decisión fundada.",
+      "Produce liberación automática sin audiencia.",
+      "Elimina toda evaluación interdisciplinaria.",
+      "Autoriza al supervisor a modificar solo la sentencia."
+    ],
+    "correcta": 0,
+    "explicacion": "Además del tiempo, se exige evolución favorable, responsabilización y decisión judicial fundada en audiencia.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=26 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 26; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 26,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 26,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-050",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Umbrales de progresión",
+    "pregunta": "¿Qué secuencia coincide con los mínimos para evaluar semiabierto, abierto y sustitución?",
+    "opciones": [
+      "Siempre la totalidad de la condena para los tres.",
+      "Un tercio, la mitad y dos tercios de la condena, respectivamente.",
+      "La mitad, un tercio y un cuarto.",
+      "Dos tercios, un cuarto y la mitad."
+    ],
+    "correcta": 1,
+    "explicacion": "Son umbrales para evaluar, no concesiones automáticas; art.89 y condiciones del art.90.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=26 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 26; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 26,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 26,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  },
+  {
+    "id": "N2A-051",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "No punibles",
+    "pregunta": "¿Qué carácter tiene la intervención respecto de personas por debajo de la edad de punibilidad?",
+    "opciones": [
+      "Una condena exclusivamente decidida por la policía.",
+      "Una privación de libertad indefinida por pobreza.",
+      "Excepcional, no penal y administrativo-proteccional; no admite sanciones punitivas.",
+      "Un proceso penal ordinario con pena automática."
+    ],
+    "correcta": 2,
+    "explicacion": "Los arts. 92–93 limitan la comprobación y garantizan protección y defensa; no hay atribución de culpabilidad penal.",
+    "fuente": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf#page=27 | Anexo enlazado en M2 p109; Código Procesal Penal Juvenil, página PDF 27; URL https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+    "pagina": 27,
+    "version": 2026,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "pagina": 27,
+        "url": "https://boe.mendoza.gov.ar/default/public/publico/verpdf/76293ce55269c619fc6f8def3da685e7a0e56bd244/anexo",
+        "descripcion": "Fuente primaria del enunciado y la respuesta"
+      }
+    ]
+  }
+]

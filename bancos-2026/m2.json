@@ -1,0 +1,3562 @@
+[
+  {
+    "id": "N2-001",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · proceso",
+    "pregunta": "Dos personas no logran acordar y acuden a un tercero imparcial. ¿Qué finalidad del proceso destaca el material?",
+    "opciones": [
+      "Resolver pacíficamente un conflicto de intereses",
+      "Obtener siempre una solución favorable a quien inicia la demanda",
+      "Homologar un acuerdo ya celebrado sin resolver controversia",
+      "Emitir una opinión consultiva sin decisión sobre el conflicto"
+    ],
+    "correcta": 0,
+    "explicacion": "El proceso es un medio pacífico de debate para solucionar conflictos intersubjetivos; sustituye la fuerza privada.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=2 | oficial2026 p.PDF 2; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=2",
+    "pagina": 2
+  },
+  {
+    "id": "N2-002",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · funciones",
+    "pregunta": "¿Cuál es la función pública del proceso judicial?",
+    "opciones": [
+      "Satisfacer exclusivamente el interés particular del litigante",
+      "Garantizar que toda pretensión iniciada sea admitida",
+      "Sustituir la función de las leyes de fondo mediante cada sentencia",
+      "Garantizar una respuesta estatal frente a la prohibición de fuerza privada"
+    ],
+    "correcta": 3,
+    "explicacion": "La función pública es la garantía estatal que acompaña la prohibición del uso de fuerza privada.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=3 | oficial2026 p.PDF 3; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=3",
+    "pagina": 3
+  },
+  {
+    "id": "N2-003",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · secuencia",
+    "pregunta": "¿Qué secuencia se corresponde con afirmación, negación, confirmación y alegación?",
+    "opciones": [
+      "Demanda, prueba, contestación y alegatos",
+      "Demanda, contestación, alegatos y prueba",
+      "Demanda, contestación, prueba y alegatos",
+      "Contestación, demanda, prueba y alegatos"
+    ],
+    "correcta": 2,
+    "explicacion": "El texto vincula afirmación con demanda, negación con contestación, confirmación con prueba y alegación con alegatos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=3 | oficial2026 p.PDF 3; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=3",
+    "pagina": 3
+  },
+  {
+    "id": "N2-004",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · principios",
+    "pregunta": "Partes y tribunal actúan para evitar la paralización. ¿Qué principio se reconoce?",
+    "opciones": [
+      "Principio dispositivo entendido como impulso exclusivo de las partes",
+      "Impulso procesal compartido",
+      "Principio de contradicción",
+      "Principio de publicidad"
+    ],
+    "correcta": 1,
+    "explicacion": "La enumeración del art. 2 incluye el impulso procesal compartido; no atribuye el avance solo a uno de los sujetos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=3 | oficial2026 p.PDF 3; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=3",
+    "pagina": 3
+  },
+  {
+    "id": "N2-005",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · partes",
+    "pregunta": "En una actuación voluntaria con pretensiones coincidentes, ¿qué denominación corresponde según el material?",
+    "opciones": [
+      "Peticionarios",
+      "Demandantes y demandados",
+      "Ejecutantes y ejecutados",
+      "Recurrentes y recurridos"
+    ],
+    "correcta": 0,
+    "explicacion": "En procesos voluntarios, la idea de partes enfrentadas se reemplaza por peticionarios.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=3 | oficial2026 p.PDF 3; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=3",
+    "pagina": 3
+  },
+  {
+    "id": "N2-006",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · terceros",
+    "pregunta": "Una persona distinta de actor y demandado se incorpora para defender un interés propio vinculado a una pretensión. ¿Cómo se caracteriza?",
+    "opciones": [
+      "Auxiliar de prueba que emite un dictamen imparcial",
+      "Representante procesal que actúa únicamente por una parte",
+      "Litisconsorte originario presente desde el inicio de la demanda",
+      "Tercero que interviene en el litigio"
+    ],
+    "correcta": 3,
+    "explicacion": "Los terceros pueden incorporarse espontánea o provocadamente para hacer valer derechos vinculados al litigio.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=3 | oficial2026 p.PDF 3; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=3",
+    "pagina": 3
+  },
+  {
+    "id": "N2-007",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · clasificación",
+    "pregunta": "La pretensión busca aclarar existencia y alcance de un derecho discutido. ¿Qué proceso corresponde a esa finalidad?",
+    "opciones": [
+      "Proceso cautelar destinado a asegurar bienes",
+      "Proceso de ejecución de una sentencia firme",
+      "Proceso de conocimiento o declaración",
+      "Proceso monitorio para hacer efectivo un título documentado"
+    ],
+    "correcta": 2,
+    "explicacion": "El proceso de declaración procura que el órgano judicial dilucide y declare la situación jurídica entre partes.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=4 | oficial2026 p.PDF 4; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=4",
+    "pagina": 4
+  },
+  {
+    "id": "N2-008",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · cautelares",
+    "pregunta": "Se pretende impedir que desaparezca un bien mientras se tramita el juicio. ¿Cuál es la función de la medida?",
+    "opciones": [
+      "Satisfacer definitivamente la pretensión principal",
+      "Asegurar el resultado de otro proceso",
+      "Producir cosa juzgada sobre la titularidad del bien",
+      "Abrir necesariamente un proceso independiente sin relación con el principal"
+    ],
+    "correcta": 1,
+    "explicacion": "El proceso cautelar asegura el resultado de un proceso concomitante o posterior; no equivale a sentencia de fondo.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=4 | oficial2026 p.PDF 4; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=4",
+    "pagina": 4
+  },
+  {
+    "id": "N2-009",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · amparo",
+    "pregunta": "¿Qué derecho queda exceptuado del objeto de amparo descrito por el material porque tiene tutela específica?",
+    "opciones": [
+      "La libertad individual tutelada por hábeas corpus",
+      "La protección de datos personales",
+      "Los derechos reconocidos implícitamente",
+      "Los derechos frente a actos de particulares"
+    ],
+    "correcta": 0,
+    "explicacion": "El apartado exceptúa la libertad individual, protegida específicamente por hábeas corpus.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=4 | oficial2026 p.PDF 4; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=4",
+    "pagina": 4
+  },
+  {
+    "id": "N2-010",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · hábeas data",
+    "pregunta": "Una persona quiere conocer sus datos en un registro y corregir información inexacta. ¿Qué herramienta describe el material?",
+    "opciones": [
+      "Hábeas corpus",
+      "Anotación de litis",
+      "Exhibición de documentos como simple prueba de un juicio patrimonial",
+      "Hábeas data"
+    ],
+    "correcta": 3,
+    "explicacion": "El hábeas data permite conocer registros y solicitar rectificación o supresión de datos inexactos u obsoletos en el alcance indicado.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=5 | oficial2026 p.PDF 5; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=5",
+    "pagina": 5
+  },
+  {
+    "id": "N2-011",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · expediente",
+    "pregunta": "¿Cómo se agregan las actuaciones al expediente iniciado con el primer escrito?",
+    "opciones": [
+      "Separando escritos de partes y resoluciones en bloques sin atender a la fecha",
+      "Incorporando primero las actuaciones de mayor relevancia jurídica",
+      "Por estricto orden cronológico",
+      "Ordenando por fecha solo las resoluciones y por tipo los escritos"
+    ],
+    "correcta": 2,
+    "explicacion": "El art. 55 reproducido exige agregación cronológica y el texto detalla incluso el orden horario para un mismo día.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=5 | oficial2026 p.PDF 5; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=5",
+    "pagina": 5
+  },
+  {
+    "id": "N2-012",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · publicidad",
+    "pregunta": "Un usuario tiene autorización de consulta digital por tiempo limitado. ¿Qué facultad no deriva de ese permiso?",
+    "opciones": [
+      "Examinar las actuaciones autorizadas",
+      "Modificar o suprimir actuaciones",
+      "Conocer el contenido durante el acceso",
+      "Acceder por el medio dispuesto judicialmente"
+    ],
+    "correcta": 1,
+    "explicacion": "La autorización de consulta no permite alterar, suprimir o agregar elementos al expediente.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=5 | oficial2026 p.PDF 5; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=5",
+    "pagina": 5
+  },
+  {
+    "id": "N2-013",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · préstamo",
+    "pregunta": "¿Quién autoriza el préstamo de un expediente papel a profesionales o peritos y fija su plazo?",
+    "opciones": [
+      "El secretario",
+      "El juez receptor de otro tribunal",
+      "El jefe de Mesa de Entradas por decisión propia",
+      "El profesional solicitante mediante constancia unilateral"
+    ],
+    "correcta": 0,
+    "explicacion": "El préstamo por volumen o complejidad requiere autorización del secretario, quien determina el plazo.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=5 | oficial2026 p.PDF 5; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=5",
+    "pagina": 5
+  },
+  {
+    "id": "N2-014",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · custodia",
+    "pregunta": "¿A quién atribuye el material la custodia y conservación del expediente?",
+    "opciones": [
+      "Al secretario como responsable exclusivo de esa función en la enumeración",
+      "A la parte que presentó la demanda inicial",
+      "Al archivo judicial desde el inicio de la causa",
+      "Al jefe de Mesa de Entradas"
+    ],
+    "correcta": 3,
+    "explicacion": "La custodia es tarea del jefe de Mesa de Entradas, también responsable de conservar en buen estado el soporte papel.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=6 | oficial2026 p.PDF 6; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=6",
+    "pagina": 6
+  },
+  {
+    "id": "N2-015",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · paralización",
+    "pregunta": "¿Qué combinación describe el supuesto de remisión al archivo en calidad de paralizado?",
+    "opciones": [
+      "Seis meses sin movimiento aunque existan actuaciones útiles que impulsar",
+      "Un año sin sentencia, cualquiera sea la actividad realizada",
+      "Seis meses sin movimiento e imposibilidad de impulso",
+      "Terminación por sentencia firme, como supuesto de archivo definitivo"
+    ],
+    "correcta": 2,
+    "explicacion": "El material exige falta de movimiento durante seis meses e imposibilidad de impulso; no equivale al archivo por terminación.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=6 | oficial2026 p.PDF 6; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=6",
+    "pagina": 6
+  },
+  {
+    "id": "N2-016",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · tiempo hábil",
+    "pregunta": "¿Qué franja establece el material como horas hábiles procesales?",
+    "opciones": [
+      "De 8 a 13",
+      "De 7 a 21",
+      "De 6 a 18",
+      "De 9 a 20"
+    ],
+    "correcta": 1,
+    "explicacion": "La franja procesal hábil indicada es de siete a veintiuna; no debe confundirse con atención al público.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=6 | oficial2026 p.PDF 6; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=6",
+    "pagina": 6
+  },
+  {
+    "id": "N2-017",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · accesibilidad del escrito",
+    "pregunta": "Una persona no sabe leer el escrito que presenta. ¿Qué actuación describe el material?",
+    "opciones": [
+      "Lectura por el jefe de Mesa de Entradas y constancia al certificar",
+      "Lectura por el abogado sin dejar constancia de la intervención de Mesa de Entradas",
+      "Certificación de firma sin necesidad de lectura del escrito",
+      "Lectura por un testigo y devolución sin certificación de recepción"
+    ],
+    "correcta": 0,
+    "explicacion": "El texto dispone que el jefe de Mesa de Entradas dé lectura y haga constar esa circunstancia al certificar el acto.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=6 | oficial2026 p.PDF 6; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=6",
+    "pagina": 6
+  },
+  {
+    "id": "N2-018",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · desglose",
+    "pregunta": "¿Qué operación retira piezas innecesarias o inadmisibles dejando constancia?",
+    "opciones": [
+      "Reconstrucción",
+      "Remisión",
+      "Acumulación",
+      "Desglose"
+    ],
+    "correcta": 3,
+    "explicacion": "El desglose retira documentos o escritos y exige constancia de las piezas desglosadas.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=7 | oficial2026 p.PDF 7; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=7",
+    "pagina": 7
+  },
+  {
+    "id": "N2-019",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · cargo",
+    "pregunta": "¿Cuál de estos datos es propio del cargo de presentación?",
+    "opciones": [
+      "El día en que quedó firme la sentencia",
+      "La fecha prevista para la próxima audiencia",
+      "Día y hora en que se recibió el escrito",
+      "El plazo concedido para contestar la demanda"
+    ],
+    "correcta": 2,
+    "explicacion": "El cargo registra recepción, día, hora, fojas, agregados, copias y otros datos significativos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=7 | oficial2026 p.PDF 7; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=7",
+    "pagina": 7
+  },
+  {
+    "id": "N2-020",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · resoluciones",
+    "pregunta": "Una decisión provee sin sustanciación al desarrollo del proceso. ¿Cómo se denomina?",
+    "opciones": [
+      "Auto",
+      "Decreto",
+      "Sentencia definitiva",
+      "Acta de audiencia"
+    ],
+    "correcta": 1,
+    "explicacion": "Los decretos proveen sin sustanciación al desarrollo del proceso; el plazo general indicado es dos días.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=7 | oficial2026 p.PDF 7; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=7",
+    "pagina": 7
+  },
+  {
+    "id": "N2-021",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · resoluciones",
+    "pregunta": "¿Qué relación de plazos generales reproduce el art. 86 citado?",
+    "opciones": [
+      "Decreto 2 días; auto 10 días; sentencia 30 días",
+      "Decreto 5 días; auto 15 días; sentencia 20 días",
+      "Decreto 10 días; auto 2 días; sentencia 5 días",
+      "Decreto 3 días; auto 20 días; sentencia 40 días"
+    ],
+    "correcta": 0,
+    "explicacion": "El material indica 2, 10 y 30 días respectivamente, sin perjuicio de plazos especiales y del inicio de cómputo de cada acto.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=7 | oficial2026 p.PDF 7; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=7",
+    "pagina": 7
+  },
+  {
+    "id": "N2-022",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · audiencia inicial",
+    "pregunta": "¿Quién debe dirigir de manera indelegable la audiencia inicial, bajo pena de nulidad?",
+    "opciones": [
+      "El secretario mediante delegación del juez",
+      "El jefe de Mesa de Entradas por sustitución ordinaria",
+      "El conciliador designado en reemplazo de la dirección judicial",
+      "El juez de la causa"
+    ],
+    "correcta": 3,
+    "explicacion": "El texto exige dirección indelegable del juez de la causa y establece sanción de nulidad.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=8 | oficial2026 p.PDF 8; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=8",
+    "pagina": 8
+  },
+  {
+    "id": "N2-023",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · comparecencia",
+    "pregunta": "Una parte no concurre sin justificación a la audiencia inicial. ¿Qué regla presenta el material?",
+    "opciones": [
+      "Suspensión obligatoria hasta asegurar asistencia de ambas partes",
+      "Necesidad de una nueva citación antes de realizar cualquier acto",
+      "La ausencia no suspende por sí sola la audiencia",
+      "Conversión de la audiencia inicial en trámite exclusivamente escrito"
+    ],
+    "correcta": 2,
+    "explicacion": "La incomparecencia injustificada del litigante o representante no suspende la realización de la audiencia.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=8 | oficial2026 p.PDF 8; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=8",
+    "pagina": 8
+  },
+  {
+    "id": "N2-024",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · carga de prueba",
+    "pregunta": "¿Quién debe aportar, en general, prueba de los hechos constitutivos de la pretensión?",
+    "opciones": [
+      "La contraparte, por el solo hecho de negar esos hechos",
+      "Quien los invoca como base de su pretensión",
+      "El tribunal en sustitución completa de la carga de las partes",
+      "El testigo ofrecido, por asumir la carga procesal del litigante"
+    ],
+    "correcta": 1,
+    "explicacion": "El art. 175 atribuye prueba de hechos constitutivos a quien los invoca; extintivos e impeditivos a quien funda en ellos su resistencia.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=9 | oficial2026 p.PDF 9; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=9",
+    "pagina": 9
+  },
+  {
+    "id": "N2-025",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · peritos",
+    "pregunta": "Las partes discrepan al designar perito. ¿Qué solución describe el material?",
+    "opciones": [
+      "Sorteo de la lista correspondiente",
+      "Designación definitiva del propuesto primero por el actor",
+      "Elección unilateral del perito por el demandado",
+      "Dejar sin efecto la prueba por falta de acuerdo"
+    ],
+    "correcta": 0,
+    "explicacion": "Si no hay designación de común acuerdo, se efectúa sorteo de la lista; el dictamen debe ser imparcial y fundado.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=9 | oficial2026 p.PDF 9; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=9",
+    "pagina": 9
+  },
+  {
+    "id": "N2-026",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · audiencia final",
+    "pregunta": "¿Qué actividad corresponde a los alegatos en la audiencia final?",
+    "opciones": [
+      "Fijar por primera vez los hechos controvertidos y admitir toda la prueba",
+      "Resolver excepciones previas antes de producir la prueba",
+      "Presentar la contestación de demanda y ofrecer sus documentos",
+      "Valorar el mérito de la causa luego de la prueba oral"
+    ],
+    "correcta": 3,
+    "explicacion": "Rendida prueba oral, las partes se expiden sobre el mérito total de la causa mediante alegatos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=10 | oficial2026 p.PDF 10; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=10",
+    "pagina": 10
+  },
+  {
+    "id": "N2-027",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · comunicaciones",
+    "pregunta": "Para un exhorto dirigido a una autoridad judicial extranjera, ¿qué marco señala el material?",
+    "opciones": [
+      "Exclusivamente la Ley 22172 para comunicaciones entre provincias",
+      "Únicamente la acordada provincial de implementación del Bus",
+      "Tratados y acuerdos internacionales y art. 2612 CCCN",
+      "Las reglas del oficio interno sin considerar tratados internacionales"
+    ],
+    "correcta": 2,
+    "explicacion": "Los exhortos internacionales se sujetan a tratados, acuerdos y art. 2612 del Código Civil y Comercial.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=11 | oficial2026 p.PDF 11; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=11",
+    "pagina": 11
+  },
+  {
+    "id": "N2-028",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · Bus Federal",
+    "pregunta": "La oficina destinataria encuentra que faltan requisitos en una comunicación. ¿Qué circuito corresponde?",
+    "opciones": [
+      "Subsanimar el requisito faltante y continuar como si lo hubiera aportado el emisor",
+      "Informar a la derivadora para devolver al emisor sin trámite",
+      "Diligenciar igualmente y comunicar el defecto al finalizar",
+      "Devolver directamente a una parte, omitiendo la derivadora"
+    ],
+    "correcta": 1,
+    "explicacion": "La destinataria informa a la Oficina Derivadora, que devuelve al organismo emisor sin trámite.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=12 | oficial2026 p.PDF 12; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=12",
+    "pagina": 12
+  },
+  {
+    "id": "N2-029",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · Bus Federal",
+    "pregunta": "¿Cómo debe compilarse la respuesta al objeto de una comunicación por Bus Federal?",
+    "opciones": [
+      "En un solo documento PDF con los datos requeridos",
+      "En documentos separados para cada anexo sin compilación final",
+      "En un correo que informe el cumplimiento sin adjuntar documentación",
+      "En un PDF sin los datos de identificación porque constan en el envío inicial"
+    ],
+    "correcta": 0,
+    "explicacion": "El material pide respuesta compilada en un único PDF e identificación de organismo, destino, causa y plazos pertinentes.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=12 | oficial2026 p.PDF 12; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=12",
+    "pagina": 12
+  },
+  {
+    "id": "N2-030",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · medidas",
+    "pregunta": "¿Qué medida da publicidad a un litigio sobre un bien para oponerlo a futuros adquirentes?",
+    "opciones": [
+      "Embargo",
+      "Inhibición general de bienes",
+      "Secuestro judicial",
+      "Anotación de litis"
+    ],
+    "correcta": 3,
+    "explicacion": "La anotación de litis publicita litigios relativos a inmuebles o registrables y evita alegar ignorancia por terceros adquirentes.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=15 | oficial2026 p.PDF 15; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=15",
+    "pagina": 15
+  },
+  {
+    "id": "N2-031",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · notificación",
+    "pregunta": "¿Qué límite expresa el material sobre notificación simple por lista?",
+    "opciones": [
+      "Reemplaza siempre cualquier medio de notificación",
+      "Solo produce efectos cuando la parte acepta el contenido",
+      "No suple la cédula cuando esta debe practicarse",
+      "Se utiliza exclusivamente en expedientes secretos"
+    ],
+    "correcta": 2,
+    "explicacion": "La aparición en lista produce notificación en el marco indicado, pero no sustituye una cédula exigida legalmente.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=16 | oficial2026 p.PDF 16; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=16",
+    "pagina": 16
+  },
+  {
+    "id": "N2-032",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · edictos",
+    "pregunta": "¿A quiénes se dirige la notificación edictal descrita?",
+    "opciones": [
+      "Personas con domicilio conocido que todavía no leyeron la lista",
+      "Personas inciertas o de domicilio ignorado",
+      "Todo demandado antes de intentar notificación al domicilio conocido",
+      "Únicamente personas que constituyeron domicilio electrónico"
+    ],
+    "correcta": 1,
+    "explicacion": "El edicto permite notificar a personas inciertas o de domicilio ignorado a través de los medios previstos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=17 | oficial2026 p.PDF 17; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=17",
+    "pagina": 17
+  },
+  {
+    "id": "N2-033",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · BLSG",
+    "pregunta": "¿Qué base alimenta la consulta socioeconómica automatizada para BLSG según el nuevo material?",
+    "opciones": [
+      "SINTyS",
+      "SINEJ",
+      "ReDAM",
+      "Iurix ADF como base nacional tributaria y social"
+    ],
+    "correcta": 0,
+    "explicacion": "La consulta automatizada se apoya en SINTyS, con datos tributarios, patrimoniales y de seguridad social.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=17 | oficial2026 p.PDF 17; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=17",
+    "pagina": 17
+  },
+  {
+    "id": "N2-034",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · BLSG",
+    "pregunta": "Tras la consulta automatizada, ¿qué destino describe el material para la constancia descargada?",
+    "opciones": [
+      "Conservarla fuera del expediente como comprobante interno",
+      "Reemplazar con ella el decreto que comunica la decisión",
+      "Entregarla solo al solicitante sin incorporación judicial",
+      "Adjuntarla al decreto correspondiente por el juzgado"
+    ],
+    "correcta": 3,
+    "explicacion": "El PDF muestra la descarga de constancia en PDF para adjuntarla por el juzgado al decreto correspondiente.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=20 | oficial2026 p.PDF 20; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=20",
+    "pagina": 20
+  },
+  {
+    "id": "N2-035",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Civil · tecnología",
+    "pregunta": "¿Cuál es el sistema central de expediente electrónico para Civil y Paz Letrado que menciona el material?",
+    "opciones": [
+      "Iurix Flex",
+      "LeD",
+      "Iurix ADF",
+      "MeeD como sustituto de todo el expediente"
+    ],
+    "correcta": 2,
+    "explicacion": "La sección civil identifica Iurix ADF, conforme a Ac. 30171, complementado por otras herramientas de presentaciones y notificaciones.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=34 | oficial2026 p.PDF 34; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=34",
+    "pagina": 34
+  },
+  {
+    "id": "N2-036",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Paz · organización",
+    "pregunta": "¿Qué grado de instancia tienen los Juzgados de Paz según el material?",
+    "opciones": [
+      "Segunda instancia ordinaria",
+      "Primera instancia",
+      "Instancia única sin posibilidad de revisión",
+      "Instancia extraordinaria provincial"
+    ],
+    "correcta": 1,
+    "explicacion": "Los juzgados de Paz son de primera instancia; la revisión corresponde a órganos de apelación según la organización descrita.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=21 | oficial2026 p.PDF 21; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=21",
+    "pagina": 21
+  },
+  {
+    "id": "N2-037",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Paz · Segunda Circunscripción",
+    "pregunta": "¿Qué sede cuenta con tres Juzgados de Paz Letrado organizados en gestión judicial según el apartado de Segunda Circunscripción?",
+    "opciones": [
+      "San Rafael",
+      "Tunuyán",
+      "San Martín",
+      "Ciudad de Mendoza"
+    ],
+    "correcta": 0,
+    "explicacion": "La sección Segunda Circunscripción identifica tres juzgados de Paz Letrado en gestión judicial en San Rafael.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=21 | oficial2026 p.PDF 21; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=21",
+    "pagina": 21
+  },
+  {
+    "id": "N2-038",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Paz · derecho aplicable",
+    "pregunta": "¿Qué norma regula principalmente las cuestiones de fondo civiles y comerciales en Paz?",
+    "opciones": [
+      "Código Procesal Civil, Comercial y Tributario como norma de fondo",
+      "Código Contravencional para toda obligación civil",
+      "Ley de Aranceles como regulación general de los contratos",
+      "Código Civil y Comercial de la Nación"
+    ],
+    "correcta": 3,
+    "explicacion": "El CCCN regula derechos sustanciales; el CPCCyT regula su tratamiento procesal en este fuero.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=23 | oficial2026 p.PDF 23; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=23",
+    "pagina": 23
+  },
+  {
+    "id": "N2-039",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Paz · competencia",
+    "pregunta": "¿Qué elemento determina competencia material según el art. 5 citado?",
+    "opciones": [
+      "Naturaleza de las defensas formuladas al contestar",
+      "Monto de la condena que finalmente establezca la sentencia",
+      "Naturaleza de las pretensiones deducidas en la demanda",
+      "Materia elegida por las partes al constituir domicilio procesal"
+    ],
+    "correcta": 2,
+    "explicacion": "La competencia se determina por la naturaleza de las pretensiones, no por las defensas del demandado.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=24 | oficial2026 p.PDF 24; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=24",
+    "pagina": 24
+  },
+  {
+    "id": "N2-040",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Paz · competencia",
+    "pregunta": "¿Qué asunto se incluye expresamente en la competencia de Paz Letrado?",
+    "opciones": [
+      "Acción sobre dominio de un inmueble atribuida a Civil y Comercial",
+      "Desalojo derivado de contrato de locación",
+      "Concurso preventivo de una sociedad comercial",
+      "Recurso de apelación contra una sentencia de primera instancia"
+    ],
+    "correcta": 1,
+    "explicacion": "El apartado B del art. 5 incluye desalojos derivados de locación, comodato o usufructo y cuestiones de locación.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=24 | oficial2026 p.PDF 24; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=24",
+    "pagina": 24
+  },
+  {
+    "id": "N2-041",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Paz · cuantía",
+    "pregunta": "Un consumidor reclama 18 JUS de capital y 6 JUS de intereses. ¿Qué capital se considera para cuantía?",
+    "opciones": [
+      "18 JUS",
+      "24 JUS",
+      "6 JUS",
+      "20 JUS por redondeo"
+    ],
+    "correcta": 0,
+    "explicacion": "La regla de cuantía de p. 27 toma capital nominal, excluyendo intereses y accesorios. El límite general aquí referido es 20 JUS.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=27 | oficial2026 p.PDF 27; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=27",
+    "pagina": 27
+  },
+  {
+    "id": "N2-042",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Paz · cuantía",
+    "pregunta": "Para responsabilidad civil sin acumulación especial, un reclamo de 25 JUS de capital supera el límite señalado. ¿A qué fuero remite el texto?",
+    "opciones": [
+      "Paz Letrado por sumar intereses al capital",
+      "Pequeñas Causas por tratarse de responsabilidad civil",
+      "Paz Letrado por computar únicamente las cuotas vencidas",
+      "Civil y Comercial"
+    ],
+    "correcta": 3,
+    "explicacion": "El texto atribuye a Civil y Comercial los reclamos de responsabilidad civil/consumo que exceden 20 JUS, salvo reglas particulares.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=25 | oficial2026 p.PDF 25; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=25",
+    "pagina": 25
+  },
+  {
+    "id": "N2-043",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Paz · familia residual",
+    "pregunta": "Donde no hay asiento de Juzgado de Familia, ¿qué asunto menciona el art. 15 como atribución de Paz?",
+    "opciones": [
+      "Divorcio con liquidación de bienes sin ninguna limitación",
+      "Cualquier acción de filiación aunque exista juzgado especializado",
+      "Divorcio si se declara que no existen bienes",
+      "Proceso de adopción por elección del domicilio del solicitante"
+    ],
+    "correcta": 2,
+    "explicacion": "El art. 15 transcripto enumera asuntos concretos, entre ellos divorcio si se declara inexistencia de bienes.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=26 | oficial2026 p.PDF 26; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=26",
+    "pagina": 26
+  },
+  {
+    "id": "N2-044",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Paz · consumo y territorio",
+    "pregunta": "Un proveedor demanda al consumidor. ¿Qué domicilio fija competencia territorial según el material?",
+    "opciones": [
+      "Domicilio procesal constituido por el proveedor",
+      "Domicilio real del consumidor",
+      "Domicilio del proveedor con independencia de la regla de consumo",
+      "Lugar pactado en una cláusula contraria al domicilio real del consumidor"
+    ],
+    "correcta": 1,
+    "explicacion": "Si inicia el proveedor, es competente el juez del domicilio real del consumidor, con nulidad de pacto contrario.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=27 | oficial2026 p.PDF 27; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=27",
+    "pagina": 27
+  },
+  {
+    "id": "N2-045",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Paz · territorio",
+    "pregunta": "Un conflicto nace exclusivamente del vínculo entre vecinos. ¿Qué regla territorial señala el material?",
+    "opciones": [
+      "Domicilio real de los vecinos",
+      "Domicilio procesal del abogado que representa al actor",
+      "Lugar de cumplimiento de un contrato ajeno al vínculo vecinal",
+      "Domicilio del demandante elegido sin atender a la regla especial"
+    ],
+    "correcta": 0,
+    "explicacion": "Para conflictos entre vecinos, la regla reproducida es el domicilio real del o los vecinos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=27 | oficial2026 p.PDF 27; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=27",
+    "pagina": 27
+  },
+  {
+    "id": "N2-046",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Paz · JUS",
+    "pregunta": "¿Cómo define el art. 7 la unidad JUS?",
+    "opciones": [
+      "Un décimo del salario mínimo vital y móvil",
+      "Un décimo de la remuneración total, incluidos adicionales, de cualquier magistrado",
+      "La asignación básica completa de un juez de primera instancia",
+      "Un décimo de la asignación básica de juez de primera instancia"
+    ],
+    "correcta": 3,
+    "explicacion": "El JUS equivale a 1/10 de la asignación básica del juez de primera instancia; la Corte comunica su valor para el año siguiente.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=27 | oficial2026 p.PDF 27; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=27",
+    "pagina": 27
+  },
+  {
+    "id": "N2-047",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Paz · cuantía",
+    "pregunta": "Una ampliación fundada en la misma causa obligacional supera el límite inicial de cuantía. ¿Qué regla reproduce el texto?",
+    "opciones": [
+      "Obliga a declarar incompetencia por superar el límite inicial",
+      "Requiere iniciar un proceso nuevo ante un órgano de mayor cuantía",
+      "No altera la competencia del juez ya determinada",
+      "Obliga a dividir la pretensión en juicios de menor cuantía"
+    ],
+    "correcta": 2,
+    "explicacion": "El art. 7 transcripto mantiene competencia ante ampliaciones de la misma causa obligacional, aunque sumadas superen el límite.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=28 | oficial2026 p.PDF 28; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=28",
+    "pagina": 28
+  },
+  {
+    "id": "N2-048",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Paz · monitorio",
+    "pregunta": "¿Cuál es el orden característico de la estructura monitoria?",
+    "opciones": [
+      "Demanda, contestación, prueba y primera sentencia al finalizar",
+      "Demanda documentada, sentencia inicial y posibilidad posterior de oposición",
+      "Demanda, oposición previa y sentencia inicial después de producir prueba",
+      "Demanda, audiencia final obligatoria y posterior intimación de pago"
+    ],
+    "correcta": 1,
+    "explicacion": "El monitorio permite una sentencia inicial sin contradictorio previo y luego defensa del demandado al ser notificado.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=29 | oficial2026 p.PDF 29; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=29",
+    "pagina": 29
+  },
+  {
+    "id": "N2-049",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Paz · monitorio",
+    "pregunta": "¿Qué debe presentar el actor para acceder al monitorio según el art. 234 reproducido?",
+    "opciones": [
+      "Título o instrumento idóneo del que surja el derecho",
+      "Solo una afirmación de crédito sin título o instrumento idóneo",
+      "Una copia de cualquier intercambio sin aptitud para fundar el derecho",
+      "Una solicitud de prueba futura como sustitución del título exigido"
+    ],
+    "correcta": 0,
+    "explicacion": "Debe acompañar título con fuerza ejecutiva o instrumento público/privado idóneo en los términos del art. 234.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=29 | oficial2026 p.PDF 29; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=29",
+    "pagina": 29
+  },
+  {
+    "id": "N2-050",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Paz · monitorio común",
+    "pregunta": "¿Qué plazo para oponerse a la sentencia monitoria común indica el resumen?",
+    "opciones": [
+      "15 días",
+      "20 días",
+      "30 días",
+      "5 días"
+    ],
+    "correcta": 3,
+    "explicacion": "La p. 30 asigna 5 días al demandado tras notificación; no confundir con desalojo monitorio, cuyo apartado indica 15.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=30 | oficial2026 p.PDF 30; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=30",
+    "pagina": 30
+  },
+  {
+    "id": "N2-051",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Paz · pagaré de consumo",
+    "pregunta": "Ante indicios de relación de consumo subyacente, ¿qué debe controlar el juez?",
+    "opciones": [
+      "Exclusivamente los recaudos formales del título por su abstracción",
+      "Solo si el consumidor reconoce la firma, sin control causal",
+      "Antecedentes documentales y requisitos de protección del consumidor",
+      "Únicamente la tasa de interés elegida por el acreedor"
+    ],
+    "correcta": 2,
+    "explicacion": "El pagaré de consumo exige integración documental del negocio causal y control de Ley 24240, incluido art. 36.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=30 | oficial2026 p.PDF 30; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=30",
+    "pagina": 30
+  },
+  {
+    "id": "N2-052",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Paz · desalojo",
+    "pregunta": "¿Cuál de estos supuestos describe el apartado de desalojo monitorio?",
+    "opciones": [
+      "Declaración del dominio discutido entre dos propietarios",
+      "Restitución de inmueble por vencimiento de contrato escrito o falta de pago",
+      "Partición de un inmueble entre herederos",
+      "Cobro de daños por un contrato sin pedido de restitución del inmueble"
+    ],
+    "correcta": 1,
+    "explicacion": "La vía se describe para inmueble locado o dado en comodato, con contrato escrito y causal de vencimiento o falta de pago.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=31 | oficial2026 p.PDF 31; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=31",
+    "pagina": 31
+  },
+  {
+    "id": "N2-053",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Paz · ocupantes",
+    "pregunta": "En un desalojo se verifica presencia de niños. ¿Qué actuación menciona el material?",
+    "opciones": [
+      "Dar intervención a organismos correspondientes como ETI y municipio",
+      "Resolver solo entre las partes adultas sin intervención institucional adicional",
+      "Considerarlos partes contractuales por el solo hecho de ocupar el inmueble",
+      "Suspender indefinidamente el proceso sin intervención de los organismos"
+    ],
+    "correcta": 0,
+    "explicacion": "El texto pide intervención de organismos correspondientes cuando se constata presencia de menores en el inmueble.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=32 | oficial2026 p.PDF 32; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=32",
+    "pagina": 32
+  },
+  {
+    "id": "N2-054",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Paz · pequeñas causas",
+    "pregunta": "¿Cuál es el límite de reclamo de consumo individual para la vía de pequeñas causas?",
+    "opciones": [
+      "20 JUS",
+      "30 JUS",
+      "50 JUS",
+      "3 JUS"
+    ],
+    "correcta": 3,
+    "explicacion": "El art. 218 reproducido fija hasta 3 JUS para consumo individual; no es el mismo límite de 20 JUS entre Paz y Civil.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=33 | oficial2026 p.PDF 33; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=33",
+    "pagina": 33
+  },
+  {
+    "id": "N2-055",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Paz · pequeñas causas",
+    "pregunta": "¿Qué conflicto queda excluido del supuesto vecinal de pequeñas causas que describe el material?",
+    "opciones": [
+      "Un conflicto vecinal exclusivamente personal que reúne los requisitos de la vía",
+      "Una molestia entre vecinos sin discusión de dominio ni delito",
+      "Un delito o una cuestión de derechos reales sobre inmueble",
+      "Una controversia privada nacida del vínculo vecinal y dentro de la competencia"
+    ],
+    "correcta": 2,
+    "explicacion": "El supuesto vecinal excluye derechos reales inmobiliarios, delitos, contravenciones y faltas y otras materias específicas.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=33 | oficial2026 p.PDF 33; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=33",
+    "pagina": 33
+  },
+  {
+    "id": "N2-056",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Paz · pequeñas causas",
+    "pregunta": "En la audiencia de pequeñas causas, ¿cómo contesta el demandado y ofrece prueba?",
+    "opciones": [
+      "Por escrito antes de la audiencia, como requisito para poder ofrecer prueba",
+      "Oralmente en la audiencia",
+      "Por escrito después de la audiencia y antes de sentencia",
+      "Oralmente solo al recurrir la sentencia dictada sin contestación"
+    ],
+    "correcta": 1,
+    "explicacion": "La audiencia concentra contestación, prueba y decisión según el resumen de la vía.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=34 | oficial2026 p.PDF 34; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=34",
+    "pagina": 34
+  },
+  {
+    "id": "N2-057",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Paz · contravencional",
+    "pregunta": "¿Qué normativa regula el proceso contravencional descrito?",
+    "opciones": [
+      "Ley 9099 y, supletoriamente, Código Procesal Penal",
+      "Ley 9099 y, supletoriamente, Código Procesal Civil",
+      "Código Procesal Penal como única norma, sin ley especial",
+      "Ley 9001 con aplicación supletoria de la Ley 24240"
+    ],
+    "correcta": 0,
+    "explicacion": "El capítulo señala Código Contravencional Ley 9099 y aplicación supletoria del CPP.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=39 | oficial2026 p.PDF 39; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=39",
+    "pagina": 39
+  },
+  {
+    "id": "N2-058",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Paz · contravencional",
+    "pregunta": "Si la persona niega el hecho luego de la audiencia indagatoria, ¿qué plazo de prueba indica el esquema?",
+    "opciones": [
+      "2 días",
+      "20 días",
+      "60 días",
+      "5 días"
+    ],
+    "correcta": 3,
+    "explicacion": "El texto describe 5 días para aportar prueba y posterior debate oral videograbado.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=39 | oficial2026 p.PDF 39; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=39",
+    "pagina": 39
+  },
+  {
+    "id": "N2-059",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Tributario · concepto",
+    "pregunta": "¿Qué rasgo distingue al tributo en la definición del material?",
+    "opciones": [
+      "Prestación que tiene necesariamente finalidad sancionatoria por un ilícito",
+      "Ingreso de origen contractual fijado libremente por el contribuyente",
+      "Ingreso público legal que no constituye sanción de un ilícito",
+      "Ingreso que requiere siempre una contraprestación individual directa"
+    ],
+    "correcta": 2,
+    "explicacion": "El tributo tiene fuente legal y capacidad económica; puede o no vincularse a contraprestación individual y no es sanción.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=40 | oficial2026 p.PDF 40; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=40",
+    "pagina": 40
+  },
+  {
+    "id": "N2-060",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Tributario · ramas",
+    "pregunta": "La gestión de pagos, inspección y fiscalización del Fisco se estudia especialmente en:",
+    "opciones": [
+      "Derecho Constitucional Tributario",
+      "Derecho Administrativo Tributario",
+      "Derecho Sustantivo Tributario",
+      "Derecho Procesal Tributario"
+    ],
+    "correcta": 1,
+    "explicacion": "El Derecho Administrativo/Formal Tributario regula actividad administrativa de gestión, inspección y recaudación.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=41 | oficial2026 p.PDF 41; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=41",
+    "pagina": 41
+  },
+  {
+    "id": "N2-061",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Tributario · poderes",
+    "pregunta": "En términos generales, ¿quién tiene competencia para crear, modificar o derogar tributos?",
+    "opciones": [
+      "Poder Legislativo",
+      "Poder Ejecutivo mediante toda decisión administrativa de cobro",
+      "Poder Judicial al dictar cada sentencia de apremio",
+      "Ente recaudador por la emisión de la boleta de deuda"
+    ],
+    "correcta": 0,
+    "explicacion": "El reparto general atribuye creación/modificación/derogación al Legislativo, reglamentación/recaudación al Ejecutivo y disputas al Judicial.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=41 | oficial2026 p.PDF 41; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=41",
+    "pagina": 41
+  },
+  {
+    "id": "N2-062",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Tributario · apremio",
+    "pregunta": "¿Qué condición exige el material para el cobro compulsivo por apremio?",
+    "opciones": [
+      "Intimación informal aunque no exista título con fuerza ejecutiva",
+      "Sentencia de conocimiento previa como requisito invariable",
+      "Reconocimiento expreso del contribuyente como único título admisible",
+      "Título suficiente con fuerza ejecutiva"
+    ],
+    "correcta": 3,
+    "explicacion": "El procedimiento de apremio requiere título suficiente y puede recaer en créditos tributarios y no tributarios legalmente atribuidos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=42 | oficial2026 p.PDF 42; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=42",
+    "pagina": 42
+  },
+  {
+    "id": "N2-063",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Tributario · competencia",
+    "pregunta": "Si el domicilio fiscal o especial del contribuyente está dentro de Mendoza, ¿qué tribunales corresponden según art. 247?",
+    "opciones": [
+      "Los del domicilio procesal del abogado recaudador",
+      "Los de la sede central del ente, cualquiera sea el domicilio fiscal",
+      "Los tributarios correspondientes a ese domicilio",
+      "Los del lugar del embargo por desplazar siempre al domicilio fiscal"
+    ],
+    "correcta": 2,
+    "explicacion": "La regla inicial del art. 247 vincula competencia tributaria al domicilio fiscal o especial fijado dentro de la provincia.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=42 | oficial2026 p.PDF 42; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=42",
+    "pagina": 42
+  },
+  {
+    "id": "N2-064",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Tributario · representación",
+    "pregunta": "¿Qué acredita sin más trámite la representación del recaudador en el apremio?",
+    "opciones": [
+      "La sola exhibición de matrícula profesional, sin inscripción específica",
+      "Inscripción vigente en el Registro de Recaudadores",
+      "Un poder especial nuevo en cada expediente, aun con inscripción vigente",
+      "La designación verbal del ente sin asiento registral"
+    ],
+    "correcta": 1,
+    "explicacion": "El art. 248 dispone que inscripción vigente en registro público y gratuito acredita representación.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=43 | oficial2026 p.PDF 43; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=43",
+    "pagina": 43
+  },
+  {
+    "id": "N2-065",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Tributario · honorarios",
+    "pregunta": "¿Cuál es el tope de honorarios indicado para recaudadores y oficiales ad hoc en este régimen?",
+    "opciones": [
+      "20% del crédito cobrado por su gestión",
+      "20 % del crédito reclamado aunque no exista cobro",
+      "30 % del crédito efectivamente cobrado",
+      "10 % de todo el capital de la boleta sin atender a la gestión"
+    ],
+    "correcta": 0,
+    "explicacion": "El material fija máximo 20% del crédito efectivamente cobrado por la gestión; no a cargo del ente que los nombró.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=44 | oficial2026 p.PDF 44; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=44",
+    "pagina": 44
+  },
+  {
+    "id": "N2-066",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Tributario · facultades",
+    "pregunta": "El recaudador considera conveniente conceder una espera. ¿Qué necesita?",
+    "opciones": [
+      "La conformidad verbal de la contraparte como autorización suficiente",
+      "Solo su decisión por las facultades generales de mandatario",
+      "Una comunicación informal posterior al ente que ya suponga aprobada la espera",
+      "Autorización escrita del ente recaudador"
+    ],
+    "correcta": 3,
+    "explicacion": "No puede conceder esperas, transar, desistir o suspender sin autorización escrita del ente representado.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=44 | oficial2026 p.PDF 44; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=44",
+    "pagina": 44
+  },
+  {
+    "id": "N2-067",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Tributario · boleta",
+    "pregunta": "¿Cuál es el mínimo del plazo para pago administrativo en la boleta de deuda?",
+    "opciones": [
+      "1 día",
+      "3 días",
+      "5 días",
+      "30 días"
+    ],
+    "correcta": 2,
+    "explicacion": "La boleta debe contener plazo administrativo no inferior a 5 días, además de otros recaudos de identificación y crédito.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=44 | oficial2026 p.PDF 44; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=44",
+    "pagina": 44
+  },
+  {
+    "id": "N2-068",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Tributario · cautelares",
+    "pregunta": "¿Cuándo puede pedirse una cautelar de resguardo del crédito fiscal según el texto?",
+    "opciones": [
+      "Solo después de notificar la sentencia de apremio",
+      "Incluso antes de iniciar el apremio",
+      "Solo después de rechazar todas las excepciones",
+      "Únicamente al pedir la subasta de bienes embargados"
+    ],
+    "correcta": 1,
+    "explicacion": "El art. 250 admite cautelares en cualquier momento, incluso antes del apremio, en el alcance especial descrito.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=45 | oficial2026 p.PDF 45; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=45",
+    "pagina": 45
+  },
+  {
+    "id": "N2-069",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Tributario · cautelares",
+    "pregunta": "Como regla indicada, si la actora no inicia apremio, ¿en qué plazo desde la traba caduca la cautelar preventiva?",
+    "opciones": [
+      "6 meses",
+      "2 días",
+      "3 años",
+      "20 días"
+    ],
+    "correcta": 0,
+    "explicacion": "El texto señala 6 meses desde traba, con regla especial de extensión cuando existe recurso administrativo.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=45 | oficial2026 p.PDF 45; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=45",
+    "pagina": 45
+  },
+  {
+    "id": "N2-070",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Tributario · registro ad hoc",
+    "pregunta": "¿Qué máximo de auxiliares ad hoc por recaudador menciona el artículo reproducido?",
+    "opciones": [
+      "Un oficial de justicia y un receptor",
+      "Dos oficiales de justicia y un receptor",
+      "Tres oficiales de justicia y tres receptores",
+      "Dos oficiales de justicia y dos receptores"
+    ],
+    "correcta": 3,
+    "explicacion": "El régimen permite hasta 2 oficiales y 2 receptores ad hoc, con registro, caución y vigencia renovable de 2 años.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=46 | oficial2026 p.PDF 46; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=46",
+    "pagina": 46
+  },
+  {
+    "id": "N2-071",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Tributario · excepciones",
+    "pregunta": "¿Cuál es una excepción expresamente admisible en apremio?",
+    "opciones": [
+      "Inconstitucionalidad general del tributo como defensa autónoma de esta vía",
+      "Revisión amplia de la causa económica de la obligación",
+      "Prescripción",
+      "Impugnación de la conveniencia política del impuesto"
+    ],
+    "correcta": 2,
+    "explicacion": "La prescripción integra la lista cerrada de diez excepciones admisibles que reproduce art. 250.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=46 | oficial2026 p.PDF 46; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=46",
+    "pagina": 46
+  },
+  {
+    "id": "N2-072",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Tributario · título",
+    "pregunta": "¿A qué se limita la inhabilidad extrínseca del título según la explicación?",
+    "opciones": [
+      "A la inexistencia económica de la obligación como debate causal amplio",
+      "A defectos formales del título",
+      "A la falta de legitimación pasiva como único defecto posible",
+      "Al pago documentado de la deuda como defecto formal del título"
+    ],
+    "correcta": 1,
+    "explicacion": "La inhabilidad extrínseca solo puede oponerse por defectos formales; no abre un debate ilimitado del origen del crédito.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=47 | oficial2026 p.PDF 47; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=47",
+    "pagina": 47
+  },
+  {
+    "id": "N2-073",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Tributario · legitimación",
+    "pregunta": "Se ejecuta a una persona distinta del verdadero sujeto pasivo. ¿Qué excepción corresponde al supuesto descrito?",
+    "opciones": [
+      "Falta de legitimación sustancial pasiva",
+      "Inhabilidad por defectos extrínsecos de la boleta únicamente",
+      "Pago parcial documentado",
+      "Litispendencia, aunque no exista otro proceso"
+    ],
+    "correcta": 0,
+    "explicacion": "La falta de legitimación pasiva se admite cuando no hay identidad entre ejecutado y sujeto pasivo de la obligación.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=47 | oficial2026 p.PDF 47; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=47",
+    "pagina": 47
+  },
+  {
+    "id": "N2-074",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Tributario · traslado",
+    "pregunta": "Admitida formalmente una oposición por excepciones, ¿qué plazo tiene la actora para contestar el traslado?",
+    "opciones": [
+      "15 días",
+      "30 días",
+      "90 días",
+      "5 días"
+    ],
+    "correcta": 3,
+    "explicacion": "El art. 250 dispone traslado de excepciones al actor por 5 días para contestar y ofrecer prueba.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=47 | oficial2026 p.PDF 47; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=47",
+    "pagina": 47
+  },
+  {
+    "id": "N2-075",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Tributario · embargo",
+    "pregunta": "El ejecutado ofrece dinero suficiente para sustituir un embargo en el supuesto previsto. ¿Qué trámite especial menciona el texto?",
+    "opciones": [
+      "Debe oírse siempre a la contraria aun cuando el dinero sea suficiente",
+      "Se requiere concluir el apremio antes de sustituir cualquier embargo",
+      "El juez puede disponer sustitución sin vista a la contraria",
+      "Solo el recaudador puede sustituirlo, sin resolución judicial"
+    ],
+    "correcta": 2,
+    "explicacion": "El art. 258 prevé sustitución por dinero suficiente a juicio del juez sin vista a la contraria.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=50 | oficial2026 p.PDF 50; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=50",
+    "pagina": 50
+  },
+  {
+    "id": "N2-076",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Tributario · liquidación",
+    "pregunta": "Embargado dinero y firme la sentencia, ¿qué secuencia precede al pago inmediato?",
+    "opciones": [
+      "Pago sin liquidación porque el embargo equivale a aprobación del monto",
+      "Liquidación, vista al ejecutado y aprobación",
+      "Liquidación y pago sin vista al ejecutado",
+      "Vista al ejecutado y pago antes de aprobar la liquidación"
+    ],
+    "correcta": 1,
+    "explicacion": "El art. 261 exige liquidar capital, intereses y costas, dar vista y aprobar antes de pagar al acreedor.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=51 | oficial2026 p.PDF 51; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=51",
+    "pagina": 51
+  },
+  {
+    "id": "N2-077",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Tributario · recurso",
+    "pregunta": "¿Qué plazo indica el material para apelar la sentencia que resuelve la oposición?",
+    "opciones": [
+      "3 días",
+      "8 días",
+      "15 días",
+      "30 días"
+    ],
+    "correcta": 0,
+    "explicacion": "La p. 52 señala apelabilidad de esa sentencia y plazo de 3 días para interponer el recurso.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=52 | oficial2026 p.PDF 52; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=52",
+    "pagina": 52
+  },
+  {
+    "id": "N2-078",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Concursal · patrimonio",
+    "pregunta": "¿Qué expresa la fórmula patrimonio como garantía común de acreedores?",
+    "opciones": [
+      "Responsabilidad ilimitada sin ningún bien legalmente excluido",
+      "Responsabilidad reducida a los bienes individualizados al contratar",
+      "Responsabilidad del patrimonio solo si el acreedor tiene garantía real",
+      "Responsabilidad patrimonial por obligaciones, con salvedades legales"
+    ],
+    "correcta": 3,
+    "explicacion": "El patrimonio respalda obligaciones, sujeto a salvedades y límites que el material remite al CCCN.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=53 | oficial2026 p.PDF 53; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=53",
+    "pagina": 53
+  },
+  {
+    "id": "N2-079",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Concursal · principios",
+    "pregunta": "¿Qué identifica par condicio creditorum?",
+    "opciones": [
+      "Igualdad que elimina toda preferencia o privilegio legal",
+      "Prioridad de cobro del primero que obtiene embargo individual",
+      "Tratamiento igualitario de acreedores según régimen concursal",
+      "Facultad de cada acreedor de excluir a los restantes del concurso"
+    ],
+    "correcta": 2,
+    "explicacion": "Es uno de los principios históricos: satisfacción igualitaria en la insuficiencia patrimonial, dentro de reglas y privilegios legales.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=54 | oficial2026 p.PDF 54; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=54",
+    "pagina": 54
+  },
+  {
+    "id": "N2-080",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Concursal · viabilidad",
+    "pregunta": "¿Cómo describe el material la evolución de conservación de la empresa?",
+    "opciones": [
+      "Conservación obligatoria de toda empresa a cualquier costo",
+      "Conservación de empresa económicamente viable",
+      "Liquidación automática de toda empresa con deuda",
+      "Exclusión absoluta del empleo del análisis concursal"
+    ],
+    "correcta": 1,
+    "explicacion": "La conservación se reconvierte en empresa económicamente viable e integra empleo y actividad productiva, no conservación ilimitada.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=55 | oficial2026 p.PDF 55; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=55",
+    "pagina": 55
+  },
+  {
+    "id": "N2-081",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Concursal · legislación",
+    "pregunta": "¿Qué combinación de características atribuye el texto a la legislación concursal?",
+    "opciones": [
+      "Excepcional, en gran medida imperativa, sustancial y procesal",
+      "Exclusivamente procesal y libremente disponible en todas sus reglas",
+      "Exclusivamente sustancial, sin procedimiento propio",
+      "General ordinaria y totalmente dispositiva"
+    ],
+    "correcta": 0,
+    "explicacion": "La ley concursal modifica reglas de fondo y organiza procedimientos excepcionales, con muchas reglas de orden público.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=56 | oficial2026 p.PDF 56; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=56",
+    "pagina": 56
+  },
+  {
+    "id": "N2-082",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Concursal · universalidad",
+    "pregunta": "¿Qué abarca la universalidad objetiva?",
+    "opciones": [
+      "La totalidad de acreedores comprendidos, como universalidad subjetiva",
+      "La reunión de todas las causas ante un juez, como unicidad",
+      "El avance de oficio de cada trámite, como oficiosidad",
+      "Los bienes y patrimonio comprometidos"
+    ],
+    "correcta": 3,
+    "explicacion": "Universalidad objetiva se refiere a bienes; subjetiva o colectividad a sujetos acreedores y pretensiones sobre el patrimonio.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=57 | oficial2026 p.PDF 57; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=57",
+    "pagina": 57
+  },
+  {
+    "id": "N2-083",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Concursal · unicidad",
+    "pregunta": "¿Qué situación resulta incompatible con la unicidad concursal?",
+    "opciones": [
+      "Verificación de diversos acreedores en un proceso",
+      "Existencia de un juez y un síndico",
+      "Dos concursos coexistentes sobre igual patrimonio del mismo sujeto",
+      "Tramitación de incidentes vinculados al concurso"
+    ],
+    "correcta": 2,
+    "explicacion": "La unicidad impide coexistencia de procesos concursales relativos al mismo patrimonio y sujeto; no impide incidentes satélites.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=57 | oficial2026 p.PDF 57; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=57",
+    "pagina": 57
+  },
+  {
+    "id": "N2-084",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Concursal · impulso",
+    "pregunta": "¿Qué diferencia establece el texto entre oficiosidad e inquisitoriedad?",
+    "opciones": [
+      "Investigación procesal e impulso del proceso, respectivamente",
+      "Impulso del proceso e investigación procesal, respectivamente",
+      "Disposición de los créditos y defensa individual, respectivamente",
+      "Concentración de causas y extensión patrimonial, respectivamente"
+    ],
+    "correcta": 1,
+    "explicacion": "Oficiosidad se vincula a deberes de impulso; inquisitoriedad a facultades de investigación sin depender solo de introducción de partes.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=57 | oficial2026 p.PDF 57; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=57",
+    "pagina": 57
+  },
+  {
+    "id": "N2-085",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Concursal · juez",
+    "pregunta": "¿Qué función asigna el art. 274 LCQ al juez concursal?",
+    "opciones": [
+      "Dirección del proceso con medidas necesarias de impulso e investigación",
+      "Administración de todos los bienes en sustitución ordinaria del síndico",
+      "Representación de la masa acreedora como mandatario particular",
+      "Resolución exclusiva de incidentes sin facultades de impulso"
+    ],
+    "correcta": 0,
+    "explicacion": "El juez dirige y puede disponer medidas de impulso e investigación; no suplanta indistintamente toda actividad de partes.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=58 | oficial2026 p.PDF 58; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=58",
+    "pagina": 58
+  },
+  {
+    "id": "N2-086",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Concursal · síndico",
+    "pregunta": "¿Qué contraste describe las funciones del síndico?",
+    "opciones": [
+      "Administra el preventivo y solo vigila al deudor en quiebra",
+      "Administra exclusivamente en ambos procedimientos sin distinción",
+      "Vigila exclusivamente en ambos, sin función liquidatoria en quiebra",
+      "Vigila en preventivo; administra y liquida en quiebra"
+    ],
+    "correcta": 3,
+    "explicacion": "El síndico vigila administración del deudor en preventivo y asume administración/liquidación en quiebra, además de dictámenes.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=58 | oficial2026 p.PDF 58; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=58",
+    "pagina": 58
+  },
+  {
+    "id": "N2-087",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Concursal · preventivo",
+    "pregunta": "¿Quién ejerce la pretensión del concurso preventivo según el material?",
+    "opciones": [
+      "El acreedor que pide directamente la apertura preventiva contra la voluntad del deudor",
+      "El síndico que decide abrir preventivo por su propia gestión",
+      "El deudor que procura acuerdo con sus acreedores",
+      "El juez que convierte de oficio cualquier ejecución en preventivo"
+    ],
+    "correcta": 2,
+    "explicacion": "El deudor solicita concurso preventivo para lograr acuerdo mayoritario homologable y superar la crisis.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=59 | oficial2026 p.PDF 59; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=59",
+    "pagina": 59
+  },
+  {
+    "id": "N2-088",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Concursal · APE",
+    "pregunta": "¿Cómo caracteriza el texto al acuerdo preventivo extrajudicial?",
+    "opciones": [
+      "Procedimiento liquidativo que comienza con desapoderamiento del deudor",
+      "Instituto preventivo con etapa contractual y etapa judicial conclusiva",
+      "Contrato que nunca admite etapa judicial ni homologación",
+      "Sentencia preventiva dictada antes de que exista acuerdo de acreedores"
+    ],
+    "correcta": 1,
+    "explicacion": "El APE es preventivo/no liquidativo; tiene etapa prejudicial contractual y etapa procesal que le da carácter concursal.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=59 | oficial2026 p.PDF 59; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=59",
+    "pagina": 59
+  },
+  {
+    "id": "N2-089",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Concursal · quiebra",
+    "pregunta": "La quiebra es solicitada por un acreedor. ¿Qué clasificación corresponde?",
+    "opciones": [
+      "Directa necesaria",
+      "Directa voluntaria del deudor",
+      "Indirecta por fracaso del acuerdo preventivo",
+      "Por extensión de una quiebra ajena"
+    ],
+    "correcta": 0,
+    "explicacion": "El esquema diferencia directa voluntaria solicitada por deudor y directa necesaria pedida por acreedor.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=60 | oficial2026 p.PDF 60; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=60",
+    "pagina": 60
+  },
+  {
+    "id": "N2-090",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Concursal · consumidor",
+    "pregunta": "¿Qué persona encuadra en el régimen de concurso consumidor descrito?",
+    "opciones": [
+      "Persona jurídica que desarrolla habitualmente actividad comercial organizada",
+      "Persona humana con actividad económica organizada, por el solo carácter de consumidor en una compra",
+      "Persona humana sin crisis general, por cualquier incumplimiento aislado",
+      "Persona humana sin actividad organizada y crisis general originada en consumo"
+    ],
+    "correcta": 3,
+    "explicacion": "El régimen local se dirige a personas humanas sin actividad económicamente organizada, con crisis general por relaciones de consumo.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=60 | oficial2026 p.PDF 60; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=60",
+    "pagina": 60
+  },
+  {
+    "id": "N2-091",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Concursal · satélites",
+    "pregunta": "¿Cuál es un expediente satélite expresamente enumerado?",
+    "opciones": [
+      "Demanda inicial de apertura del concurso preventivo",
+      "Sentencia de quiebra como expediente principal",
+      "Incidente de verificación tardía",
+      "Petición inicial de homologación de APE como proceso principal"
+    ],
+    "correcta": 2,
+    "explicacion": "El texto enumera verificación tardía, revisión de crédito, concurso especial y otros expedientes relacionados que pueden tramitar separados.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=61 | oficial2026 p.PDF 61; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=61",
+    "pagina": 61
+  },
+  {
+    "id": "N2-092",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Concursal · atracción",
+    "pregunta": "¿Con qué principio relaciona el texto el fuero de atracción?",
+    "opciones": [
+      "Pluralidad de procesos independientes sobre el mismo patrimonio",
+      "Unidad del proceso concursal",
+      "Libre elección de competencia por cada acreedor",
+      "Preclusión de las observaciones del informe general"
+    ],
+    "correcta": 1,
+    "explicacion": "La atracción deriva de unidad y concentra ciertos procesos patrimoniales contra concursado o fallido conforme a reglas y excepciones.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=61 | oficial2026 p.PDF 61; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=61",
+    "pagina": 61
+  },
+  {
+    "id": "N2-093",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Concursal · competencia",
+    "pregunta": "¿Cuál es la fuente exclusiva de la competencia concursal que destaca el material?",
+    "opciones": [
+      "La propia Ley de Concursos",
+      "La regla general local de cuantía de Paz como fuente exclusiva",
+      "La voluntad de acreedores y deudor por acuerdo privado de competencia",
+      "El lugar elegido por el síndico al aceptar el cargo"
+    ],
+    "correcta": 0,
+    "explicacion": "La competencia concursal se regula por la propia Ley 24522, apartándose de reglas generales de códigos locales.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=62 | oficial2026 p.PDF 62; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=62",
+    "pagina": 62
+  },
+  {
+    "id": "N2-094",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Concursal · gráfico preventivo",
+    "pregunta": "¿Qué orden de grandes períodos muestra el gráfico de concurso preventivo?",
+    "opciones": [
+      "Introductorio, exclusividad, informativo y cumplimiento",
+      "Informativo, introductorio, cumplimiento y exclusividad",
+      "Introductorio, informativo, cumplimiento y exclusividad",
+      "Introductorio, informativo, exclusividad y cumplimiento"
+    ],
+    "correcta": 3,
+    "explicacion": "La p. 111 identifica esos cuatro períodos; cada acto tiene su inicio y plazo, no una duración uniforme acumulable.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=111 | oficial2026 p.PDF 111; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=111",
+    "pagina": 111
+  },
+  {
+    "id": "N2-095",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Concursal · gráfico preventivo",
+    "pregunta": "Para un crédito declarado admisible o inadmisible, ¿qué vía y plazo representa el gráfico del preventivo?",
+    "opciones": [
+      "Revisión del art. 37 en 10 días",
+      "Acción por dolo del art. 38 como única vía en 20 días",
+      "Revisión del art. 37 en 20 días",
+      "Observación ante el síndico en 90 días desde la homologación"
+    ],
+    "correcta": 2,
+    "explicacion": "El gráfico señala revisión del art. 37 en 20 días. La Ley 24522 art. 37 precisa que corresponde a créditos declarados admisibles o inadmisibles y se cuenta desde la resolución del art. 36; el crédito verificado produce cosa juzgada salvo dolo.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=111 | oficial2026 p.PDF 111; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=111",
+    "pagina": 111,
+    "referencias_adicionales": [
+      {
+        "url": "biblioteca/2026/referencias/Ley-24522-Concursos-y-Quiebras-lectura.html",
+        "label": "Ley 24522 · artículo 37",
+        "oficial": "https://www.argentina.gob.ar/normativa/nacional/ley-24522-1995-25379/actualizacion"
+      }
+    ]
+  },
+  {
+    "id": "N2-096",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Concursal · gráfico quiebra",
+    "pregunta": "¿Qué diferencia ilustra el gráfico entre clausura y conclusión de quiebra?",
+    "opciones": [
+      "La clausura impide reabrir el procedimiento aunque aparezcan bienes",
+      "La clausura puede dar lugar a reapertura si aparecen nuevos bienes",
+      "La clausura equivale en todos los casos a conclusión definitiva inmediata",
+      "La conclusión por pago total requiere siempre clausura previa por falta de activo"
+    ],
+    "correcta": 1,
+    "explicacion": "El gráfico muestra clausura del procedimiento y posibilidad de reapertura con bienes nuevos, diferenciándola de conclusión.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=112 | oficial2026 p.PDF 112; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=112",
+    "pagina": 112
+  },
+  {
+    "id": "N2-097",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.1",
+    "tema": "Concursal · gráfico consumidor",
+    "pregunta": "En el gráfico consumidor, si hay mayorías suficientes, ¿qué acto sigue?",
+    "opciones": [
+      "Trámite de homologación del acuerdo",
+      "Declaración automática de quiebra por haber obtenido conformidades",
+      "Archivo del pedido sin control judicial del acuerdo",
+      "Nueva negociación obligatoria sin posibilidad de homologación"
+    ],
+    "correcta": 0,
+    "explicacion": "El gráfico conduce a homologación si hay mayorías. Su rótulo art. 364 corresponde a mayorías; el art. 366 CPCCyT regula la homologación sin oposiciones cuando se cumplen los requisitos legales.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=113 | oficial2026 p.PDF 113; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=113",
+    "pagina": 113,
+    "referencias_adicionales": [
+      {
+        "url": "biblioteca/2026/referencias/Ley-9001-CPCCT-lectura.html",
+        "label": "Ley 9001 · artículos 364 y 366",
+        "oficial": "https://www.argentina.gob.ar/normativa/provincial/ley-9001-123456789-0abc-defg-100-9000mvorpyel/actualizacion"
+      }
+    ]
+  },
+  {
+    "id": "N2-098",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.2",
+    "tema": "Familia · vínculo",
+    "pregunta": "¿De qué relaciones puede derivar el vínculo jurídico familiar según el material?",
+    "opciones": [
+      "Exclusivamente la consanguinidad, sin vínculos matrimoniales o filiales",
+      "Exclusivamente la convivencia, sin relevancia del matrimonio",
+      "Solo una sentencia constitutiva, sin filiación ni parentesco",
+      "Matrimonio, filiación o parentesco"
+    ],
+    "correcta": 3,
+    "explicacion": "El vínculo familiar deriva de matrimonio, filiación o parentesco y produce derechos y deberes interdependientes.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=63 | oficial2026 p.PDF 63; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=63",
+    "pagina": 63
+  },
+  {
+    "id": "N2-099",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.2",
+    "tema": "Familia · niñez",
+    "pregunta": "¿Qué significa el interés superior del niño en la explicación del módulo?",
+    "opciones": [
+      "Preferencia automática de la voluntad de los adultos a cargo",
+      "Decisión según la conveniencia patrimonial de la familia aunque afecte derechos del niño",
+      "Satisfacción integral de sus derechos fundamentales",
+      "Exclusión de su opinión hasta alcanzar mayoría de edad"
+    ],
+    "correcta": 2,
+    "explicacion": "El material vincula interés superior con derechos fundamentales y exige no decidir a espaldas del niño.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=64 | oficial2026 p.PDF 64; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=64",
+    "pagina": 64
+  },
+  {
+    "id": "N2-100",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.2",
+    "tema": "Familia · instancias",
+    "pregunta": "¿Qué órgano revisa decisiones de primera instancia familiar según la organización descrita?",
+    "opciones": [
+      "Juzgado de Familia que dictó la resolución como segunda instancia",
+      "Cámara de Familia y Violencia Familiar",
+      "Cámara del Trabajo por regla general de apelación familiar",
+      "Asesoría de NNA con facultad de revocar sentencias"
+    ],
+    "correcta": 1,
+    "explicacion": "La Cámara integra segunda instancia y recibe recursos contra decisiones de juzgados familiares.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=64 | oficial2026 p.PDF 64; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=64",
+    "pagina": 64
+  },
+  {
+    "id": "N2-101",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.2",
+    "tema": "Familia · sur",
+    "pregunta": "¿Qué combinación de organización familiar indica el material para la Segunda Circunscripción?",
+    "opciones": [
+      "Gestión asociada en San Rafael y unipersonales en Alvear y Malargüe",
+      "Gestión asociada en Alvear y unipersonales en San Rafael y Malargüe",
+      "Gestión asociada en las tres ciudades sin órganos unipersonales",
+      "Unipersonales en San Rafael y gestión asociada exclusiva en Malargüe"
+    ],
+    "correcta": 0,
+    "explicacion": "El mapa territorial de p. 65 sitúa gestión asociada San Rafael y juzgados unipersonales General Alvear/Malargüe.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=65 | oficial2026 p.PDF 65; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=65",
+    "pagina": 65
+  },
+  {
+    "id": "N2-102",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.2",
+    "tema": "Familia · asesorías",
+    "pregunta": "¿Cuándo destaca el material la intervención necesaria de Asesorías de NNA y capacidad restringida?",
+    "opciones": [
+      "Solo cuando lo solicita una de las partes adultas",
+      "Solo cuando no existe abogado particular de los progenitores",
+      "Solo al final del proceso, cualquiera sea el derecho debatido",
+      "Cuando se discuten derechos de las personas comprendidas según art. 103 CCCN"
+    ],
+    "correcta": 3,
+    "explicacion": "Su intervención directa o complementaria se vincula a reconocimiento, protección o restitución de esos derechos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=65 | oficial2026 p.PDF 65; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=65",
+    "pagina": 65
+  },
+  {
+    "id": "N2-103",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.2",
+    "tema": "Familia · interdisciplinario",
+    "pregunta": "¿Cuál es la función del equipo especializado en violencia familiar del CAI?",
+    "opciones": [
+      "Ejercer defensa técnica de todos los progenitores involucrados",
+      "Decidir por sí el conflicto familiar mediante sentencia",
+      "Asistir con profesionales médicos, psicológicos y sociales a requerimiento judicial",
+      "Cumplir únicamente notificaciones y traslado de cédulas"
+    ],
+    "correcta": 2,
+    "explicacion": "El CAI y su equipo asisten al magistrado en conflictos familiares, intereses de NNA y violencia, sin sustituir decisión judicial.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=66 | oficial2026 p.PDF 66; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=66",
+    "pagina": 66
+  },
+  {
+    "id": "N2-104",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.2",
+    "tema": "Familia · adopción",
+    "pregunta": "¿Qué alcance territorial tiene el Registro Provincial de Adopción descrito?",
+    "opciones": [
+      "Solo Primera Circunscripción por tener sede en Mendoza",
+      "Toda la provincia, con dependencia funcional de la SCJ",
+      "Solo Segunda Circunscripción por la delegación de San Rafael",
+      "Una jurisdicción municipal independiente de la Suprema Corte"
+    ],
+    "correcta": 1,
+    "explicacion": "El registro depende funcionalmente de SCJ y tiene competencia provincial, con asiento en Mendoza y delegación San Rafael.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=66 | oficial2026 p.PDF 66; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=66",
+    "pagina": 66
+  },
+  {
+    "id": "N2-105",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.2",
+    "tema": "Familia · mediación",
+    "pregunta": "¿Qué determina el art. 23 Ley 9120 citado sobre el Cuerpo de Mediadores?",
+    "opciones": [
+      "Acciones que requieren intentar mediación previa obligatoria",
+      "Acciones que se resuelven obligatoriamente por laudo del mediador",
+      "La mediación facultativa para cualquier asunto sin supuestos obligatorios",
+      "La sustitución definitiva del juez por el mediador en procesos especiales"
+    ],
+    "correcta": 0,
+    "explicacion": "La ley identifica qué acciones deben intentar mediación previa; no toda materia resulta mediable sin límites.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=66 | oficial2026 p.PDF 66; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=66",
+    "pagina": 66
+  },
+  {
+    "id": "N2-106",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.2",
+    "tema": "Familia · ad hoc",
+    "pregunta": "¿A cargo de quién están los honorarios del registro de abogados ad hoc que describe el módulo?",
+    "opciones": [
+      "De la persona asistida en todos los casos como requisito de acceso",
+      "De la contraparte antes de que exista resolución sobre costas",
+      "Del colegio profesional por el solo hecho de llevar la matrícula",
+      "Del Poder Judicial"
+    ],
+    "correcta": 3,
+    "explicacion": "El registro presta asistencia jurídica en familia y sus honorarios están a cargo del Poder Judicial según el apartado.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=67 | oficial2026 p.PDF 67; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=67",
+    "pagina": 67
+  },
+  {
+    "id": "N2-107",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.2",
+    "tema": "Familia · apoyos",
+    "pregunta": "¿Qué finalidad se atribuye al Registro de Personas de Apoyo?",
+    "opciones": [
+      "Sustituir universalmente la voluntad de toda persona con discapacidad",
+      "Ejercer tutela automática de toda persona mayor de edad",
+      "Contar con colaboración para personas con capacidad restringida sin red adecuada",
+      "Resolver por sí las restricciones judiciales de capacidad"
+    ],
+    "correcta": 2,
+    "explicacion": "El apoyo colabora en persona y bienes cuando no existe red familiar/socioafectiva adecuada, según régimen y requisitos legales.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=67 | oficial2026 p.PDF 67; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=67",
+    "pagina": 67
+  },
+  {
+    "id": "N2-108",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.2",
+    "tema": "Familia · fondo",
+    "pregunta": "¿Qué cuerpo contiene básicamente el derecho familiar de fondo en Argentina según el material?",
+    "opciones": [
+      "Código Procesal de Familia y Violencia Familiar como único derecho de fondo",
+      "Código Civil y Comercial de la Nación",
+      "Código Procesal Civil provincial como regulación sustancial familiar",
+      "Reglamento del Poder Judicial como fuente básica de vínculos familiares"
+    ],
+    "correcta": 1,
+    "explicacion": "El derecho de familia se integra en CCCN y leyes especiales; el código procesal provincial organiza procedimientos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=67 | oficial2026 p.PDF 67; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=67",
+    "pagina": 67
+  },
+  {
+    "id": "N2-109",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.2",
+    "tema": "Familia · participación",
+    "pregunta": "¿Qué dos manifestaciones de participación judicial de NNA distingue el texto?",
+    "opciones": [
+      "Ser oído/opinión ponderada y asistencia letrada autónoma",
+      "Ser oído y sustituir necesariamente la decisión de los adultos",
+      "Contar con abogado y quedar excluido de expresar opinión directa",
+      "Intervenir solo mediante representantes sin asistencia autónoma"
+    ],
+    "correcta": 0,
+    "explicacion": "La participación se materializa en escucha/opinión ponderada y asistencia técnica propia preferentemente especializada.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=68 | oficial2026 p.PDF 68; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=68",
+    "pagina": 68
+  },
+  {
+    "id": "N2-110",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.2",
+    "tema": "Familia · participación",
+    "pregunta": "¿Participar en un proceso significa siempre ser considerado parte?",
+    "opciones": [
+      "Sí, toda forma de intervención convierte automáticamente en parte",
+      "Sí, basta que el tribunal escuche su opinión para adquirir todas las facultades de parte",
+      "No, porque la participación solo se admite después de la sentencia",
+      "No; el texto distingue participación y condición de parte"
+    ],
+    "correcta": 3,
+    "explicacion": "La p. 68 aclara que el derecho a participar no implica que siempre se considere parte al NNA.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=68 | oficial2026 p.PDF 68; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=68",
+    "pagina": 68
+  },
+  {
+    "id": "N2-111",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.2",
+    "tema": "Familia · abogado del niño",
+    "pregunta": "¿Qué oficina lleva el Registro de Abogados/as del Niño que menciona el material?",
+    "opciones": [
+      "Registro Provincial de Adopción",
+      "Cuerpo de Mediadores de Familia",
+      "Oficina de Profesionales de la Suprema Corte",
+      "Oficina de Gestión de Audiencias Penales"
+    ],
+    "correcta": 2,
+    "explicacion": "El texto identifica Oficina de Profesionales y reglamentación por Resolución de Presidencia 35565.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=69 | oficial2026 p.PDF 69; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=69",
+    "pagina": 69
+  },
+  {
+    "id": "N2-112",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.2",
+    "tema": "Familia · reforma",
+    "pregunta": "¿Qué reforma de 2025 destaca el módulo respecto de Ley 9120?",
+    "opciones": [
+      "Ley 9658 sobre el procedimiento automatizado de BLSG",
+      "Ley 9609 para agilizar adopción, notificaciones y protección de NNA",
+      "Ley 9106 sobre juicio por jurados",
+      "Ley 9099 sobre proceso contravencional"
+    ],
+    "correcta": 1,
+    "explicacion": "La p. 69 resalta Ley 9609, de febrero 2025, con foco en adopción, tecnología de notificaciones y derechos de NNA.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=69 | oficial2026 p.PDF 69; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=69",
+    "pagina": 69
+  },
+  {
+    "id": "N2-113",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.2",
+    "tema": "Familia · tipos",
+    "pregunta": "¿Qué tipos procesales familiares enumera el apartado?",
+    "opciones": [
+      "Ordinario por audiencias, abreviado, urgente y especiales",
+      "Ordinario escrito, monitorio, ejecución y universal",
+      "Ordinario por audiencias, monitorio, abreviado y concursal",
+      "Ordinario por audiencias, abreviado y voluntario como única enumeración"
+    ],
+    "correcta": 0,
+    "explicacion": "La Ley 9120 delimita procedimientos para hacer efectivos derechos de fondo: ordinario por audiencias, abreviado, urgente y especiales.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=69 | oficial2026 p.PDF 69; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=69",
+    "pagina": 69
+  },
+  {
+    "id": "N2-114",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.2",
+    "tema": "Familia · tecnología",
+    "pregunta": "¿Qué sistema central de expediente electrónico identifica el material para familia?",
+    "opciones": [
+      "Iurix ADF",
+      "LeD",
+      "SINEJ como sistema completo de expediente",
+      "Iurix Flex"
+    ],
+    "correcta": 3,
+    "explicacion": "El apartado familiar sitúa Iurix Flex como sistema central conforme a Ac. 30171.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=69 | oficial2026 p.PDF 69; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=69",
+    "pagina": 69
+  },
+  {
+    "id": "N2-115",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.2",
+    "tema": "Familia · SINEJ",
+    "pregunta": "¿Qué función atribuye el material a SINEJ?",
+    "opciones": [
+      "Ingreso de escritos y documentación digital como mesa de entrada",
+      "Gestión integral del expediente que sustituye al sistema central",
+      "Gestión y diligenciamiento de notificaciones y cédulas electrónicas",
+      "Registro audiovisual de todas las audiencias"
+    ],
+    "correcta": 2,
+    "explicacion": "SINEJ es herramienta de notificaciones; otras decisiones y gestiones corresponden a actores y sistemas diferentes.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=70 | oficial2026 p.PDF 70; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=70",
+    "pagina": 70
+  },
+  {
+    "id": "N2-116",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · ramas",
+    "pregunta": "¿Qué estudia el derecho individual del trabajo según el módulo?",
+    "opciones": [
+      "Relaciones de sindicatos y negociación colectiva como objeto exclusivo",
+      "Relación trabajador-empleador y régimen de riesgos del trabajo",
+      "Gestión estatal de inspección del trabajo como objeto exclusivo",
+      "Únicamente la organización y competencia de cámaras laborales"
+    ],
+    "correcta": 1,
+    "explicacion": "La rama individual abarca trabajador/empleador y trabajador/riesgos; colectiva aborda asociaciones.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=71 | oficial2026 p.PDF 71; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=71",
+    "pagina": 71
+  },
+  {
+    "id": "N2-117",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · finalidad",
+    "pregunta": "¿Cuál es la razón de las reglas jurídicas protectoras descritas?",
+    "opciones": [
+      "Compensar la desigualdad económica entre trabajador y empleador",
+      "Asegurar resultado favorable al trabajador aun sin acreditar la pretensión",
+      "Eximir al trabajador de toda carga procesal y probatoria",
+      "Equiparar por contrato todas las garantías a reglas disponibles"
+    ],
+    "correcta": 0,
+    "explicacion": "La finalidad protectora busca equilibrar una desigualdad material mediante prerrogativas jurídicas; no suprime proceso y defensa.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=71 | oficial2026 p.PDF 71; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=71",
+    "pagina": 71
+  },
+  {
+    "id": "N2-118",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · principio protector",
+    "pregunta": "El material indica elegir la interpretación favorable al trabajador ante duda. ¿Qué regla identifica?",
+    "opciones": [
+      "Regla de la norma más favorable",
+      "Regla de la condición más beneficiosa",
+      "Principio de irrenunciabilidad",
+      "In dubio pro operario"
+    ],
+    "correcta": 3,
+    "explicacion": "Es una de las tres reglas del principio protectorio según la explicación del módulo.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=72 | oficial2026 p.PDF 72; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=72",
+    "pagina": 72
+  },
+  {
+    "id": "N2-119",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · irrenunciabilidad",
+    "pregunta": "El trabajador firma una renuncia a derechos protegidos por orden público laboral. ¿Qué señala el principio enseñado?",
+    "opciones": [
+      "La firma vuelve disponible todo derecho de orden público",
+      "La renuncia produce siempre efectos si es anterior a la demanda",
+      "La renuncia es inválida en los términos del régimen protegido",
+      "La renuncia se valida por no contar el trabajador con abogado"
+    ],
+    "correcta": 2,
+    "explicacion": "La irrenunciabilidad impide disponer de derechos y garantías que la normativa protege; el texto habla de nulidad de la renuncia.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=73 | oficial2026 p.PDF 73; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=73",
+    "pagina": 73
+  },
+  {
+    "id": "N2-120",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · buena fe",
+    "pregunta": "¿Quién debe probar la mala fe cuando una parte la alega?",
+    "opciones": [
+      "La contraparte, por presumirse mala fe hasta prueba en contrario",
+      "La parte que la invoca",
+      "El tribunal, aunque ninguna parte aporte hechos que la sustenten",
+      "Quien sea demandado, independientemente de quién la invoque"
+    ],
+    "correcta": 1,
+    "explicacion": "La explicación de buena fe señala que quien argumenta mala fe debe probarla.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=73 | oficial2026 p.PDF 73; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=73",
+    "pagina": 73
+  },
+  {
+    "id": "N2-121",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · gratuidad",
+    "pregunta": "¿Qué afirmación expresa correctamente la gratuidad del acceso laboral?",
+    "opciones": [
+      "No exige gastos previos, aunque puede haber costas al final",
+      "Exención definitiva de toda costa incluso si se impone al trabajador",
+      "Exigencia de adelantar todas las costas antes de admitir demanda",
+      "Exención de anticipos solo si el trabajador gana el juicio"
+    ],
+    "correcta": 0,
+    "explicacion": "El principio evita pago previo para iniciar procesos; no significa inexistencia de gastos cuando se condena en costas.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=73 | oficial2026 p.PDF 73; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=73",
+    "pagina": 73
+  },
+  {
+    "id": "N2-122",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · tasa",
+    "pregunta": "Si el trabajador es condenado en costas, ¿qué exención particular conserva según el material?",
+    "opciones": [
+      "Honorarios de todos los profesionales sin excepción",
+      "Aportes de la Ley 5059 y derecho fijo sin más requisito",
+      "Todo gasto e indemnización incluidos en la sentencia",
+      "Tasa de Justicia"
+    ],
+    "correcta": 3,
+    "explicacion": "La p. 74 distingue exención de tasa para trabajador y obligación de los restantes conceptos según condena en costas.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=74 | oficial2026 p.PDF 74; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=74",
+    "pagina": 74
+  },
+  {
+    "id": "N2-123",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · apud acta",
+    "pregunta": "¿Qué combinación describe el poder apud acta?",
+    "opciones": [
+      "Gratuito, ante secretario de MECLA y para cualquier juicio futuro",
+      "Oneroso, ante escribano y para juicio determinado como única vía",
+      "Gratuito, ante secretario de MECLA y para juicio determinado",
+      "Gratuito, otorgado unilateralmente por el abogado sin intervención del secretario"
+    ],
+    "correcta": 2,
+    "explicacion": "El módulo contrasta poder apud acta con general para juicios: autoridad, gratuidad y alcance de autorización.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=74 | oficial2026 p.PDF 74; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=74",
+    "pagina": 74
+  },
+  {
+    "id": "N2-124",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · instancia",
+    "pregunta": "Una cámara actúa como sala unipersonal. ¿Cómo repercute en su instancia?",
+    "opciones": [
+      "Pasa a primera instancia con apelación ordinaria ante otra cámara laboral",
+      "Sigue siendo instancia única",
+      "Se convierte en segunda instancia por pertenecer a una cámara",
+      "Necesita revisión colegiada obligatoria de toda sentencia antes de ser eficaz"
+    ],
+    "correcta": 1,
+    "explicacion": "La integración unipersonal no modifica instancia única; el material remite revisión a SCJ por vía correspondiente.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=75 | oficial2026 p.PDF 75; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=75",
+    "pagina": 75
+  },
+  {
+    "id": "N2-125",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · cámaras",
+    "pregunta": "¿Cómo distribuye el módulo las 12 cámaras laborales?",
+    "opciones": [
+      "7 Primera, 2 Segunda, 2 Tercera y 1 Cuarta",
+      "3 en cada circunscripción",
+      "8 Primera, 1 Segunda, 1 Tercera y 2 Cuarta",
+      "6 Primera, 3 Segunda, 1 Tercera y 2 Cuarta"
+    ],
+    "correcta": 0,
+    "explicacion": "La enumeración oficial de p. 75 distribuye doce cámaras 7/2/2/1.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=75 | oficial2026 p.PDF 75; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=75",
+    "pagina": 75
+  },
+  {
+    "id": "N2-126",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · despido",
+    "pregunta": "¿Contra quién dirige el trabajador el reclamo indemnizatorio por despido descrito?",
+    "opciones": [
+      "La ART, por el solo hecho de cubrir riesgos del trabajo",
+      "El sindicato, por representar al trabajador",
+      "La OCL, por no haber logrado acuerdo previo",
+      "Su empleador"
+    ],
+    "correcta": 3,
+    "explicacion": "El despido busca indemnización derivada de rescisión por el empleador y puede incluir otros rubros mencionados.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=76 | oficial2026 p.PDF 76; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=76",
+    "pagina": 76
+  },
+  {
+    "id": "N2-127",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · in itinere",
+    "pregunta": "¿Qué situación identifica accidente in itinere?",
+    "opciones": [
+      "Enfermedad que se desarrolla por exposición laboral sostenida",
+      "Accidente ocurrido únicamente dentro del establecimiento",
+      "Accidente en trayecto hacia el trabajo o regreso al hogar",
+      "Incapacidad determinada por cualquier enfermedad ajena al trayecto"
+    ],
+    "correcta": 2,
+    "explicacion": "El apartado define in itinere por el trayecto hacia trabajo o de regreso; lo distingue de enfermedad profesional.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=76 | oficial2026 p.PDF 76; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=76",
+    "pagina": 76
+  },
+  {
+    "id": "N2-128",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · OCL",
+    "pregunta": "Antes de una demanda por despido, ¿qué instancia obligatoria describe Ley 8990?",
+    "opciones": [
+      "Comisión Médica antes de todo despido aunque no exista lesión",
+      "Oficina de Conciliación Laboral",
+      "Audiencia de vista de causa antes de presentar la demanda",
+      "Mediación familiar obligatoria por tratarse de derechos personales"
+    ],
+    "correcta": 1,
+    "explicacion": "La OCL intenta acuerdo en instancia administrativa previa; si fracasa emite certificado para demanda.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=76 | oficial2026 p.PDF 76; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=76",
+    "pagina": 76
+  },
+  {
+    "id": "N2-129",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · conciliación",
+    "pregunta": "¿Qué documento permite interponer demanda si no se alcanza acuerdo en OCL?",
+    "opciones": [
+      "Certificado de fracaso",
+      "Acta de homologación del acuerdo alcanzado",
+      "Dictamen de incapacidad de la Comisión Médica",
+      "Poder apud acta, que sustituye la constancia de conciliación"
+    ],
+    "correcta": 0,
+    "explicacion": "El módulo contrapone acuerdo homologado administrativamente y certificado de fracaso habilitante de demanda.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=76 | oficial2026 p.PDF 76; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=76",
+    "pagina": 76
+  },
+  {
+    "id": "N2-130",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · Comisión Médica",
+    "pregunta": "¿De qué organismo dependen las Comisiones Médicas indicadas?",
+    "opciones": [
+      "Suprema Corte de Justicia de Mendoza",
+      "Subsecretaría de Trabajo de Mendoza",
+      "Oficina de Conciliación Laboral provincial",
+      "Superintendencia de Riesgos del Trabajo de la Nación"
+    ],
+    "correcta": 3,
+    "explicacion": "Las Comisiones Médicas dependen de SRT nacional; el módulo menciona CM 4 Mendoza y CM 27 San Rafael.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=77 | oficial2026 p.PDF 77; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=77",
+    "pagina": 77
+  },
+  {
+    "id": "N2-131",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · empleo público",
+    "pregunta": "¿Qué carácter asigna el módulo a conflictos de empleo público en Mendoza?",
+    "opciones": [
+      "Laboral privado con trámite ordinario ante cámaras en todo caso",
+      "Civil y comercial por tratarse de un contrato con el Estado",
+      "Administrativo, con intervención de SCJ según la explicación",
+      "Contravencional por toda diferencia salarial administrativa"
+    ],
+    "correcta": 2,
+    "explicacion": "El texto los distingue del fuero provincial laboral privado y los vincula a materia administrativa ante SCJ.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=77 | oficial2026 p.PDF 77; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=77",
+    "pagina": 77
+  },
+  {
+    "id": "N2-132",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · casas particulares",
+    "pregunta": "¿Qué recorrido presenta el material para servicio doméstico sin conciliación?",
+    "opciones": [
+      "OCL y demanda ordinaria directa ante Cámara Laboral, sin trámite administrativo intermedio",
+      "OCL, Subsecretaría de Trabajo y eventual apelación ante Cámara Laboral",
+      "Comisión Médica y apelación directa ante Cámara de Familia",
+      "Subsecretaría de Trabajo y recurso ordinario ante una cámara civil"
+    ],
+    "correcta": 1,
+    "explicacion": "El módulo indica previa OCL, decisión de Subsecretaría y Cámara en apelación de resolución definitiva.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=77 | oficial2026 p.PDF 77; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=77",
+    "pagina": 77
+  },
+  {
+    "id": "N2-133",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · BNA Net",
+    "pregunta": "¿Qué permite BNA Net según la descripción?",
+    "opciones": [
+      "Consultar fondos judiciales y ejecutar transferencias electrónicas",
+      "Diligenciar cédulas electrónicas",
+      "Presentar demanda e incorporar prueba documental",
+      "Registrar y vincular audiovisuales de audiencia"
+    ],
+    "correcta": 0,
+    "explicacion": "BNA Net es aplicación del Banco Nación para fondos depositados en juicios y transferencias.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=77 | oficial2026 p.PDF 77; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=77",
+    "pagina": 77
+  },
+  {
+    "id": "N2-134",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · ReDAM",
+    "pregunta": "¿Qué información consulta ReDAM?",
+    "opciones": [
+      "Antecedentes de condenas laborales por despido",
+      "Inscripción y sorteo de peritos judiciales",
+      "Movimientos de las cuentas judiciales",
+      "Incumplimientos de obligaciones alimentarias"
+    ],
+    "correcta": 3,
+    "explicacion": "ReDAM es Registro de Deudores Alimentarios de Mendoza y se menciona como herramienta de consulta pública.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=78 | oficial2026 p.PDF 78; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=78",
+    "pagina": 78
+  },
+  {
+    "id": "N2-135",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · fuentes",
+    "pregunta": "¿Qué artículo constitucional destaca el módulo como base del derecho laboral?",
+    "opciones": [
+      "18",
+      "19",
+      "14 bis",
+      "75 inciso 22"
+    ],
+    "correcta": 2,
+    "explicacion": "El art. 14 bis, incorporado en 1957, contiene condiciones y principios básicos laborales; los otros números corresponden a normas distintas.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=78 | oficial2026 p.PDF 78; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=78",
+    "pagina": 78
+  },
+  {
+    "id": "N2-136",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · partes",
+    "pregunta": "¿Por qué debe distinguirse un nombre de fantasía del nombre de una persona jurídica?",
+    "opciones": [
+      "Porque el nombre de fantasía es por sí una persona jurídica independiente",
+      "Porque la demanda debe individualizar a la persona humana o jurídica demandada",
+      "Porque usar el nombre de fantasía elimina la necesidad de identificar al empleador",
+      "Porque solo las personas humanas pueden ser demandadas laboralmente"
+    ],
+    "correcta": 1,
+    "explicacion": "El módulo ejemplifica Panadería Guaymallén frente a Panadería GuaymallénS.A. y exige identificar al sujeto real del proceso.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=80 | oficial2026 p.PDF 80; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=80",
+    "pagina": 80
+  },
+  {
+    "id": "N2-137",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · prueba",
+    "pregunta": "¿Qué es el informe pericial en el cuadro de medios de prueba?",
+    "opciones": [
+      "Dictamen de experto sobre aspectos fácticos especializados controvertidos",
+      "Declaración de un tercero sobre hechos que percibió directamente",
+      "Respuesta documental de un organismo a un oficio informativo",
+      "Manifestación personal de una parte al absolver posiciones"
+    ],
+    "correcta": 0,
+    "explicacion": "El perito aplica conocimiento especializado a hechos discutidos; no dicta la sentencia ni reemplaza alegatos de partes.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=81 | oficial2026 p.PDF 81; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=81",
+    "pagina": 81
+  },
+  {
+    "id": "N2-138",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · períodos",
+    "pregunta": "¿Qué período se compone de los alegatos según el esquema didáctico?",
+    "opciones": [
+      "Introductorio",
+      "Probatorio",
+      "Decisorio",
+      "Discusorio"
+    ],
+    "correcta": 3,
+    "explicacion": "El esquema distingue introductorio, probatorio, discusorio—alegatos— y decisorio—fallo—.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=82 | oficial2026 p.PDF 82; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=82",
+    "pagina": 82
+  },
+  {
+    "id": "N2-139",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · MECLA",
+    "pregunta": "En Cuarta Circunscripción, ¿por qué MECLA ingresa y remite demanda sin sorteo entre cámaras?",
+    "opciones": [
+      "Porque se asigna siempre por domicilio del abogado",
+      "Porque toda causa se radica por elección libre de la parte",
+      "Porque existe una sola cámara laboral",
+      "Porque no existe órgano judicial laboral en esa circunscripción"
+    ],
+    "correcta": 2,
+    "explicacion": "El apartado indica que Cuarta tiene una cámara, por lo que no hay sorteo entre varias.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=84 | oficial2026 p.PDF 84; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=84",
+    "pagina": 84
+  },
+  {
+    "id": "N2-140",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · contestación",
+    "pregunta": "¿Qué plazo para contestar demanda laboral indica el material tras notificación?",
+    "opciones": [
+      "20 días hábiles",
+      "8 días hábiles",
+      "5 días corridos",
+      "30 días hábiles"
+    ],
+    "correcta": 1,
+    "explicacion": "El traslado laboral concede ocho días hábiles, distinto de los veinte del esquema civil de conocimiento.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=84 | oficial2026 p.PDF 84; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=84",
+    "pagina": 84
+  },
+  {
+    "id": "N2-141",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · traslado al actor",
+    "pregunta": "¿Por qué plazo se traslada al actor la contestación de demanda?",
+    "opciones": [
+      "3 días",
+      "8 días",
+      "20 días",
+      "30 días"
+    ],
+    "correcta": 0,
+    "explicacion": "El actor dispone de tres días para responder argumentos de la contestación según el apartado.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=85 | oficial2026 p.PDF 85; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=85",
+    "pagina": 85
+  },
+  {
+    "id": "N2-142",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · prueba anticipada",
+    "pregunta": "¿En qué procesos se menciona pericia médica antes de audiencia inicial?",
+    "opciones": [
+      "Todo proceso por despido aunque no se discuta una lesión",
+      "Cobro de diferencias salariales sin cuestión médica",
+      "Homologación de cualquier acuerdo OCL como requisito invariable",
+      "Accidente laboral o enfermedad profesional"
+    ],
+    "correcta": 3,
+    "explicacion": "El CPL permite esa pericia temprana en riesgos del trabajo para facilitar conocimiento y conciliación.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=85 | oficial2026 p.PDF 85; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=85",
+    "pagina": 85
+  },
+  {
+    "id": "N2-143",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · impulso",
+    "pregunta": "Tras la reforma del art. 19 CPL, ¿cómo se distribuye el impulso?",
+    "opciones": [
+      "Exclusivamente del tribunal, como antes de la reforma",
+      "Exclusivamente de las partes, sin facultades del tribunal",
+      "Responsabilidad compartida entre tribunal y partes",
+      "De la OCL hasta el dictado de la sentencia judicial"
+    ],
+    "correcta": 2,
+    "explicacion": "El texto explica que la reforma 2018 atenuó impulso de oficio y distribuyó responsabilidad entre tribunal y partes.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=86 | oficial2026 p.PDF 86; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=86",
+    "pagina": 86
+  },
+  {
+    "id": "N2-144",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.3",
+    "tema": "Laboral · estadística",
+    "pregunta": "El módulo dice que cerca del 70% de ordinarios 2025 terminó por homologación de acuerdo. ¿Cómo se interpreta?",
+    "opciones": [
+      "Probabilidad individual garantizada de cobrar el 70 % de cualquier reclamo",
+      "Dato descriptivo que no obliga a acordar en cada caso",
+      "Cuota obligatoria de expedientes que cada cámara debe conciliar",
+      "Presunción de acuerdo por el mero transcurso de la etapa probatoria"
+    ],
+    "correcta": 1,
+    "explicacion": "La cifra describe resultados 2025; no sustituye normas ni impone conciliación a cada proceso.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=86 | oficial2026 p.PDF 86; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=86",
+    "pagina": 86
+  },
+  {
+    "id": "N2-145",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · fondo y forma",
+    "pregunta": "¿Qué define el Derecho Penal sustantivo?",
+    "opciones": [
+      "Delitos, penas y otras consecuencias jurídicas",
+      "Competencia, procedimiento y recursos para aplicar la ley penal",
+      "Organización administrativa y agenda de audiencias",
+      "Medios de prueba y etapas de la investigación exclusivamente"
+    ],
+    "correcta": 0,
+    "explicacion": "El fondo penal define conductas típicas y consecuencias; el procesal regula investigación y juzgamiento.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=87 | oficial2026 p.PDF 87; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=87",
+    "pagina": 87
+  },
+  {
+    "id": "N2-146",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · jurisdicción",
+    "pregunta": "Un robo ordinario ocurre en Mendoza. ¿Qué distinción es correcta?",
+    "opciones": [
+      "Definición del delito y procedimiento establecidos exclusivamente por la provincia",
+      "Definición penal nacional y competencia federal automática por estar en el Código Penal",
+      "Definición del delito provincial y procedimiento nacional ordinario",
+      "Definición penal nacional y procedimiento provincial mendocino"
+    ],
+    "correcta": 3,
+    "explicacion": "El CPnacional define delitos; para competencia ordinaria mendocina el CPP 6730 regula procedimiento, sin excluir materias federales.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=88 | oficial2026 p.PDF 88; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=88",
+    "pagina": 88
+  },
+  {
+    "id": "N2-147",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · legalidad",
+    "pregunta": "Una ley posterior agrava la pena respecto de la vigente al hecho. ¿Qué regla impide aplicarla retroactivamente?",
+    "opciones": [
+      "Principio de publicidad del debate",
+      "Garantía de non bis in idem",
+      "Legalidad e irretroactividad de ley penal más gravosa",
+      "Principio de contradicción probatoria"
+    ],
+    "correcta": 2,
+    "explicacion": "Nadie puede ser penado sin ley anterior; la ley posterior más severa no se aplica retroactivamente.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=89 | oficial2026 p.PDF 89; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=89",
+    "pagina": 89
+  },
+  {
+    "id": "N2-148",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · ley benigna",
+    "pregunta": "Tras el hecho se dicta una ley penal más favorable. ¿Qué excepción explica el material?",
+    "opciones": [
+      "Aplicación invariable de la ley del hecho aunque la posterior sea más favorable",
+      "Aplicación de la ley penal más benigna",
+      "Aplicación automática de toda ley posterior aunque agrave la pena",
+      "Elección libre de cualquiera de las leyes por el órgano acusador"
+    ],
+    "correcta": 1,
+    "explicacion": "Art.2 CP recoge ley más benigna como excepción favorable a irretroactividad.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=89 | oficial2026 p.PDF 89; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=89",
+    "pagina": 89
+  },
+  {
+    "id": "N2-149",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · taxatividad",
+    "pregunta": "¿Qué exige la taxatividad penal?",
+    "opciones": [
+      "Descripción legal suficientemente precisa de la conducta prohibida",
+      "Extensión de un tipo penal por analogía que perjudique al acusado",
+      "Descripción suficiente mediante pautas creadas después del hecho",
+      "Remisión de toda conducta prohibida a la libre decisión del juez"
+    ],
+    "correcta": 0,
+    "explicacion": "La tipificación debe ser precisa; no puede ampliarse punibilidad mediante analogía contra imputado.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=89 | oficial2026 p.PDF 89; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=89",
+    "pagina": 89
+  },
+  {
+    "id": "N2-150",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · debido proceso",
+    "pregunta": "¿Qué conjunto expresa exigencias mínimas del debido proceso?",
+    "opciones": [
+      "Denuncia, prueba administrativa y sanción, sin defensa técnica",
+      "Acusación y tribunal competente, sin oportunidad de controvertir prueba",
+      "Defensa y sentencia, aunque el tribunal se haya creado para ese caso",
+      "Acusación, defensa, contradicción probatoria y tribunal competente e imparcial"
+    ],
+    "correcta": 3,
+    "explicacion": "El debido proceso condiciona imposición de pena a procedimiento legal con garantías efectivas.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=89 | oficial2026 p.PDF 89; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=89",
+    "pagina": 89
+  },
+  {
+    "id": "N2-151",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · inocencia",
+    "pregunta": "¿Cuándo deja de regir la consideración de inocencia que expresa el material?",
+    "opciones": [
+      "Con la formalización de la imputación",
+      "Con el dictado de prisión preventiva",
+      "Cuando una sentencia firme establece culpabilidad",
+      "Con una sentencia condenatoria todavía recurrible"
+    ],
+    "correcta": 2,
+    "explicacion": "El estado de inocencia persiste hasta sentencia firme; imputación o medida cautelar no equivalen a condena.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=90 | oficial2026 p.PDF 90; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=90",
+    "pagina": 90
+  },
+  {
+    "id": "N2-152",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · carga",
+    "pregunta": "¿Sobre quién no recae la carga de probar la acusación?",
+    "opciones": [
+      "Sobre quienes sostienen la acusación conforme al proceso",
+      "Sobre la persona imputada",
+      "Sobre el órgano acusador en su función correspondiente",
+      "Sobre el Ministerio Público Fiscal cuando acusa"
+    ],
+    "correcta": 1,
+    "explicacion": "De la inocencia se deriva que el imputado no deba demostrar la acusación; restricciones cautelares no son pena anticipada.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=90 | oficial2026 p.PDF 90; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=90",
+    "pagina": 90
+  },
+  {
+    "id": "N2-153",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · juez natural",
+    "pregunta": "¿Qué práctica prohíbe la garantía de juez natural?",
+    "opciones": [
+      "Designar un tribunal especial para juzgar ese caso",
+      "Intervenir un tribunal competente establecido por ley",
+      "Ejercer defensa técnica desde el inicio",
+      "Resolver conforme a competencia e imparcialidad"
+    ],
+    "correcta": 0,
+    "explicacion": "La garantía impide comisiones especiales o jueces designados especialmente para un caso fuera de la organización legal.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=90 | oficial2026 p.PDF 90; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=90",
+    "pagina": 90
+  },
+  {
+    "id": "N2-154",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · declaración",
+    "pregunta": "El imputado guarda silencio. ¿Qué interpretación corresponde?",
+    "opciones": [
+      "Se presume reconocimiento de los hechos no contestados",
+      "El silencio sustituye la necesidad de prueba de cargo",
+      "Pierde la posibilidad de declarar en momentos posteriores",
+      "Ejerce un derecho y ello no implica culpabilidad"
+    ],
+    "correcta": 3,
+    "explicacion": "La no autoincriminación permite silencio; su declaración es acto de defensa y no testimonio.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=90 | oficial2026 p.PDF 90; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=90",
+    "pagina": 90
+  },
+  {
+    "id": "N2-155",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · testigos",
+    "pregunta": "¿Qué diferencia central distingue al testigo del imputado?",
+    "opciones": [
+      "El imputado tiene obligación de declarar verdad bajo juramento como el testigo",
+      "El testigo tiene el mismo derecho de silencio irrestricto que el imputado",
+      "El testigo tiene como regla deber de declarar verazmente, con excepciones",
+      "El testigo solo debe decir verdad si una parte se lo solicita expresamente"
+    ],
+    "correcta": 2,
+    "explicacion": "El testigo debe comparecer y decir verdad salvo excepciones; imputado dispone de defensa y silencio sin culpa inferida.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=90 | oficial2026 p.PDF 90; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=90",
+    "pagina": 90
+  },
+  {
+    "id": "N2-156",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · allanamiento",
+    "pregunta": "¿Qué regla general presenta el módulo para allanar una morada?",
+    "opciones": [
+      "Orden no fundada por bastar la denuncia, sin otras condiciones",
+      "Orden fundada de juez competente, con excepciones legales",
+      "Autorización fiscal suficiente en todo supuesto sin orden judicial",
+      "Ingreso discrecional policial aun fuera de excepciones legales"
+    ],
+    "correcta": 1,
+    "explicacion": "El CPP regula orden fundada como regla y supuestos excepcionales; la protección se extiende a comunicaciones y datos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=91 | oficial2026 p.PDF 91; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=91",
+    "pagina": 91
+  },
+  {
+    "id": "N2-157",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · reserva",
+    "pregunta": "¿Qué límite deriva del principio de reserva?",
+    "opciones": [
+      "No castigar meros pensamientos o acciones privadas sin afectación relevante",
+      "Punir pensamientos no exteriorizados cuando parezcan peligrosos",
+      "Punir toda acción privada que el funcionario considere moralmente inadecuada",
+      "Extender el castigo a la condición social aunque no exista conducta lesiva"
+    ],
+    "correcta": 0,
+    "explicacion": "Art.19 protege ámbito privado; la intervención penal exige conducta exteriorizada relevante para terceros/bienes protegidos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=91 | oficial2026 p.PDF 91; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=91",
+    "pagina": 91
+  },
+  {
+    "id": "N2-158",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · non bis in idem",
+    "pregunta": "¿Qué triple identidad se analiza para non bis in idem?",
+    "opciones": [
+      "Persona, tribunal y calificación jurídica",
+      "Hecho, defensor y fecha de la audiencia",
+      "Persona, domicilio y pena solicitada",
+      "Persona, hecho y causa de persecución"
+    ],
+    "correcta": 3,
+    "explicacion": "La garantía atiende misma persona, mismo hecho histórico y misma pretensión punitiva; puede impedir persecuciones simultáneas.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=91 | oficial2026 p.PDF 91; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=91",
+    "pagina": 91
+  },
+  {
+    "id": "N2-159",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · caso de doble persecución",
+    "pregunta": "Se pretende volver a perseguir el mismo hecho a la misma persona cambiando su nombre jurídico. ¿Qué advierte el material?",
+    "opciones": [
+      "Cada nueva calificación jurídica habilita siempre otro proceso por el mismo hecho",
+      "Solo protege cuando coinciden además los abogados de la causa anterior",
+      "El cambio de calificación no elimina identidad del hecho histórico",
+      "Solo protege si el mismo juez interviene en ambos procesos"
+    ],
+    "correcta": 2,
+    "explicacion": "La identidad objetiva versa sobre el hecho histórico, aunque cambie calificación, participación o ejecución.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=91 | oficial2026 p.PDF 91; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=91",
+    "pagina": 91
+  },
+  {
+    "id": "N2-160",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · teoría",
+    "pregunta": "¿Cuál es el orden de la estructura clásica de delito enseñada?",
+    "opciones": [
+      "Conducta, antijuridicidad, tipicidad y culpabilidad",
+      "Conducta, tipicidad, antijuridicidad y culpabilidad",
+      "Conducta, tipicidad, culpabilidad y antijuridicidad",
+      "Tipicidad, culpabilidad, conducta y antijuridicidad"
+    ],
+    "correcta": 1,
+    "explicacion": "Las categorías se analizan sucesivamente; si falta una no se completa esta formulación clásica de delito.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=92 | oficial2026 p.PDF 92; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=92",
+    "pagina": 92
+  },
+  {
+    "id": "N2-161",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · tipicidad",
+    "pregunta": "¿Qué expresa la tipicidad?",
+    "opciones": [
+      "Adecuación del hecho a la descripción legal de un delito",
+      "Contrariedad de la conducta con todo el ordenamiento sin una causa de justificación",
+      "Reproche personal por poder actuar conforme a derecho",
+      "Capacidad de comprender y dirigir acciones como único elemento"
+    ],
+    "correcta": 0,
+    "explicacion": "La tipicidad compara conducta concreta con elementos del tipo penal previsto por ley.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=92 | oficial2026 p.PDF 92; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=92",
+    "pagina": 92
+  },
+  {
+    "id": "N2-162",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · justificación",
+    "pregunta": "Una conducta típica se realiza en legítima defensa en los términos legales. ¿Qué categoría se afecta por la justificación?",
+    "opciones": [
+      "Tipicidad",
+      "Culpabilidad",
+      "Existencia de conducta voluntaria",
+      "Antijuridicidad"
+    ],
+    "correcta": 3,
+    "explicacion": "Las causas de justificación son permisos del ordenamiento que excluyen antijuridicidad, no la mera adecuación típica.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=92 | oficial2026 p.PDF 92; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=92",
+    "pagina": 92
+  },
+  {
+    "id": "N2-163",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · culpabilidad",
+    "pregunta": "¿Qué aspectos integra, en términos generales, la culpabilidad según el texto?",
+    "opciones": [
+      "Solo la adecuación del hecho a la descripción legal",
+      "Solo la ausencia de una causa de justificación",
+      "Imputabilidad, comprensión de ilicitud y posibilidad de actuar conforme a derecho",
+      "Solo la exteriorización voluntaria de una acción sin valorar reproche"
+    ],
+    "correcta": 2,
+    "explicacion": "La culpabilidad permite reproche personal por el hecho antijurídico y puede excluirse por determinadas circunstancias.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=92 | oficial2026 p.PDF 92; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=92",
+    "pagina": 92
+  },
+  {
+    "id": "N2-164",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · acusatorio",
+    "pregunta": "En delitos de acción pública, ¿quién dirige la Investigación Penal Preparatoria?",
+    "opciones": [
+      "Juez de Garantías como investigador y acusador",
+      "Ministerio Público Fiscal",
+      "OGAP por organizar las audiencias de investigación",
+      "Tribunal Penal Colegiado mediante investigación propia"
+    ],
+    "correcta": 1,
+    "explicacion": "El MP Fiscal investiga, reúne elementos, formula imputación y sostiene acusación cuando corresponde.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=93 | oficial2026 p.PDF 93; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=93",
+    "pagina": 93
+  },
+  {
+    "id": "N2-165",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · función judicial",
+    "pregunta": "¿Qué función corresponde al juez durante la investigación según el modelo descrito?",
+    "opciones": [
+      "Controlar legalidad y resolver peticiones como tercero imparcial",
+      "Dirigir la investigación y sostener la acusación en el debate",
+      "Preparar personalmente la estrategia de prueba del fiscal",
+      "Elegir una hipótesis acusatoria y sustituir la investigación fiscal"
+    ],
+    "correcta": 0,
+    "explicacion": "El juez no reúne prueba para sostener acusación; decide medidas y controversias con imparcialidad.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=93 | oficial2026 p.PDF 93; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=93",
+    "pagina": 93
+  },
+  {
+    "id": "N2-166",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · OGAP",
+    "pregunta": "¿Qué separación consolida la Ley 9040 según el material?",
+    "opciones": [
+      "Investigación judicial de los jueces y acusación propia de OGAP",
+      "Decisión de hechos por OGAP y derecho por fiscales",
+      "Defensa técnica por jueces y sentencia por administradores de audiencia",
+      "Función jurisdiccional de jueces y gestión administrativa de OGAP"
+    ],
+    "correcta": 3,
+    "explicacion": "La reforma organiza colegios de jueces y oficinas de gestión para separar decisión jurisdiccional de administración.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=94 | oficial2026 p.PDF 94; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=94",
+    "pagina": 94
+  },
+  {
+    "id": "N2-167",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · gestión",
+    "pregunta": "¿Qué tarea corresponde a OGAP?",
+    "opciones": [
+      "Resolver la procedencia de prisión preventiva como acto jurisdiccional",
+      "Dictar sentencia absolutoria o condenatoria",
+      "Organizar agenda, salas, logística y recursos de audiencias",
+      "Decidir admisibilidad de una prueba controvertida en lugar del juez"
+    ],
+    "correcta": 2,
+    "explicacion": "La OGAP organiza administrativamente para que jueces puedan concentrarse en función jurisdiccional.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=95 | oficial2026 p.PDF 95; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=95",
+    "pagina": 95
+  },
+  {
+    "id": "N2-168",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · jurados competencia",
+    "pregunta": "¿Qué delito consumado integra el listado de competencia de jurados 2026?",
+    "opciones": [
+      "Hurto simple consumado",
+      "Homicidio simple del art. 79 CP",
+      "Lesiones leves consumadas",
+      "Estafa simple consumada"
+    ],
+    "correcta": 1,
+    "explicacion": "El listado ampliado incluye homicidio simple 79 y otros delitos consumados graves enumerados, además de concurrentes en condiciones legales.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=95 | oficial2026 p.PDF 95; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=95",
+    "pagina": 95
+  },
+  {
+    "id": "N2-169",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · jurados competencia",
+    "pregunta": "¿Cuál de los siguientes también aparece en el listado de jurados del material 2026?",
+    "opciones": [
+      "Robo seguido de muerte del art. 165 CP",
+      "Robo simple consumado",
+      "Hurto simple consumado",
+      "Lesiones leves sin el supuesto agravado enumerado"
+    ],
+    "correcta": 0,
+    "explicacion": "La p. 96 incluye art. 165, junto a 124 y 166 inc.1 y los homicidios indicados; no limitarse al listado histórico 2023.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=96 | oficial2026 p.PDF 96; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=96",
+    "pagina": 96
+  },
+  {
+    "id": "N2-170",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · roles jurado",
+    "pregunta": "¿Qué reparto de roles es correcto?",
+    "opciones": [
+      "Jurado resuelve derecho y juez técnico determina los hechos sin atender al veredicto",
+      "Jurado fija la pena y juez administra únicamente la sala",
+      "Juez determina culpabilidad por sí y jurado asesora sin veredicto",
+      "Jurado determina hechos/veredicto; juez técnico dirige y resuelve derecho"
+    ],
+    "correcta": 3,
+    "explicacion": "El modelo separa decisión de hechos del jurado y dirección/instrucción/resolución jurídica del juez técnico.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=96 | oficial2026 p.PDF 96; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=96",
+    "pagina": 96
+  },
+  {
+    "id": "N2-171",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · integración",
+    "pregunta": "¿Cuántas personas integran el jurado seleccionado como titulares y suplentes?",
+    "opciones": [
+      "8 titulares y 2 suplentes",
+      "48 titulares sin suplentes",
+      "12 titulares y 4 suplentes",
+      "3 titulares y 12 suplentes"
+    ],
+    "correcta": 2,
+    "explicacion": "La integración es 12 titulares+4 suplentes con paridad; no confundir candidatos sorteados con decisores.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=96 | oficial2026 p.PDF 96; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=96",
+    "pagina": 96
+  },
+  {
+    "id": "N2-172",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · jurados requisitos",
+    "pregunta": "¿Qué franja de edad para integrar jurado menciona el módulo?",
+    "opciones": [
+      "14 a 18 años",
+      "18 a 75 años",
+      "21 a 45 años",
+      "30 a 90 años"
+    ],
+    "correcta": 1,
+    "explicacion": "El apartado señala 18–75 años junto a ciudadanía/residencia, idioma, lectura/escritura y derechos políticos y las incompatibilidades legales.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=96 | oficial2026 p.PDF 96; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=96",
+    "pagina": 96
+  },
+  {
+    "id": "N2-173",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · selección",
+    "pregunta": "¿Qué diferencia hay entre sorteo de candidatos y jurado definitivo?",
+    "opciones": [
+      "El sorteo genera al menos 48 candidatos; selección determina 12 titulares y 4 suplentes",
+      "El sorteo define directamente doce titulares sin audiencia posterior de selección",
+      "Todos los candidatos sorteados se convierten en titulares que deliberan",
+      "La selección concluye en dieciséis titulares sin distinción de suplentes"
+    ],
+    "correcta": 0,
+    "explicacion": "La Oficina Central sortea candidatos del listado anual; la audiencia de selección culmina en integración 12+4.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=97 | oficial2026 p.PDF 97; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=97",
+    "pagina": 97
+  },
+  {
+    "id": "N2-174",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · orden del juicio",
+    "pregunta": "¿Qué secuencia muestra el esquema previo al debate?",
+    "opciones": [
+      "Elevación, selección, preliminar y sorteo",
+      "Sorteo, elevación, selección y preliminar",
+      "Preliminar, selección, elevación y sorteo",
+      "Elevación, preliminar, sorteo y audiencia de selección"
+    ],
+    "correcta": 3,
+    "explicacion": "La p. 97 representa elevación→preliminar→sorteo→selección/voir dire→debate.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=97 | oficial2026 p.PDF 97; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=97",
+    "pagina": 97
+  },
+  {
+    "id": "N2-175",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · prueba ante jurado",
+    "pregunta": "¿Quiénes formulan examen y contraexamen de testigos en el debate por jurados descrito?",
+    "opciones": [
+      "El juez dirige todos los interrogatorios y las partes solo alegan",
+      "El jurado formula directamente las preguntas sin examen de las partes",
+      "Las partes; juez resuelve objeciones y jurado no pregunta",
+      "La Fiscalía pregunta a todos los testigos sin posibilidad de contraexamen"
+    ],
+    "correcta": 2,
+    "explicacion": "El apartado asigna interrogatorio/contraexamen a partes y señala que ni juez técnico ni jurado formulan preguntas.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=98 | oficial2026 p.PDF 98; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=98",
+    "pagina": 98
+  },
+  {
+    "id": "N2-176",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · alegatos",
+    "pregunta": "¿Qué diferencia caracteriza apertura y clausura?",
+    "opciones": [
+      "Apertura valora la prueba ya recibida y clausura presenta el caso por primera vez",
+      "Apertura presenta el caso; clausura valora prueba ya recibida",
+      "Ambos reemplazan la prueba y bastan como fundamento exclusivo de culpabilidad",
+      "Clausura ofrece prueba futura y apertura decide la pena"
+    ],
+    "correcta": 1,
+    "explicacion": "Se presenta teoría del caso al inicio y se razona sobre prueba rendida en clausura para pedir veredicto.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=98 | oficial2026 p.PDF 98; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=98",
+    "pagina": 98
+  },
+  {
+    "id": "N2-177",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · unanimidad",
+    "pregunta": "Once jurados votan culpabilidad y uno discrepa. ¿Se alcanzó el veredicto unánime exigido?",
+    "opciones": [
+      "No; deben coincidir los 12 titulares",
+      "Sí; bastan once votos por ser mayoría agravada",
+      "Sí; se incorpora un suplente para completar la mayoría",
+      "Sí; el voto del juez técnico sustituye al disidente"
+    ],
+    "correcta": 0,
+    "explicacion": "El veredicto exige unanimidad de 12 para culpabilidad y no culpabilidad, con régimen de estancamiento.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=99 | oficial2026 p.PDF 99; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=99",
+    "pagina": 99
+  },
+  {
+    "id": "N2-178",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · estancamiento",
+    "pregunta": "Si un segundo jurado también queda estancado, ¿qué consecuencia indica el texto?",
+    "opciones": [
+      "Tercer juicio obligatorio hasta conseguir unanimidad",
+      "Condena por mayoría simple acumulada de ambos jurados",
+      "Decisión de culpabilidad exclusiva del juez por falta de veredicto",
+      "Absolución"
+    ],
+    "correcta": 3,
+    "explicacion": "El material permite nuevo juicio tras primer estancamiento si acusación insiste; segundo estancamiento lleva absolución.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=99 | oficial2026 p.PDF 99; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=99",
+    "pagina": 99
+  },
+  {
+    "id": "N2-179",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · cesura",
+    "pregunta": "¿Qué se debate en la audiencia de cesura que describe el material?",
+    "opciones": [
+      "La culpabilidad antes de que exista veredicto",
+      "La integración del jurado para un segundo juicio",
+      "Pena a aplicar, sin jurado, cuando corresponde",
+      "La validez de la selección de candidatos como único objeto"
+    ],
+    "correcta": 2,
+    "explicacion": "Tras culpabilidad, cuando no hay pena perpetua prevista en el supuesto indicado, cesura sin jurado trata la pena.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=99 | oficial2026 p.PDF 99; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=99",
+    "pagina": 99
+  },
+  {
+    "id": "N2-180",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · LeD",
+    "pregunta": "¿Qué rasgo de LeD destaca el módulo?",
+    "opciones": [
+      "Sistema destinado exclusivamente a notificaciones sin gestionar actuaciones",
+      "Plataforma de gestión integral con actuaciones, trazabilidad y tareas OGAP",
+      "Repositorio de archivos sin agenda, tareas ni trazabilidad",
+      "Agenda de salas independiente de la gestión del legajo"
+    ],
+    "correcta": 1,
+    "explicacion": "LeD integra información, gestión, interoperabilidad, audiovisuales, firma y tareas; no es mero repositorio.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=100 | oficial2026 p.PDF 100; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=100",
+    "pagina": 100
+  },
+  {
+    "id": "N2-181",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Penal · agenda",
+    "pregunta": "¿Qué función cumple la Agenda Electrónica de Audiencias?",
+    "opciones": [
+      "Fijar fecha/modalidad/participantes y vincular resultado y registro audiovisual",
+      "Dictar la resolución jurisdiccional de cada audiencia",
+      "Administrar solo las salas sin relacionar participantes ni registro",
+      "Sustituir las notificaciones de toda audiencia por publicación abierta"
+    ],
+    "correcta": 0,
+    "explicacion": "La agenda organiza audiencias y vincula registros con legajo; LeD y otras herramientas complementan gestión.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=101 | oficial2026 p.PDF 101; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=101",
+    "pagina": 101
+  },
+  {
+    "id": "N2-182",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Juvenil · actualización",
+    "pregunta": "¿Qué ley nacional cita el material 2026 para el nuevo régimen de punibilidad juvenil?",
+    "opciones": [
+      "22278 como única base actual",
+      "6354 como ley nacional del nuevo régimen",
+      "26061 como norma nacional de punibilidad",
+      "27801"
+    ],
+    "correcta": 3,
+    "explicacion": "La p. 102 identifica Ley 27801 y actualiza el régimen; el esquema de 22278 del material 2023 es histórico.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=102 | oficial2026 p.PDF 102; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=102",
+    "pagina": 102
+  },
+  {
+    "id": "N2-183",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Juvenil · edad",
+    "pregunta": "Según la actualización expresa de p. 102, ¿qué edad comprende el régimen citado?",
+    "opciones": [
+      "Desde 16 años hasta antes de cumplir 18",
+      "Solo mayores de 18 años",
+      "Desde 14 años hasta antes de cumplir 18",
+      "Desde 12 años hasta cumplir 21"
+    ],
+    "correcta": 2,
+    "explicacion": "El PDF 2026 describe 14 hasta cero horas del día de cumplir 18; no debe copiarse umbral 16 del programa 2023.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=102 | oficial2026 p.PDF 102; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=102",
+    "pagina": 102
+  },
+  {
+    "id": "N2-184",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Juvenil · delitos",
+    "pregunta": "¿Qué alcance de delitos menciona el texto al explicar el nuevo régimen nacional?",
+    "opciones": [
+      "Solo delitos cuya pena mínima supere el umbral del antiguo régimen",
+      "Todos los tipificados, incluidos leves y tentados",
+      "Solo delitos consumados, excluyendo tentativas",
+      "Solo delitos contra la vida, excluyendo los leves"
+    ],
+    "correcta": 1,
+    "explicacion": "El material dice todos los delitos tipificados, incluso leves y en modalidad tentada; punibilidad no equivale a culpabilidad o prisión obligatoria.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=103 | oficial2026 p.PDF 103; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=103",
+    "pagina": 103
+  },
+  {
+    "id": "N2-185",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Juvenil · denominación",
+    "pregunta": "¿Qué denominación institucional señala el módulo como preferida?",
+    "opciones": [
+      "Fuero Penal Juvenil",
+      "Fuero Penal de Menores como denominación institucional recomendada",
+      "Fuero Tutelar Exclusivo como nueva denominación oficial",
+      "Fuero de Protección Integral como sustitución de toda función penal"
+    ],
+    "correcta": 0,
+    "explicacion": "La nota aclara que se abandonó fuero penal de menores como nominación institucional, aunque persistan términos en leyes previas.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=102 | oficial2026 p.PDF 102; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=102",
+    "pagina": 102
+  },
+  {
+    "id": "N2-186",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Juvenil · defensa",
+    "pregunta": "Si la persona acusada no cuenta con abogado particular, ¿qué asistencia describe el material?",
+    "opciones": [
+      "Defensoría civil de familia como defensa penal obligatoria en todo caso",
+      "Asesoría de NNA como sustitución automática del abogado penal",
+      "Ausencia de defensa técnica hasta la etapa de juicio",
+      "Defensoría penal juvenil estatal especializada"
+    ],
+    "correcta": 3,
+    "explicacion": "El módulo prevé defensa gratuita con funcionarios especializados distintos de defensores de adultos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=104 | oficial2026 p.PDF 104; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=104",
+    "pagina": 104
+  },
+  {
+    "id": "N2-187",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Juvenil · víctima",
+    "pregunta": "¿Qué requiere la víctima para constituirse en querellante según el apartado?",
+    "opciones": [
+      "Ser citada únicamente como testigo, sin posibilidad de actuar como parte",
+      "Obtener autorización del imputado para intervenir",
+      "Representación letrada",
+      "Presentarse sin representación letrada como condición de querellante"
+    ],
+    "correcta": 2,
+    "explicacion": "La víctima puede participar como parte querellante y debe contar con representación letrada.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=104 | oficial2026 p.PDF 104; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=104",
+    "pagina": 104
+  },
+  {
+    "id": "N2-188",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Juvenil · UPANA",
+    "pregunta": "¿Qué tipo de organismo es UPANA en la descripción?",
+    "opciones": [
+      "Órgano judicial que dicta sentencias penales juveniles",
+      "Unidad policial especializada de abordaje de niñez",
+      "Defensoría especializada que representa a cada joven",
+      "Dirección ejecutiva de internación para cumplimiento permanente"
+    ],
+    "correcta": 1,
+    "explicacion": "UPANA corresponde a Unidad de Procedimientos y Abordaje de la Niñez, comisaría especializada que trabaja con el fuero.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=105 | oficial2026 p.PDF 105; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=105",
+    "pagina": 105
+  },
+  {
+    "id": "N2-189",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Juvenil · detención",
+    "pregunta": "¿Qué límite impone el material a permanencia juvenil en comisarías?",
+    "opciones": [
+      "Carácter temporario y separación de personas adultas",
+      "Permanencia indefinida junto a adultos hasta terminar cualquier juicio",
+      "Cumplimiento ordinario de la pena en comisaría de adultos",
+      "Internación policial como regla sin carácter provisorio"
+    ],
+    "correcta": 0,
+    "explicacion": "La permanencia policial es provisoria; excepcional uso de comisaría de adultos exige separación, y la internación corresponde a dirección especializada.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=105 | oficial2026 p.PDF 105; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=105",
+    "pagina": 105
+  },
+  {
+    "id": "N2-190",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Juvenil · medidas alternativas",
+    "pregunta": "¿Qué finalidad caracteriza a las agencias de medidas alternativas descritas?",
+    "opciones": [
+      "Administrar lugares de internación permanente como objeto exclusivo",
+      "Ejercer la acusación fiscal en lugar de los órganos especializados",
+      "Declarar culpabilidad por incumplir un proyecto de vida",
+      "Seguimiento y proyectos de vida fuera de privación de libertad"
+    ],
+    "correcta": 3,
+    "explicacion": "Trabajan con jóvenes no internados y ejecutan/acompañan medidas orientadas a alternativas de vida y finalidad del régimen.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=105 | oficial2026 p.PDF 105; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=105",
+    "pagina": 105
+  },
+  {
+    "id": "N2-191",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Juvenil · principios",
+    "pregunta": "¿Cuál de estos integra los cinco principios juveniles enumerados?",
+    "opciones": [
+      "Universalidad patrimonial",
+      "Dispositivo contractual irrestricto",
+      "Especialización",
+      "Disponibilidad absoluta de toda garantía"
+    ],
+    "correcta": 2,
+    "explicacion": "El módulo enumera legalidad, excepcionalidad, especialización, igualdad/no discriminación y no regresividad.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=106 | oficial2026 p.PDF 106; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=106",
+    "pagina": 106
+  },
+  {
+    "id": "N2-192",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Juvenil · remisión",
+    "pregunta": "¿Qué lectura externa desarrolla los principios juveniles según la remisión expresa?",
+    "opciones": [
+      "Reglamento del Poder Judicial, capítulo de licencias administrativas",
+      "Informe CIDH Justicia Juvenil y Derechos Humanos en las Américas, impresas 17–45",
+      "Guía operativa del Bus Federal de Justicia",
+      "Manual del portal de gestión de causas"
+    ],
+    "correcta": 1,
+    "explicacion": "La p. 106 remite al informe CIDH, tramo 17–45; la nota recomienda lectura completa como visión integral.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=106 | oficial2026 p.PDF 106; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=106",
+    "pagina": 106
+  },
+  {
+    "id": "N2-193",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Juvenil · actualización procesal",
+    "pregunta": "El cuerpo dice que el nuevo código estaba en discusión. ¿Qué obliga a no quedarse con esa frase aislada?",
+    "opciones": [
+      "La p. 109 incorpora enlaces a nuevas leyes de octubre 2026",
+      "El anuncio de p. 107 basta para afirmar que nunca se aprobó la reforma",
+      "La existencia del programa 2023 desplaza cualquier anexo nuevo",
+      "Las capturas de LeD sustituyen el contenido del nuevo código"
+    ],
+    "correcta": 0,
+    "explicacion": "La p. 107 anuncia posible anexo y la 109 ya lo incorpora; estudiar nuevo código y régimen sin asumir 6354 como actual.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=109 | oficial2026 p.PDF 109; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=109",
+    "pagina": 109
+  },
+  {
+    "id": "N2-194",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Juvenil · tecnología",
+    "pregunta": "¿Qué sistema central identifica el apartado juvenil?",
+    "opciones": [
+      "Iurix Flex",
+      "Iurix ADF",
+      "SINEJ como sistema integral del legajo",
+      "LeD Penal Juvenil"
+    ],
+    "correcta": 3,
+    "explicacion": "El sistema central es LeD Penal Juvenil, implementado escalonadamente 2024–2025 según Ac. 31782 y herramientas complementarias.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=107 | oficial2026 p.PDF 107; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=107",
+    "pagina": 107
+  },
+  {
+    "id": "N2-195",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Juvenil · privacidad",
+    "pregunta": "¿Qué rasgo diferencia el legajo juvenil según el material?",
+    "opciones": [
+      "Publicidad general civil salvo que una parte pida reserva",
+      "Acceso público a todo registro por encontrarse digitalizado",
+      "Es siempre privado, conforme a la normativa especial del fuero",
+      "Reserva solo durante la investigación, con publicación íntegra automática después"
+    ],
+    "correcta": 2,
+    "explicacion": "La p. 108 subraya privacidad del legajo juvenil: digitalización no significa acceso público irrestricto.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=108 | oficial2026 p.PDF 108; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=108",
+    "pagina": 108
+  },
+  {
+    "id": "N2-196",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Juvenil · videograbación",
+    "pregunta": "¿A qué protocolo remite el apartado para videograbación de audiencias?",
+    "opciones": [
+      "El régimen de expediente electrónico de Acordada 30171 como protocolo específico citado",
+      "El aprobado por Acordada 32182",
+      "La acordada del Bus Federal 31732 como protocolo audiovisual",
+      "La acordada 32299 de BLSG como protocolo de grabaciones"
+    ],
+    "correcta": 1,
+    "explicacion": "El texto juvenil cita el Protocolo de Videograbación aprobado mediante Ac. 32182 y herramientas Teams/Kenos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=108 | oficial2026 p.PDF 108; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=108",
+    "pagina": 108
+  },
+  {
+    "id": "N2-197",
+    "etapa": "especificos",
+    "modulo": 2,
+    "subtema": "2.4",
+    "tema": "Juvenil · anexos",
+    "pregunta": "¿Qué dos documentos normativos enlaza el anexo de octubre 2026?",
+    "opciones": [
+      "Ley 9735 y Código Procesal Penal Juvenil de Mendoza",
+      "Ley 27801 y Ley 6354 como únicos documentos enlazados en esa página",
+      "Ley 9106 y reglamento de selección de jurados",
+      "Ley 9120 y reforma 9609 como anexos penales juveniles"
+    ],
+    "correcta": 0,
+    "explicacion": "La p. 109 remite expresamente a Ley 9735 régimen de responsabilidad penal juvenil y al nuevo Código Procesal Penal Juvenil.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=109 | oficial2026 p.PDF 109; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=109",
+    "pagina": 109
+  }
+]

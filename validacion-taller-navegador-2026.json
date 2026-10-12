@@ -1,0 +1,7 @@
+{
+  "fecha": "2026-10-12",
+  "checks": 59,
+  "failures": [],
+  "consoleErrors": [],
+  "nota": "Navegador real HTTP; tiempos de expiración y fin de video acelerados para comprobar transiciones."
+}

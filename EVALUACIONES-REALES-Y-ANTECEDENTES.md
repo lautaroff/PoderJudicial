@@ -1,5 +1,7 @@
 # Evaluaciones reales y antecedentes: qué se pudo recuperar
 
+Actualización 12/10/2026: los antecedentes siguientes conservan su carácter histórico. El escrito actual se prepara desde [el programa 2026 y su comparación](ACTUALIZACION-2026.md). Este documento no convierte los fragmentos recuperados en un examen completo ni en preguntas de la convocatoria actual.
+
 Investigación verificada el 5/10/2026. Este documento está separado del banco de práctica original: una pregunta creada para entrenar no es una pregunta efectivamente tomada. Tampoco un archivo subido por un particular adquiere autenticidad por decir «todos los turnos».
 
 ## 1. Fragmentos de un examen documentados en una sentencia oficial

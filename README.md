@@ -1,37 +1,42 @@
-# Preparación para el ingreso administrativo judicial de Mendoza
+# Preparación judicial Mendoza · programa 2026
 
-Abrí **index.html** con doble clic. Funciona desde esta carpeta, sin instalar programas y sin subir tus resultados. Conservá juntos `index.html`, `app.js`, `datos-preguntas.js` y la carpeta `biblioteca`.
-
-## Qué contiene
-
-- `GUIA-CONCURSO-2026.md`: nueve etapas, reglas, documentación, cupos, puntajes y psicofísico.
-- `BIBLIOTECA-Y-TEMARIO.md`: inventario con fuentes oficiales, copias descargadas, videos y antecedentes.
-- `MANUAL-DE-PREPARACION.md`: explicaciones, ejemplos y glosario para empezar a estudiar.
-- `PLAN-DE-ESTUDIO.md`: preparación inicial y actualización al publicarse el material nuevo.
-- `EVALUACIONES-REALES-Y-ANTECEDENTES.md`: análisis de ítems históricos documentados judicialmente y registro de búsquedas de exámenes públicos.
-- `CUADERNO-DE-EJERCICIOS.html`: preguntas originales y soluciones para imprimir.
-- `preguntas.json`: banco editable que utiliza el simulador.
-- `biblioteca/catalogo.json`: registro de descargas, páginas, estado de enlaces y hashes.
+Abrí [index.html](index.html) con doble clic. Conservá la carpeta completa: funciona sin instalar programas y sin subir resultados. El PDF se abre en el visor del navegador; cada enlace indica su página. En modo estudio podés profundizar mientras practicás; en simulacro, al corregir.
 
 ## Por dónde empezar
 
-1. Revisá inscripción y guardá la copia enviada a tu correo. El cierre publicado es el 9 de octubre a las 23:59.
-2. Leé la guía, especialmente la elección de circunscripción y departamento.
-3. Empezá el manual por organización judicial y conceptos jurídicos básicos.
-4. Hacé comprensión lectora con reloj y corregí razonando desde el texto.
-5. Consultá los PDF fuente para profundizar y resolver errores.
-6. El 12 de octubre, contrastá todo con el programa y videos oficiales 2026.
+1. Abrí «Mi recorrido», leé las reglas y el plan de 28 sesiones.
+2. Elegí módulo: PDF completo, guía explicada y práctica por apartado.
+3. Entrá en [Mapas y tarjetas](memoria.html): ocultá conceptos, reconstruí conexiones y respondé antes de revelar.
+4. Entrá al [Taller de dominio](taller.html): explicá sin opciones, compará casos, ordená procesos y corregí errores. Conservá los diagnósticos A/B para comprobar aprendizaje con preguntas nuevas.
+5. Alterná comprensión y las dos jornadas de video originales; corregí desde las fuentes. [Rutina del taller](estudio-2026/COMO-USAR-TALLER.md).
+6. Consultá las novedades oficiales para fechas, videos y hoja de respuestas.
 
-## Límites del material
+## Contenido actualizado al 12/10/2026
 
-Fecha de investigación: 5 de octubre de 2026. Las reglas 2026 se apoyan en la Acordada 32.748. El programa y videos se anuncian para el 12 de octubre; la preparación histórica no certifica su contenido futuro. Los ejercicios son originales, no preguntas oficiales ni filtraciones. Los tiempos y penalizaciones de 2023 no se trasladan a 2026.
+- Índice y cinco módulos oficiales completos: 220 páginas PDF, con biblioteca y lector por hoja.
+- Lecturas obligatorias, normas citadas y anexo penal juvenil de octubre, con alcance documentado.
+- Manual completo, guías por módulo, comparación 2023/2026, revisión de erratas y nueve etapas del concurso.
+- Banco específico renovado, ejercicios generales y seis textos originales de comprensión; corrección explicada y fuente.
+- Mapas, tarjetas, contrastes y casos con recuerdo activo y repaso espaciado.
+- Taller: 90 abiertas con rúbricas, 20 pares de casos, 12 secuencias, 20 errores, dos diagnósticos específicos, dos textos nuevos y dos videos de seis minutos con cuestionarios.
+- Cuaderno imprimible y archivo histórico conservado.
 
-El simulador permite revisar respuestas para aprender. Las evaluaciones reales tienen sus propias instrucciones de navegación, envío y marcado de hoja; consultar los avisos oficiales. El reloj funciona mientras la página está abierta; cerrar la pestaña pierde la práctica en curso. Los resultados y errores completados se guardan sólo en ese navegador y se pueden exportar.
+Las cantidades verificadas se muestran en el portal y en [VERIFICACION.md](VERIFICACION.md). Las guías y ejercicios son preparación independiente; los originales oficiales se mantienen intactos.
 
-Los mínimos de práctica son 15/20 institucional, 7/10 comprensión y 35/50 conocimientos. La acordada fija **40 minutos** para conocimientos, pese a que un resumen del micrositio menciona 50. Practicar temas institucionales históricos no sustituye ver los videos que se usarán en cada jornada virtual.
+## Reglas que conviene tener presentes
 
-## Regeneración del paquete
+La bibliografía nueva es exclusiva de conocimientos específicos. Los videos reales y el texto de comprensión se conocerán según su convocatoria. El escrito tiene 50 preguntas: la nueva página dice 50 minutos, pero Acordada/FAQ dicen 40; el simulador ofrece ambos. No se encontró una rectificación formal que cierre la diferencia. Los mínimos son 15/20 en cada jornada virtual, 7/10 lectura y 35/50 específicos. Entrenar no acredita aprobación ni garantiza nota.
 
-Tras editar el banco o los documentos, ejecutar `python preparar_material.py`. Valida formato, claves, opciones y cantidades; vuelve a generar `datos-preguntas.js` y el cuaderno imprimible. La validación de formato no sustituye revisión de exactitud del contenido.
+Los avances completados se guardan sólo en este navegador. En el simulador principal cerrar una práctica en curso pierde esas respuestas; el taller conserva borradores y el vencimiento del cuestionario. «Descargar mis avances» del cuaderno exporta resultados, cobertura, memoria visual y taller. El taller también permite descargar su registro. No hay importación automática. Se conserva el historial anterior y se lo identifica como preparación previa.
 
-Fuentes principales: [Convocatoria oficial](https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026/), [Acordada 32.748](https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Ac.-32748-Concurso-Ingreso-Administrativo-2026.pdf), [antecedente oficial 2023](https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2023/). Referencias y páginas específicas en cada documento.
+## Documentos y reproducibilidad
+
+[Manual](MANUAL-DE-PREPARACION.md) · [Plan](PLAN-DE-ESTUDIO.md) · [Etapas](GUIA-CONCURSO-2026.md) · [Biblioteca](BIBLIOTECA-Y-TEMARIO.md) · [Comparación](ACTUALIZACION-2026.md) · [Revisión](REVISION-CONTENIDO.md) · [Ejercicios imprimibles](CUADERNO-DE-EJERCICIOS.html).
+
+Para regenerar datos después de editar guías y bancos: `python integrar_documentos_2026.py`, `python integrar_bancos_2026.py`, `python generar_fuentes_2026.py`, `python preparar_material.py`, `python preparar_taller.py`. Verificar con `node verificar_simulador.cjs`; empaquetar con `python empaquetar.py`. Los MP4 se conservan ya renderizados. Estos scripts requieren Python y las bibliotecas usadas por los autores; estudiar con el paquete generado no requiere ejecutarlos.
+
+Procedencia: [material oficial 2026](https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026-material-de-estudio/), [convocatoria y novedades](https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026/). Fecha de descarga, URL y SHA-256 en los manifiestos de la biblioteca.
+
+## Copia del repositorio y paquetes ZIP
+
+El repositorio conserva el proyecto completo, incluidos PDF, guías, datos y videos terminados. Después de descargarlo o clonarlo, abrí `index.html` manteniendo sus carpetas. Los ZIP generados se conservan localmente y se excluyen de Git porque superan 100 MiB por archivo. Para generar el paquete completo ejecutá `python empaquetar.py`; comprueba el contenido con CRC y SHA-256 y escribe `PREPARACION-JUDICIAL-MENDOZA-2026-TALLER.zip`. El ZIP preparatorio antiguo también deja de versionarse; su copia local y el historial Git se conservan.

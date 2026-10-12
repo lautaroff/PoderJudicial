@@ -1,0 +1,1309 @@
+
+<!DOCTYPE html>
+<html lang="es-es" dir="ltr">
+	<head>
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta charset="utf-8">
+	<meta name="author" content="gbertolin">
+	<meta name="description" content="Plataforma digital organismos judiciales entidades públicas privada poderes judiciales jufejus IFITEJ Suprema Corte Buenos Aires Ministerio Justicia de Nación">
+	<meta name="generator" content="Helix Ultimate - The Most Popular Joomla! Template Framework.">
+	<title>Guía de Trámites</title>
+	<link href="/images/iconos/favicon.png" rel="icon" type="image/png">
+	<link href="https://www.bus-justicia.org.ar/index.php/component/finder/search?format=opensearch&amp;Itemid=101" rel="search" title="OpenSearch Bus Justicia Federal" type="application/opensearchdescription+xml">
+<link href="/media/vendor/awesomplete/css/awesomplete.css?1.1.7" rel="stylesheet">
+	<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.4.1" rel="stylesheet">
+	<link href="//fonts.googleapis.com/css?family=Red Hat Display:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;subset=latin&amp;display=swap" rel="stylesheet" media="none" onload="media=&quot;all&quot;">
+	<link href="/templates/shaper_helixultimate/css/bootstrap.min.css" rel="stylesheet">
+	<link href="/plugins/system/helixultimate/assets/css/chosen.css" rel="stylesheet">
+	<link href="/plugins/system/helixultimate/assets/css/system-j4.min.css" rel="stylesheet">
+	<link href="/media/system/css/joomla-fontawesome.min.css?9a8b16" rel="stylesheet">
+	<link href="/templates/shaper_helixultimate/css/template.css" rel="stylesheet">
+	<link href="/templates/shaper_helixultimate/css/presets/default.css" rel="stylesheet">
+	<style>body #sp-main {
+    background-color: #EEF2F4 !important;
+}
+#sp-section-6 {
+    background-color: #FFF !important;
+}
+#sp-header {
+    box-shadow: 0px 0px 8px 4px rgba(0, 0, 0, 0.5);
+}
+.home_tit {
+    font-size: 53px; 
+    font-weight: bold; 
+    color: #ecf0f1;
+}
+.home_subtit {
+    font-size: 36px; 
+    color: #ecf0f1; 
+    border-bottom: 1px solid #ffffff; 
+    padding-bottom: 15px;"
+}
+.proyectos {
+   color:#ffffff !important;
+}
+.btn-custom {
+   background-color:  #d58a0e;
+   color: #ffffff;
+   border-radius: 4px;
+   padding: 10px;
+}
+.btn-custom2 {
+  border: 1px solid #182e4f;
+   color: #182e4f;
+   border-radius: 4px;
+   padding: 10px;
+}
+.card-2 {
+   border:2px dotted #cdcdcd;
+   border-radius: 0.375rem;
+}
+.footer-border-top {
+    border-top: 6px solid #72abdd;
+    border-bottom: 20px solid #182e4f;
+}
+.sp-page-title {
+padding:90px;
+background-size:contain;
+}
+.card-3 {
+    border: 2px dotted #cdcdcd;
+    border-radius: 0.375rem;
+}
+.div-prov {
+    display: grid; 
+    gap: 20px 20px; 
+    grid-template-columns:repeat(3, minmax(100px, 400px)); 
+    grid-template-rows:repeat (4,200px); 
+}
+@media (max-width: 576px) {
+  .logo-image {
+    height: 55px !important;
+  }
+  .div-prov {
+	    display: grid; 
+		gap: 5px 5px; 
+		grid-template-columns:repeat(2, minmax(100px, 200px)); 
+		grid-template-rows:repeat (4,50px); 
+  }
+#sp-section-2 {
+    background-image: url(/images/backgrounds/fondo12.jpg) !important;
+    background-size: cover;
+    background-position: center !important;
+padding: 40px 0px 120px 0px !important;
+}
+.home_tit {
+    font-size: 43px; 
+}
+.home_subtit {
+    font-size: 26px; 
+}
+.text1 {
+font-size:18px;
+}
+}
+@media (max-width: 976px) {
+    #sp-header {
+       align-items: center;
+       display: inline-flex;
+       padding: 40px 10px 40px 10px;
+     }
+}
+@media (max-width: 992px) {
+  .logo-image {
+    height: 55px !important;
+  }
+}
+.burger-icon > span {
+    background-color: #fff !important;
+}
+.offcanvas-active .burger-icon>span {
+    background-color: #000000 !important;
+}
+.bus-federal {
+  text-transform: none !important;
+  font-size: 18px !important;
+  font-weight: 400 !important;
+}
+.bus-federal-1 {
+  text-transform: none !important;
+  font-size: 18px !important;
+  font-weight: 400 !important;
+background-color:#317eb8;
+border-radius:5px;
+padding:10px;
+}
+.integrar {
+  font-size: 18px !important;
+  font-weight: 400 !important;
+}
+/*  clau  BASE COMPARTIDA */
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@400;500;600;700&family=JetBrains+Mono:wght@500&display=swap');
+.bus-jf{
+  --bg:#EEF2F4;
+  --surface:#FFFFFF;
+  --ink:#10202E;
+  --muted:#5C7080;
+  --line:#14495E;
+  --accent:#D6872A;
+  --accent-soft:#FBE9D2;
+  --teal:#4C7A8C;
+  --border:#D7E0E4;
+  --radius:14px;
+  margin:0;
+  background:var(--bg);
+  color:var(--ink);
+  font-family:'Red Hat Display',sans-serif;
+  -webkit-font-smoothing:antialiased;
+}
+.bus-jf *{box-sizing:border-box;}
+.bus-jf .wrap{max-width:1180px;margin:0 auto;padding:0 24px;}
+/* ---------- HERO ---------- */
+.bus-jf .hero{position:relative;}
+.bus-jf .hero-eyebrow{
+  font-family:'JetBrains Mono',monospace;
+  font-size:16px;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--teal);display:flex;align-items:center;gap:10px;margin-bottom:18px;
+}
+.bus-jf .hero-eyebrow::before{content:"";width:22px;height:1px;background:var(--teal);}
+.bus-jf h1.title{
+  font-family:'Red Hat Display',sans-serif;font-weight:700;
+  font-size:clamp(30px,4.2vw,48px);line-height:1.08;letter-spacing:-.01em;
+  margin:0 0 20px;max-width:18ch;
+}
+.bus-jf .hero p.lead,
+.bus-jf .hero p.sub{
+  font-size:22px;color:var(--ink);max-width:74ch;line-height:1.55;margin:0 0 14px;
+}
+.bus-jf .hero-note{
+  font-size:18px;color:var(--ink);background:#e0edf9;
+  border:1px solid #accdeb;padding:16px 20px;border-radius:10px;
+  max-width:80ch;margin-top:20px;line-height:1.5;
+}
+.bus-jf .hero-note b{color:#8A5312;}
+/* ---------- SECTION HEAD + TRUNK ---------- */
+.bus-jf .section{padding:36px 0 8px;position:relative;}
+.bus-jf .section-head{display:flex;align-items:center;gap:14px;margin-bottom:15px;}
+.bus-jf .section-head img{width:50px;height:50px;object-fit:contain;flex-shrink:0;}
+.bus-jf .section-head h2{
+  font-family:'Red Hat Display',sans-serif;font-size:28px;font-weight:600;margin:0;
+  display:flex;align-items:center;gap:10px;
+}
+.bus-jf .section-head h2 .dot{
+  width:9px;height:9px;border-radius:50%;background:var(--accent);display:inline-block;
+}
+.bus-jf .section-count,
+.bus-jf .section-head span.count{
+  font-family:'JetBrains Mono',monospace;font-size:13px;color:var(--muted);
+  margin-left:auto;flex-shrink:0;
+}
+.bus-jf .section-sub{font-size:16px;color:var(--muted);margin:14px 0 22px;max-width:70ch;line-height:1.5;}
+.bus-jf .trunk{
+  position:relative;height:2px;
+  background:linear-gradient(90deg, var(--line), transparent 97%);
+  margin-bottom:8px;
+}
+/* ---- BADGE  ---- */
+.bus-jf .badge{
+  align-self:flex-start;
+  font-family:'JetBrains Mono',monospace;font-size:10.5px;letter-spacing:.05em;
+  text-transform:uppercase;padding:3px 8px;border-radius:20px;
+  color:#2E7D4F;background:#E6F4EB;border:1px solid #C6E7D2; /* default: Operativo */
+}
+.bus-jf .badge.judicial{color:var(--line);background:#E7EEF1;border-color:#CBDBE1;}
+.bus-jf .badge.publico{color:#2E6577;background:#E4F0F3;border-color:#C4DEE5;}
+.bus-jf .badge.ong{color:#4A5A6E;background:#EAEDF1;border-color:#D3D9E1;}
+.bus-jf .badge.privado{color:#8A5312;background:var(--accent-soft);border-color:#EDCFA0;}
+/* ---- CARD-CTA ----- */
+.bus-jf .card-cta{
+  margin-top:auto;display:flex;align-items:center;gap:8px;
+  justify-content:space-between;text-decoration:none;
+  font-family:'Red Hat Display',sans-serif;font-weight:600;color:var(--line);
+  padding-top:14px;border-top:1px solid var(--border);
+}
+.bus-jf .card-cta svg{width:14px;height:14px;stroke:var(--line);transition:transform .15s ease;}
+/* fin BASE clau */
+/* Guías de Trámites */
+/* gráfico decorativo del hero */
+#bus-guias-tramite .bus-graphic{ position:absolute;right:-40px;top:40px;width:420px;height:260px;
+  opacity:.9;pointer-events:none;
+}
+@media (max-width:900px){ #bus-guias-tramite .bus-graphic{display:none;} }
+/* buscador + tabs */
+#bus-guias-tramite .controls{
+  position:sticky;top:0;z-index:20;background:var(--bg);
+  padding:18px 0 20px;border-bottom:1px solid var(--border);
+}
+#bus-guias-tramite .controls-row{display:flex;gap:14px;flex-wrap:wrap;align-items:center;}
+#bus-guias-tramite .search-box{flex:1 1 280px;position:relative;}
+#bus-guias-tramite .search-box input{
+  width:100%;padding:13px 16px 13px 42px !important;border-radius:10px;
+  border:1px solid var(--border);background:var(--surface);
+  font-family:'Red Hat Display',sans-serif;font-size:14.5px;color:var(--ink);
+  outline:none;transition:border-color .15s ease, box-shadow .15s ease;
+}
+#bus-guias-tramite .search-box input:focus{
+  border-color:var(--teal);box-shadow:0 0 0 3px rgba(76,122,140,.15);
+}
+#bus-guias-tramite .search-box svg{ position:absolute;left:14px;top:50%;transform:translateY(-50%);
+  width:16px;height:16px;stroke:var(--muted);
+}
+#bus-guias-tramite .tabs{
+  display:flex;gap:8px;background:var(--surface);border:1px solid var(--border);
+  padding:4px;border-radius:10px;
+}
+#bus-guias-tramite .tab{
+  font-family:'Red Hat Display',sans-serif;font-weight:600;font-size:13.5px;
+  padding:8px 16px;border-radius:7px;border:none;background:transparent;
+  color:var(--muted);cursor:pointer;transition:all .15s ease;white-space:nowrap;
+}
+#bus-guias-tramite .tab.active{background:var(--line);color:#fff;}
+#bus-guias-tramite .result-count{
+  font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--muted);margin-top:12px;
+}
+/* grilla de organismos  */
+#bus-guias-tramite .grid{
+  display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));
+  gap:16px;margin-top:22px;
+}
+#bus-guias-tramite .card{
+  position:relative;background:var(--surface);border:1px solid var(--border);
+  border-radius:var(--radius);padding:20px 18px 18px;
+  display:flex;flex-direction:column;gap:14px;
+  transition:transform .18s ease, box-shadow .18s ease, border-color .18s ease;
+}
+#bus-guias-tramite .card::before{
+content:"";position:absolute;top:-23px;left:22px;width:1px;height:21px;background:var(--border);
+}
+#bus-guias-tramite .card::after{
+content:"";position:absolute;top:-27px;left:18px;width:9px;height:9px;
+  border-radius:50%;background:var(--surface);border:2px solid var(--teal);
+}
+#bus-guias-tramite .card:hover{
+  transform:translateY(-3px);box-shadow:0 10px 24px rgba(16,32,46,.08);border-color:var(--teal);
+}
+#bus-guias-tramite .card-top{display:flex;align-items:center;gap:12px;}
+#bus-guias-tramite .card-top img{width:38px;height:38px;object-fit:contain;flex-shrink:0;}
+#bus-guias-tramite .card-name{
+  font-family:'Red Hat Display',sans-serif;font-weight:600;font-size:14.5px;
+  line-height:1.25;color:var(--ink);
+}
+#bus-guias-tramite .card-cta{font-size:13px;}
+#bus-guias-tramite .card:hover .card-cta svg{transform:translateX(3px);}
+#bus-guias-tramite .empty-state{
+  display:none;text-align:center;padding:60px 20px;color:var(--muted);
+  font-family:'Red Hat Display',sans-serif;
+}
+#bus-guias-tramite .empty-state.show{display:block;}
+/* fin guias */
+/* ¿Qué es Bus-Justicia? */
+/* premisas: bloques de texto en lista, sin cards */
+#bus-que-es .premisas-list{
+  display:grid;grid-template-columns:1fr 1fr;column-gap:64px;padding-bottom:20px;
+}
+#bus-que-es .premisa-item{
+  display:flex;gap:20px;padding:26px 0;border-bottom:1px solid var(--border);
+}
+#bus-que-es .premisa-item:last-child{border-bottom:none;}
+#bus-que-es .premisa-item .idx{
+  font-family:'JetBrains Mono',monospace;font-size:15px;letter-spacing:.03em;
+  color:var(--accent);flex-shrink:0;width:30px;padding-top:4px;
+}
+#bus-que-es .premisa-item .premisa-body h3{
+  font-family:'Red Hat Display',sans-serif;font-size:24px;font-weight:600;margin:0 0 8px;line-height:1.3;
+}
+#bus-que-es .premisa-item .premisa-body p{font-size:22px;color:var(--muted);line-height:1.5;margin:0;}
+@media (max-width:680px){ #bus-que-es .premisas-list{grid-template-columns:1fr;} }
+/* audiencias */
+#bus-que-es .grid-audiencias{
+  display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:16px;
+  padding-bottom:48px;
+}
+#bus-que-es .card-aud{
+  background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
+  padding:22px 20px;display:flex;flex-direction:column;gap:14px;
+  border-left:3px solid var(--teal);
+  transition:transform .18s ease, box-shadow .18s ease;
+}
+#bus-que-es .card-aud:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(16,32,46,.08);}
+#bus-que-es .card-aud.judicial{border-left-color:var(--line);}
+#bus-que-es .card-aud.publico{border-left-color:var(--teal);}
+#bus-que-es .card-aud.ong{border-left-color:#7C8FA6;}
+#bus-que-es .card-aud.privado{border-left-color:var(--accent);}
+#bus-que-es .card-aud p{font-size:22px;color:var(--ink);line-height:1.45;margin:0;}
+/* requisitos */
+#bus-que-es .grid-requisitos{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:18px;
+  padding-bottom:60px;
+}
+#bus-que-es .card-req{
+  background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
+  padding:30px 26px;display:flex;flex-direction:column;gap:16px;
+}
+#bus-que-es .card-req h3{
+  font-family:'Red Hat Display',sans-serif;font-size:24px;font-weight:600;margin:0;
+}
+#bus-que-es .card-req p{font-size:22px;color:var(--muted);line-height:1.5;margin:0;}
+#bus-que-es .card-cta{font-size:18px;}
+#bus-que-es .card-cta svg{width:16px;height:16px;}
+#bus-que-es .card-req:hover .card-cta svg{transform:translateX(3px);}
+/* fin que es */
+/*  Equipo de Trabajo */
+#bus-equipo .person-grid{
+  display:grid;grid-template-columns:1fr 1fr;column-gap:56px;padding-bottom:16px;
+}
+#bus-equipo .person-item{
+  display:flex;gap:16px;padding:22px 0;border-bottom:1px solid var(--border);
+}
+#bus-equipo .person-item:last-child{border-bottom:none;}
+#bus-equipo .avatar{
+  width:38px;height:38px;border-radius:50%;flex-shrink:0;
+  display:flex;align-items:center;justify-content:center;
+  font-family:'JetBrains Mono',monospace;font-size:13px;font-weight:500;color:#fff;
+}
+#bus-equipo .section-desarrollo .avatar{background:var(--line);}
+#bus-equipo .section-gestion .avatar{background:var(--teal);}
+#bus-equipo .section-colaboradores .avatar{background:var(--accent);}
+#bus-equipo .person-info .name{
+  font-family:'Red Hat Display',sans-serif;font-size:18px;font-weight:600;margin:0 0 4px;line-height:1.3;
+}
+#bus-equipo .person-info .role{font-size:14.5px;color:var(--muted);line-height:1.5;margin:0;}
+@media (max-width:680px){
+  #bus-equipo .person-grid{grid-template-columns:1fr;}
+}
+/* fin equipo */
+/* Tecnología  */
+#bus-tecnologia .hero-note ul{list-style:none;margin:10px 0 0;padding:0;display:flex;flex-direction:column;gap:8px;}
+#bus-tecnologia .hero-note li{display:flex;gap:10px;font-size:16px;line-height:1.5;}
+#bus-tecnologia .hero-note li::before{content:"›";color:#8A5312;font-weight:700;}
+#bus-tecnologia .prose{max-width:78ch;padding-bottom:36px;}
+#bus-tecnologia .prose p{font-size:22px;color:var(--ink);line-height:1.6;margin:0 0 16px;}
+#bus-tecnologia .prose p:last-child{margin-bottom:0;}
+#bus-tecnologia .prose b{color:var(--line);}
+#bus-tecnologia .tech-list{
+  display:grid;grid-template-columns:1fr 1fr;column-gap:64px;padding-bottom:44px;
+}
+#bus-tecnologia .tech-item{display:flex;gap:20px;padding:22px 0;border-bottom:1px solid var(--border);}
+#bus-tecnologia .tech-item:last-child{border-bottom:none;}
+#bus-tecnologia .tech-item .idx{
+  font-family:'JetBrains Mono',monospace;font-size:15px;color:var(--accent);
+  flex-shrink:0;width:30px;padding-top:2px;
+}
+#bus-tecnologia .tech-item p{font-size:20px;color:var(--ink);line-height:1.5;margin:0;}
+#bus-tecnologia .tech-cards{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:18px;padding-bottom:50px;
+}
+#bus-tecnologia .tech-card{
+  background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
+  padding:28px 26px;display:flex;flex-direction:column;gap:14px;
+  transition:transform .18s ease, box-shadow .18s ease, border-color .18s ease;
+}
+#bus-tecnologia .tech-card:hover{
+  transform:translateY(-3px);box-shadow:0 10px 24px rgba(16,32,46,.08);border-color:var(--teal);
+}
+#bus-tecnologia .tech-card h3{
+  font-family:'Red Hat Display',sans-serif;font-size:22px;font-weight:600;margin:0;color:var(--line);
+}
+#bus-tecnologia .tech-card p{font-size:20px;color:var(--muted);line-height:1.55;margin:0;}
+@media (max-width:680px){
+  #bus-tecnologia .tech-list{grid-template-columns:1fr;}
+}
+/* fin tecnologia */
+/* etapas */
+#bus-etapas .infografia{
+  width:100%;text-align:center;margin:28px 0 8px;
+}
+#bus-etapas .infografia img{max-width:100%;height:auto;display:inline-block;}
+#bus-etapas .status-row{display:flex;gap:10px;flex-wrap:wrap;margin-top:18px;}
+#bus-etapas .roadmap{position:relative;padding:20px 0 10px;}
+#bus-etapas .roadmap::before{ content:"";position:absolute;left:21px;top:8px;bottom:8px;width:2px;
+  background:linear-gradient(180deg, var(--line), var(--teal) 60%, var(--border) 100%);
+}
+#bus-etapas .stage{position:relative;padding:0 0 52px 64px;}
+#bus-etapas .stage:last-child{padding-bottom:8px;}
+#bus-etapas .stage-node{
+position:absolute;left:0;top:2px;width:44px;height:44px;border-radius:50%;
+  background:var(--surface);border:2px solid var(--line);
+  display:flex;align-items:center;justify-content:center;
+  font-family:'JetBrains Mono',monospace;font-weight:500;font-size:15px;color:var(--line);
+  z-index:1;
+}
+#bus-etapas .stage.done .stage-node{background:var(--line);color:#fff;}
+#bus-etapas .stage-head{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-bottom:10px;}
+#bus-etapas .stage-head h3{
+  font-family:'Red Hat Display',sans-serif;font-size:24px;font-weight:600;margin:0;
+}
+#bus-etapas .stage p{font-size:22px;color:var(--ink);line-height:1.55;margin:0 0 14px;max-width:82ch;}
+#bus-etapas .stage p:last-child{margin-bottom:0;}
+/* fin etapas */
+/* ambiente */
+#bus-ambiente .env-cards{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:18px;padding-bottom:60px;
+}
+#bus-ambiente .env-card{
+  background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
+  padding:30px 26px;display:flex;flex-direction:column;gap:16px;
+  transition:transform .18s ease, box-shadow .18s ease, border-color .18s ease;
+}
+#bus-ambiente .env-card:hover{
+  transform:translateY(-3px);box-shadow:0 10px 24px rgba(16,32,46,.08);border-color:var(--teal);
+}
+#bus-ambiente .env-icon{width:70px;height:70px;object-fit:contain;}
+#bus-ambiente .env-card h3{
+  font-family:'Red Hat Display',sans-serif;font-size:22px;font-weight:600;margin:0;
+}
+#bus-ambiente .env-card p{font-size:16px;color:var(--muted);line-height:1.5;margin:0;}
+#bus-ambiente .env-links{display:flex;flex-direction:column;margin-top:auto;}
+#bus-ambiente .env-links .card-cta{font-size:16px;}
+#bus-ambiente .env-links .card-cta:first-child{border-top:1px solid var(--border);}
+#bus-ambiente .env-links .card-cta + .card-cta{border-top:1px solid var(--border);padding-top:14px;margin-top:0;}
+/* fin ambiente */
+/* footer */
+.bus-footer{
+  --ink-dark:#0B1620;
+  --line:#14495E;
+  --teal:#4C7A8C;
+  --accent:#D6872A;
+  --footer-bg:#0F2733;
+  --footer-text:#C6D3D9;
+  --footer-border:rgba(255,255,255,.12);
+  background:var(--footer-bg);
+  font-family:'Red Hat Display',sans-serif;
+  padding:44px 0 0;
+}
+.bus-footer *{box-sizing:border-box;}
+.bus-footer .wrap{max-width:1180px;margin:0 auto;padding:0 24px;}
+.bus-footer .footer-main{
+  display:flex;flex-wrap:wrap;gap:36px;justify-content:space-between;
+  padding-bottom:32px;border-bottom:1px solid var(--footer-border);
+}
+.bus-footer .footer-brand{display:flex;flex-direction:column;gap:12px;max-width:260px;}
+.bus-footer .footer-brand img{width:150px;height:auto;}
+.bus-footer .footer-brand p{
+  font-size:13.5px;color:var(--footer-text);opacity:.75;line-height:1.5;margin:0;
+}
+.bus-footer .footer-nav{display:flex;flex-direction:column;gap:10px;}
+.bus-footer .footer-nav-title{
+  font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--accent);margin:0 0 4px;
+}
+.bus-footer .footer-nav a{
+  color:var(--footer-text);text-decoration:none;font-size:14.5px;
+  transition:color .15s ease;
+}
+.bus-footer .footer-nav a:hover{color:#fff;}
+.bus-footer .footer-partners{display:flex;flex-direction:column;gap:12px;align-items:flex-start;}
+.bus-footer .footer-partners-title{
+  font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--accent);margin:0;
+}
+.bus-footer .footer-logos{display:flex;gap:10px;}
+.bus-footer .footer-logos a,
+.bus-footer .footer-logos span{
+  background:#525252;border-radius:10px;padding:10px 14px;
+  display:flex;align-items:center;justify-content:center;
+  transition:transform .15s ease;
+}
+.bus-footer .footer-logos a:hover{transform:translateY(-2px);}
+.bus-footer .footer-logos img{height:50px;width:auto;display:block;}
+.bus-footer .footer-bottom{
+  display:flex;flex-wrap:wrap;gap:10px;justify-content:space-between;align-items:center;
+  padding:18px 0;
+}
+.bus-footer .footer-copy{font-size:13px;color:var(--footer-text);opacity:.65;}
+.bus-footer .footer-copy b{color:var(--footer-text);opacity:1;font-weight:600;}
+@media (max-width:720px){
+  .bus-footer .footer-main{flex-direction:column;gap:28px;}
+  .bus-footer .footer-bottom{flex-direction:column;align-items:flex-start;}
+}
+/* fin footer */
+/* contacto */ 
+#bus-contacto .section{display:flex;justify-content: center;}
+#bus-contacto .contact-card{
+  background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
+  padding:12px 30px;width:100%;max-width:1000px;
+}
+#bus-contacto .contact-row{
+  display:flex;align-items:center;gap:16px;padding:22px 0;border-bottom:1px solid var(--border);
+}
+#bus-contacto .contact-row:last-child{border-bottom:none;}
+#bus-contacto .contact-icon{
+  width:44px;height:44px;border-radius:50%;flex-shrink:0;
+  background:var(--accent-soft);display:flex;align-items:center;justify-content:center;
+}
+#bus-contacto .contact-icon svg{width:20px;height:20px;stroke:#8A5312;}
+#bus-contacto .contact-body{flex:1;min-width:0;}
+#bus-contacto .contact-label{
+  font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.08em;text-transform:uppercase;
+  color:var(--muted);margin:0 0 4px;
+}
+#bus-contacto .contact-value{
+  font-size:17px;font-weight:600;color:var(--ink);margin:0;
+  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;
+}
+#bus-contacto .contact-arrow{flex-shrink:0;width:16px;height:16px;stroke:var(--teal);transition:transform .15s ease;}
+#bus-contacto .contact-row a{
+  display:flex;align-items:center;gap:16px;width:100%;text-decoration:none;color:inherit;
+}
+#bus-contacto .contact-row a:hover .contact-value{color:var(--line);}
+#bus-contacto .contact-row a:hover .contact-arrow{transform:translateX(3px);}
+/* fin contacto */
+/*  Integración Poderes Judiciales  */
+#bus-integracion .prose{max-width:78ch;padding-bottom:8px;}
+#bus-integracion .prose p{font-size:20px;color:var(--ink);line-height:1.6;margin:0 0 16px;}
+#bus-integracion .prose p:last-child{margin-bottom:0;}
+#bus-integracion code{
+  font-family:'JetBrains Mono',monospace;font-size:0.85em;background:#E4EAED;
+  padding:2px 6px;border-radius:5px;color:var(--line);
+}
+/* card de canales (mail / telegram) — mismo patrón que Contacto */
+#bus-integracion .channel-card{
+  background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
+  padding:6px 26px;max-width:640px;margin:26px 0 10px;
+}
+#bus-integracion .channel-row{display:flex;align-items:center;gap:16px;padding:18px 0;border-bottom:1px solid var(--border);}
+#bus-integracion .channel-row:last-child{border-bottom:none;}
+#bus-integracion .channel-icon{
+  width:40px;height:40px;border-radius:50%;flex-shrink:0;background:var(--accent-soft);
+  display:flex;align-items:center;justify-content:center;
+}
+#bus-integracion .channel-icon svg{width:18px;height:18px;stroke:#8A5312;}
+#bus-integracion .channel-row a{display:flex;align-items:center;gap:16px;width:100%;text-decoration:none;color:inherit;}
+#bus-integracion .channel-label{font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 3px;}
+#bus-integracion .channel-value{font-size:16px;font-weight:600;color:var(--ink);margin:0;}
+#bus-integracion .channel-row a:hover .channel-value{color:var(--line);}
+#bus-integracion .channel-arrow{margin-left:auto;flex-shrink:0;width:15px;height:15px;stroke:var(--teal);transition:transform .15s ease;}
+#bus-integracion .channel-row a:hover .channel-arrow{transform:translateX(3px);}
+/* tags de disponibilidad de librerías */
+#bus-integracion .lang-tags{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 8px;}
+/* card de endpoints — mismo patrón que Ambiente */
+#bus-integracion .endpoint-card{
+  background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
+  padding:26px 26px 20px;max-width:640px;margin:24px 0 44px;display:flex;flex-direction:column;gap:4px;
+}
+#bus-integracion .endpoint-card .card-cta{font-size:16px;}
+#bus-integracion .endpoint-card .card-cta:first-of-type{border-top:none;padding-top:0;}
+/* listas de pasos (enviar / recibir documento) */
+#bus-integracion .steps-grid{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:40px;padding-bottom:20px;
+}
+#bus-integracion .steps-col h3{
+  font-family:'Red Hat Display',sans-serif;font-size:20px;font-weight:600;margin:0 0 18px;color:var(--line);
+}
+#bus-integracion .steps-col ol{list-style:none;margin:0;padding:0;counter-reset:step;}
+#bus-integracion .steps-col li{
+  counter-increment:step;position:relative;padding:0 0 22px 38px;
+  font-size:16.5px;color:var(--muted);line-height:1.55;
+}
+#bus-integracion .steps-col li::before{
+content:counter(step);position:absolute;left:0;top:0;width:24px;height:24px;border-radius:50%;
+  background:var(--surface);border:2px solid var(--teal);color:var(--teal);
+  font-family:'JetBrains Mono',monospace;font-size:12px;font-weight:500;
+  display:flex;align-items:center;justify-content:center;
+}
+#bus-integracion .steps-col li::after{
+content:"";position:absolute;left:11px;top:24px;bottom:0;width:1px;background:var(--border);
+}
+#bus-integracion .steps-col li:last-child::after{display:none;}
+/* cards del BOT */
+#bus-integracion .bot-cards{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:16px;margin:24px 0 30px;
+}
+#bus-integracion .bot-card{
+  background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
+  padding:22px 22px;display:flex;flex-direction:column;gap:10px;
+}
+#bus-integracion .bot-card h4{font-family:'Red Hat Display',sans-serif;font-size:16.5px;font-weight:600;margin:0;}
+#bus-integracion .bot-card p{font-size:15px;color:var(--muted);line-height:1.55;margin:0;}
+#bus-integracion .status-note{
+  font-size:15px;color:var(--muted);background:var(--bg);border:1px solid var(--border);
+  border-radius:10px;padding:14px 18px;line-height:1.6;margin-bottom:60px;
+}
+/* fin integración */
+/* Integración Abogados particulares */
+#bus-integracion-abg .prose{max-width:74ch;padding:8px 0 60px;}
+#bus-integracion-abg .prose p{font-size:22px;color:var(--ink);line-height:1.55;margin:0;}
+#bus-integracion-abg .card-aud .privado {
+    border-left-color: var(--accent);
+}
+#bus-integracion-abg .card-aud {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 22px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    border-left: 3px solid var(--teal);
+    transition: transform .18s ease, box-shadow .18s ease;
+}
+/* fin integracion abogados particulares */
+/*  Integración Publico/Privado */
+#bus-integracion-pp .benefit-list{list-style:none;margin:0;padding:0 0 10px;max-width:78ch;}
+#bus-integracion-pp .benefit-list li{
+  display:flex;gap:14px;padding:16px 0;border-bottom:1px solid var(--border);
+  font-size:20px;color:var(--ink);line-height:1.5;
+}
+#bus-integracion-pp .benefit-list li:last-child{border-bottom:none;}
+#bus-integracion-pp .benefit-list svg{
+  flex-shrink:0;width:22px;height:22px;stroke:#2E7D4F;margin-top:2px;
+}
+#bus-integracion-pp .roadmap{position:relative;padding:20px 0 10px;}
+#bus-integracion-pp .roadmap::before{
+content:"";position:absolute;left:21px;top:8px;bottom:8px;width:2px;
+  background:linear-gradient(180deg, var(--line), var(--teal) 60%, var(--border) 100%);
+}
+#bus-integracion-pp .stage{position:relative;padding:0 0 44px 64px;}
+#bus-integracion-pp .stage:last-child{padding-bottom:8px;}
+#bus-integracion-pp .stage-node{
+position:absolute;left:0;top:2px;width:44px;height:44px;border-radius:50%;
+  background:var(--surface);border:2px solid var(--line);
+  display:flex;align-items:center;justify-content:center;
+  font-family:'JetBrains Mono',monospace;font-weight:500;font-size:15px;color:var(--line);
+  z-index:1;
+}
+#bus-integracion-pp .stage h3{
+  font-family:'Red Hat Display',sans-serif;font-size:24px;font-weight:600;margin:0 0 10px;
+}
+#bus-integracion-pp .stage p{font-size:18px;color:var(--muted);line-height:1.6;margin:0 0 14px;max-width:80ch;}
+#bus-integracion-pp .stage p:last-of-type{margin-bottom:14px;}
+#bus-integracion-pp .stage-links{display:flex;flex-direction:column;gap:10px;margin-top:4px;}
+/* fin integracion publico privado */
+/* Normativa */
+#bus-normativa .doc-list{
+  list-style:none;margin:22px 0 50px;padding:0;
+  background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
+  overflow:hidden;
+}
+#bus-normativa .doc-list li{border-bottom:1px solid var(--border);}
+#bus-normativa .doc-list li:last-child{border-bottom:none;}
+#bus-normativa .doc-list a{
+  display:flex;align-items:center;gap:16px;padding:18px 22px;
+  text-decoration:none;color:inherit;transition:background-color .15s ease;
+}
+#bus-normativa .doc-list a:hover{background:var(--bg);}
+#bus-normativa .doc-check{
+  flex-shrink:0;width:22px;height:22px;border-radius:6px;
+  border:2px solid #CBDBE1;background:#E7EEF1;
+  display:flex;align-items:center;justify-content:center;
+}
+#bus-normativa .doc-check svg{width:13px;height:13px;stroke:var(--line);}
+#bus-normativa .doc-title{
+  flex:1;font-size:17px;font-weight:600;color:var(--ink);line-height:1.4;
+}
+#bus-normativa .doc-tag{
+  flex-shrink:0;font-family:'JetBrains Mono',monospace;font-size:10.5px;letter-spacing:.05em;
+  color:var(--line);background:#E7EEF1;border:1px solid #CBDBE1;padding:3px 8px;border-radius:6px;
+}
+#bus-normativa .doc-arrow{flex-shrink:0;width:16px;height:16px;stroke:var(--teal);transition:transform .15s ease;}
+#bus-normativa .doc-list a:hover .doc-arrow{transform:translateY(2px);}
+/* fin normativa */
+/* como enviar */
+#bus-como-enviar .section{display:flex;justify-content:center;padding:16px 0 70px;}
+#bus-como-enviar .search-card{
+  background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
+  padding:34px 200px 30px;width:100%;max-width:1000px;
+}
+#bus-como-enviar .form-icon{display:flex;justify-content:center;margin-bottom:22px;}
+#bus-como-enviar .form-icon img{width:100px;height:100px;object-fit:contain;display:block;}
+#bus-como-enviar .field{margin-bottom:20px;max-width:600px;}
+#bus-como-enviar .field label{
+  display:block;font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.08em;
+  text-transform:uppercase;color:var(--muted);margin-bottom:8px;
+}
+#bus-como-enviar .select-wrap{position:relative;}
+#bus-como-enviar select{
+  width:100%;appearance:none;-webkit-appearance:none;
+  padding:13px 42px 13px 16px;border-radius:10px;border:1px solid var(--border);
+  background:var(--bg);font-family:'Red Hat Display',sans-serif;font-size:16px;font-weight:600;
+  color:var(--ink);cursor:pointer;outline:none;transition:border-color .15s ease, box-shadow .15s ease;
+}
+#bus-como-enviar select:focus{border-color:var(--teal);box-shadow:0 0 0 3px rgba(76,122,140,.15);}
+#bus-como-enviar select:disabled{color:var(--muted);cursor:not-allowed;}
+#bus-como-enviar .select-wrap svg{
+position:absolute;right:14px;top:50%;transform:translateY(-50%);
+  width:16px;height:16px;stroke:var(--muted);pointer-events:none;
+}
+#bus-como-enviar .swap-row{display:flex;align-items:center;justify-content:center;margin:-6px 0 12px;}
+#bus-como-enviar .swap-row svg{width:18px;height:18px;stroke:var(--teal);}
+#bus-como-enviar .submit-btn{
+  width:100%;padding:10px 18px;border:none;border-radius:10px;
+  background:var(--line);color:#fff;font-family:'Red Hat Display',sans-serif;font-weight:600;font-size:16px;
+  cursor:pointer;display:flex;align-items:center;justify-content:center;gap:8px;
+  transition:background-color .15s ease;
+max-width:600px;
+margin-top:30px;
+}
+#bus-como-enviar .submit-btn:hover{background:#0F3A4B;}
+#bus-como-enviar .submit-btn:disabled{background:var(--border);color:var(--muted);cursor:not-allowed;}
+#bus-como-enviar .submit-btn svg{width:16px;height:16px;stroke:currentColor;}
+#bus-como-enviar .helper{font-size:15px;color:var(--line);text-align:center;margin:14px 0 0;line-height:1.5;}
+#bus-como-enviar .error-msg{
+  display:none;font-size:13.5px;color:#8A5312;background:var(--accent-soft);border:1px solid #EDCFA0;
+  border-radius:8px;padding:10px 14px;margin-bottom:18px;
+}
+#bus-como-enviar .error-msg.show{display:block;}
+/* fin como enviar */
+/*  Logo del menu off-canvas */
+.offcanvas-menu .logo a{
+  position:relative;
+  display:inline-block;
+}
+.offcanvas-menu .logo a img.logo-image{
+  visibility:hidden; /* mantiene el espacio/tamaño original, pero no se ve */
+}
+.offcanvas-menu .logo a::after{
+  content:"";
+  position:absolute;
+  top:0;left:0;right:0;bottom:0;
+  background-image:url('images/headers/logo-bus-offcanvas.svg');
+  background-repeat:no-repeat;
+  background-position:left center;
+  background-size:contain;
+}
+.offcanvas-menu .offcanvas-inner ul.menu>li a:hover, .offcanvas-menu .offcanvas-inner ul.menu>li a:focus {
+color: #000 !important;
+}
+.offcanvas-menu .offcanvas-inner ul.menu>li span:hover {
+    color: #000 !important;
+}
+/* fin off canvas */</style>
+	<style>body{font-family: 'Red Hat Display', sans-serif;font-size: 22px;font-weight: 300;text-decoration: none;}
+</style>
+	<style>h1{font-family: 'Red Hat Display', sans-serif;font-size: 30px;font-weight: 400;text-decoration: none;}
+</style>
+	<style>h2{font-family: 'Red Hat Display', sans-serif;font-size: 28px;text-decoration: none;}
+</style>
+	<style>h3{font-family: 'Red Hat Display', sans-serif;font-size: 26px;text-decoration: none;}
+</style>
+	<style>h4{font-family: 'Red Hat Display', sans-serif;font-size: 24px;text-decoration: none;}
+</style>
+	<style>h5{font-family: 'Red Hat Display', sans-serif;font-size: 22px;text-decoration: none;}
+</style>
+	<style>h6{font-family: 'Red Hat Display', sans-serif;font-size: 20px;text-decoration: none;}
+</style>
+	<style>.sp-megamenu-parent > li > a, .sp-megamenu-parent > li > span, .sp-megamenu-parent .sp-dropdown li.sp-menu-item > a{font-family: 'Red Hat Display', sans-serif;font-size: 18px;font-weight: 400;text-decoration: none;}
+</style>
+	<style>.menu.nav-pills > li > a, .menu.nav-pills > li > span, .menu.nav-pills .sp-dropdown li.sp-menu-item > a{font-family: 'Red Hat Display', sans-serif;font-size: 18px;font-weight: 400;text-decoration: none;}
+</style>
+	<style>.logo-image {height:60px;}.logo-image-phone {height:60px;}</style>
+	<style>@media(max-width: 992px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}</style>
+	<style>@media(max-width: 576px) {.logo-image {height: 36px;}.logo-image-phone {height: 36px;}}</style>
+	<style>#sp-footer{ background-color:#0F2733; }</style>
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/vendor/jquery/js/jquery-noconflict.min.js?3.7.1"></script>
+	<script type="application/json" class="joomla-script-options new">{"data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"MOD_FINDER_SEARCH_VALUE":"Buscar&hellip;","COM_FINDER_SEARCH_FORM_LIST_LABEL":"Buscar resultados","JLIB_JS_AJAX_ERROR_OTHER":"Se ha producido un aborto en la conexión mientras se recuperaban datos de JSON: Código de estado HTTP %s.","JLIB_JS_AJAX_ERROR_PARSE":"Se ha producido un error de análisis mientras se procesaban los siguientes datos de JSON:<br><code style=\"color:inherit;white-space:pre-wrap;padding:0;margin:0;border:0;background:inherit;\">%s<\/code>","ERROR":"Error","MESSAGE":"Mensaje","NOTICE":"Notificación","WARNING":"Advertencia","JCLOSE":"Cerrar","JOK":"OK","JOPEN":"Abrir"},"finder-search":{"url":"\/index.php\/component\/finder\/?task=suggestions.suggest&format=json&tmpl=component&Itemid=101"},"system.paths":{"root":"","rootFull":"https:\/\/www.bus-justicia.org.ar\/","base":"","baseFull":"https:\/\/www.bus-justicia.org.ar\/"},"csrf.token":"52cf5aa671a21367b951e5479d77fca5"}</script>
+	<script src="/media/system/js/core.min.js?a3d8f8"></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.8" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.8" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.8" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.8" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.8" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.8" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.8" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.8" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.8" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.8" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.8" type="module"></script>
+	<script src="/media/system/js/showon.min.js?e51227" type="module"></script>
+	<script src="/media/vendor/awesomplete/js/awesomplete.min.js?1.1.7" defer></script>
+	<script src="/media/com_finder/js/finder.min.js?755761" type="module"></script>
+	<script src="/media/mod_menu/js/menu.min.js?9a8b16" type="module"></script>
+	<script src="/media/system/js/messages.min.js?9a4811" type="module"></script>
+	<script src="/templates/shaper_helixultimate/js/inert.min.js"></script>
+	<script src="/plugins/system/helixultimate/assets/js/chosen.jquery.js"></script>
+	<script src="/templates/shaper_helixultimate/js/main.js"></script>
+	<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.bus-justicia.org.ar/#/schema/Organization/base","name":"Bus Justicia Federal","url":"https://www.bus-justicia.org.ar/"},{"@type":"WebSite","@id":"https://www.bus-justicia.org.ar/#/schema/WebSite/base","url":"https://www.bus-justicia.org.ar/","name":"Bus Justicia Federal","publisher":{"@id":"https://www.bus-justicia.org.ar/#/schema/Organization/base"},"potentialAction":{"@type":"SearchAction","target":"https://www.bus-justicia.org.ar/index.php/component/finder/search?q={search_term_string}\u0026amp;Itemid=101","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.bus-justicia.org.ar/#/schema/WebPage/base","url":"https://www.bus-justicia.org.ar/index.php/bus-federal/guias-tramite","name":"Guía de Trámites","description":"Plataforma digital organismos judiciales entidades públicas privada poderes judiciales jufejus IFITEJ Suprema Corte Buenos Aires Ministerio Justicia de Nación","isPartOf":{"@id":"https://www.bus-justicia.org.ar/#/schema/WebSite/base"},"about":{"@id":"https://www.bus-justicia.org.ar/#/schema/Organization/base"},"inLanguage":"es-ES"},{"@type":"Article","@id":"https://www.bus-justicia.org.ar/#/schema/com_content/article/45","name":"Guía de Trámites","headline":"Guía de Trámites","inLanguage":"es-ES","isPartOf":{"@id":"https://www.bus-justicia.org.ar/#/schema/WebPage/base"}}]}</script>
+	<script>$(document).ready(function(){
+	$('#btn_empresa').on('click',function(){
+	var seleccionado = $("#hasta option:selected").val();
+	if (seleccionado == "rio_negro"){ 
+		fn_rio_negro();
+		  } else if  (seleccionado == "buenos_aires") {
+		  fn_buenos_aires();
+		  }
+		  else if  (seleccionado == "ciudad_autonoma") {
+		  fn_ciudad_autonoma();
+		  }
+		else if  (seleccionado == "catamarca") {
+		  fn_catamarca();
+		  }
+		else if  (seleccionado == "chaco") {
+		  fn_chaco();
+		  }
+		else if  (seleccionado == "chubut") {
+		  fn_chubut();
+		  }
+		else if  (seleccionado == "cordoba") {
+		  fn_cordoba();
+		  }
+		else if  (seleccionado == "corrientes") {
+		  fn_corrientes();
+		  }
+		else if  (seleccionado == "entre_rios") {
+		  fn_entre_rios();
+		  }
+		else if  (seleccionado == "formosa") {
+		  fn_formosa();
+		  }
+		else if  (seleccionado == "jujuy") {
+		  fn_jujuy();
+		  }
+		else if  (seleccionado == "la_pampa") {
+		  fn_la_pampa();
+		  }
+		else if  (seleccionado == "la_rioja") {
+		  fn_la_rioja();
+		  }
+		else if  (seleccionado == "mendoza") {
+		  fn_mendoza();
+		  }
+		else if  (seleccionado == "misiones") {
+		  fn_misiones();
+		  }
+		else if  (seleccionado == "neuquen") {
+		  fn_neuquen();
+		  }
+		else if  (seleccionado == "rio_negro") {
+		  fn_rio_negro();
+		  }
+		else if  (seleccionado == "salta") {
+		  fn_salta();
+		  }
+		else if  (seleccionado == "san_juan") {
+		  fn_san_juan();
+		  }
+		else if  (seleccionado == "san_luis") {
+		  fn_san_luis();
+		  }
+		else if  (seleccionado == "santa_cruz") {
+		  fn_santa_cruz();
+		  }
+		else if  (seleccionado == "santa_fe") {
+		  fn_santa_fe();
+		  }
+		else if  (seleccionado == "santiago_estero") {
+		  fn_santiago_estero();
+		  }
+		else if  (seleccionado == "tierra_fuego") {
+		  fn_tierra_fuego();
+		  }
+		else if  (seleccionado == "tucuman") {
+		  fn_tucuman();
+		  };		
+	}); 
+	function fn_rio_negro(){
+	window.open ('pj-rio-negro','_blank');
+	return;
+	}
+	function fn_buenos_aires(){
+	window.open ('pj-buenos-aires','_blank');
+	return;
+	}
+	function fn_chubut(){
+	window.open ('pj-chubut','_blank');
+	return;
+	}
+	function fn_san_juan(){
+	window.open ('pj-san-juan','_blank');
+	return;
+	}
+	function fn_cordoba(){
+	window.open ('pj-cordoba','_blank');
+	return;
+	}
+	function fn_salta(){
+	window.open ('pj-salta','_blank');
+	return;
+	}
+	function fn_ciudad_autonoma(){
+	window.open ('pj-ciudad-bs-as','_blank');
+	return;
+	}
+	function fn_catamarca(){
+	window.open ('pj-catamarca','_blank');
+	return;
+	}
+	function fn_corrientes(){
+	window.open ('pj-corrientes','_blank');
+	return;
+	}
+	function fn_entre_rios(){
+	window.open ('pj-entre-rios','_blank');
+	return;
+	}
+	function fn_formosa(){
+	window.open ('pj-formosa','_blank');
+	return;
+	}
+	function fn_jujuy(){
+	window.open ('pj-jujuy','_blank');
+	return;
+	}
+	function fn_la_pampa(){
+	window.open ('pj-la-pampa','_blank');
+	return;
+	}
+	function fn_la_rioja(){
+	window.open ('pj-la-rioja','_blank');
+	return;
+	}
+	function fn_mendoza(){
+	window.open ('pj-mendoza','_blank');
+	return;
+	}
+	function fn_misiones(){
+	window.open ('pj-misiones','_blank');
+	return;
+	}
+	function fn_neuquen(){
+	window.open ('pj-neuquen','_blank');
+	return;
+	}
+	function fn_san_luis(){
+	window.open ('pj-san-luis','_blank');
+	return;
+	}
+	function fn_santa_cruz(){
+	window.open ('pj-santa-cruz','_blank');
+	return;
+	}
+	function fn_santa_fe(){
+	window.open ('pj-santa-fe','_blank');
+	return;
+	}
+	function fn_santiago_estero(){
+	window.open ('pj-santiago-estero','_blank');
+	return;
+	}
+	function fn_tierra_fuego(){
+	window.open ('pj-tierra-fuego','_blank');
+	return;
+	}
+	function fn_tucuman(){
+	window.open ('pj-tucuman','_blank');
+	return;
+	}
+        function fn_chaco(){
+	window.open ('pj-chaco','_blank');
+	return;
+	}
+       function fn_catamarca(){
+	window.open ('pj-catamarca','_blank');
+	return;
+	}
+        function fn_corrientes(){
+	window.open ('pj-corrientes','_blank');
+	return;
+	}
+});</script>
+	<script>template="shaper_helixultimate";</script>
+			</head>
+	<body class="site helix-ultimate hu com_content com-content view-article layout-default task-none itemid-169 es-es ltr sticky-header layout-fluid offcanvas-init offcanvs-position-left">
+
+		
+					<div class="sp-pre-loader">
+				<div class='sp-loader-circle'></div>			</div>
+		
+		<div class="body-wrapper">
+			<div class="body-innerwrapper">
+					<div class="sticky-header-placeholder"></div>
+<header id="sp-header">
+	<div class="container">
+		<div class="container-inner">
+			<div class="row">
+				<!-- Left toggler (when offcanvas left) -->
+									<div class="col-auto align-items-center d-flex">
+						
+  <a id="offcanvas-toggler"
+     class="offcanvas-toggler-secondary offcanvas-toggler-left d-flex align-items-center"
+     href="#"
+     aria-label="Menu"
+     title="Menu">
+     <div class="burger-icon" aria-hidden="true"><span></span><span></span><span></span></div>
+  </a>					</div>
+				
+				<!-- Logo -->
+				<div id="sp-logo" class="col-auto">
+					<div class="sp-column">
+						<div class="logo"><a href="https://www.bus-justicia.org.ar/">
+				<img class='logo-image '
+					srcset='https://www.bus-justicia.org.ar/images/headers/logo-bus.svg 1x'
+					src='https://www.bus-justicia.org.ar/images/headers/logo-bus.svg'
+					height='60'
+					alt='Logo Bus Justicia Federal Argentina'
+				/>
+				</a></div>						
+					</div>
+				</div>
+
+				<!-- Menu -->
+				<div id="sp-menu" class="col-auto flex-auto">
+					<div class="sp-column  d-flex justify-content-end align-items-center">
+						<nav class="sp-megamenu-wrapper d-flex" role="navigation" aria-label="Main Navigation"><ul class="sp-megamenu-parent menu-animation-fade-up d-none d-lg-block"><li class="sp-menu-item"><a  class="btn-nuevo" href="/index.php"  >Inicio</a></li><li class="sp-menu-item sp-has-child proyectos active"><span  class="btn-nuevo sp-menu-heading"  >Bus Federal</span><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  class="bus-federal" href="/index.php/bus-federal/como-enviar-un-oficio"  ><span class="fas fa-file-import"></span> ¿Como enviar documentos?</a></li><li class="sp-menu-item current-item active"><a aria-current="page" class="bus-federal" href="/index.php/bus-federal/guias-tramite"  ><span class="far fa-file-alt"></span> Guías de trámites</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child proyectos"><span  class=" sp-menu-heading"  >Proyecto</span><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  class="bus-federal" href="/index.php/proyecto/que-es"  ><span class="far fa-question-circle"></span> ¿Que es bus-justicia?</a></li><li class="sp-menu-item"><a  class="bus-federal" href="/index.php/proyecto/equipo"  ><span class="fas fa-users"></span> Equipo de trabajo</a></li><li class="sp-menu-item"><a  class="bus-federal" href="/index.php/proyecto/tecnologia"  ><span class="fas fa-microchip"></span> Tecnología</a></li><li class="sp-menu-item"><a  class="bus-federal" href="/index.php/proyecto/etapas"  ><span class="fas fa-sitemap"></span> Etapas del Proyecto</a></li><li class="sp-menu-item"><a  class="bus-federal" href="/index.php/proyecto/ambiente"  ><span class="fas fa-cloud"></span> Ambiente de Producción</a></li><li class="sp-menu-item"><a class="bus-federal" rel="noopener noreferrer" href="https://github.com/ifitej/busfederal" target="_blank"  ><span class="fas fa-external-link-alt"></span> GitHub - API - Librerías de Integración</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child proyectos"><span  class=" sp-menu-heading"  >Sumarse</span><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  class="bus-federal" href="/index.php/sumarse/integracion-poderes-judiciales"  ><span class="fas fa-university"></span> Poderes Judiciales ¿Como integrarse al proyecto?</a></li><li class="sp-menu-item"><a  class="bus-federal" href="/index.php/sumarse/integracion-abogados"  ><span class="far fa-user-circle"></span> Abogados Particulares ¿Como integrarse al proyecto?</a></li><li class="sp-menu-item"><a  class="bus-federal" href="/index.php/sumarse/integracion-publico-privado"  ><span class="far fa-building"></span> Entidades públicas o privadas ¿Como integrarse al proyecto?</a></li><li class="sp-menu-item"><a  class="bus-federal" href="/index.php/sumarse/normativa-convenios"  ><span class="far fa-file"></span> Normativa - Convenios</a></li></ul></div></div></li><li class="sp-menu-item"><a   href="/index.php/contacto"  ><span class="far fa-envelope"></span></a></li></ul></nav>						
+
+						<!-- Related Modules -->
+						<div class="d-none d-lg-flex header-modules align-items-center">
+															<div class="sp-module "><div class="sp-module-content">
+<search>
+    <form class="mod-finder js-finder-searchform form-search" action="/index.php/component/finder/search?Itemid=101" method="get" aria-label="search">
+        <label for="mod-finder-searchword-header" class="visually-hidden finder">Buscar</label><input type="text" name="q" id="mod-finder-searchword-header" class="js-finder-search-query form-control" value="" placeholder="Buscar&hellip;">
+                        <input type="hidden" name="Itemid" value="101">    </form>
+</search>
+</div></div>								
+													</div>
+
+						<!-- Right toggler  -->
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</header>				<main id="sp-main">
+					
+<section id="sp-section-1" >
+
+				
+	
+<div class="row">
+	<div id="sp-title" class="col-lg-12 "><div class="sp-column "></div></div></div>
+				
+	</section>
+
+<section id="sp-main-body" >
+
+										<div class="container">
+					<div class="container-inner">
+						
+	
+<div class="row">
+	
+<div id="sp-component" class="col-lg-12 ">
+	<div class="sp-column custom-titulos">
+		<div id="system-message-container" aria-live="polite"></div>
+
+
+		
+		<div class="com-content-article item-page">
+    <meta itemprop="inLanguage" content="es-ES">
+    
+    
+        
+        
+    
+    
+        
+                                    <div class="com-content-article__body">
+        <div id="bus-guias-tramite" class="bus-jf">
+<div class="wrap hero" style="margin-bottom:20px;">
+  <div class="hero-eyebrow">Bus Federal · Directorio de jurisdicciones</div>
+  <h1 class="title">Guía de Trámites</h1>
+  <p class="sub">El servicio <b>BFA</b> se encuentra operativo para los organismos que a continuación se detallan. Encontrá los requisitos, tasas y organismos receptores de Oficios Ley 22.172 y cédulas para cada poder judicial conectado al Bus.</p>
+  <div><b>25 organismos activos.</b> El Bus está en integración continua (la disponibilidad se actualiza a medida que cada jurisdicción se suma al sistema).</div>
+</div>
+<div class="wrap controls">
+  <div class="controls-row">
+    <div class="search-box">
+      <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.35-4.35"/></svg>
+      <input id="searchInput" type="text" placeholder="Buscar por provincia u organismo…" autocomplete="off">
+    </div>
+    <div class="tabs" id="tabs">
+      <button class="tab active" data-filter="all">Todos</button>
+      <button class="tab" data-filter="publico">Públicos</button>
+      <button class="tab" data-filter="privado">Privados</button>
+    </div>
+  </div>
+  <div class="result-count" id="resultCount">25 organismos</div>
+</div>
+<div class="wrap section">
+  <div class="section-head">
+    <h2><span class="dot"></span>Organismos conectados</h2>
+  </div>
+  <div class="trunk"></div>
+  <div class="grid" id="grid"></div>
+  <div class="empty-state" id="emptyState">No encontramos organismos que coincidan con tu búsqueda.</div>
+</div>
+<script>
+const orgs = [
+  {name:"Corte Suprema de Justicia de la Nación", tipo:"publico", img:"images/graficos/escudo-arg.svg", url:"index.php/bus-federal/csjn"},
+  {name:"Poder Judicial CABA", tipo:"publico", img:"images/graficos/caba.svg", url:"index.php/bus-federal/pj-ciudad-bs-as"},
+  {name:"Poder Judicial Río Negro", tipo:"publico", img:"images/graficos/rio-negro.svg", url:"index.php/bus-federal/pj-rio-negro"},
+  {name:"Poder Judicial Chubut", tipo:"publico", img:"images/graficos/chubut.svg", url:"index.php/bus-federal/pj-chubut"},
+  {name:"Poder Judicial La Pampa", tipo:"publico", img:"images/graficos/la-pampa.svg", url:"index.php/bus-federal/pj-la-pampa"},
+  {name:"Poder Judicial Buenos Aires", tipo:"publico", img:"images/graficos/buenos-aires.svg", url:"index.php/bus-federal/pj-buenos-aires"},
+  {name:"Poder Judicial Mendoza", tipo:"publico", img:"images/graficos/mendoza.svg", url:"index.php/bus-federal/pj-mendoza"},
+  {name:"Poder Judicial San Luis", tipo:"publico", img:"images/graficos/san-luis.svg", url:"index.php/bus-federal/pj-san-luis"},
+  {name:"Poder Judicial San Juan", tipo:"publico", img:"images/graficos/san-juan.svg", url:"index.php/bus-federal/pj-san-juan"},
+  {name:"Poder Judicial Entre Ríos", tipo:"publico", img:"images/graficos/entre-rios.svg", url:"index.php/bus-federal/pj-entre-rios"},
+  {name:"Poder Judicial Córdoba", tipo:"publico", img:"images/graficos/cordoba.svg", url:"index.php/bus-federal/pj-cordoba"},
+  {name:"Poder Judicial Neuquén", tipo:"publico", img:"images/graficos/neuquen.svg", url:"index.php/bus-federal/pj-neuquen"},
+  {name:"Poder Judicial Salta", tipo:"publico", img:"images/graficos/salta.svg", url:"index.php/bus-federal/pj-salta"},
+  {name:"Poder Judicial Chaco", tipo:"publico", img:"images/graficos/chaco.svg", url:"index.php/bus-federal/pj-chaco"},
+  {name:"Poder Judicial Corrientes", tipo:"publico", img:"images/graficos/corrientes.svg", url:"index.php/bus-federal/pj-corrientes"},
+  {name:"Poder Judicial Formosa", tipo:"publico", img:"images/graficos/formosa.svg", url:"index.php/bus-federal/pj-formosa"},
+  {name:"Poder Judicial La Rioja", tipo:"publico", img:"images/graficos/la-rioja.svg", url:"index.php/bus-federal/pj-la-rioja"},
+  {name:"Poder Judicial Tierra del Fuego", tipo:"publico", img:"images/graficos/tierra-fuego.svg", url:"index.php/bus-federal/pj-tierra-fuego"},
+  {name:"Poder Judicial Santa Cruz", tipo:"publico", img:"images/graficos/santa-cruz.svg", url:"index.php/bus-federal/pj-santa-cruz"},
+  {name:"Poder Judicial Jujuy", tipo:"publico", img:"images/graficos/jujuy.svg", url:"index.php/bus-federal/pj-jujuy"},
+  {name:"Poder Judicial Misiones", tipo:"publico", img:"images/graficos/misiones.svg", url:"index.php/bus-federal/pj-misiones"},
+  {name:"Poder Judicial Santa Fe", tipo:"publico", img:"images/graficos/santa-fe.svg", url:"index.php/bus-federal/pj-santa-fe"},
+  {name:"Poder Judicial Catamarca", tipo:"publico", img:"images/graficos/catamarca.svg", url:"index.php/bus-federal/pj-catamarca"},
+  {name:"Poder Judicial Tucumán", tipo:"publico", img:"images/graficos/tucuman.svg", url:"index.php/bus-federal/pj-tucuman"},
+  {name:"Banco Patagonia", tipo:"privado", img:"images/headers/logo-banco-patagonia.png", url:"index.php/bus-federal/banco-patagonia"}
+];
+
+const grid = document.getElementById('grid');
+const emptyState = document.getElementById('emptyState');
+const resultCount = document.getElementById('resultCount');
+const searchInput = document.getElementById('searchInput');
+const tabs = document.querySelectorAll('.tab');
+let activeFilter = 'all';
+
+function render(){
+  const q = searchInput.value.trim().toLowerCase();
+  const filtered = orgs.filter(o=>{
+    const matchesTipo = activeFilter === 'all' || o.tipo === activeFilter;
+    const matchesQuery = o.name.toLowerCase().includes(q);
+    return matchesTipo && matchesQuery;
+  });
+
+  grid.innerHTML = filtered.map(o => `
+    <a class="card" href="/${o.url}" style="text-decoration:none;color:inherit;">
+      <div class="card-top">
+        <img src="/${o.img}" alt="${o.name}" loading="lazy">
+        <div>
+          <div class="card-name">${o.name}</div>
+        </div>
+      </div>
+      <span class="badge">● Operativo</span>
+      <span class="card-cta">
+        Ver guía de trámites
+        <svg viewBox="0 0 24 24" fill="none" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+      </span>
+    </a>
+  `).join('');
+
+  emptyState.classList.toggle('show', filtered.length === 0);
+  resultCount.textContent = `${filtered.length} organismo${filtered.length===1?'':'s'}`;
+}
+
+searchInput.addEventListener('input', render);
+tabs.forEach(tab=>{
+  tab.addEventListener('click', ()=>{
+    tabs.forEach(t=>t.classList.remove('active'));
+    tab.classList.add('active');
+    activeFilter = tab.dataset.filter;
+    render();
+  });
+});
+
+render();
+</script>
+</div>    </div>
+
+        
+                                        </div>
+
+
+			</div>
+</div>
+</div>
+											</div>
+				</div>
+						
+	</section>
+
+<footer id="sp-footer" >
+
+						<div class="container">
+				<div class="container-inner">
+			
+	
+<div class="row">
+	<div id="sp-footer1" class="col-lg-12 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+<div id="mod-custom130" class="mod-custom custom">
+    <footer class="bus-footer">
+<div class="wrap footer-main">
+<div class="footer-brand"><img src="/images/iconos/isologo-busjus.png" alt="Bus Justicia Federal Argentina" />
+<p>Plataforma de interoperabilidad digital entre poderes judiciales y organismos públicos y privados de la Argentina.</p>
+</div>
+<div class="footer-nav">
+<p class="footer-nav-title">Navegación</p>
+<a href="/index.php">Inicio</a> <a href="/index.php/bus-federal/guias-tramite">Guías de trámites</a> <a href="/index.php/proyecto/que-es">¿Qué es Bus-Justicia?</a> <a href="/index.php/contacto">Contacto</a></div>
+<div class="footer-partners">
+<p class="footer-partners-title">Con el apoyo de</p>
+<div class="footer-logos"><a href="https://www.jufejus.org.ar/" target="_blank" rel="noopener"> <img src="/images/headers/logo-JUFEJUS-nuevo.png" alt="JUFEJUS" /> </a> <span> <img src="/images/headers/logo-ifitej-1.png" alt="IFITEJ" /> </span></div>
+</div>
+</div>
+<div class="wrap footer-bottom">
+<p class="footer-copy">© 2024. <b>Bus Justicia Federal.</b> Todos los derechos reservados.</p>
+</div>
+</footer></div>
+</div></div></div></div></div>
+							</div>
+			</div>
+			
+	</footer>
+				</main>
+			</div>
+		</div>
+
+		<!-- Off Canvas Menu -->
+		<div class="offcanvas-overlay"></div>
+		<!-- Rendering the offcanvas style -->
+		<!-- If canvas style selected then render the style -->
+		<!-- otherwise (for old templates) attach the offcanvas module position -->
+					<div class="offcanvas-menu border-menu " tabindex="-1" inert>
+	<div class="d-flex align-items-center justify-content-between p-3 pt-4">
+		<div class="logo"><a href="https://www.bus-justicia.org.ar/">
+				<img class='logo-image '
+					srcset='https://www.bus-justicia.org.ar/images/headers/logo-bus.svg 1x'
+					src='https://www.bus-justicia.org.ar/images/headers/logo-bus.svg'
+					height='60'
+					alt='Logo Bus Justicia Federal Argentina'
+				/>
+				</a></div>		<a href="#" class="close-offcanvas" role="button" aria-label="Close Off-canvas">
+			<div class="burger-icon" aria-hidden="true">
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+		</a>
+	</div>
+	<div class="offcanvas-inner"> 
+		<div class="d-flex header-modules mb-3">
+							<div class="sp-module "><div class="sp-module-content">
+<search>
+    <form class="mod-finder js-finder-searchform form-search" action="/index.php/component/finder/search?Itemid=101" method="get" aria-label="search">
+        <label for="mod-finder-searchword-canvas" class="visually-hidden finder">Buscar</label><input type="text" name="q" id="mod-finder-searchword-canvas" class="js-finder-search-query form-control" value="" placeholder="Buscar&hellip;">
+                        <input type="hidden" name="Itemid" value="101">    </form>
+</search>
+</div></div>			
+					</div>
+		
+					<div class="sp-module "><div class="sp-module-content"><ul class="mod-menu mod-list menu nav-pills">
+<li class="item-101 default"><a href="/index.php" class="btn-nuevo">Inicio</a></li><li class="item-130 active menu-deeper menu-parent proyectos"><span class="mod-menu__heading nav-header btn-nuevo">Bus Federal<span class="menu-toggler"></span></span>
+<ul class="mod-menu__sub list-unstyled small menu-child"><li class="item-136"><a href="/index.php/bus-federal/como-enviar-un-oficio" class="bus-federal">¿Como enviar documentos?</a></li><li class="item-169 current active"><a href="/index.php/bus-federal/guias-tramite" class="bus-federal" aria-current="page">Guías de trámites</a></li></ul></li><li class="item-110 menu-deeper menu-parent proyectos"><span class="mod-menu__heading nav-header ">Proyecto<span class="menu-toggler"></span></span>
+<ul class="mod-menu__sub list-unstyled small menu-child"><li class="item-102"><a href="/index.php/proyecto/que-es" class="bus-federal">¿Que es bus-justicia?</a></li><li class="item-105"><a href="/index.php/proyecto/equipo" class="bus-federal">Equipo de trabajo</a></li><li class="item-106"><a href="/index.php/proyecto/tecnologia" class="bus-federal">Tecnología</a></li><li class="item-107"><a href="/index.php/proyecto/etapas" class="bus-federal">Etapas del Proyecto</a></li><li class="item-109"><a href="/index.php/proyecto/ambiente" class="bus-federal">Ambiente de Producción</a></li><li class="item-103"><a href="https://github.com/ifitej/busfederal" class="bus-federal" target="_blank" rel="noopener noreferrer">GitHub - API - Librerías de Integración</a></li></ul></li><li class="item-170 menu-deeper menu-parent proyectos"><span class="mod-menu__heading nav-header ">Sumarse<span class="menu-toggler"></span></span>
+<ul class="mod-menu__sub list-unstyled small menu-child"><li class="item-166"><a href="/index.php/sumarse/integracion-poderes-judiciales" class="bus-federal">Poderes Judiciales ¿Como integrarse al proyecto?</a></li><li class="item-167"><a href="/index.php/sumarse/integracion-abogados" class="bus-federal">Abogados Particulares ¿Como integrarse al proyecto?</a></li><li class="item-168"><a href="/index.php/sumarse/integracion-publico-privado" class="bus-federal">Entidades públicas o privadas ¿Como integrarse al proyecto?</a></li><li class="item-171"><a href="/index.php/sumarse/normativa-convenios" class="bus-federal">Normativa - Convenios</a></li></ul></li><li class="item-111"><a href="/index.php/contacto" >Contacto</a></li></ul>
+</div></div>		
+		
+					<div class="mb-4">
+							</div>
+		
+				
+					
+		
+		<!-- custom module position -->
+		
+	</div>
+</div>		
+
+		
+		
+
+		<!-- Go to top -->
+					<a href="#" class="sp-scroll-up" aria-label="Scroll to top"><span class="fas fa-angle-up" aria-hidden="true"></span></a>
+					</body>
+</html>

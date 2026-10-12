@@ -1,0 +1,2820 @@
+[
+  {
+    "id": "N1-001",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.1",
+    "tema": "Elementos del Estado",
+    "pregunta": "¿Qué conjunto coincide con los cuatro elementos esenciales del Estado que enumera el módulo?",
+    "opciones": [
+      "Territorio, población, poder y gobierno.",
+      "Constitución, Congreso, partidos y municipios.",
+      "Soberanía, ciudadanía, elecciones y presupuesto.",
+      "Población, impuestos, tribunales y costumbres."
+    ],
+    "correcta": 0,
+    "explicacion": "El módulo enumera territorio, población, poder y gobierno. Los órganos o instrumentos particulares no reemplazan esos cuatro elementos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=2 | Oficial 2026, módulo 1, p. PDF 2; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 2,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 2,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 2"
+      }
+    ]
+  },
+  {
+    "id": "N1-002",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.1",
+    "tema": "Poder estatal",
+    "pregunta": "¿Qué dos componentes identifica el texto dentro del elemento poder?",
+    "opciones": [
+      "Población y ciudadanía.",
+      "Autoridad y coerción.",
+      "Elección y mandato.",
+      "Territorio y municipio."
+    ],
+    "correcta": 1,
+    "explicacion": "El poder es la capacidad estatal de cumplir sus fines; el material distingue autoridad y coerción dentro de él.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=2 | Oficial 2026, módulo 1, p. PDF 2; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 2,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 2,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 2"
+      }
+    ]
+  },
+  {
+    "id": "N1-003",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.1",
+    "tema": "Estado y gobierno",
+    "pregunta": "Una persona identifica al Estado exclusivamente con las autoridades que actualmente lo gobiernan. ¿Qué distinción del módulo permite corregirla?",
+    "opciones": [
+      "El gobierno comprende únicamente a los jueces nacionales.",
+      "El Estado deja de existir cada vez que cambia el gobierno.",
+      "El gobierno es el conjunto de órganos que ejercen el poder del Estado.",
+      "El gobierno equivale a la totalidad del territorio y población."
+    ],
+    "correcta": 2,
+    "explicacion": "Gobierno es un elemento del Estado, integrado por los órganos que ejercen su poder. No agota el concepto de Estado.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=3 | Oficial 2026, módulo 1, p. PDF 3; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 3,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 3,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 3"
+      }
+    ]
+  },
+  {
+    "id": "N1-004",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.1",
+    "tema": "Poder constituyente",
+    "pregunta": "¿Qué actuación corresponde al poder constituyente según la definición del material?",
+    "opciones": [
+      "Resolver una causa aplicando una ley vigente.",
+      "Dictar una orden interna de oficina.",
+      "Nombrar un empleado dentro de un órgano ya creado.",
+      "Constituir al Estado mediante una Constitución o reformarla."
+    ],
+    "correcta": 3,
+    "explicacion": "El poder constituyente pertenece al pueblo y establece o reforma la Constitución; las otras actuaciones se realizan dentro de poderes constituidos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=3 | Oficial 2026, módulo 1, p. PDF 3; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 3,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 3,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 3"
+      }
+    ]
+  },
+  {
+    "id": "N1-005",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.1",
+    "tema": "Poderes constituidos",
+    "pregunta": "¿Por qué Legislativo, Ejecutivo y Judicial se denominan poderes constituidos?",
+    "opciones": [
+      "Porque son órganos creados y organizados por la Constitución.",
+      "Porque pueden modificar libremente la Constitución por acuerdo de sus titulares.",
+      "Porque preceden jurídicamente a cualquier poder constituyente.",
+      "Porque no están sujetos a límites constitucionales."
+    ],
+    "correcta": 0,
+    "explicacion": "La Constitución crea y organiza los poderes constituidos. La potestad constituyente y las competencias de esos órganos no son equivalentes.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=3 | Oficial 2026, módulo 1, p. PDF 3; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 3,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 3,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 3"
+      }
+    ]
+  },
+  {
+    "id": "N1-006",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.1",
+    "tema": "Supremacía constitucional",
+    "pregunta": "Una ley reglamentaria altera una garantía constitucional. ¿Qué principio permite objetar esa alteración?",
+    "opciones": [
+      "La superioridad automática de toda norma posterior.",
+      "La subordinación de la ley a la Constitución.",
+      "La igualdad jerárquica de Constitución, ley y reglamento.",
+      "La facultad del Ejecutivo de reemplazar cualquier garantía."
+    ],
+    "correcta": 1,
+    "explicacion": "El material explica supremacía constitucional y el art. 28: las leyes reglamentarias no pueden alterar los principios, derechos y garantías constitucionales.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=4 | Oficial 2026, módulo 1, p. PDF 4; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 4,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 4,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 4"
+      }
+    ]
+  },
+  {
+    "id": "N1-007",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.1",
+    "tema": "Control de constitucionalidad",
+    "pregunta": "¿Qué se verifica mediante el control de constitucionalidad?",
+    "opciones": [
+      "La popularidad electoral de una medida.",
+      "La conveniencia de reemplazar a todos los funcionarios.",
+      "La compatibilidad constitucional de normas y actos inferiores.",
+      "La corrección de un trámite sólo según instrucciones verbales."
+    ],
+    "correcta": 2,
+    "explicacion": "Es el mecanismo de control de validez constitucional de normas y actos inferiores; su parámetro es la Constitución.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=5 | Oficial 2026, módulo 1, p. PDF 5; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 5,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 5,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 5"
+      }
+    ]
+  },
+  {
+    "id": "N1-008",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.1",
+    "tema": "Forma representativa",
+    "pregunta": "¿Cuál afirmación expresa la forma representativa explicada en el módulo?",
+    "opciones": [
+      "El pueblo debe decidir personalmente todos los actos administrativos.",
+      "Las autoridades gobiernan por derecho hereditario.",
+      "Los jueces reemplazan de manera permanente a todos los representantes.",
+      "El pueblo gobierna a través de representantes."
+    ],
+    "correcta": 3,
+    "explicacion": "La forma representativa supone ejercicio del gobierno mediante representantes; el material la vincula con los arts. 1 y 22 CN.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=6 | Oficial 2026, módulo 1, p. PDF 6; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 6,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 6,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 6"
+      }
+    ]
+  },
+  {
+    "id": "N1-009",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.1",
+    "tema": "Forma republicana",
+    "pregunta": "¿Qué finalidad atribuye el material a la separación de poderes?",
+    "opciones": [
+      "Evitar concentración y permitir controles recíprocos.",
+      "Eliminar toda responsabilidad de los gobernantes.",
+      "Establecer superioridad permanente del Ejecutivo.",
+      "Impedir la publicidad de los actos estatales."
+    ],
+    "correcta": 0,
+    "explicacion": "La distribución en funciones limita la concentración del poder y permite el control recíproco, como característica republicana.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=7 | Oficial 2026, módulo 1, p. PDF 7; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 7,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 7,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 7"
+      }
+    ]
+  },
+  {
+    "id": "N1-010",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.1",
+    "tema": "Federalismo",
+    "pregunta": "¿Qué caracteriza al Estado federal frente al unitario en la explicación del material?",
+    "opciones": [
+      "La supresión de las provincias por el gobierno central.",
+      "La descentralización territorial del poder en entidades locales autónomas.",
+      "La ausencia de un orden constitucional común.",
+      "La conversión de cada municipio en un Estado soberano internacional."
+    ],
+    "correcta": 1,
+    "explicacion": "El federalismo distribuye territorialmente el poder y conserva autonomía local dentro del orden federal; no elimina el gobierno central.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=7 | Oficial 2026, módulo 1, p. PDF 7; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 7,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 7,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 7"
+      }
+    ]
+  },
+  {
+    "id": "N1-011",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.1",
+    "tema": "Autonomía provincial",
+    "pregunta": "¿Cuál es la caracterización de las provincias que presenta el módulo?",
+    "opciones": [
+      "Son soberanas frente a la Nación y pueden desconocer su Constitución.",
+      "Son simples oficinas administrativas sin autoridades propias.",
+      "Son autónomas y pueden dictar sus propias normas dentro del marco constitucional.",
+      "Carecen de competencia para dictar una Constitución local."
+    ],
+    "correcta": 2,
+    "explicacion": "El módulo diferencia soberanía del orden federal y autonomía provincial, que incluye legislación y Constitución propias.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=9 | Oficial 2026, módulo 1, p. PDF 9; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 9,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 9,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 9"
+      }
+    ]
+  },
+  {
+    "id": "N1-012",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.1",
+    "tema": "Órdenes de gobierno",
+    "pregunta": "¿Qué cuatro órdenes de gobierno identifica el material para Argentina?",
+    "opciones": [
+      "Nación, Congreso, Senado y Corte.",
+      "Provincias, jueces, partidos y empresas públicas.",
+      "Nación, departamentos judiciales, ministerios y consulados.",
+      "Nación, provincias, CABA y municipios."
+    ],
+    "correcta": 3,
+    "explicacion": "La enumeración territorial del material es Nación, provincias, Ciudad Autónoma de Buenos Aires y municipios.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=8 | Oficial 2026, módulo 1, p. PDF 8; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 8,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 8,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 8"
+      }
+    ]
+  },
+  {
+    "id": "N1-013",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.2.1",
+    "tema": "Representación legislativa",
+    "pregunta": "¿Qué relación de representación es correcta para las cámaras del Congreso nacional?",
+    "opciones": [
+      "Diputados representa al pueblo; el Senado, a provincias y CABA.",
+      "Diputados representa sólo a gobiernos municipales; el Senado, a jueces.",
+      "Ambas cámaras representan exclusivamente al Ejecutivo.",
+      "El Senado representa únicamente al pueblo de la Capital."
+    ],
+    "correcta": 0,
+    "explicacion": "El módulo distingue la representación del pueblo en Diputados y la de estados miembros y CABA en el Senado.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=11 | Oficial 2026, módulo 1, p. PDF 11; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 11,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 11,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 11"
+      }
+    ]
+  },
+  {
+    "id": "N1-014",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.2.1",
+    "tema": "Congreso complejo",
+    "pregunta": "¿Por qué el módulo califica al Congreso nacional como órgano complejo?",
+    "opciones": [
+      "Porque carece de funciones establecidas.",
+      "Porque está compuesto a su vez por dos órganos, sus cámaras.",
+      "Porque todos sus integrantes son jueces.",
+      "Porque sesiona sin organización interna."
+    ],
+    "correcta": 1,
+    "explicacion": "Complejo alude a la composición por órganos diferenciados; bicameral identifica dos cámaras y colegiado la pluralidad de personas.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=11 | Oficial 2026, módulo 1, p. PDF 11; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 11,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 11,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 11"
+      }
+    ]
+  },
+  {
+    "id": "N1-015",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.2.1",
+    "tema": "Requisitos parlamentarios",
+    "pregunta": "Según la tabla oficial, ¿qué edades mínimas corresponden respectivamente a diputado y senador nacionales?",
+    "opciones": [
+      "18 y 21 años.",
+      "30 y 25 años.",
+      "25 y 30 años.",
+      "21 y 35 años."
+    ],
+    "correcta": 2,
+    "explicacion": "La tabla de p. 12 fija 25 para Diputados y 30 para Senadores. No intercambiar las edades.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=12 | Oficial 2026, módulo 1, p. PDF 12; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 12,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 12,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 12"
+      }
+    ]
+  },
+  {
+    "id": "N1-016",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.2.1",
+    "tema": "Mandatos parlamentarios",
+    "pregunta": "¿Qué duraciones de mandato muestra la tabla para Diputados y Senadores nacionales, respectivamente?",
+    "opciones": [
+      "Seis y cuatro años.",
+      "Dos y cuatro años.",
+      "Cuatro y cuatro años.",
+      "Cuatro y seis años."
+    ],
+    "correcta": 3,
+    "explicacion": "Los mandatos de la tabla son cuatro años en Diputados y seis en Senadores; no equivalen a los períodos de renovación parcial.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=12 | Oficial 2026, módulo 1, p. PDF 12; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 12,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 12,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 12"
+      }
+    ]
+  },
+  {
+    "id": "N1-017",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.2.1",
+    "tema": "Composición del Senado",
+    "pregunta": "¿Cómo se distribuyen las tres bancas senatoriales de cada provincia y CABA según el cuadro?",
+    "opciones": [
+      "Dos por la mayoría y una por la primera minoría.",
+      "Las tres por la mayoría.",
+      "Una por cada uno de los tres partidos más votados, sin excepción.",
+      "Dos por la minoría y una designada por la Corte."
+    ],
+    "correcta": 0,
+    "explicacion": "El cuadro explica elección directa con dos representantes de la mayoría y uno de la primera minoría; totaliza 72 senadores.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=12 | Oficial 2026, módulo 1, p. PDF 12; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 12,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 12,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 12"
+      }
+    ]
+  },
+  {
+    "id": "N1-018",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.2.1",
+    "tema": "Concejo Deliberante",
+    "pregunta": "¿Qué diferencia señala el módulo entre el Concejo Deliberante y los legislativos nacional y mendocino?",
+    "opciones": [
+      "El Concejo Deliberante es un tribunal de apelaciones.",
+      "El Concejo Deliberante es unicameral.",
+      "Los legislativos nacional y provincial son unicamerales.",
+      "El Concejo Deliberante nombra por sí al presidente de la Nación."
+    ],
+    "correcta": 1,
+    "explicacion": "El material caracteriza al órgano deliberativo municipal como unicameral, a diferencia de Congreso y Legislatura mendocina bicamerales.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=14 | Oficial 2026, módulo 1, p. PDF 14; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 14,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 14,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 14"
+      }
+    ]
+  },
+  {
+    "id": "N1-019",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.2.2",
+    "tema": "Ejecutivo nacional",
+    "pregunta": "¿Qué rol desempeña ordinariamente el vicepresidente según el desarrollo del módulo?",
+    "opciones": [
+      "Integra la Corte Suprema y decide sus causas.",
+      "Ejerce siempre en forma conjunta todas las atribuciones presidenciales.",
+      "Preside el Senado y reemplaza al presidente en los supuestos previstos.",
+      "Dirige la Cámara de Diputados como su presidente natural."
+    ],
+    "correcta": 2,
+    "explicacion": "El material ubica al vicepresidente como presidente del Senado y prevé actuación ejecutiva por ausencia u otros supuestos de reemplazo.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=15 | Oficial 2026, módulo 1, p. PDF 15; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 15,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 15,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 15"
+      }
+    ]
+  },
+  {
+    "id": "N1-020",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.2.2",
+    "tema": "Mandato presidencial",
+    "pregunta": "¿Qué duración de mandato presidencial rige en la explicación posterior a la reforma de 1994?",
+    "opciones": [
+      "Seis años sin posibilidad de reelección.",
+      "Dos años con renovación automática.",
+      "Cinco años sin intervención electoral.",
+      "Cuatro años."
+    ],
+    "correcta": 3,
+    "explicacion": "El módulo explica el mandato de cuatro años para presidente y vice, a diferencia de los seis anteriores a la reforma.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=15 | Oficial 2026, módulo 1, p. PDF 15; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 15,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 15,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 15"
+      }
+    ]
+  },
+  {
+    "id": "N1-021",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.2.2",
+    "tema": "Jefaturas presidenciales",
+    "pregunta": "¿Qué atribución militar identifica el material como jefatura presidencial?",
+    "opciones": [
+      "Ser comandante en jefe de todas las Fuerzas Armadas de la Nación.",
+      "Resolver por sí todas las causas penales militares.",
+      "Sustituir al Congreso en toda declaración de derechos.",
+      "Nombrar a los gobernadores de todas las provincias."
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 99  inc. 12 citado en el módulo atribuye al presidente la comandancia en jefe de las Fuerzas Armadas.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=16 | Oficial 2026, módulo 1, p. PDF 16; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 16,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 16,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 16"
+      }
+    ]
+  },
+  {
+    "id": "N1-022",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.2.2",
+    "tema": "Administración general",
+    "pregunta": "¿Qué distinción realiza el texto entre presidente y jefe de Gabinete respecto de la administración general?",
+    "opciones": [
+      "El presidente carece de toda responsabilidad y el Senado la ejerce.",
+      "El presidente tiene responsabilidad política y el jefe de Gabinete la ejerce.",
+      "Ambos son órganos del Poder Judicial.",
+      "Sólo los gobernadores ejercen administración en el orden nacional."
+    ],
+    "correcta": 1,
+    "explicacion": "El módulo relaciona art. 99  inc. 1 y art. 100  inc. 1: responsabilidad política presidencial y ejercicio por el jefe de Gabinete.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=16 | Oficial 2026, módulo 1, p. PDF 16; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 16,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 16,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 16"
+      }
+    ]
+  },
+  {
+    "id": "N1-023",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.2.2",
+    "tema": "DNU: materias excluidas",
+    "pregunta": "¿Qué conjunto corresponde íntegramente a materias vedadas a los DNU que enumera el material?",
+    "opciones": [
+      "Sanidad, transporte, educación y cultura.",
+      "Organización interna, licencias, compras y archivo.",
+      "Penal, tributaria, electoral y régimen de partidos políticos.",
+      "Comercio, turismo, vivienda y ambiente."
+    ],
+    "correcta": 2,
+    "explicacion": "Las cuatro prohibiciones del art. 99  inc. 3 expuestas son penal, tributaria, electoral y partidos políticos. No confundirlas con cualquier materia administrativa.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=17 | Oficial 2026, módulo 1, p. PDF 17; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 17,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 17,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 17"
+      }
+    ]
+  },
+  {
+    "id": "N1-024",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.2.2",
+    "tema": "Designación de jueces inferiores",
+    "pregunta": "¿Qué intervención previa distingue el nombramiento de jueces federales inferiores del de miembros de la Corte nacional?",
+    "opciones": [
+      "La elección popular directa del candidato.",
+      "La designación exclusiva por el jefe de Gabinete.",
+      "El sorteo entre todos los empleados judiciales.",
+      "La terna del Consejo de la Magistratura."
+    ],
+    "correcta": 3,
+    "explicacion": "Para inferiores el Ejecutivo elige de una terna del Consejo y necesita acuerdo del Senado; la Corte no se selecciona mediante esa terna.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=18 | Oficial 2026, módulo 1, p. PDF 18; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 18,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 18,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 18"
+      }
+    ]
+  },
+  {
+    "id": "N1-025",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.2.2",
+    "tema": "Designación de ministros",
+    "pregunta": "¿Para qué nombramiento puede actuar el presidente por sí solo, conforme al módulo?",
+    "opciones": [
+      "El del jefe de Gabinete y los ministros del Ejecutivo.",
+      "El de un miembro de la Corte Suprema sin acuerdo del Senado.",
+      "El de un juez federal inferior sin terna ni acuerdo.",
+      "El del gobernador de una provincia."
+    ],
+    "correcta": 0,
+    "explicacion": "El módulo señala nombramiento y remoción de jefe de Gabinete y ministros por el presidente sin acuerdo senatorial.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=18 | Oficial 2026, módulo 1, p. PDF 18; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 18,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 18,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 18"
+      }
+    ]
+  },
+  {
+    "id": "N1-026",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.2.3",
+    "tema": "Jurisdicción",
+    "pregunta": "¿Qué definición corresponde a jurisdicción en el módulo?",
+    "opciones": [
+      "Facultad de dictar exclusivamente horarios de atención.",
+      "Potestad de resolver controversias por decisiones y hacer cumplir las propias resoluciones.",
+      "Capacidad de cobrar impuestos sin norma habilitante.",
+      "Poder de cualquier empleado para revisar sentencias firmes."
+    ],
+    "correcta": 1,
+    "explicacion": "La definición citada de Alsina reúne resolución de cuestiones litigiosas mediante sentencia y cumplimiento de las decisiones.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=21 | Oficial 2026, módulo 1, p. PDF 21; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 21,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 21,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 21"
+      }
+    ]
+  },
+  {
+    "id": "N1-027",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.2.3",
+    "tema": "Inamovilidad",
+    "pregunta": "¿Qué sentido atribuye el módulo a la inamovilidad judicial?",
+    "opciones": [
+      "Permanecer aunque se ordene válidamente la remoción por mal desempeño.",
+      "Tener un mandato electoral obligatorio de cuatro años.",
+      "Conservar el cargo mientras dure la buena conducta, sujeto al régimen constitucional.",
+      "Ser inmune frente a cualquier proceso por delitos comunes."
+    ],
+    "correcta": 2,
+    "explicacion": "La inamovilidad protege independencia mientras dure la buena conducta; el texto reconoce procedimientos especiales de remoción.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=22 | Oficial 2026, módulo 1, p. PDF 22; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 22,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 22,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 22"
+      }
+    ]
+  },
+  {
+    "id": "N1-028",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.2.3",
+    "tema": "Intangibilidad de remuneraciones",
+    "pregunta": "¿Qué garantía apunta a evitar que una reducción salarial presione las decisiones de un juez?",
+    "opciones": [
+      "La renovación electoral de su cargo cada dos años.",
+      "La posibilidad de aceptar regalos de litigantes.",
+      "La subordinación de sus sentencias al ministro de Justicia.",
+      "La intangibilidad de sus remuneraciones."
+    ],
+    "correcta": 3,
+    "explicacion": "La intangibilidad impide la disminución de remuneraciones en los términos de la garantía constitucional y protege la independencia.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=22 | Oficial 2026, módulo 1, p. PDF 22; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 22,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 22,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 22"
+      }
+    ]
+  },
+  {
+    "id": "N1-029",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.2.3",
+    "tema": "Justicia federal y provincial",
+    "pregunta": "Un tribunal federal tiene sede física en Mendoza. ¿Qué conclusión concuerda con el módulo?",
+    "opciones": [
+      "Su ubicación no lo convierte en tribunal del Poder Judicial provincial.",
+      "Integra necesariamente la Suprema Corte mendocina.",
+      "Sólo puede aplicar reglamentos municipales.",
+      "Pierde su competencia federal por estar fuera de CABA."
+    ],
+    "correcta": 0,
+    "explicacion": "El material explica coexistencia de jueces federales y provinciales en una provincia; la competencia no se determina sólo por la sede geográfica.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=22 | Oficial 2026, módulo 1, p. PDF 22; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 22,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 22,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 22"
+      }
+    ]
+  },
+  {
+    "id": "N1-030",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.2.3",
+    "tema": "Remoción judicial federal",
+    "pregunta": "¿Qué distinción de procedimientos de remoción es correcta?",
+    "opciones": [
+      "Corte nacional: decreto presidencial; inferiores: despido ministerial.",
+      "Corte nacional: juicio político; jueces federales inferiores: jurado de enjuiciamiento.",
+      "Corte nacional: jurado federal; inferiores: elección municipal.",
+      "Todos los jueces se remueven automáticamente al concluir el mandato del presidente."
+    ],
+    "correcta": 1,
+    "explicacion": "El texto diferencia juicio político para miembros de Corte y jurado para inferiores. La remoción no sustituye una eventual responsabilidad penal.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=25 | Oficial 2026, módulo 1, p. PDF 25; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=24 | Oficial 2026, módulo 1, p. PDF 24, complemento de la explicación; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 25,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 25,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 25"
+      },
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 24,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 24, complemento de la explicación"
+      }
+    ]
+  },
+  {
+    "id": "N1-031",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.3",
+    "tema": "Visión y misión",
+    "pregunta": "¿Qué diferencia entre misión y visión puede reconocerse en los recuadros y definiciones?",
+    "opciones": [
+      "La misión es sólo el presupuesto; la visión, sólo el horario.",
+      "La misión regula penas y la visión fija tasas.",
+      "La misión expresa la razón de ser; la visión, el rumbo y futuro buscados.",
+      "Son dos nombres para una lista de autoridades actuales."
+    ],
+    "correcta": 2,
+    "explicacion": "La definición de misión en p.26 alude a propósito y razón de existencia; la de visión en p.25 a metas y dirección futura.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=26 | Oficial 2026, módulo 1, p. PDF 26; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=25 | Oficial 2026, módulo 1, p. PDF 25, complemento de la explicación; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 26,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 26,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 26"
+      },
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 25,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 25, complemento de la explicación"
+      }
+    ]
+  },
+  {
+    "id": "N1-032",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.3",
+    "tema": "Organización provincial",
+    "pregunta": "¿Qué estructura judicial provincial recoge el art. 142 citado en el módulo?",
+    "opciones": [
+      "Únicamente jueces federales dependientes del presidente.",
+      "Sólo Concejos Deliberantes y municipios.",
+      "Ministerios ejecutivos sin órganos jurisdiccionales.",
+      "Suprema Corte, cámaras de apelaciones, jueces de primera instancia y demás órganos inferiores creados por ley."
+    ],
+    "correcta": 3,
+    "explicacion": "El módulo reproduce la estructura del art. 142 de la Constitución de Mendoza, con Suprema Corte y órganos inferiores creados por ley.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=26 | Oficial 2026, módulo 1, p. PDF 26; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 26,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 26,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 26"
+      }
+    ]
+  },
+  {
+    "id": "N1-033",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.3",
+    "tema": "Designación provincial inferior",
+    "pregunta": "¿Qué secuencia describe la designación de jueces provinciales inferiores en el material?",
+    "opciones": [
+      "Concurso y terna del Consejo → elección del gobernador → acuerdo del Senado provincial.",
+      "Votación vecinal → designación del intendente → aprobación de la Corte nacional.",
+      "Elección libre del secretario → comunicación al Concejo → nombramiento automático.",
+      "Sorteo de empleados → firma del Procurador → incorporación sin acuerdo."
+    ],
+    "correcta": 0,
+    "explicacion": "El módulo describe concurso, terna vinculante, selección del Ejecutivo provincial y acuerdo del Senado en sesión pública.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=27 | Oficial 2026, módulo 1, p. PDF 27; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 27,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 27,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 27"
+      }
+    ]
+  },
+  {
+    "id": "N1-034",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.3",
+    "tema": "Ministerio Público Fiscal",
+    "pregunta": "¿Qué misión corresponde al Ministerio Público Fiscal según el módulo?",
+    "opciones": [
+      "Proveer defensa técnica exclusivamente a empresas privadas.",
+      "Defender la legalidad y los intereses generales de la sociedad, con resguardo del debido proceso.",
+      "Administrar los registros municipales de comercio.",
+      "Dictar por sí todas las sentencias de la Suprema Corte."
+    ],
+    "correcta": 1,
+    "explicacion": "El texto refiere Ley 8008 y atribuye al MPF defensa de legalidad e interés público. Lo dirige el Procurador General.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=27 | Oficial 2026, módulo 1, p. PDF 27; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 27,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 27,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 27"
+      }
+    ]
+  },
+  {
+    "id": "N1-035",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.3",
+    "tema": "Defensa y Pupilar",
+    "pregunta": "¿Qué finalidad identifica al Ministerio Público de la Defensa y Pupilar?",
+    "opciones": [
+      "Ejercicio de la acusación pública en reemplazo de todos los jueces.",
+      "Elección de los miembros del Congreso nacional.",
+      "Asistencia técnico-jurídica para garantizar acceso a justicia de personas en vulnerabilidad.",
+      "Control exclusivo del presupuesto municipal."
+    ],
+    "correcta": 2,
+    "explicacion": "La misión expuesta por Ley 8928 se centra en asistencia técnico-jurídica y acceso a justicia de personas en condición de vulnerabilidad.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=28 | Oficial 2026, módulo 1, p. PDF 28; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 28,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 28,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 28"
+      }
+    ]
+  },
+  {
+    "id": "N1-036",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.4",
+    "tema": "Superintendencia",
+    "pregunta": "La Suprema Corte otorga una licencia a un agente. ¿Qué función ilustra el ejemplo del módulo?",
+    "opciones": [
+      "Legislativa nacional ordinaria.",
+      "Constituyente originaria.",
+      "Acusación penal en todos los casos.",
+      "Administrativa y de superintendencia."
+    ],
+    "correcta": 3,
+    "explicacion": "Licencias, organización interna y nombramientos integran los ejemplos de actuación administrativa del órgano judicial.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=28 | Oficial 2026, módulo 1, p. PDF 28; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 28,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 28,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 28"
+      }
+    ]
+  },
+  {
+    "id": "N1-037",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.4",
+    "tema": "Función dirimente",
+    "pregunta": "¿Qué recaudo destaca el material para la función dirimente?",
+    "opciones": [
+      "La prudencia y gradualidad sin arbitrariedad, con aplicación de buena fe.",
+      "La ausencia de límites por ser discrecional.",
+      "La facultad de ignorar toda participación de las partes.",
+      "La imposibilidad de buscar una solución al conflicto."
+    ],
+    "correcta": 0,
+    "explicacion": "El texto diferencia esta función y exige que su componente prudencial no derive en arbitrariedad, con solución gradual y buena fe.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=29 | Oficial 2026, módulo 1, p. PDF 29; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 29,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 29,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 29"
+      }
+    ]
+  },
+  {
+    "id": "N1-038",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.4",
+    "tema": "Integración provincial",
+    "pregunta": "¿Qué diferencia constitucional señala el módulo sobre la cantidad de miembros de la Suprema Corte mendocina?",
+    "opciones": [
+      "La Constitución nacional fija exactamente siete miembros provinciales.",
+      "La Constitución provincial establece un mínimo de siete.",
+      "La Constitución provincial prohíbe establecer cualquier número.",
+      "La Suprema Corte provincial debe tener sólo tres miembros."
+    ],
+    "correcta": 1,
+    "explicacion": "El material precisa mínimo constitucional provincial de siete, a diferencia de la CN que no fija el número de su Corte.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=30 | Oficial 2026, módulo 1, p. PDF 30; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 30,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 30,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 30"
+      }
+    ]
+  },
+  {
+    "id": "N1-039",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.5",
+    "tema": "Jerarquía",
+    "pregunta": "¿Entre qué órganos define el módulo la relación jerárquica?",
+    "opciones": [
+      "Cualquier dos personas particulares que lo acuerden.",
+      "Exclusivamente Estados soberanos en tratados.",
+      "Órganos de una misma persona jurídica, con supremacía y subordinación.",
+      "Dos órganos sin relación organizativa sólo por proximidad física."
+    ],
+    "correcta": 2,
+    "explicacion": "La jerarquía es una relación organizativa dentro de una misma persona jurídica; línea y grado explican su estructura.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=31 | Oficial 2026, módulo 1, p. PDF 31; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 31,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 31,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 31"
+      }
+    ]
+  },
+  {
+    "id": "N1-040",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.5",
+    "tema": "Competencia",
+    "pregunta": "Un funcionario cambia de oficina y afirma que conserva personalmente las atribuciones del cargo anterior. ¿Qué regla lo contradice?",
+    "opciones": [
+      "Toda atribución se adquiere como propiedad al ejercerla una vez.",
+      "El acuerdo del interesado basta para ampliar competencias.",
+      "Las competencias pueden renunciarse libremente sin norma.",
+      "La competencia corresponde al órgano o cargo, no a la persona que lo ocupó."
+    ],
+    "correcta": 3,
+    "explicacion": "La competencia corresponde al órgano-institución, no al órgano-individuo; el titular no puede disponer de ella como derecho propio.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=32 | Oficial 2026, módulo 1, p. PDF 32; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 32,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 32,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 32"
+      }
+    ]
+  },
+  {
+    "id": "N1-041",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.5",
+    "tema": "Acto administrativo",
+    "pregunta": "¿Qué elemento integra el concepto de acto administrativo del art. 28 que presenta el módulo?",
+    "opciones": [
+      "Efectos jurídicos individuales y directos de una declaración unilateral.",
+      "Necesidad de acuerdo de dos voluntades en todo caso.",
+      "Efectos exclusivamente generales para destinatarios indeterminados.",
+      "Ausencia de efectos jurídicos sobre cualquier persona."
+    ],
+    "correcta": 0,
+    "explicacion": "El acto es declaración unilateral en ejercicio de función administrativa, con efectos individuales directos; contrato y reglamento tienen otras notas.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=32 | Oficial 2026, módulo 1, p. PDF 32; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 32,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 32,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 32"
+      }
+    ]
+  },
+  {
+    "id": "N1-042",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.5",
+    "tema": "Hecho administrativo",
+    "pregunta": "Una cuadrilla realiza materialmente la colocación de una señal ordenada por la Administración. ¿Qué distinción del módulo permite identificar esa ejecución?",
+    "opciones": [
+      "Toda actuación material es siempre una ley formal.",
+      "El hecho administrativo es actuación material, distinta de la declaración intelectual.",
+      "El hecho requiere obligatoriamente dos voluntades contractuales.",
+      "El hecho administrativo equivale a una sentencia definitiva."
+    ],
+    "correcta": 1,
+    "explicacion": "El módulo distingue hecho material de acto como declaración; la ejecución puede ser un hecho que cumple un acto previo.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=33 | Oficial 2026, módulo 1, p. PDF 33; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 33,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 33,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 33"
+      }
+    ]
+  },
+  {
+    "id": "N1-043",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.5",
+    "tema": "Contrato administrativo",
+    "pregunta": "¿Qué diferencia utiliza el módulo entre acto y contrato administrativo?",
+    "opciones": [
+      "En el acto siempre deben firmar dos partes enfrentadas.",
+      "El contrato no puede producir ningún efecto jurídico.",
+      "En el contrato intervienen la voluntad de la Administración y la del cocontratante.",
+      "El contrato se define sólo por estar escrito en papel."
+    ],
+    "correcta": 2,
+    "explicacion": "La unilateralidad distingue al acto del contrato en el que intervienen dos voluntades; el soporte no determina por sí la figura.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=33 | Oficial 2026, módulo 1, p. PDF 33; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 33,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 33,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 33"
+      }
+    ]
+  },
+  {
+    "id": "N1-044",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.5",
+    "tema": "Reglamento y acto individual",
+    "pregunta": "Una disposición alcanza a un número indeterminado de personas. ¿Qué nota la distingue de un acto administrativo individual?",
+    "opciones": [
+      "Su obligatoriedad exclusiva para una persona nombrada.",
+      "La necesidad de que la dicte siempre un juez penal.",
+      "La falta absoluta de norma habilitante.",
+      "Sus efectos generales, característicos del reglamento."
+    ],
+    "correcta": 3,
+    "explicacion": "El reglamento produce efectos generales; el acto administrativo tiene efectos individuales. El título externo del documento no es decisivo.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=37 | Oficial 2026, módulo 1, p. PDF 37; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 37,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 37,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 37"
+      }
+    ]
+  },
+  {
+    "id": "N1-045",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.5",
+    "tema": "Silencio administrativo",
+    "pregunta": "¿Qué regla expone el material sobre el silencio de la Administración?",
+    "opciones": [
+      "Sólo tiene el significado que expresamente le atribuye el orden normativo.",
+      "Toda solicitud se acepta automáticamente si no se responde.",
+      "Toda falta de respuesta es siempre una sanción.",
+      "El silencio reemplaza siempre la motivación de un acto escrito."
+    ],
+    "correcta": 0,
+    "explicacion": "El silencio no expresa voluntad por sí solo; su valor como aceptación o denegación depende de previsión normativa y condiciones aplicables.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=33 | Oficial 2026, módulo 1, p. PDF 33; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 33,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 33,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 33"
+      }
+    ]
+  },
+  {
+    "id": "N1-046",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.5",
+    "tema": "Elementos del acto",
+    "pregunta": "¿Qué conjunto reúne los elementos del acto administrativo desarrollados en el módulo?",
+    "opciones": [
+      "Popularidad, rapidez, conveniencia y amistad.",
+      "Competencia, objeto, voluntad y forma.",
+      "Elección, mandato, ciudadanía y distrito.",
+      "Demanda, contestación, sentencia y apelación."
+    ],
+    "correcta": 1,
+    "explicacion": "La exposición de pp.33–34 enumera competencia, objeto, voluntad y forma, y desarrolla las exigencias de cada uno.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=34 | Oficial 2026, módulo 1, p. PDF 34; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=33 | Oficial 2026, módulo 1, p. PDF 33, complemento de la explicación; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 34,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 34,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 34"
+      },
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 33,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 33, complemento de la explicación"
+      }
+    ]
+  },
+  {
+    "id": "N1-047",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.5",
+    "tema": "Motivación",
+    "pregunta": "¿Qué expresa la motivación de un acto administrativo?",
+    "opciones": [
+      "Únicamente la firma y el sello del agente.",
+      "El estado de ánimo privado del funcionario sin relación con el caso.",
+      "Los hechos y fundamentos jurídicos que justifican la decisión.",
+      "Sólo la preferencia personal del interesado."
+    ],
+    "correcta": 2,
+    "explicacion": "La motivación declara las cuestiones de hecho y de derecho que inducen al acto, usualmente en considerandos; no se reduce a instrumentación.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=34 | Oficial 2026, módulo 1, p. PDF 34; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 34,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 34,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 34"
+      }
+    ]
+  },
+  {
+    "id": "N1-048",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.5",
+    "tema": "Ejecutividad",
+    "pregunta": "¿Qué carácter se refiere a obligatoriedad y exigibilidad del acto regular, una vez dictado y notificado?",
+    "opciones": [
+      "Inalienabilidad.",
+      "Federalismo.",
+      "Competencia originaria de la Corte.",
+      "Ejecutividad."
+    ],
+    "correcta": 3,
+    "explicacion": "La ejecutividad alude a producción de efectos y exigibilidad; no debe confundirse con ejecutar coactivamente sin habilitación judicial.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=34 | Oficial 2026, módulo 1, p. PDF 34; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 34,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 34,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 34"
+      }
+    ]
+  },
+  {
+    "id": "N1-049",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.5",
+    "tema": "Ejecutoriedad",
+    "pregunta": "¿Qué diferencia define la ejecutoriedad en la explicación del material?",
+    "opciones": [
+      "La posibilidad jurídicamente habilitada de ejecución por la Administración sin previo reconocimiento judicial.",
+      "La facultad de ejecutar cualquier acto sin ley ni límites.",
+      "La obligación de publicar toda comunicación individual en un diario.",
+      "La imposibilidad de exigir el cumplimiento de un acto."
+    ],
+    "correcta": 0,
+    "explicacion": "La ejecutoriedad necesita habilitación expresa o razonablemente implícita; de no existir, corresponde recurrir a ejecución judicial.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=35 | Oficial 2026, módulo 1, p. PDF 35; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 35,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 35,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 35"
+      }
+    ]
+  },
+  {
+    "id": "N1-050",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.5",
+    "tema": "Estabilidad del acto",
+    "pregunta": "¿Qué afirmación corresponde a la estabilidad de un acto administrativo según el módulo?",
+    "opciones": [
+      "Todo borrador interno es irrevocable desde su primera redacción.",
+      "Está sujeta a requisitos, como otorgar derechos y estar notificado, y admite excepciones legales.",
+      "Todo acto puede revocarse sin límite aun si otorgó derechos de manera regular.",
+      "Sólo protege reglamentos generales y nunca actos individuales."
+    ],
+    "correcta": 1,
+    "explicacion": "El material condiciona estabilidad a regularidad, derechos subjetivos, notificación y ausencia de habilitación revocatoria; enumera excepciones.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=35 | Oficial 2026, módulo 1, p. PDF 35; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 35,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 35,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 35"
+      }
+    ]
+  },
+  {
+    "id": "N1-051",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.5",
+    "tema": "Autorización y aprobación",
+    "pregunta": "¿Qué contraste temporal presenta el módulo entre autorización como control y aprobación?",
+    "opciones": [
+      "Ambas son necesariamente posteriores.",
+      "La autorización es posterior y la aprobación siempre previa.",
+      "La autorización precede al acto autorizado; la aprobación es posterior al acto aprobado.",
+      "Ninguna tiene relación con el control de otro acto."
+    ],
+    "correcta": 2,
+    "explicacion": "La explicación distingue autorización previa y aprobación posterior. La pregunta se limita al contraste temporal inequívoco del material.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=35 | Oficial 2026, módulo 1, p. PDF 35; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 35,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 35,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 35"
+      }
+    ]
+  },
+  {
+    "id": "N1-052",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.5",
+    "tema": "Grados de vicios",
+    "pregunta": "¿Qué consecuencia asigna el cuadro del módulo a un vicio grosero?",
+    "opciones": [
+      "Mera anulabilidad.",
+      "Validez inalterada en todos los casos.",
+      "Conversión automática en reglamento.",
+      "Inexistencia."
+    ],
+    "correcta": 3,
+    "explicacion": "La clasificación expone muy leve/no afecta validez; leve/anulabilidad; grave/nulidad; grosero/inexistencia, sin rigidez absoluta en la valoración.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=37 | Oficial 2026, módulo 1, p. PDF 37; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 37,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 37,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 37"
+      }
+    ]
+  },
+  {
+    "id": "N1-053",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.6",
+    "tema": "Residencia modificada",
+    "pregunta": "¿Qué radio máximo de residencia establece la modificación de la Acordada 15422 para el lugar de desempeño?",
+    "opciones": [
+      "Cien kilómetros.",
+      "Veinticinco kilómetros, sin modificación.",
+      "Doscientos kilómetros.",
+      "Cualquier distancia sin límite."
+    ],
+    "correcta": 0,
+    "explicacion": "La Acordada 15422 reemplaza el radio original de25 km por100 km. M1 p. PDF 39 aclara que no se exige cumplirlo al rendir.",
+    "fuente": "biblioteca/2026/referencias/Acordada-15422.pdf#page=1 | Lectura obligatoria remitida por M1 2026 p. PDF 39; Acordada 15422, página única; URL https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Acordada-15422.pdf | biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=39 | Oficial 2026, módulo 1, p. PDF 39, complemento de la explicación; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 1,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Acordada-15422.pdf",
+        "pagina": 1,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Acordada-15422.pdf",
+        "descripcion": "Lectura obligatoria remitida por M1 2026 p. PDF 39; Acordada 15422, página única"
+      },
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 39,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 39, complemento de la explicación"
+      }
+    ]
+  },
+  {
+    "id": "N1-054",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.6",
+    "tema": "Residencia al rendir",
+    "pregunta": "¿Qué aclara expresamente el programa sobre el requisito de residencia de la Acordada 15422?",
+    "opciones": [
+      "Debe cumplirse antes de descargar el material.",
+      "No es necesario cumplirlo al momento de rendir el examen.",
+      "Se exige exclusivamente para usar el simulador.",
+      "Impide inscribirse a quien todavía vive fuera del radio."
+    ],
+    "correcta": 1,
+    "explicacion": "La aclaración expresa de M1 p. PDF 39 distingue el conocimiento de la obligación para desempeño de su cumplimiento al rendir.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=39 | Oficial 2026, módulo 1, p. PDF 39; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+    "pagina": 39,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 39,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 1, p. PDF 39"
+      }
+    ]
+  },
+  {
+    "id": "N1-055",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.6",
+    "tema": "Asesoramiento y reserva",
+    "pregunta": "Según el art. 3 del Reglamento, ¿qué debe evitar el agente respecto de contiendas judiciales actuales o posibles?",
+    "opciones": [
+      "Guardar reserva sobre asuntos pendientes.",
+      "Mantener una conducta irreprochable.",
+      "Evacuar consultas o dar asesoramiento sobre ellas.",
+      "Cumplir el régimen de residencia modificado."
+    ],
+    "correcta": 2,
+    "explicacion": "Art.3 inc. c prohíbe consultas y asesoramiento en contienda actual o posible. Dar información administrativa pertinente no equivale a asesorar jurídicamente.",
+    "fuente": "biblioteca/2026/referencias/Reglamento-Poder-Judicial.pdf#page=1 | Lectura obligatoria remitida por M1 2026 p. PDF 39; Reglamento PJ; URL https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Reglamento-del-Poder-Judicial-de-Mendoza-21-09-1953.pdf",
+    "pagina": 1,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Reglamento-Poder-Judicial.pdf",
+        "pagina": 1,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Reglamento-del-Poder-Judicial-de-Mendoza-21-09-1953.pdf",
+        "descripcion": "Lectura obligatoria remitida por M1 2026 p. PDF 39; Reglamento PJ"
+      }
+    ]
+  },
+  {
+    "id": "N1-056",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.6",
+    "tema": "Ausencia justificada",
+    "pregunta": "Si no puede concurrir por una causa justificada, ¿qué debe hacer el empleado según art. 13 del Reglamento?",
+    "opciones": [
+      "Esperar a que otro agente descubra su ausencia.",
+      "Avisar únicamente a un litigante conocido.",
+      "Dejar de asistir sin comunicar porque existe justificación.",
+      "Avisar a su jefe o sustituto para comunicarlo a la autoridad superior."
+    ],
+    "correcta": 3,
+    "explicacion": "El art. 13inc.a impone aviso al jefe o sustituto. La causa justificada no elimina el deber de comunicar.",
+    "fuente": "biblioteca/2026/referencias/Reglamento-Poder-Judicial.pdf#page=6 | Lectura obligatoria remitida por M1 2026 p. PDF 39; Reglamento PJ; URL https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Reglamento-del-Poder-Judicial-de-Mendoza-21-09-1953.pdf",
+    "pagina": 6,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Reglamento-Poder-Judicial.pdf",
+        "pagina": 6,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Reglamento-del-Poder-Judicial-de-Mendoza-21-09-1953.pdf",
+        "descripcion": "Lectura obligatoria remitida por M1 2026 p. PDF 39; Reglamento PJ"
+      }
+    ]
+  },
+  {
+    "id": "N1-057",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.6",
+    "tema": "Abandono de tareas",
+    "pregunta": "¿Qué regla establece el art. 13inc.b del Reglamento sobre dejar la labor?",
+    "opciones": [
+      "No abandonarla sin permiso del jefe.",
+      "Abandonarla libremente si no hay público en la fila.",
+      "Solicitar permiso sólo después de retirarse.",
+      "Reemplazar siempre el permiso por un mensaje a un particular."
+    ],
+    "correcta": 0,
+    "explicacion": "La prohibición expresa es abandonar la labor sin permiso de su jefe; el volumen de atención no reemplaza esa autorización.",
+    "fuente": "biblioteca/2026/referencias/Reglamento-Poder-Judicial.pdf#page=6 | Lectura obligatoria remitida por M1 2026 p. PDF 39; Reglamento PJ; URL https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Reglamento-del-Poder-Judicial-de-Mendoza-21-09-1953.pdf",
+    "pagina": 6,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Reglamento-Poder-Judicial.pdf",
+        "pagina": 6,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Reglamento-del-Poder-Judicial-de-Mendoza-21-09-1953.pdf",
+        "descripcion": "Lectura obligatoria remitida por M1 2026 p. PDF 39; Reglamento PJ"
+      }
+    ]
+  },
+  {
+    "id": "N1-058",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.6",
+    "tema": "Atención y dinero",
+    "pregunta": "¿Qué combinación exige el art. 13 inc. d del Reglamento?",
+    "opciones": [
+      "Asesoramiento litigioso y cobro informal de dinero.",
+      "Trato deferente, información pertinente y abstenerse de recibir dinero para reposición de sellos.",
+      "Negarse a toda información aunque sea pertinente.",
+      "Delegar el trato al público siempre en un abogado particular."
+    ],
+    "correcta": 1,
+    "explicacion": "El inciso reúne atención deferente e información pertinente y prohíbe recibir dinero para reposición de sellos.",
+    "fuente": "biblioteca/2026/referencias/Reglamento-Poder-Judicial.pdf#page=6 | Lectura obligatoria remitida por M1 2026 p. PDF 39; Reglamento PJ; URL https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Reglamento-del-Poder-Judicial-de-Mendoza-21-09-1953.pdf",
+    "pagina": 6,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Reglamento-Poder-Judicial.pdf",
+        "pagina": 6,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Reglamento-del-Poder-Judicial-de-Mendoza-21-09-1953.pdf",
+        "descripcion": "Lectura obligatoria remitida por M1 2026 p. PDF 39; Reglamento PJ"
+      }
+    ]
+  },
+  {
+    "id": "N1-059",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.6",
+    "tema": "Órdenes del superior",
+    "pregunta": "¿Qué condición exige el art. 13 inc. d del estatuto para el deber de obediencia?",
+    "opciones": [
+      "Basta cualquier pedido informal de cualquier persona con antigüedad.",
+      "Toda orden debe obedecerse aunque sea ajena a funciones y competencia.",
+      "Superior con atribuciones, formalidades del caso y actos de servicio compatibles con la función.",
+      "La orden sólo obliga si ofrece una ventaja económica al agente."
+    ],
+    "correcta": 2,
+    "explicacion": "El deber de obediencia no es irrestricto: requiere competencia del superior, formalidades y compatibilidad funcional.",
+    "fuente": "biblioteca/2026/referencias/Decreto-Ley-560.pdf#page=4 | Lectura obligatoria remitida por M1 2026 p. PDF 39; DL 560 capítulo III, arts. 13/14 no sustituidos por Ley 9665; URL https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Decreto-Ley-560.pdf",
+    "pagina": 4,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+        "pagina": 4,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Decreto-Ley-560.pdf",
+        "descripcion": "Lectura obligatoria remitida por M1 2026 p. PDF 39; DL 560 capítulo III, arts. 13/14 no sustituidos por Ley 9665"
+      }
+    ]
+  },
+  {
+    "id": "N1-060",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.6",
+    "tema": "Rechazo de beneficios",
+    "pregunta": "Un usuario ofrece un regalo por haber agilizado su trámite. ¿Qué deber del art. 13 del estatuto resulta aplicable?",
+    "opciones": [
+      "Aceptarlo si no se firma recibo.",
+      "Distribuirlo entre compañeros para volverlo permitido.",
+      "Exigir un regalo equivalente a todos los usuarios.",
+      "Rehusar dádivas, obsequios o ventajas con motivo de las funciones."
+    ],
+    "correcta": 3,
+    "explicacion": "Art.13 inc. e impone rechazar beneficios con motivo del desempeño; la forma de distribuirlos no cambia su origen.",
+    "fuente": "biblioteca/2026/referencias/Decreto-Ley-560.pdf#page=4 | Lectura obligatoria remitida por M1 2026 p. PDF 39; DL 560 capítulo III, arts. 13/14 no sustituidos por Ley 9665; URL https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Decreto-Ley-560.pdf",
+    "pagina": 4,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+        "pagina": 4,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Decreto-Ley-560.pdf",
+        "descripcion": "Lectura obligatoria remitida por M1 2026 p. PDF 39; DL 560 capítulo III, arts. 13/14 no sustituidos por Ley 9665"
+      }
+    ]
+  },
+  {
+    "id": "N1-061",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.6",
+    "tema": "Reserva después del cese",
+    "pregunta": "¿Cuánto subsiste el deber de secreto de asuntos de servicio que deben permanecer reservados, según art. 13 inc. f?",
+    "opciones": [
+      "También después de cesar en las funciones.",
+      "Sólo hasta terminar el turno del día.",
+      "Sólo mientras el agente pertenece a la misma oficina.",
+      "Termina automáticamente al presentar renuncia."
+    ],
+    "correcta": 0,
+    "explicacion": "El inciso declara expresamente que la obligación subsiste aun después de cesar. No se libera por cambio de destino o renuncia.",
+    "fuente": "biblioteca/2026/referencias/Decreto-Ley-560.pdf#page=5 | Lectura obligatoria remitida por M1 2026 p. PDF 39; DL 560 capítulo III, arts. 13/14 no sustituidos por Ley 9665; URL https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Decreto-Ley-560.pdf",
+    "pagina": 5,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+        "pagina": 5,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Decreto-Ley-560.pdf",
+        "descripcion": "Lectura obligatoria remitida por M1 2026 p. PDF 39; DL 560 capítulo III, arts. 13/14 no sustituidos por Ley 9665"
+      }
+    ]
+  },
+  {
+    "id": "N1-062",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.6",
+    "tema": "Renuncia y permanencia",
+    "pregunta": "¿Qué prevé el art. 13 inc. h del estatuto cuando un agente renuncia?",
+    "opciones": [
+      "Retirarse de inmediato en todos los casos.",
+      "Permanecer hasta 30 días corridos, salvo reemplazo, aceptación o autorización previa de cese.",
+      "Permanecer necesariamente 30 días aunque su cese ya haya sido autorizado.",
+      "Permanecer sólo 15 minutos desde el envío de la renuncia."
+    ],
+    "correcta": 1,
+    "explicacion": "La regla son30 días corridos, con las excepciones expresas de reemplazo, aceptación de dimisión o autorización para cesar.",
+    "fuente": "biblioteca/2026/referencias/Decreto-Ley-560.pdf#page=5 | Lectura obligatoria remitida por M1 2026 p. PDF 39; DL 560 capítulo III, arts. 13/14 no sustituidos por Ley 9665; URL https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Decreto-Ley-560.pdf",
+    "pagina": 5,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+        "pagina": 5,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Decreto-Ley-560.pdf",
+        "descripcion": "Lectura obligatoria remitida por M1 2026 p. PDF 39; DL 560 capítulo III, arts. 13/14 no sustituidos por Ley 9665"
+      }
+    ]
+  },
+  {
+    "id": "N1-063",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.6",
+    "tema": "Uso particular de bienes",
+    "pregunta": "¿Qué conducta prohíbe el art. 14 inc. j del estatuto?",
+    "opciones": [
+      "Conservar adecuadamente los bienes a cargo.",
+      "Usar útiles oficiales para cumplir una tarea de servicio.",
+      "Utilizar para fines particulares transporte, útiles o servicios de personal destinados al servicio oficial.",
+      "Comunicar a la superioridad un daño patrimonial."
+    ],
+    "correcta": 2,
+    "explicacion": "La prohibición se refiere al destino particular de medios y personal oficiales; las otras acciones son compatibles con deberes de servicio.",
+    "fuente": "biblioteca/2026/referencias/Decreto-Ley-560.pdf#page=6 | Lectura obligatoria remitida por M1 2026 p. PDF 39; DL 560 capítulo III, arts. 13/14 no sustituidos por Ley 9665; URL https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Decreto-Ley-560.pdf",
+    "pagina": 6,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+        "pagina": 6,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Decreto-Ley-560.pdf",
+        "descripcion": "Lectura obligatoria remitida por M1 2026 p. PDF 39; DL 560 capítulo III, arts. 13/14 no sustituidos por Ley 9665"
+      }
+    ]
+  },
+  {
+    "id": "N1-064",
+    "etapa": "especificos",
+    "modulo": 1,
+    "subtema": "1.6",
+    "tema": "Información y atribuciones",
+    "pregunta": "¿Qué conducta encuadra en una prohibición expresa del art. 14?",
+    "opciones": [
+      "Prestar personalmente el servicio con diligencia.",
+      "Excusarse ante una situación de parcialidad.",
+      "Someterse a controles dispuestos por autoridad competente.",
+      "Usar conocimientos adquiridos en la función para fines ajenos al servicio."
+    ],
+    "correcta": 3,
+    "explicacion": "Art.14 inc. k prohíbe ese aprovechamiento ajeno al servicio. El capítulo también prohíbe arrogarse atribuciones y uso indebido de documentos.",
+    "fuente": "biblioteca/2026/referencias/Decreto-Ley-560.pdf#page=6 | Lectura obligatoria remitida por M1 2026 p. PDF 39; DL 560 capítulo III, arts. 13/14 no sustituidos por Ley 9665; URL https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Decreto-Ley-560.pdf",
+    "pagina": 6,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+        "pagina": 6,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2022/12/Decreto-Ley-560.pdf",
+        "descripcion": "Lectura obligatoria remitida por M1 2026 p. PDF 39; DL 560 capítulo III, arts. 13/14 no sustituidos por Ley 9665"
+      }
+    ]
+  },
+  {
+    "id": "N3-001",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.1",
+    "tema": "Titular y garante",
+    "pregunta": "¿Qué relación central de derechos humanos expone el módulo?",
+    "opciones": [
+      "La persona es titular y el Estado su primer y principal garante.",
+      "El Estado es único titular y las personas simples beneficiarias discrecionales.",
+      "Sólo los ciudadanos con empleo son titulares.",
+      "La garantía depende exclusivamente de empresas privadas."
+    ],
+    "correcta": 0,
+    "explicacion": "El eje Estado-individuo reconoce titularidad personal y responsabilidad estatal de respeto, protección y garantía.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=3 | Oficial 2026, módulo 3, p. PDF 3; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 3,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 3,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 3"
+      }
+    ]
+  },
+  {
+    "id": "N3-002",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.1",
+    "tema": "Protección internacional",
+    "pregunta": "¿Cómo se relaciona la protección internacional con los mecanismos nacionales según el material?",
+    "opciones": [
+      "Los elimina automáticamente en todos los casos.",
+      "Funciona subsidiariamente a ellos.",
+      "Se aplica sólo a controversias comerciales entre gobiernos.",
+      "Prohíbe que existan recursos internos."
+    ],
+    "correcta": 1,
+    "explicacion": "La garantía internacional es adicional y subsidiaria; el módulo la vincula con falta de funcionamiento de mecanismos internos de protección.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=3 | Oficial 2026, módulo 3, p. PDF 3; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 3,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 3,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 3"
+      }
+    ]
+  },
+  {
+    "id": "N3-003",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.1",
+    "tema": "Garantías idóneas",
+    "pregunta": "¿Puede un recurso administrativo integrar los mecanismos de garantía de derechos humanos?",
+    "opciones": [
+      "No, porque sólo una sentencia penal puede proteger un derecho.",
+      "Sólo si impide todo control judicial posterior.",
+      "Sí, si reúne las condiciones de rapidez, sencillez e idoneidad exigidas.",
+      "Sí, aunque sea inaccesible y no permita reparar la vulneración."
+    ],
+    "correcta": 2,
+    "explicacion": "El material usa garantía en sentido amplio e incluye recursos administrativos que cumplan requisitos de protección efectiva.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=3 | Oficial 2026, módulo 3, p. PDF 3; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 3,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 3,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 3"
+      }
+    ]
+  },
+  {
+    "id": "N3-004",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.1",
+    "tema": "Sistemas internacionales",
+    "pregunta": "¿Qué asociación de sistemas y organizaciones es correcta?",
+    "opciones": [
+      "Sistema universal: OEA; sistema interamericano: ONU.",
+      "Ambos sistemas dependen del Concejo Deliberante.",
+      "El universal pertenece a la Suprema Corte mendocina.",
+      "Sistema universal: ONU; sistema interamericano: OEA."
+    ],
+    "correcta": 3,
+    "explicacion": "Argentina participa del sistema de Naciones Unidas y del regional de la Organización de Estados Americanos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=4 | Oficial 2026, módulo 3, p. PDF 4; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 4,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 4,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 4"
+      }
+    ]
+  },
+  {
+    "id": "N3-005",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.1",
+    "tema": "Jerarquía de tratados",
+    "pregunta": "¿Qué afirmación distingue correctamente los niveles de protección normativa explicados?",
+    "opciones": [
+      "Los tratados de DDHH ratificados son superiores a las leyes; no todos adquieren por ello jerarquía constitucional.",
+      "Todo tratado ratificado queda por debajo de cualquier ley provincial.",
+      "Sólo los tratados enumerados en una ordenanza tienen efectos.",
+      "La ratificación elimina la Constitución Nacional."
+    ],
+    "correcta": 0,
+    "explicacion": "El módulo diferencia jerarquía supralegal y constitucional, ésta para instrumentos enumerados o elevados mediante el mecanismo constitucional.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=5 | Oficial 2026, módulo 3, p. PDF 5; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf | biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=4 | Oficial 2026, módulo 3, p. PDF 4, complemento de la explicación; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 5,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 5,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 5"
+      },
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 4,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 4, complemento de la explicación"
+      }
+    ]
+  },
+  {
+    "id": "N3-006",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.1",
+    "tema": "Personas mayores",
+    "pregunta": "¿Qué ley indica el listado oficial para la jerarquía constitucional de la Convención Interamericana sobre Personas Mayores?",
+    "opciones": [
+      "Ley 9003.",
+      "Ley 27700.",
+      "Ley 1079.",
+      "Ley 9423."
+    ],
+    "correcta": 1,
+    "explicacion": "El listado actualizado a julio de 2026 vincula la Convención sobre Protección de DDHH de Personas Mayores con Ley 27700.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=5 | Oficial 2026, módulo 3, p. PDF 5; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 5,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 5,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 5"
+      }
+    ]
+  },
+  {
+    "id": "N3-007",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.1",
+    "tema": "Personas con discapacidad",
+    "pregunta": "¿Qué ley de elevación de jerarquía asocia el módulo con la Convención sobre los Derechos de las Personas con Discapacidad?",
+    "opciones": [
+      "Ley 24820.",
+      "Ley 25778.",
+      "Ley 27044.",
+      "Ley 27700."
+    ],
+    "correcta": 2,
+    "explicacion": "La asociación expresa de p. 5 es Discapacidad/Ley 27044; los otros números corresponden a instrumentos diferentes de la lista.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=5 | Oficial 2026, módulo 3, p. PDF 5; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 5,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 5,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 5"
+      }
+    ]
+  },
+  {
+    "id": "N3-008",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.2",
+    "tema": "Dignidad",
+    "pregunta": "¿Qué criterio funda la dignidad humana en el módulo?",
+    "opciones": [
+      "Se concede sólo a quien no ha cometido delitos.",
+      "Se pierde por una situación de pobreza.",
+      "Depende de ocupar un cargo estatal.",
+      "Es inherente a la condición de persona, independientemente de méritos o defectos."
+    ],
+    "correcta": 3,
+    "explicacion": "La dignidad no es premio por virtudes ni puede negarse por conductas reprochables; es inherente a toda persona.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=6 | Oficial 2026, módulo 3, p. PDF 6; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 6,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 6,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 6"
+      }
+    ]
+  },
+  {
+    "id": "N3-009",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.2",
+    "tema": "Efectividad",
+    "pregunta": "Un derecho está reconocido, pero no existe posibilidad real de reclamar su incumplimiento. ¿Qué principio resulta especialmente comprometido?",
+    "opciones": [
+      "Efectividad.",
+      "Bicameralismo.",
+      "Autarquía.",
+      "Competencia territorial del Congreso."
+    ],
+    "correcta": 0,
+    "explicacion": "Efectividad exige goce real, operatividad y exigibilidad, incluida justiciabilidad; no basta una declaración en el papel.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=6 | Oficial 2026, módulo 3, p. PDF 6; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 6,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 6,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 6"
+      }
+    ]
+  },
+  {
+    "id": "N3-010",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.2",
+    "tema": "Progresividad",
+    "pregunta": "¿Qué pauta expresa la progresividad y la prohibición de regresividad?",
+    "opciones": [
+      "Suprimir derechos cuando cambian las autoridades.",
+      "Avanzar en protección y no retroceder, en principio, respecto de lo alcanzado.",
+      "Reducir siempre la protección a su primera formulación histórica.",
+      "Considerar que ningún derecho requiere medidas estatales."
+    ],
+    "correcta": 1,
+    "explicacion": "El principio exige realización creciente y prohíbe, en principio, medidas regresivas en la protección alcanzada.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=7 | Oficial 2026, módulo 3, p. PDF 7; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 7,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 7,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 7"
+      }
+    ]
+  },
+  {
+    "id": "N3-011",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.2",
+    "tema": "Pro personae",
+    "pregunta": "Dos interpretaciones posibles de una norma permiten una protección más amplia o más restringida. ¿Qué orientación da pro personae?",
+    "opciones": [
+      "Escoger siempre la más restrictiva por facilidad administrativa.",
+      "Resolver según la simpatía por quien reclama.",
+      "Escoger la interpretación más favorable a la protección de la persona.",
+      "Aplicar únicamente la interpretación que reduce todo derecho."
+    ],
+    "correcta": 2,
+    "explicacion": "Pro personae guía selección de normas e interpretación hacia mayor extensión de derechos o menor restricción.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=7 | Oficial 2026, módulo 3, p. PDF 7; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 7,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 7,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 7"
+      }
+    ]
+  },
+  {
+    "id": "N3-012",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.2",
+    "tema": "Piso internacional",
+    "pregunta": "El derecho interno protege un derecho más ampliamente que un tratado. ¿Qué consecuencia explica el módulo?",
+    "opciones": [
+      "La firma del tratado obliga siempre a reducir la protección interna.",
+      "La protección nacional deja de ser aplicable por completo.",
+      "El derecho desaparece hasta que intervenga el municipio.",
+      "El tratado no debe utilizarse para recortar la protección interna más amplia."
+    ],
+    "correcta": 3,
+    "explicacion": "La finalidad protectora y pro personae impiden entender el instrumento internacional como límite que reduzca derechos internos ya reconocidos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=7 | Oficial 2026, módulo 3, p. PDF 7; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 7,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 7,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 7"
+      }
+    ]
+  },
+  {
+    "id": "N3-013",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.2",
+    "tema": "Acciones positivas",
+    "pregunta": "¿Qué finalidad caracteriza a las acciones positivas en el material?",
+    "opciones": [
+      "Corregir temporalmente desventajas históricas o estructurales que impiden acceso igualitario.",
+      "Establecer inferioridad natural de ciertos grupos.",
+      "Suprimir de forma permanente los derechos de otros colectivos.",
+      "Premiar únicamente la afinidad política."
+    ],
+    "correcta": 0,
+    "explicacion": "Son medidas temporales orientadas a balancear desigualdades estructurales, no a negar igualdad de dignidad o crear exclusiones arbitrarias.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=8 | Oficial 2026, módulo 3, p. PDF 8; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 8,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 8,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 8"
+      }
+    ]
+  },
+  {
+    "id": "N3-014",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.3",
+    "tema": "Universalidad",
+    "pregunta": "¿Qué significa que los derechos humanos son universales?",
+    "opciones": [
+      "Sólo existen en los países que comparten la misma cultura.",
+      "Corresponden a todas las personas sin distinción, en todo momento y lugar.",
+      "Son exclusivos de quienes tienen ciudadanía política.",
+      "Sólo protegen a personas que ya acudieron a un tribunal."
+    ],
+    "correcta": 1,
+    "explicacion": "Universalidad deriva de la condición humana; el material rechaza diferencias culturales o políticas como pretexto para menoscabarla.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=8 | Oficial 2026, módulo 3, p. PDF 8; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 8,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 8,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 8"
+      }
+    ]
+  },
+  {
+    "id": "N3-015",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.3",
+    "tema": "Interdependencia",
+    "pregunta": "La privación de información impide a una persona reclamar por su salud. ¿Qué característica ayuda a explicar la relación?",
+    "opciones": [
+      "Soberanía municipal.",
+      "Autonomía de cada derecho respecto de todos los otros.",
+      "Interdependencia de los derechos.",
+      "Jerarquía inferior de los derechos sociales."
+    ],
+    "correcta": 2,
+    "explicacion": "Los derechos se relacionan y la negación de uno puede poner en riesgo el ejercicio de otro; no son compartimentos aislados.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=8 | Oficial 2026, módulo 3, p. PDF 8; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 8,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 8,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 8"
+      }
+    ]
+  },
+  {
+    "id": "N3-016",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.3",
+    "tema": "Imprescriptibilidad",
+    "pregunta": "¿Qué expresa la característica de imprescriptibilidad en el módulo?",
+    "opciones": [
+      "Todos los plazos de cualquier procedimiento dejan de existir.",
+      "Cada derecho vence al finalizar un mandato político.",
+      "Sólo se conservan si se reclaman diariamente.",
+      "Los derechos no se pierden por el transcurso del tiempo o su falta de ejercicio."
+    ],
+    "correcta": 3,
+    "explicacion": "La característica se refiere a los derechos humanos; no equivale a afirmar que todo plazo procesal concreto sea inexistente.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=9 | Oficial 2026, módulo 3, p. PDF 9; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 9,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 9,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 9"
+      }
+    ]
+  },
+  {
+    "id": "N3-017",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.3",
+    "tema": "Inalienabilidad",
+    "pregunta": "¿Qué conducta resulta incompatible con la inalienabilidad de los derechos humanos?",
+    "opciones": [
+      "Pretender vender o transferir la titularidad inherente de esos derechos.",
+      "Reclamar protección mediante un recurso.",
+      "Exigir trato igualitario.",
+      "Solicitar una medida que remueva una barrera."
+    ],
+    "correcta": 0,
+    "explicacion": "Inalienabilidad significa que no son atributos transferibles, cedibles o comercializables, por ser inherentes a la persona.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=9 | Oficial 2026, módulo 3, p. PDF 9; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 9,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 9,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 9"
+      }
+    ]
+  },
+  {
+    "id": "N3-018",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.3",
+    "tema": "Clasificación didáctica",
+    "pregunta": "¿Qué advertencia hace el módulo sobre clasificar derechos por generaciones o grupos?",
+    "opciones": [
+      "Los derechos sociales son por definición inejecutables.",
+      "La clasificación no reduce exigibilidad ni establece derechos de mayor o menor importancia.",
+      "Los de reconocimiento posterior anulan los anteriores.",
+      "Los derechos civiles permiten desconocer todos los colectivos."
+    ],
+    "correcta": 1,
+    "explicacion": "La clasificación responde a propósitos pedagógicos e históricos; no altera indivisibilidad ni fuerza vinculante.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=9 | Oficial 2026, módulo 3, p. PDF 9; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 9,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 9,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 9"
+      }
+    ]
+  },
+  {
+    "id": "N3-019",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.3",
+    "tema": "Civiles y políticos",
+    "pregunta": "¿Qué ejemplo pertenece al grupo de derechos civiles y políticos enumerado?",
+    "opciones": [
+      "Percibir una remuneración justa como derecho laboral.",
+      "Acceso a vivienda adecuada como derecho social.",
+      "No ser detenido arbitrariamente.",
+      "Derecho a un ambiente sano como interés colectivo."
+    ],
+    "correcta": 2,
+    "explicacion": "El módulo ubica libertad y seguridad personal y protección contra detención arbitraria entre los civiles y políticos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=15 | Oficial 2026, módulo 3, p. PDF 15; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 15,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 15,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 15"
+      }
+    ]
+  },
+  {
+    "id": "N3-020",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.3",
+    "tema": "Derechos sociales",
+    "pregunta": "¿Qué ejemplo se enumera como derecho económico, social o cultural?",
+    "opciones": [
+      "La libertad de tránsito como derecho civil.",
+      "La prohibición de tortura como garantía de integridad.",
+      "El derecho a elegir y ser elegido políticamente.",
+      "El derecho a la salud física y mental."
+    ],
+    "correcta": 3,
+    "explicacion": "Salud se incluye en DESC junto con educación, trabajo, alimentación, vivienda y seguridad social.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=15 | Oficial 2026, módulo 3, p. PDF 15; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 15,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 15,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 15"
+      }
+    ]
+  },
+  {
+    "id": "N3-021",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.3",
+    "tema": "Obligaciones dominantes",
+    "pregunta": "¿Cómo debe entenderse el predominio de abstenciones en los derechos civiles y políticos?",
+    "opciones": [
+      "Como obligación dominante, sin excluir deberes estatales positivos de garantía.",
+      "Como prueba de que jamás requieren organización o recursos estatales.",
+      "Como eliminación del deber estatal de protegerlos.",
+      "Como autorización de particulares a vulnerarlos."
+    ],
+    "correcta": 0,
+    "explicacion": "El texto dice dominantes, no excluyentes; p. 15 recuerda medidas activas y mecanismos judiciales para garantizar derechos civiles.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=9 | Oficial 2026, módulo 3, p. PDF 9; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf | biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=15 | Oficial 2026, módulo 3, p. PDF 15, complemento de la explicación; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 9,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 9,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 9"
+      },
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 15,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 15, complemento de la explicación"
+      }
+    ]
+  },
+  {
+    "id": "N3-022",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.4",
+    "tema": "Todos los poderes",
+    "pregunta": "¿A quiénes comprometen las obligaciones de derechos humanos según el módulo?",
+    "opciones": [
+      "Sólo a quienes integran la Corte Interamericana.",
+      "A todos los poderes y agentes estatales, incluido el personal administrativo.",
+      "Únicamente al presidente nacional.",
+      "Sólo a jueces penales, nunca a otras oficinas."
+    ],
+    "correcta": 1,
+    "explicacion": "La exposición incluye jueces, policías, legisladores y administrativos de los tres poderes; su actuación se atribuye al Estado.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=10 | Oficial 2026, módulo 3, p. PDF 10; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 10,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 10,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 10"
+      }
+    ]
+  },
+  {
+    "id": "N3-023",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.4",
+    "tema": "Respeto",
+    "pregunta": "¿Cuál acción describe la obligación de respeto?",
+    "opciones": [
+      "Dejar sin investigar toda lesión de particulares.",
+      "Conceder beneficios discrecionales sin criterios.",
+      "Abstenerse de vulnerar derechos e impedir su ejercicio.",
+      "Reducir una protección porque exige trabajo administrativo."
+    ],
+    "correcta": 2,
+    "explicacion": "Respeto es obligación negativa de abstención y contención frente a actos que conculquen derechos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=10 | Oficial 2026, módulo 3, p. PDF 10; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 10,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 10,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 10"
+      }
+    ]
+  },
+  {
+    "id": "N3-024",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.4",
+    "tema": "Protección",
+    "pregunta": "La autoridad conoce un riesgo real e inmediato de lesión de derechos por terceros. ¿Qué obligación se vincula directamente con adoptar medidas para evitarlo?",
+    "opciones": [
+      "Publicidad electoral.",
+      "Imposibilidad de intervenir en todo caso.",
+      "Preferencia por guardar silencio.",
+      "Protección."
+    ],
+    "correcta": 3,
+    "explicacion": "La protección requiere medidas activas ante riesgos conocidos o que deberían conocerse; la omisión puede generar responsabilidad.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=11 | Oficial 2026, módulo 3, p. PDF 11; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 11,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 11,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 11"
+      }
+    ]
+  },
+  {
+    "id": "N3-025",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.4",
+    "tema": "Satisfacción",
+    "pregunta": "¿Qué actuación ilustra la obligación de satisfacción explicada en el módulo?",
+    "opciones": [
+      "Implementar condiciones de acceso a salud y educación cuando las personas no pueden hacer efectivos esos derechos por sí mismas.",
+      "Limitarse a reconocer derechos sin adoptar ninguna medida.",
+      "Responsabilizar siempre al individuo por obstáculos estructurales.",
+      "Prohibir toda política pública destinada a remover barreras."
+    ],
+    "correcta": 0,
+    "explicacion": "Satisfacción demanda acciones y políticas que eliminen obstáculos y garanticen ejercicio, especialmente en DESCA.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=12 | Oficial 2026, módulo 3, p. PDF 12; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 12,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 12,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 12"
+      }
+    ]
+  },
+  {
+    "id": "N3-026",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.4",
+    "tema": "Hechos de particulares",
+    "pregunta": "Un particular lesiona derechos. ¿Cuándo puede vincularse el hecho con responsabilidad internacional estatal según el módulo?",
+    "opciones": [
+      "Siempre de modo automático, sin analizar conducta estatal.",
+      "Cuando el Estado incumple la debida diligencia para prevenir o responder a la violación.",
+      "Nunca, aunque las autoridades la toleren.",
+      "Sólo si el particular tiene un cargo judicial."
+    ],
+    "correcta": 1,
+    "explicacion": "La responsabilidad puede fundarse en omisión de prevención, investigación o sanción; no convierte todo hecho privado por sí mismo en acto estatal.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=11 | Oficial 2026, módulo 3, p. PDF 11; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 11,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 11,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 11"
+      }
+    ]
+  },
+  {
+    "id": "N3-027",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.4",
+    "tema": "Responsabilidad internacional y penal",
+    "pregunta": "¿Qué relación expone el material entre responsabilidad internacional estatal e identificación penal individual?",
+    "opciones": [
+      "La responsabilidad estatal exige siempre una condena penal firme previa del agente identificado.",
+      "Toda responsabilidad estatal equivale a condenar penalmente al Estado.",
+      "Puede establecerse responsabilidad estatal sin previa determinación de responsabilidad penal de la persona física.",
+      "No puede existir responsabilidad por omisiones."
+    ],
+    "correcta": 2,
+    "explicacion": "La Corte IDH, según el módulo, no condiciona responsabilidad estatal a determinar antes la responsabilidad de personas físicas.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=12 | Oficial 2026, módulo 3, p. PDF 12; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 12,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 12,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 12"
+      }
+    ]
+  },
+  {
+    "id": "N3-028",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.4",
+    "tema": "Sistema interamericano",
+    "pregunta": "¿Qué dos organismos específicos identifica el material para la protección interamericana?",
+    "opciones": [
+      "Congreso nacional y Concejo Deliberante.",
+      "Consejo de la Magistratura y Tribunal de Cuentas.",
+      "ONU y municipalidades de Mendoza.",
+      "Comisión Interamericana y Corte Interamericana de Derechos Humanos."
+    ],
+    "correcta": 3,
+    "explicacion": "El módulo identifica el sistema dual Comisión/Corte y distingue sus funciones de vigilancia, denuncias y responsabilidad.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=13 | Oficial 2026, módulo 3, p. PDF 13; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 13,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 13,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 13"
+      }
+    ]
+  },
+  {
+    "id": "N3-029",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.4",
+    "tema": "Funciones de la Comisión",
+    "pregunta": "¿Qué actividad de la Comisión Interamericana se menciona además del tratamiento de denuncias?",
+    "opciones": [
+      "Realizar visitas y emitir informes sobre situaciones de derechos humanos.",
+      "Nombrar a los jueces mendocinos por terna.",
+      "Dictar ordenanzas municipales.",
+      "Dirigir las elecciones de cada provincia argentina."
+    ],
+    "correcta": 0,
+    "explicacion": "El material señala monitoreo continental, visitas e informes temáticos o por país; no la convierte en órgano local de nombramientos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=13 | Oficial 2026, módulo 3, p. PDF 13; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 13,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 13,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 13"
+      }
+    ]
+  },
+  {
+    "id": "N3-030",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.5",
+    "tema": "Vulnerabilidad como situación",
+    "pregunta": "¿Por qué se prefiere hablar de grupos en situación de vulnerabilidad?",
+    "opciones": [
+      "Para afirmar que las personas carecen necesariamente de derechos.",
+      "Para destacar que las desventajas dependen de relaciones y contextos modificables, no de inferioridad natural.",
+      "Para definir una condición biológica invariable de todos sus integrantes.",
+      "Para impedir políticas de inclusión específicas."
+    ],
+    "correcta": 1,
+    "explicacion": "La expresión señala causas sociales, históricas y culturales y el carácter dinámico de la situación, orientando su transformación.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=16 | Oficial 2026, módulo 3, p. PDF 16; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 16,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 16,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 16"
+      }
+    ]
+  },
+  {
+    "id": "N3-031",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.5",
+    "tema": "Identificación contextual",
+    "pregunta": "¿Cómo debe identificarse a los grupos destinatarios de políticas de inclusión según el texto?",
+    "opciones": [
+      "Usando una lista cerrada que nunca pueda cambiar.",
+      "Únicamente mediante afinidad del funcionario.",
+      "Atendiendo a la sociedad y momento histórico y a las barreras efectivas de acceso.",
+      "Sólo según domicilio dentro de CABA."
+    ],
+    "correcta": 2,
+    "explicacion": "El módulo afirma variación de grupos según sociedad y época y exige políticas apropiadas para ejercicio pleno de derechos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=16 | Oficial 2026, módulo 3, p. PDF 16; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 16,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 16,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 16"
+      }
+    ]
+  },
+  {
+    "id": "N3-032",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.5",
+    "tema": "Igualdad sustantiva",
+    "pregunta": "¿Qué distingue a la igualdad sustantiva desarrollada en el material?",
+    "opciones": [
+      "Se agota en declarar que la ley es idéntica para todos.",
+      "Impide toda acción positiva razonable.",
+      "Sólo atiende a derechos políticos y excluye acceso a justicia.",
+      "Exige intervención para equilibrar desventajas estructurales y permitir ejercicio real de derechos."
+    ],
+    "correcta": 3,
+    "explicacion": "La igualdad sustantiva supera la igualdad meramente formal y demanda protección activa de grupos históricamente discriminados.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=17 | Oficial 2026, módulo 3, p. PDF 17; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 17,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 17,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 17"
+      }
+    ]
+  },
+  {
+    "id": "N3-033",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.5",
+    "tema": "Discriminación por efectos",
+    "pregunta": "Una regla aparentemente neutral impide en la práctica el acceso de un colectivo históricamente excluido. ¿Qué advierte el módulo?",
+    "opciones": [
+      "Puede vulnerar igualdad por sus efectos discriminatorios.",
+      "No puede ser discriminatoria porque su redacción es idéntica para todos.",
+      "Es válida por definición si simplifica la tarea de la oficina.",
+      "Sólo debe analizarse si el colectivo tiene representación política."
+    ],
+    "correcta": 0,
+    "explicacion": "El texto reconoce medidas en apariencia neutrales que generan consecuencias discriminatorias sobre grupos desaventajados.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=18 | Oficial 2026, módulo 3, p. PDF 18; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 18,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 18,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 18"
+      }
+    ]
+  },
+  {
+    "id": "N3-034",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.5",
+    "tema": "Acceso y desigualdad",
+    "pregunta": "¿Qué exige la perspectiva de igualdad respecto de la organización del aparato de justicia?",
+    "opciones": [
+      "Exigir idénticas barreras a todos para probar neutralidad.",
+      "Organizarlo para acceso efectivo, especialmente de personas afectadas por pobreza o exclusión.",
+      "Concentrar toda información en lenguaje técnico incomprensible.",
+      "Reducir las vías de reclamo de los grupos subordinados."
+    ],
+    "correcta": 1,
+    "explicacion": "El módulo vincula organización de recursos idóneos y servicios accesibles con compensación de desigualdades.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=18 | Oficial 2026, módulo 3, p. PDF 18; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 18,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 18,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 18"
+      }
+    ]
+  },
+  {
+    "id": "N3-035",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.6",
+    "tema": "Enfoque de derechos",
+    "pregunta": "¿Qué cambio de perspectiva propone el enfoque de derechos humanos?",
+    "opciones": [
+      "Entender al Estado exclusivamente como benefactor voluntario.",
+      "Suprimir las vías de exigibilidad para simplificar programas.",
+      "Reconocer titulares que pueden exigir prestaciones y rendición de cuentas, no sólo personas asistidas discrecionalmente.",
+      "Reemplazar derechos por favores según la autoridad de turno."
+    ],
+    "correcta": 2,
+    "explicacion": "El enfoque parte de derechos que obligan al Estado, hace visibles barreras y refuerza reclamo y rendición de cuentas.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=19 | Oficial 2026, módulo 3, p. PDF 19; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 19,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 19,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 19"
+      }
+    ]
+  },
+  {
+    "id": "N3-036",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.6",
+    "tema": "Convencionalidad",
+    "pregunta": "¿Qué verifica el control de convencionalidad descrito en el módulo?",
+    "opciones": [
+      "Sólo compatibilidad con costumbres privadas de una oficina.",
+      "La popularidad de una sentencia en redes sociales.",
+      "El número de formularios completados en un turno.",
+      "Compatibilidad de normas y actos internos con la CADH y su interpretación pertinente."
+    ],
+    "correcta": 3,
+    "explicacion": "Su parámetro es la Convención Americana y la interpretación de sus órganos, aplicado de oficio dentro de competencias estatales.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=19 | Oficial 2026, módulo 3, p. PDF 19; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 19,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 19,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 19"
+      }
+    ]
+  },
+  {
+    "id": "N3-037",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.6",
+    "tema": "Competencia en el control",
+    "pregunta": "¿Qué límite debe conservarse al aplicar el mandato de control de convencionalidad por las agencias estatales?",
+    "opciones": [
+      "Actuar en el ámbito de las competencias de cada agencia.",
+      "Permitir que todo empleado anule cualquier ley sin procedimiento.",
+      "Excluir a la Administración del deber de observar estándares.",
+      "Sustituir todas las atribuciones del Poder Judicial por decisiones de ventanilla."
+    ],
+    "correcta": 0,
+    "explicacion": "El texto incluye expresamente el ámbito de competencia. El deber no atribuye potestades jurisdiccionales a quien no las tiene.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=19 | Oficial 2026, módulo 3, p. PDF 19; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 19,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 19,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 19"
+      }
+    ]
+  },
+  {
+    "id": "N3-038",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.6",
+    "tema": "Acceso amplio a justicia",
+    "pregunta": "¿Qué comprende la concepción amplia de acceso a justicia?",
+    "opciones": [
+      "Sólo la posibilidad física de entrar al edificio de tribunales.",
+      "Información y mecanismos judiciales, administrativos y alternativos para hacer efectivos derechos.",
+      "Exclusivamente una denuncia penal escrita por un abogado.",
+      "Únicamente el dictado de la sentencia final."
+    ],
+    "correcta": 1,
+    "explicacion": "El acceso amplio incluye información, servicios legales y mecanismos formales o informales, dentro y fuera de tribunales.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=21 | Oficial 2026, módulo 3, p. PDF 21; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 21,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 21,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 21"
+      }
+    ]
+  },
+  {
+    "id": "N3-039",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.6",
+    "tema": "CADH y garantías",
+    "pregunta": "¿Qué garantías procesales vincula el módulo con los arts.8 y 25 de la CADH?",
+    "opciones": [
+      "Ausencia de toda respuesta, juez interesado y trámite inaccesible.",
+      "Decisión sólo por popularidad y sin posibilidad de recurso.",
+      "Respuesta en plazo razonable, juez imparcial y recurso efectivo.",
+      "Protección restringida exclusivamente a trámites penales."
+    ],
+    "correcta": 2,
+    "explicacion": "La enumeración de p. 22 recoge plazo razonable, imparcialidad y efectividad; el desarrollo no se restringe al escenario penal.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=22 | Oficial 2026, módulo 3, p. PDF 22; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 22,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 22,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 22"
+      }
+    ]
+  },
+  {
+    "id": "N3-040",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.6",
+    "tema": "Barreras contextuales",
+    "pregunta": "Según la tipología del módulo, ¿qué barrera ejemplifica la carencia de recursos económicos o la brecha digital?",
+    "opciones": [
+      "Únicamente una causal de juicio político.",
+      "Un requisito de ciudadanía senatorial.",
+      "Una función dirimente de la Corte.",
+      "Estructural-contextual."
+    ],
+    "correcta": 3,
+    "explicacion": "El módulo incluye recursos e información, tiempos y brecha digital entre condiciones estructurales-contextuales que impactan el acceso.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=22 | Oficial 2026, módulo 3, p. PDF 22; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 22,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 22,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 22"
+      }
+    ]
+  },
+  {
+    "id": "N3-041",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.6",
+    "tema": "Barreras actitudinales",
+    "pregunta": "¿Qué ejemplo se vincula directamente con una barrera actitudinal-simbólica?",
+    "opciones": [
+      "Culpabilizar a quien consulta y usar lenguaje discriminatorio.",
+      "La existencia de una cámara legislativa.",
+      "El mandato de cuatro años de Diputados.",
+      "La publicación de una ley en el Boletín Oficial."
+    ],
+    "correcta": 0,
+    "explicacion": "Son barreras de vínculo y trato: descrédito, culpabilización, lenguaje poco claro o discriminatorio y escucha deficiente.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=22 | Oficial 2026, módulo 3, p. PDF 22; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 22,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 22,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 22"
+      }
+    ]
+  },
+  {
+    "id": "N3-042",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.6",
+    "tema": "Barreras institucionales",
+    "pregunta": "¿Qué ejemplo se asocia a una barrera institucional-procedimental?",
+    "opciones": [
+      "La titularidad universal de derechos.",
+      "Exceso de burocracia y descoordinación entre oficinas que dificulta tramitar una causa.",
+      "La autonomía constitucional de una provincia.",
+      "La prohibición de aceptar dádivas."
+    ],
+    "correcta": 1,
+    "explicacion": "El módulo menciona formalismo, burocratización y coordinación institucional deficiente, entre otras condiciones del sistema.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=22 | Oficial 2026, módulo 3, p. PDF 22; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 22,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 22,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 22"
+      }
+    ]
+  },
+  {
+    "id": "N3-043",
+    "etapa": "especificos",
+    "modulo": 3,
+    "subtema": "3.6",
+    "tema": "Perspectiva de género",
+    "pregunta": "¿Qué agrega el análisis de las barreras de género al acceso a justicia?",
+    "opciones": [
+      "Supone que toda persona enfrenta siempre obstáculos idénticos.",
+      "Elimina la necesidad de analizar discriminación estructural.",
+      "Permite reconocer impactos diferenciados de obstáculos económicos, sociales y geográficos.",
+      "Se limita a sustituir todas las restantes categorías de barreras."
+    ],
+    "correcta": 2,
+    "explicacion": "El módulo exige análisis diferenciado porque violencia y discriminación estructural generan obstáculos específicos y efectos diversos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=23 | Oficial 2026, módulo 3, p. PDF 23; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+    "pagina": 23,
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 23,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Oficial 2026, módulo 3, p. PDF 23"
+      }
+    ]
+  }
+]

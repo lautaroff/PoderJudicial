@@ -1,0 +1,648 @@
+[
+  {
+    "id": "E1-001",
+    "module": 1,
+    "topic": "1.1",
+    "title": "Estado y gobierno",
+    "prompt": "Este párrafo contiene un solo error conceptual relevante. Identificá la afirmación equivocada, corregila y justificá sin alterar las afirmaciones que son correctas.",
+    "flawed": "El Estado organiza jurídicamente una población sobre un territorio. Sus elementos incluyen poder y gobierno. Estado y gobierno son términos equivalentes porque ambos designan únicamente a las autoridades que ocupan cargos en un período.",
+    "model": "Estado y gobierno no son equivalentes: el gobierno es el conjunto de órganos que ejerce el poder del Estado.",
+    "explanation": "El error está en reducir Estado a autoridades de un período. La organización estatal comprende territorio, población, poder y gobierno; cambiar autoridades no equivale a extinguir el Estado.",
+    "checkpoints": [
+      {
+        "id": "p1",
+        "text": "Identifica la equivalencia Estado/gobierno como error.",
+        "critical": true
+      },
+      {
+        "id": "p2",
+        "text": "Define gobierno como órganos que ejercen poder.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 2,
+        "label": "M1 · PDF 2"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 3,
+        "label": "M1 · PDF 3"
+      }
+    ]
+  },
+  {
+    "id": "E1-002",
+    "module": 1,
+    "topic": "1.2.2",
+    "title": "Urgencia y materia excluida",
+    "prompt": "Este párrafo contiene un solo error conceptual relevante. Identificá la afirmación equivocada, corregila y justificá sin alterar las afirmaciones que son correctas.",
+    "flawed": "Por regla, el Presidente no dicta disposiciones legislativas. El régimen de DNU requiere circunstancias excepcionales que impidan el trámite ordinario de sanción. Si esa urgencia está acreditada, puede crear un tributo mediante DNU.",
+    "model": "La urgencia no permite DNU sobre materia tributaria, expresamente excluida junto con penal, electoral y partidos políticos.",
+    "explanation": "El único error es convertir urgencia en excepción a la exclusión material. No se evalúan otros recaudos ni la redacción problemática del módulo sobre la ley especial.",
+    "checkpoints": [
+      {
+        "id": "p1",
+        "text": "Señala que un DNU no puede tratar materia tributaria.",
+        "critical": true
+      },
+      {
+        "id": "p2",
+        "text": "Explica que urgencia no elimina exclusiones.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 16,
+        "label": "M1 · PDF 16"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 17,
+        "label": "M1 · PDF 17"
+      }
+    ]
+  },
+  {
+    "id": "E1-003",
+    "module": 1,
+    "topic": "1.2.3",
+    "title": "Terna de jueces inferiores",
+    "prompt": "Este párrafo contiene un solo error conceptual relevante. Identificá la afirmación equivocada, corregila y justificá sin alterar las afirmaciones que son correctas.",
+    "flawed": "Para cubrir un cargo de juez federal inferior, el Consejo realiza concurso público y forma una terna. El Ejecutivo puede elegir fuera de esa terna si cree más idónea a otra persona. Para el nombramiento se requiere acuerdo del Senado.",
+    "model": "La terna es vinculante: el Ejecutivo debe elegir uno de sus tres integrantes; luego necesita el acuerdo del Senado.",
+    "explanation": "El error es permitir elección externa a la terna. Concurso, terna y acuerdo se conservan; no se aplica este procedimiento como si fuera el de la Corte nacional.",
+    "checkpoints": [
+      {
+        "id": "p1",
+        "text": "Detecta elección fuera de terna.",
+        "critical": true
+      },
+      {
+        "id": "p2",
+        "text": "Corrige con carácter vinculante.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 18,
+        "label": "M1 · PDF 18"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 24,
+        "label": "M1 · PDF 24"
+      }
+    ]
+  },
+  {
+    "id": "E1-004",
+    "module": 1,
+    "topic": "1.4",
+    "title": "Forma de un reglamento de la Corte",
+    "prompt": "Este párrafo contiene un solo error conceptual relevante. Identificá la afirmación equivocada, corregila y justificá sin alterar las afirmaciones que son correctas.",
+    "flawed": "El art. 6 de la Ley 9423 establece publicidad de actos de la Corte y Sala Administrativa. Un reglamento general debe emitirse como resolución. La forma prevista también debe publicarse en el Boletín Oficial.",
+    "model": "Un reglamento debe emitirse como acordada; la resolución corresponde a actos administrativos de alcance particular. Ambas se publican.",
+    "explanation": "El error único es la forma asignada al reglamento. No se cuestiona la obligación de publicar.",
+    "checkpoints": [
+      {
+        "id": "p1",
+        "text": "Detecta resolución como forma errónea del reglamento.",
+        "critical": true
+      },
+      {
+        "id": "p2",
+        "text": "Sustituye por acordada y conserva publicidad.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+        "page": 5,
+        "label": "Ley 9423 · art. 6 · PDF 5"
+      }
+    ]
+  },
+  {
+    "id": "E2-001",
+    "module": 2,
+    "topic": "2.1",
+    "title": "Intereses y cuantía",
+    "prompt": "Este párrafo contiene un solo error conceptual relevante. Identificá la afirmación equivocada, corregila y justificá sin alterar las afirmaciones que son correctas.",
+    "flawed": "En una demanda de responsabilidad civil sin acumulación especial se reclaman 18 JUS de capital y 6 de intereses. La cuantía computable es 24 JUS, porque se suma el interés al capital. El módulo usa 20 JUS para distribuir ciertas competencias entre Paz y Civil.",
+    "model": "La cuantía computable es 18 JUS: se excluyen intereses y otros accesorios del capital nominal.",
+    "explanation": "El error es sumar accesorios. La referencia al límite de 20 JUS es correcta en el supuesto; al corregir, el caso queda dentro de Paz.",
+    "checkpoints": [
+      {
+        "id": "p1",
+        "text": "Identifica suma indebida de intereses.",
+        "critical": true
+      },
+      {
+        "id": "p2",
+        "text": "Computa 18 JUS.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 25,
+        "label": "M2 · PDF 25"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 27,
+        "label": "M2 · PDF 27"
+      }
+    ]
+  },
+  {
+    "id": "E2-002",
+    "module": 2,
+    "topic": "2.3",
+    "title": "El reloj de la contestación laboral",
+    "prompt": "Este párrafo contiene un solo error conceptual relevante. Identificá la afirmación equivocada, corregila y justificá sin alterar las afirmaciones que son correctas.",
+    "flawed": "La cámara controla la demanda y ordena su traslado. El demandado dispone de ocho días corridos posteriores a la notificación para contestar. La contestación se traslada a la actora por tres días.",
+    "model": "Son ocho días hábiles posteriores a la notificación de la demanda, no corridos; se conserva el traslado de contestación a la actora por tres días.",
+    "explanation": "El error único es la clase de días del plazo de contestación. No se sustituyen esos plazos por los veinte días civiles.",
+    "checkpoints": [
+      {
+        "id": "p1",
+        "text": "Señala corridos como error.",
+        "critical": true
+      },
+      {
+        "id": "p2",
+        "text": "Corrige a ocho días hábiles desde notificación.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 84,
+        "label": "M2 · PDF 84"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 85,
+        "label": "M2 · PDF 85"
+      }
+    ]
+  },
+  {
+    "id": "E2-003",
+    "module": 2,
+    "topic": "2.4 · anexo",
+    "title": "Dos actos iniciales en preventiva juvenil",
+    "prompt": "Este párrafo contiene un solo error conceptual relevante. Identificá la afirmación equivocada, corregila y justificá sin alterar las afirmaciones que son correctas.",
+    "flawed": "El fiscal que decide pedir preventiva debe fundar necesidad y duración. Los cinco días para presentar su requerimiento se cuentan desde la detención efectiva. La duración inicial requerida de la preventiva no puede superar tres meses desde esa detención.",
+    "model": "Los cinco días para requerir corren desde la imputación. Los tres meses de duración inicial sí se cuentan desde detención efectiva.",
+    "explanation": "El error único es el acto inicial del requerimiento: se mezclaron dos relojes diferentes del art. 41. La decisión oral al cierre de la audiencia pertenece a otro momento.",
+    "checkpoints": [
+      {
+        "id": "p1",
+        "text": "Detecta detención como inicio erróneo de los cinco días.",
+        "critical": true
+      },
+      {
+        "id": "p2",
+        "text": "Distingue imputación de detención efectiva.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 12,
+        "label": "Código juvenil · art. 41 · PDF 12"
+      }
+    ]
+  },
+  {
+    "id": "E2-004",
+    "module": 2,
+    "topic": "2.1",
+    "title": "Incidente BLSG y juicio en trámite",
+    "prompt": "Este párrafo contiene un solo error conceptual relevante. Identificá la afirmación equivocada, corregila y justificá sin alterar las afirmaciones que son correctas.",
+    "flawed": "Una negativa automatizada de BLSG permite a la persona iniciar incidente y probar sus condiciones legales. Si el juicio ya está en trámite, el incidente separado suspende ese proceso. Previo dictamen fiscal, el juez resuelve por auto inapelable.",
+    "model": "El incidente puede solicitarse separado, pero no tiene efecto suspensivo sobre el proceso ya en trámite.",
+    "explanation": "El error único es la suspensión. Negativa directa, prueba y auto inapelable están previstos; no se enseña que el sistema decida irreversiblemente la pobreza.",
+    "checkpoints": [
+      {
+        "id": "p1",
+        "text": "Identifica suspensión como error.",
+        "critical": true
+      },
+      {
+        "id": "p2",
+        "text": "Corrige a falta de efecto suspensivo.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Acordada-32299-BLSG.pdf",
+        "page": 16,
+        "label": "Ac. 32299 · PDF 16"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Acordada-32299-BLSG.pdf",
+        "page": 17,
+        "label": "Ac. 32299 · PDF 17"
+      }
+    ]
+  },
+  {
+    "id": "E3-001",
+    "module": 3,
+    "topic": "3.1",
+    "title": "Titularidad y ciudadanía",
+    "prompt": "Este párrafo contiene un solo error conceptual relevante. Identificá la afirmación equivocada, corregila y justificá sin alterar las afirmaciones que son correctas.",
+    "flawed": "Los derechos humanos se fundan en la dignidad. El Estado es su primer garante. Su titularidad corresponde solo a quienes tienen ciudadanía del país en que reclaman.",
+    "model": "Corresponden a toda persona por su dignidad, sin depender de ciudadanía o pertenencia a ese país.",
+    "explanation": "El error único restringe la titularidad por nacionalidad. No se decide aquí un requisito particular de participación electoral: se trata del concepto de derechos humanos.",
+    "checkpoints": [
+      {
+        "id": "p1",
+        "text": "Señala restricción por ciudadanía.",
+        "critical": true
+      },
+      {
+        "id": "p2",
+        "text": "Afirma universalidad y dignidad.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 2,
+        "label": "M3 · PDF 2"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 3,
+        "label": "M3 · PDF 3"
+      }
+    ]
+  },
+  {
+    "id": "E3-002",
+    "module": 3,
+    "topic": "3.2",
+    "title": "Pro personae y protección interna",
+    "prompt": "Este párrafo contiene un solo error conceptual relevante. Identificá la afirmación equivocada, corregila y justificá sin alterar las afirmaciones que son correctas.",
+    "flawed": "El principio pro personae orienta selección e interpretación de normas aplicables. Cuando el derecho interno protege más ampliamente que el estándar convencional, el tratado obliga a reducir la protección interna a ese mínimo. Se compara la extensión del derecho o la intensidad de su restricción.",
+    "model": "El estándar convencional no reduce el derecho interno más protector; se conserva la opción de mayor reconocimiento o menor restricción.",
+    "explanation": "El error único convierte el piso convencional en techo. No se afirma preferencia invariable por una fuente sin comparar protección.",
+    "checkpoints": [
+      {
+        "id": "p1",
+        "text": "Detecta reducción al mínimo convencional.",
+        "critical": true
+      },
+      {
+        "id": "p2",
+        "text": "Corrige con mayor protección.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 7,
+        "label": "M3 · PDF 7"
+      }
+    ]
+  },
+  {
+    "id": "E3-003",
+    "module": 3,
+    "topic": "3.6",
+    "title": "Titular y beneficiario discrecional",
+    "prompt": "Este párrafo contiene un solo error conceptual relevante. Identificá la afirmación equivocada, corregila y justificá sin alterar las afirmaciones que son correctas.",
+    "flawed": "El enfoque de derechos integra estándares al análisis y ejecución de políticas. Las personas afectadas son receptoras de ayuda que el Estado puede conceder discrecionalmente, en lugar de titulares capaces de reclamar. El enfoque permite definir metas y medir avances.",
+    "model": "Son titulares de derechos que obligan al Estado y permiten reclamar prestaciones, conductas y rendición de cuentas.",
+    "explanation": "El error único es la lógica de beneficencia discrecional. Metas y evaluación sirven a derechos exigibles, no sustituyen su titularidad.",
+    "checkpoints": [
+      {
+        "id": "p1",
+        "text": "Detecta lógica de ayuda discrecional.",
+        "critical": true
+      },
+      {
+        "id": "p2",
+        "text": "Corrige titularidad y exigibilidad.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 18,
+        "label": "M3 · PDF 18"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 19,
+        "label": "M3 · PDF 19"
+      }
+    ]
+  },
+  {
+    "id": "E3-004",
+    "module": 3,
+    "topic": "3.4",
+    "title": "Responsabilidad por un hecho privado",
+    "prompt": "Este párrafo contiene un solo error conceptual relevante. Identificá la afirmación equivocada, corregila y justificá sin alterar las afirmaciones que son correctas.",
+    "flawed": "Los Estados deben respetar y garantizar derechos. Cualquier lesión realizada por un particular se atribuye automáticamente al Estado. En riesgos conocidos pueden exigirse medidas efectivas de protección.",
+    "model": "La responsabilidad por hechos privados se analiza por falta de debida diligencia estatal; no por atribución automática del hecho privado mismo.",
+    "explanation": "El error único es la automaticidad. La obligación de protección frente a riesgo real e inmediato conocido o que debió conocerse sigue siendo relevante.",
+    "checkpoints": [
+      {
+        "id": "p1",
+        "text": "Señala atribución automática como error.",
+        "critical": true
+      },
+      {
+        "id": "p2",
+        "text": "Explica incumplimiento de diligencia o garantía.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 10,
+        "label": "M3 · PDF 10"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 11,
+        "label": "M3 · PDF 11"
+      }
+    ]
+  },
+  {
+    "id": "E4-001",
+    "module": 4,
+    "topic": "4.3",
+    "title": "Modalidad doméstica y convivencia",
+    "prompt": "Este párrafo contiene un solo error conceptual relevante. Identificá la afirmación equivocada, corregila y justificá sin alterar las afirmaciones que son correctas.",
+    "flawed": "La violencia psicológica puede presentarse mediante humillaciones y amenazas. Para que la ejercida por una expareja sea doméstica, es indispensable que todavía exista convivencia. Tipo y modalidad son dimensiones que pueden concurrir.",
+    "model": "La modalidad doméstica comprende pareja actual o pasada con o sin convivencia.",
+    "explanation": "El error único es exigir convivencia. Corregirlo no transforma toda amenaza en violencia de género sin analizar el contexto: el ejercicio se sitúa en la definición del módulo.",
+    "checkpoints": [
+      {
+        "id": "p1",
+        "text": "Identifica convivencia como requisito inexistente.",
+        "critical": true
+      },
+      {
+        "id": "p2",
+        "text": "Incluye expareja con o sin convivencia.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 5,
+        "label": "M4 · PDF 5"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 6,
+        "label": "M4 · PDF 6"
+      }
+    ]
+  },
+  {
+    "id": "E4-002",
+    "module": 4,
+    "topic": "4.2",
+    "title": "Expresión no revela orientación",
+    "prompt": "Este párrafo contiene un solo error conceptual relevante. Identificá la afirmación equivocada, corregila y justificá sin alterar las afirmaciones que son correctas.",
+    "flawed": "La expresión de género se manifiesta en vestimenta, estilo y lenguaje corporal. Conocer esa expresión permite deducir necesariamente quién atrae afectiva y sexualmente a la persona. La identidad se refiere a vivencia interna del género.",
+    "model": "No se deduce orientación sexual a partir de expresión de género; son dimensiones distintas.",
+    "explanation": "El error único es la inferencia necesaria entre apariencia y atracción. No se discuten las definiciones correctas de expresión e identidad.",
+    "checkpoints": [
+      {
+        "id": "p1",
+        "text": "Detecta inferencia desde expresión.",
+        "critical": true
+      },
+      {
+        "id": "p2",
+        "text": "Distingue orientación, identidad y expresión.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 4,
+        "label": "M4 · PDF 4"
+      }
+    ]
+  },
+  {
+    "id": "E4-003",
+    "module": 4,
+    "topic": "4.4",
+    "title": "Retractación en acción pública",
+    "prompt": "Este párrafo contiene un solo error conceptual relevante. Identificá la afirmación equivocada, corregila y justificá sin alterar las afirmaciones que son correctas.",
+    "flawed": "Una sobreviviente se retracta de una denuncia por un delito de acción pública. El contexto puede incluir temor y dependencia económica. El MPF debe cerrar la investigación por falta de ratificación. Es importante buscar prueba objetiva independiente.",
+    "model": "El MPF debe continuar de oficio en delitos de acción pública, sin depender de ratificación, y evaluar el contexto sin amenazar a la persona.",
+    "explanation": "El error único es clausurar por retractación. Se mantiene búsqueda de prueba independiente y acompañamiento, sin exigir que toda prueba provenga de la sobreviviente.",
+    "checkpoints": [
+      {
+        "id": "p1",
+        "text": "Detecta cierre por falta de ratificación.",
+        "critical": true
+      },
+      {
+        "id": "p2",
+        "text": "Corrige continuación de oficio en acción pública.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 9,
+        "label": "M4 · PDF 9"
+      }
+    ]
+  },
+  {
+    "id": "E4-004",
+    "module": 4,
+    "topic": "4.5",
+    "title": "Patrocinio y requisitos del protocolo",
+    "prompt": "Este párrafo contiene un solo error conceptual relevante. Identificá la afirmación equivocada, corregila y justificá sin alterar las afirmaciones que son correctas.",
+    "flawed": "El protocolo tiene como órgano de aplicación a la Dirección de la Mujer, Género y Diversidad. Una denuncia identificada requiere consentimiento informado. Es obligatorio contar con abogado para utilizar este procedimiento.",
+    "model": "El trámite no requiere patrocinio letrado; sí conserva identificación, firma individual y consentimiento previstos.",
+    "explanation": "El error único es exigir abogado. Confidencialidad y requisitos de identificación no se eliminan por la gratuidad del trámite.",
+    "checkpoints": [
+      {
+        "id": "p1",
+        "text": "Señala patrocinio obligatorio como error.",
+        "critical": true
+      },
+      {
+        "id": "p2",
+        "text": "Distingue abogado no requerido de requisitos vigentes.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 9,
+        "label": "M4 · PDF 9"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 10,
+        "label": "M4 · PDF 10"
+      }
+    ]
+  },
+  {
+    "id": "E5-001",
+    "module": 5,
+    "topic": "5.5",
+    "title": "Ajuste y ventaja indebida",
+    "prompt": "Este párrafo contiene un solo error conceptual relevante. Identificá la afirmación equivocada, corregila y justificá sin alterar las afirmaciones que son correctas.",
+    "flawed": "Un ajuste razonable es una adaptación necesaria y adecuada para un caso concreto sin carga desproporcionada o indebida. Otorgar el apoyo requerido constituye una ventaja indebida frente a quienes no lo necesitan. La adaptación busca participación efectiva.",
+    "model": "El ajuste nivela condiciones de acceso y no constituye ventaja indebida por ser diferente al trato general.",
+    "explanation": "El error único confunde igualdad real con identidad mecánica de trato. Se conserva necesidad, adecuación y límite de carga del concepto.",
+    "checkpoints": [
+      {
+        "id": "p1",
+        "text": "Detecta ventaja indebida como error.",
+        "critical": true
+      },
+      {
+        "id": "p2",
+        "text": "Explica igualdad efectiva.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 19,
+        "label": "M5 · PDF 19"
+      }
+    ]
+  },
+  {
+    "id": "E5-002",
+    "module": 5,
+    "topic": "5.4",
+    "title": "Cierre de una queja",
+    "prompt": "Este párrafo contiene un solo error conceptual relevante. Identificá la afirmación equivocada, corregila y justificá sin alterar las afirmaciones que son correctas.",
+    "flawed": "El circuito de una queja incluye recepción, registro, investigación y comunicación de resolución. El cierre consiste únicamente en archivar y excluye modificar protocolos o compartir lecciones. El registro permite seguimiento del reclamo.",
+    "model": "El cierre incluye aprendizaje: ajustar el protocolo para evitar repetición y compartir la lección con el equipo.",
+    "explanation": "El error único elimina la mejora continua del quinto paso. No se convierte una queja de servicio en recurso judicial ni se añade plazo no previsto.",
+    "checkpoints": [
+      {
+        "id": "p1",
+        "text": "Detecta cierre como mero archivo.",
+        "critical": true
+      },
+      {
+        "id": "p2",
+        "text": "Incluye ajuste y aprendizaje institucional.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 17,
+        "label": "M5 · PDF 17"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 18,
+        "label": "M5 · PDF 18"
+      }
+    ]
+  },
+  {
+    "id": "E5-003",
+    "module": 5,
+    "topic": "5.6",
+    "title": "Motivación y recursos",
+    "prompt": "Este párrafo contiene un solo error conceptual relevante. Identificá la afirmación equivocada, corregila y justificá sin alterar las afirmaciones que son correctas.",
+    "flawed": "El modelo de competencias distingue conocimiento, habilidad, actitud, motivación y medios. Querer hacer expresa disposición para actuar. Poder hacer significa exactamente esa misma motivación personal. Los componentes se complementan.",
+    "model": "Poder hacer es disponibilidad de medios y condiciones institucionales; querer hacer es motivación.",
+    "explanation": "El error único equipara dos componentes. Una caída del sistema no demuestra por sí falta de interés de un agente.",
+    "checkpoints": [
+      {
+        "id": "p1",
+        "text": "Detecta equivalencia errónea.",
+        "critical": true
+      },
+      {
+        "id": "p2",
+        "text": "Distingue recursos de motivación.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 24,
+        "label": "M5 · PDF 24"
+      }
+    ]
+  },
+  {
+    "id": "E5-004",
+    "module": 5,
+    "topic": "5.2",
+    "title": "Alcance de la experiencia de justicia",
+    "prompt": "Este párrafo contiene un solo error conceptual relevante. Identificá la afirmación equivocada, corregila y justificá sin alterar las afirmaciones que son correctas.",
+    "flawed": "La experiencia de una persona incluye percepción y emociones al relacionarse con el servicio. Se limita al resultado final de la sentencia, sin abarcar búsqueda ni seguimiento. Los momentos críticos pueden influir fuertemente en su impresión.",
+    "model": "Abarca todas las interacciones desde búsqueda de información hasta cierre final, no solo el resultado de sentencia.",
+    "explanation": "El error único restringe el recorrido. Una decisión técnicamente correcta no garantiza una experiencia comprensible o digna en cada contacto.",
+    "checkpoints": [
+      {
+        "id": "p1",
+        "text": "Detecta limitación al resultado final.",
+        "critical": true
+      },
+      {
+        "id": "p2",
+        "text": "Incluye todo el recorrido hasta cierre.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 6,
+        "label": "M5 · PDF 6"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 7,
+        "label": "M5 · PDF 7"
+      }
+    ]
+  }
+]
+

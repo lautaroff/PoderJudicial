@@ -1,0 +1,37 @@
+# Paquetes generados: estudiar desde la carpeta o reconstruir con empaquetar.py.
+*.zip
+
+# Índices, sesiones del navegador y ajustes temporales locales.
+.codegraph/
+.cursor/
+.playwright-cli/
+__pycache__/
+*.py[cod]
+ajustar_*.py
+generar_anexos.py
+revisar_paginas.py
+versionar_recursos.py
+
+# Scripts intermedios de autoría; los bancos revisados son los datos canónicos.
+bancos-2026/*.py
+estudio-2026/*.py
+estudio-2026/*.png
+estudio-2026/*-imagenes/
+biblioteca/2026/referencias/juvenil-paginas/
+
+# Conservar sólo las comprobaciones reproducibles y los informes finales.
+output/*
+!output/playwright/
+!output/video-check-v1.json
+!output/video-check-v2.json
+output/playwright/*
+!output/playwright/comprobar-portal.js
+!output/playwright/comprobar-final.js
+!output/playwright/comprobar-navegacion.js
+!output/playwright/comprobar-taller.js
+!output/playwright/comprobar-taller-video.js
+
+# Cachés de render; las fuentes de video y MP4 terminados sí se versionan.
+video-estudio/.hyperframes/
+video-estudio/.thumbnails/
+video-estudio/snapshots/

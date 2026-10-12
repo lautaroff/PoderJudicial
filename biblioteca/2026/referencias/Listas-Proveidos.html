@@ -1,0 +1,626 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Listas de Tribunales</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<script>
+/*  	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  	ga('create', 'UA-42168330-2', 'auto');
+  	ga('send', 'pageview');
+*/
+</script>
+
+<script type="text/javascript" src="datepicker.js"></script>
+<link href="datepicker.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+	//<![CDATA[
+	/*
+		A "Reservation Date" example using two datePickers
+		--------------------------------------------------
+		* Functionality
+		1. When the page loads:
+			- We clear the value of the two inputs (to clear any values cached by the browser)
+			- We set an "onchange" event handler on the startDate input to call the setReservationDates function
+		2. When a start date is selected
+			- We set the low range of the endDate datePicker to be the start date the user has just selected
+			- If the endDate input already has a date stipulated and the date falls before the new start date then we clear the input's value
+		* Caveats (aren't there always)
+		- This demo has been written for dates that have NOT been split across three inputs
+	*/
+
+	function makeTwoChars(inp) {
+		return String(inp).length < 2 ? "0" + inp : inp;
+	}
+
+	function initialiseInputs() {
+		// Clear any old values from the inputs (that might be cached by the browser after a page reload)
+		document.getElementById("sd").value = "12/10/2026";
+		document.getElementById("ed").value = "12/10/2026";
+		// Add the onchange event handler to the start date input
+		datePickerController.addEvent(document.getElementById("sd"), "change", setReservationDates);	
+		//if (document.getElementById("personal").checked) document.getElementById('sd').value=document.getElementById('ed').value;
+	}
+
+	var initAttempts = 0;
+
+	function setReservationDates(e) {
+		// Internet Explorer will not have created the datePickers yet so we poll the datePickerController Object using a setTimeout
+		// until they become available (a maximum of ten times in case something has gone horribly wrong)
+
+		try {
+			var sd = datePickerController.getDatePicker("sd");
+			var ed = datePickerController.getDatePicker("ed");
+		} catch (err) {
+		
+		if (initAttempts++ < 10) setTimeout("setReservationDates()", 50);
+			return;
+		}
+
+		// Check the value of the input is a date of the correct format
+		var dt = datePickerController.dateFormat(this.value, sd.format.charAt(0) == "m");
+
+		// If the input's value cannot be parsed as a valid date then return
+		if(dt == 0) return;
+
+		// At this stage we have a valid YYYYMMDD date
+		// Grab the value set within the endDate input and parse it using the dateFormat method
+		// N.B: The second parameter to the dateFormat function, if TRUE, tells the function to favour the m-d-y date format
+		var edv = datePickerController.dateFormat(document.getElementById("ed").value, ed.format.charAt(0) == "m");
+
+		// Set the low range of the second datePicker to be the date parsed from the first
+		ed.setRangeLow( dt );
+			
+		// If theres a value already present within the end date input and it's smaller than the start date
+		if(edv < dt) {
+			document.getElementById("ed").value = document.getElementById("sd").value;
+		}
+	}
+
+	function removeInputEvents() {
+		// Remove the onchange event handler set within the function initialiseInputs
+		datePickerController.removeEvent(document.getElementById("sd"), "change", setReservationDates);
+	}
+
+	datePickerController.addEvent(window, 'load', initialiseInputs);
+	datePickerController.addEvent(window, 'unload', removeInputEvents);
+	//]]>
+</script>
+
+<script> 
+	
+var menu_0=new Array();menu_0.push('1PRIMERA');menu_0.push('2SEGUNDA');menu_0.push('3TERCERA');menu_0.push('4CUARTA');
+
+var menu_01=new Array();/*menu_01.push('99 Todos');*/menu_01.push('20JUZGADOS CIVILES');menu_01.push('18JUZGADOS PAZ');menu_01.push('04CAMARAS LABORALES');menu_01.push('29JUZGADOS FAMILIA');menu_01.push('03CAMARAS CIVILES');menu_01.push('21OFICINAS SUPREMA CORTE');menu_01.push('22JUZ. TRIBUTARIO');menu_01.push('19JUZ. CONCURSALES');menu_01.push('17J.PAZ y TRIB De Lujan y Maipu');menu_01.push('16JUZG PAZ DEPARTAMENTAL');menu_01.push('28JUZG EJEUCION PENAL');menu_01.push('71CAMARA FAMILIA');menu_01.push('72JUZGADO FAMILIA DEPARTAMENTAL');menu_01.push('80SUPREMA CORTE');menu_01.push('85OGAP JUZGADO PENAL');menu_01.push('86OGAP TRIBUNAL PENAL');
+var menu_02=new Array();/*menu_02.push('99 Todos');*/menu_02.push('20JUZGADOS CIVILES');menu_02.push('26JUZGADOS PAZ');menu_02.push('04CAMARAS LABORALES');menu_02.push('50JUZGADOS FAMILIA');menu_02.push('03CAMARAS CIVILES');menu_02.push('19JUZG. CONCURSALES');menu_02.push('27PAZ MALARGUE');menu_02.push('16PAZ DISTRITALES');menu_02.push('22JUZG. TRIBUTARIOS');menu_02.push('85OGAP JUZGADO PENAL');menu_02.push('86OGAP TRIBUNAL PENAL');
+var menu_03=new Array();/*menu_03.push('99 Todos');*/menu_03.push('20JUZGADOS CIVILES');menu_03.push('26JUZ. PAZ y TRIB');menu_03.push('30CAMARAS LABORALES');menu_03.push('50JUZGADOS FAMILIA');menu_03.push('16PAZ DISTRITALES');menu_03.push('22JUZ. TRIBUTARIOS');menu_03.push('85OGAP JUZ. PENAL');menu_03.push('86OGAP TRIB. PENAL');
+var menu_04=new Array();/*menu_04.push('99 Todos');*/menu_04.push('20JUZGADOS CIVILES');menu_04.push('26JUZ. PAZ y TRIB');menu_04.push('04CAMARAS LABORALES');menu_04.push('50JUZGADOS FAMILIA');menu_04.push('16PAZ DISTRITALES');menu_04.push('85OGAP JUZGADO PENAL');menu_04.sort( function(a,b){return a.charCodeAt(2) - b.charCodeAt(2)}  );menu_0199=new Array();menu_0199.push('99 Todos');menu_0299=new Array();menu_0299.push('99 Todos');menu_0399=new Array();menu_0399.push('99 Todos');menu_0499=new Array();menu_0499.push('99 Todos');
+var menu_0103=new Array();menu_0103.push('99 Todos');menu_0103.push('01PRIMERA');menu_0103.push('02SEGUNDA');menu_0103.push('03TERCERA');menu_0103.push('04CUARTA');menu_0103.push('05QUINTA');
+var menu_0104=new Array();menu_0104.push('99 Todos');menu_0104.push('01PRIMERA');menu_0104.push('02SEGUNDA');menu_0104.push('03TERCERA');menu_0104.push('04CUARTA');menu_0104.push('05QUINTA');menu_0104.push('06SEXTA');menu_0104.push('07SEPTIMA');
+var menu_0113=new Array();menu_0113.push('99 Todos');menu_0113.push('35CONTRAV_RC');
+var menu_0116=new Array();menu_0116.push('99 Todos');menu_0116.push('01LAS HERAS');menu_0116.push('02VILLA NUEVA');menu_0116.push('03LAVALLE');menu_0116.push('04CHACRAS DE CORIA');menu_0116.push('05RODEO DE LA CRUZ');menu_0116.push('06ARAUJO');menu_0116.push('07FRAY LUIS BELTRAN');menu_0116.push('08USPALLATA');menu_0116.push('14CHACRAS-TRIBUTARIO');
+var menu_0117=new Array();menu_0117.push('99 Todos');menu_0117.push('01LUJAN');menu_0117.push('02MAIPU');menu_0117.push('11LUJAN.TR');menu_0117.push('51G.A. Paz Lujan');menu_0117.push('61G.A. Trib Lujan');menu_0117.push('71G.A. Contrav Lujan');
+var menu_0118=new Array();menu_0118.push('99 Todos');menu_0118.push('01PRIMERO');menu_0118.push('03SEGUNDO');menu_0118.push('05TERCERO');menu_0118.push('07CUARTO');menu_0118.push('09QUINTO');menu_0118.push('11SEXTO');menu_0118.push('13SEPTIMO');menu_0118.push('15OCTAVO');menu_0118.push('51GES.PAZ.1');
+var menu_0119=new Array();menu_0119.push('99 Todos');menu_0119.push('01PRIMERO');menu_0119.push('02SEGUNDO');menu_0119.push('03TERCERO');
+var menu_0120=new Array();menu_0120.push('99 Todos');menu_0120.push('011-PRIMERO');menu_0120.push('022-SEGUNDO');menu_0120.push('033-TERCERO');menu_0120.push('044-CUARTO');menu_0120.push('055-QUINTO');menu_0120.push('066-SEXTO');menu_0120.push('077-SEPTIMO');menu_0120.push('088-OCTAVO');menu_0120.push('099-NOVENO');menu_0120.push('1010-DECIMO');menu_0120.push('1111-ONCE');menu_0120.push('1212-DOCE');menu_0120.push('1313-TRECE');menu_0120.push('1414-CATORCE');menu_0120.push('1515-QUINCE');menu_0120.push('1616-DIECIS.');menu_0120.push('1717-D.SIETE');menu_0120.push('1818-D.OCHO');menu_0120.push('1919-D.NUEVE');menu_0120.push('2020-VEINTE');menu_0120.push('2121-V.UNO');menu_0120.push('2222-V.DOS');menu_0120.push('2323-V.TRES');menu_0120.push('2424-VCUATRO');menu_0120.push('51GEJUAS-1');menu_0120.push('52GEJUAS-2');menu_0120.push('53GEJUAS-3');menu_0120.push('54GEJUAS-4');
+var menu_0121=new Array();menu_0121.push('99 Todos');menu_0121.push('22OFIC. PROFESIONALES');
+var menu_0122=new Array();menu_0122.push('99 Todos');menu_0122.push('10PRIM. UTE');menu_0122.push('20SEG. UTE');menu_0122.push('30TER. UTE');
+var menu_0128=new Array();menu_0128.push('99 Todos');menu_0128.push('01PRIMERO');menu_0128.push('02SEGUNDO');
+var menu_0129=new Array();menu_0129.push('99 Todos');menu_0129.push('01PRIMERO - CAPITAL');menu_0129.push('02SEGUNDO - CAPITAL');menu_0129.push('04NOVENO - CAPITAL');menu_0129.push('06SEXTO - CAPITAL');menu_0129.push('07SEPTIMO - CAPITAL');menu_0129.push('11GEJUAF FERIA 1');menu_0129.push('12GUJUAF FERIA 2');menu_0129.push('51GEJUAF CAPITAL');menu_0129.push('60');
+var menu_0171=new Array();menu_0171.push('99 Todos');menu_0171.push('01CAMARA APELACIONES');
+var menu_0172=new Array();menu_0172.push('99 Todos');menu_0172.push('03DOCE - LAS HERAS');menu_0172.push('05QUINTO - GODOY CRUZ');menu_0172.push('08OCTAVO - GODOY CRUZ');menu_0172.push('09CUARTO - LAS HERAS');menu_0172.push('10DECIMO-LUJAN DE CUYO');menu_0172.push('11ONCE - MAIPU');menu_0172.push('13TRECE-LUJAN DE CUYO');menu_0172.push('14JUZG FAMILIA LAVALLE');menu_0172.push('33TERCERO - MAIPU');menu_0172.push('51GEJUAF MAIPU');menu_0172.push('52GEJUAF LUJAN');menu_0172.push('53GEJUAF GODOY CRUZ');menu_0172.push('54GEJUAF LAS HERAS');menu_0172.push('55GEJUAF GUAYMALLEN');
+var menu_0180=new Array();menu_0180.push('99 Todos');menu_0180.push('01SALA 1');menu_0180.push('03SALA 2');menu_0180.push('13COMP. ORIGINARIA');
+var menu_0185=new Array();menu_0185.push('99 Todos');menu_0185.push('01PRIMERO');menu_0185.push('02SEGUNDO');
+var menu_0186=new Array();menu_0186.push('99 Todos');menu_0186.push('01PRIMERO');menu_0186.push('02SEGUNDO');
+var menu_0203=new Array();menu_0203.push('99 Todos');menu_0203.push('01PRIMERA');menu_0203.push('02SEGUNDA');menu_0203.push('10PRIMERA-FAM');menu_0203.push('20SEGUNDA-FAM');
+var menu_0204=new Array();menu_0204.push('99 Todos');menu_0204.push('01PRIMERA');menu_0204.push('02SEGUNDA');
+var menu_0216=new Array();menu_0216.push('99 Todos');menu_0216.push('01BOWEN');menu_0216.push('02VILLA ATUEL');menu_0216.push('03MONTE COMAN');menu_0216.push('04REAL DEL PADRE');
+var menu_0219=new Array();menu_0219.push('99 Todos');menu_0219.push('00PRIMERO');
+var menu_0220=new Array();menu_0220.push('99 Todos');menu_0220.push('03TERC(G.A.)');menu_0220.push('06SEXTO');menu_0220.push('07JUEZ-5');menu_0220.push('51GEJUAS-1');
+var menu_0222=new Array();menu_0222.push('99 Todos');menu_0222.push('01PRIMERO');
+var menu_0226=new Array();menu_0226.push('99 Todos');menu_0226.push('03TERC(G.A.)');menu_0226.push('51GEJUAS PAZ');
+var menu_0227=new Array();menu_0227.push('99 Todos');menu_0227.push('00MALARGUE');
+var menu_0250=new Array();menu_0250.push('99 Todos');menu_0250.push('03ALVEAR');menu_0250.push('04MALARGUE');menu_0250.push('51GEJUAF SAN RAFAEL');
+var menu_0285=new Array();menu_0285.push('99 Todos');menu_0285.push('01PRIMERO');menu_0285.push('02SEGUNDO');menu_0285.push('03TERCERO');
+var menu_0286=new Array();menu_0286.push('99 Todos');menu_0286.push('01PRIMERO');
+var menu_0316=new Array();menu_0316.push('99 Todos');menu_0316.push('01JUNIN');menu_0316.push('02LA PAZ');menu_0316.push('03SANTA ROSA');menu_0316.push('04PALMIRA');menu_0316.push('05LAS CATITAS');menu_0316.push('06LA DORMIDA');
+var menu_0320=new Array();menu_0320.push('99 Todos');menu_0320.push('01PRIMERO');menu_0320.push('02SEGUNDO');menu_0320.push('03TERCERO');menu_0320.push('04CUARTO');menu_0320.push('51GEJUAS 1');
+var menu_0322=new Array();menu_0322.push('99 Todos');menu_0322.push('01PRIMERO');
+var menu_0326=new Array();menu_0326.push('99 Todos');menu_0326.push('01PRIMERO SECRET. 1');menu_0326.push('02PRIMERO SECRET. 2');menu_0326.push('03RIVADAVIA');menu_0326.push('11PRIMERO PAZ-TRIBUT');menu_0326.push('12SEGUNDO PAZ-TRIBUT');menu_0326.push('51SECRETARIA UNICA PAZ');menu_0326.push('52SECR. UNICA PAZ-TRIB');menu_0326.push('61GESTION ASOCIADA PAZ');menu_0326.push('71GEST. ASOC. PAZ-TRIB');
+var menu_0330=new Array();menu_0330.push('99 Todos');menu_0330.push('01PRIMERA');menu_0330.push('02SEGUNDA');
+var menu_0350=new Array();menu_0350.push('99 Todos');menu_0350.push('01PRIMERO');menu_0350.push('02SEGUNDO');menu_0350.push('05RIVADAVIA');menu_0350.push('11Fam.Fer.1');menu_0350.push('51GEJUAF SAN MARTIN');
+var menu_0385=new Array();menu_0385.push('99 Todos');menu_0385.push('01PRIMERO');
+var menu_0386=new Array();menu_0386.push('99 Todos');menu_0386.push('01PRIMERO');
+var menu_0404=new Array();menu_0404.push('99 Todos');menu_0404.push('01PRIMERA');
+var menu_0416=new Array();menu_0416.push('99 Todos');menu_0416.push('01LA CONSULTA');menu_0416.push('02SAN CARLOS');menu_0416.push('03TUPUNGATO');
+var menu_0420=new Array();menu_0420.push('99 Todos');menu_0420.push('01PRIMERO');menu_0420.push('02SEGUNDO');menu_0420.push('51GEJUAS');
+var menu_0426=new Array();menu_0426.push('99 Todos');menu_0426.push('01PRIMERO SECRET. 1');menu_0426.push('02PRIMERO SECRET. 2');menu_0426.push('11PRIMERO PAZ-TRIBUT');menu_0426.push('12SEGUNDO PAZ-TRIBUT');menu_0426.push('51GESTION ASOCIADA PAZ');menu_0426.push('61GEST. ASOC. PAZ-TRIB');
+var menu_0450=new Array();menu_0450.push('99 Todos');menu_0450.push('01PRIMERO');menu_0450.push('02SEGUNDO');menu_0450.push('03TUPUNGATO');menu_0450.push('04SAN CARLOS');menu_0450.push('51GEJUAF TUNUYAN');
+var menu_0485=new Array();menu_0485.push('99 Todos');menu_0485.push('01PRIMERO');	// -- cargar variables 
+	//var p_codigo=$_POST("codigo");
+	var p_codigo="";
+	var codori="01";
+	if (p_codigo!="") var codori=p_codigo.replace(/[.]/g,"");	
+	var codori_1=codori.substr(0,1);
+	var codori_2=codori.substr(1,1);
+	var codori_3=codori.substr(2,2);
+	var codori_4=codori.substr(4,2);
+	var cod_1=codori_1;
+	var cod_2=codori_2;
+	var cod_3=codori_3;
+	var cod_4=codori_4;
+	var limitado=0;
+	var valido_1=false;
+	var valido_2=false;
+	var valido_3=false;
+	var valido_4=false;	
+	// -->
+
+	function tecla(nome) {
+		if (event.keyCode==13) { event.keyCode = 9; }
+		if (event.keyCode==32)	{}
+	}
+
+	function inicializar() {
+		var p;
+		p="0";
+		cod_1=p;
+		seleccion=eval("menu_"+p);
+		cuantos=seleccion.length;
+		n2=document.getElementById('nom2').options.length=cuantos;
+		for(i=0;i<cuantos;i++) {
+			document.getElementById('nom2').options[i].value=seleccion[i].substr(0,1);
+			document.getElementById('nom2').options[i].text=seleccion[i].substr(1);
+			if(cod_1==codori_1 && document.getElementById('nom2').options[i].value==codori_2) {
+				document.getElementById('nom2').options[i].selected=1; valido_2=true;
+			}
+		}
+		document.getElementById('nom2').value=codori_2;
+		setTimeout('cambio_nom2()',10);
+		document.getElementById('nom3').value=codori_3;
+		setTimeout('cambio_nom3()',10);
+		document.getElementById('nom4').value=codori_4;
+		setTimeout('cambio_nom4()',10);
+		cambio_personal();
+	}
+
+	function cambio_personal() {
+		if (document.getElementById("personal").checked ) {
+			document.getElementById("personal_hide").style.display="none";
+			/*document.getElementById('tribunal').setAttribute("hidden","true");
+			document.getElementById('nom2').setAttribute("hidden","true");
+			document.getElementById('nom3').setAttribute("hidden","true");
+			document.getElementById('nom4').setAttribute("hidden","true");
+			document.getElementById('tribunal_l').setAttribute("hidden","true");
+			document.getElementById('nom2_l').setAttribute("hidden","true");
+			document.getElementById('nom3_l').setAttribute("hidden","true");
+			document.getElementById('nom4_l').setAttribute("hidden","true");*/
+			//document.getElementById('sd').setAttribute("disabled","disabled");
+			document.getElementById('dia_adelante').setAttribute("disabled","disabled");
+			document.getElementById('dia_atras').setAttribute("disabled","disabled");
+			document.getElementById('igual').setAttribute("disabled","disabled");
+			//document.getElementById('sd').value=document.getElementById('ed').value;														
+		}
+		else
+		{	
+			document.getElementById("personal_hide").style.display="inline";
+			/*document.getElementById('tribunal').removeAttribute("hidden","false");
+			document.getElementById('nom2').removeAttribute("hidden","false");
+			document.getElementById('nom3').removeAttribute("hidden","false");
+			document.getElementById('nom4').removeAttribute("hidden","false");
+			document.getElementById('tribunal_l').removeAttribute("hidden","false");
+			document.getElementById('nom2_l').removeAttribute("hidden","false");
+			document.getElementById('nom3_l').removeAttribute("hidden","false");
+			document.getElementById('nom4_l').removeAttribute("hidden","false");*/
+			//document.getElementById('sd').removeAttribute("disabled");
+			document.getElementById('dia_adelante').removeAttribute("disabled");
+			document.getElementById('dia_atras').removeAttribute("disabled");
+			document.getElementById('igual').removeAttribute("disabled");						
+		}	
+	}
+
+	function cambio_nom2() {
+		var p;
+		p=document.getElementById('nom2').value;
+		cod_2=p;
+		p=cod_1+cod_2;
+		seleccion=eval("menu_"+p);
+        cuantos=seleccion.length;
+		indice=0;
+    	for(i=0;i<cuantos;i++) {
+     		if (limitado==3 && validos.indexOf(seleccion[i].substr(0,2))<0 ) continue;
+	   		document.getElementById('nom3').options.length=indice+1;
+	   		document.getElementById('nom3').options[indice].value=seleccion[i].substr(0,2);
+           	document.getElementById('nom3').options[indice].text=seleccion[i].substr(2);
+       		if (cod_2==codori_2 && document.getElementById('nom3').options[indice].value==codori_3) {
+				document.getElementById('nom3').options[indice].selected=1; valido_3=true;}
+	   			indice++;	   
+    		}
+   		cambio_nom3();
+	}
+
+	function cambio_nom3() {
+		var p;
+		p=document.getElementById('nom3').value;
+		cod_3=p;
+		p=cod_1+cod_2+cod_3;
+		seleccion=eval("menu_"+p);
+		cuantos=seleccion.length;
+		document.getElementById('nom4').options.length=cuantos;
+    
+		for(i=0;i<cuantos;i++) {
+			document.getElementById('nom4').options[i].value=seleccion[i].substr(0,2);
+			document.getElementById('nom4').options[i].text=seleccion[i].substr(2);
+
+       		if(cod_3==codori_3 && document.getElementById('nom4').options[i].value==codori_4) {
+			   document.getElementById('nom4').options[i].selected=1; valido_4=true;
+			}
+    	}
+		cambio_nom4();
+	}
+
+	function cambio_nom4() {
+		var p;
+		p=document.getElementById('nom4').value;
+		cod_4=p;tex1=cod_1; tex2=cod_2;
+		if (cod_4==99) tex4=""; else tex4="."+cod_4;
+		if (cod_3==99) tex3=""; else tex3="."+cod_3;
+		document.getElementById('tribunal').value=tex1+tex2+tex3+tex4;
+	}
+
+	function salir() {
+		var desori = "";
+		codori = cod_1+cod_2+"."+cod_3+"."+cod_4;
+		desori+=document.getElementById('nom4').text.substr(0,3)+"-";
+		desori+=document.getElementById('nom4').text.substr(0,3)+"-";
+		desori+=document.getElementById('nom4').text.substr(0,42)+"-";
+		desori+=document.getElementById('nom4').text.substr(0,20);
+		window.returnValue = codori + desori;
+		window.close();
+	}
+</script>
+
+<script>
+	// if (p_validar)
+	// {
+	// if (!valido_1 || !valido_2 || !valido_3 || !valido_4)
+	// { // algo esta mal
+	// window.returnValue = 'noexiste';
+	// window.close();
+	// }
+	// else salir();
+	// }
+</script>
+
+<script language="javascript">
+	function eligio(n) {
+		cierra(); cierraA(); cierraB(); cierraC(); cierraD();   
+		document.form2.tribunal.value = n;
+	}
+
+	function datos_usu() {
+		usu_window=window.open('user_datos.php','datos','scrollbars,width=770,height=500,center')
+		usu_window.focus();
+	}
+	
+	function blanquear(fechoy) {
+		document.getElementById("tribunal").value = '';
+		document.getElementById("sd").value = fechoy;
+		document.getElementById("ed").value = fechoy;
+		document.getElementById("numero").value = '';
+		document.getElementById("caratula").value = '';
+		document.getElementById("numero").value = '';
+		document.getElementById("personal").value = 0;
+		// avanzada.style.visibility='hidden';
+	}
+
+	function copia_fec() {
+		document.getElementById("ed").value=document.getElementById("sd").value;
+	}
+   
+	function mover_fecha(n) {
+		var fec = new Date();
+		if (n != 0) { 
+			var txt = document.getElementById("sd").value;
+			var dia = txt.substring(0,2);
+			var mes = txt.substring(3,5);
+			var ano = txt.substring(6,10);
+			var fec = new Date(ano, mes-1, dia);
+			fec.setTime(fec.getTime()+n*1000*60*60*24);
+			if (fec.getDay()==0) fec.setTime(fec.getTime()+n*1000*60*60*24);
+			if (fec.getDay()==6) fec.setTime(fec.getTime()+n*1000*60*60*24);
+			if (fec.getDay()==0) fec.setTime(fec.getTime()+n*1000*60*60*24);
+		}
+		var dia = fec.getDate();
+		var mes = fec.getMonth() + 1;
+		var ano = fec.getYear();
+		//semana = "DomLunMarMieJueVieSab"
+		
+		ds = fec.getDay();
+		//diasem = semana.substr(ds*3,3);
+				
+		var txt = "";
+		if (dia < 10) txt = "0";
+		txt = txt + dia + "/";
+		if (mes < 10) txt = txt + "0";
+		if (ano < 1900) ano += 1900;
+		txt = txt + mes + "/" + ano;
+		document.getElementById("sd").value = txt;
+		if (n > 0) {
+			var txt2 = document.getElementById("ed").value;
+			var dia = txt2.substring(0,2);
+			var mes = txt2.substring(3,5);
+			var ano = txt2.substring(6,10);
+			var fec2 = new Date(ano, mes-1, dia);
+			if (fec.getTime()>fec2.getTime()) document.getElementById("ed").value = txt;
+		}												
+	}	
+
+	function mover_fecha2(n) {
+		var fec = new Date();
+		if (n != 0) { 
+			var txt = document.getElementById("ed").value;
+			var dia = txt.substring(0,2);
+			var mes = txt.substring(3,5);
+			var ano = txt.substring(6,10);
+			var fec = new Date(ano, mes-1, dia);
+			fec.setTime(fec.getTime()+n*1000*60*60*24);
+			if (fec.getDay()==0) fec.setTime(fec.getTime()+n*1000*60*60*24);
+			if (fec.getDay()==6) fec.setTime(fec.getTime()+n*1000*60*60*24);
+			if (fec.getDay()==0) fec.setTime(fec.getTime()+n*1000*60*60*24);
+		}
+		
+		if ( !document.getElementById("personal").checked ) {
+			if (n < 0) {var txt1 = document.getElementById("sd").value;
+				var dia = txt1.substring(0,2);
+				var mes = txt1.substring(3,5);
+				var ano = txt1.substring(6,10);
+				var fec1 = new Date(ano, mes-1, dia);
+			if (fec.getTime()<fec1.getTime()) return;		  
+			}												
+		}
+		var dia = fec.getDate();
+		var mes = fec.getMonth() + 1;
+		var ano = fec.getYear();
+		// semana = "DomLunMarMieJueVieSab"
+		ds = fec.getDay();
+		// diasem = semana.substr(ds*3,3);
+		var txt = "";
+		if (dia < 10) txt = "0";
+		txt = txt + dia + "/";
+		if (mes < 10) txt = txt + "0";
+		if (ano < 1900) ano += 1900;
+		txt = txt + mes + "/" + ano ;
+		document.getElementById("ed").value = txt;
+		//if ( document.getElementById("personal").checked ) 
+		//document.getElementById('sd').value=document.getElementById('ed').value;
+	}
+
+	function veri_numero() {
+		nume=document.getElementById("numero").value;
+		nume=nume.replace(" ","");
+		nume1="";
+		for (nx=0;nx<nume.length;nx++) {
+			ccx=nume.substr(nx,1);
+			if ((ccx>='0' && ccx<='9') || ccx=='/' || ccx=='-') {nume1+=String(ccx);}
+		}
+		document.getElementById("numero").value=nume1;
+	}	
+
+
+</script>
+
+<script>
+	/*
+	$(document).ready(function() {
+    	$('#example').DataTable();
+	} ); 
+	*/
+</script>
+
+<script type="text/javascript">
+    function showContent() {
+        element = document.getElementById("personal_hide");
+        check = document.getElementById("personal");
+        if (check.checked) {
+            element.style.display='none';
+        }
+        else {
+            element.style.display='inline';
+        }
+    }
+</script>
+
+<link rel="stylesheet" href="bootstrap.css">
+<link rel="stylesheet" href="dataTables.bootstrap4.min.css">
+<script src="jquery-3.3.1.js"></script>
+<script src="jquery.dataTables.min.js"></script>
+<script src="dataTables.bootstrap4.min.js"></script>
+
+<link rel="stylesheet" href="font-awesome.min.css">
+</head>
+
+<body>
+	<div class="container-fluid">
+		<div id="logo" class="row">
+			<div class="col col-sm-12 col-md-6 col-lg-8">
+				<img src="../img/logo_listas_diarias_sm.png" width="380" height="102">				
+			</div>
+			<div class="col col-sm-12 col-md-3 col-lg-2" style="padding-top:20px;padding-bottom:20px;text-align:right">
+		   <a id="ingresar" class="btn btn-primary" href="listas.php?saleusr=1"><i class="fa" ></i>Ingresar usuario</a>
+				</div>
+			<div class="col col-sm-12 col-md-3 col-lg-2" style="padding-top:20px;padding-bottom:20px;text-align:right">
+				<a id="salir" class="btn btn-primary" href="listas.php?salir=1"><i class="fa fa-arrow-left" style="margin-right:10px"></i>Salir</a>	
+			</div> 
+		</div>
+
+		<form name="form2" method="post" action="listas.php?consulta=1">
+			 <a id="sorteos31780" class="btn btn-primary" href="https://jusmendoza.gob.ar/ley-n-9423/"  target="_blank"><i class="fa" ></i>Sorteos Ac. 31780</a>
+			<div class="panel_form">
+				<div id="row_wide" class="row justify-content-md-center">		
+					<div id="personal_hide" class="col col-sm-6 col-md-6 col-lg-6" style="display:inline">
+						<label class="label_form" id="nom2_l" for="nom2">Circunsc.</label>
+						<select id="nom2" name="nom2" onKeyDown="tecla(2)" onchange="cambio_nom2()"></select><br>
+						<label class="label_form" id="nom3_l" for="nom3">Tipo</label>
+						<select id="nom3" name="nom3" onKeyDown="tecla(3)" onchange="cambio_nom3()"></select><br>
+						<label class="label_form" id="nom4_l" for="nom4">Juzgado</label>
+						<select id="nom4" name="nom4" onKeyDown="tecla(4)" onchange="cambio_nom4()"></select><br>
+						<label class="label_form" id="tribunal_l" for="tribunal">Código</label>
+						<input type="text" id="tribunal" name="tribunal" readonly="true">
+					</div>	
+					<div class="col col-sm-6 col-md-6 col-lg-6">	
+						<label class="label_form">Desde</label>						
+						<input type="text" class="w6em format-d-m-y highlight-days-67 range-low-1995-01-01 no-transparency" id="sd" name="sd" readonly="true"><br>						
+						<label class="label_form">Hasta</label>						
+						<input type="text" class="w6em format-d-m-y highlight-days-67 range-low-1995-01-01 no-transparency" id="ed" name="ed" onchange="cambio_fecha2" readonly="true"><br>
+						<label class="label_form">N° Expte.</label>					
+						<input type="text" id="numero" name="numero" value="" onchange=veri_numero()><br>
+						<label class="label_form">Carátula</label>
+						<input type="text" id="caratula" name="caratula" value="">
+					</div>
+				</div>
+				
+				<div class="row justify-content-md-center" style="margin-top:10px">
+					<div class="col col-sm-4 col-md-2 col-lg-1" style="margin-top:5px">
+						<input type="hidden" id="iduser" name="iduser" value="">
+						<button id="buscar" type="submit" class="btn btn-primary" name="buscar2"><i class="fa fa-search" style="margin-right:10px"></i>Consultar Lista</button>
+					</div>	
+				</div>
+			</div>	
+		</form>
+	</div>
+	
+	<script language=javascript>inicializar();</script>
+
+	<div align=center style="margin-top:15px">
+		<div id="listado"> 
+					</div>
+	</div>						
+
+	<script language=javascript>
+		document.getElementById("tribunal").value = '';
+		document.getElementById("sd").value = '12/10/2026';
+		document.getElementById("numero").value = '';
+		document.getElementById("caratula").value = '';
+		document.getElementById("ed").value = '12/10/2026';
+		cambio_personal();
+	</script>	
+</body>
+</html>
+
+<style>	
+	html,
+	body {
+		height: 100%;
+		align-items: center;
+		background-color: #f5f5f5;
+	}
+	.container-fluid {
+		max-width: 1024px;
+	}
+	#logo {
+		margin-bottom:10px;
+	}	
+	.table {
+		font-size: 13px;
+		border:1px solid #ddd;		
+	}
+	th {
+		text-align: center !important;
+		text-transform: uppercase;		
+	}
+	th:hover {
+		cursor: default;
+	}
+	tbody tr:hover {
+		cursor:	pointer;
+		background-color: #ffffdd;					
+	}
+	.table .thead th {
+		background:  #e5e5e5;
+		border-color: #fff;
+		font-weight: bold;	
+	}	
+	.btn {		
+		padding: 5px 10px;
+		border-radius: 3px !important;
+		box-shadow: 1px 1px 2px #ccc;				
+	}
+	#salir, #datos {
+		min-width: 130px;		
+	}
+	#buscar {
+		min-width: 160px;		
+	}	
+	.fa-plus {
+		color: #fff;
+		font-size:14px;		
+	} 
+	.alert {
+    	text-align:left !important;
+   		font-size: 15px;
+		font-weight: bold;				
+  	}
+	label {
+		width: 18%;
+		min-width: 70px;
+		font-size: 15px;
+	}
+	.lbl_usuario {
+		width: 50px !important;
+		min-width: 50px !important;
+	}
+	#lbl_usuario, #span_usuario {
+		margin-top: 7px;
+	} 
+	#personal, #senten {
+		margin-top: 10px;
+	}
+	select, input[type="text"] {
+		border-color: #d1d1d1;
+		border-style:solid;
+		border-width:1px;
+		width: 80%;		
+		min-width: 200px;
+		min-height: 35px;		
+	}
+	input[type="checkbox"] {
+		margin-top: 5px;	
+	}
+	input:disabled, #tribunal {
+		background-color:#f1f1f1;
+		border-color:#ccc; 
+		border-style:solid;
+		border-width: 1px;
+	}
+	#ed, #sd {
+		width: 80%;
+		min-width: 200px;		
+		min-height: 35px;		
+	}	
+	input, select, optgroup, textarea {
+		margin: 3px 0;
+		padding: 5px;
+		border-radius:3px;
+	}
+	.panel_user {
+		background: #e9e9e9;
+		border:1px solid #ccc; 
+		padding:5px 15px;
+		//box-shadow: 2px 2px 2px #e9e9e9;
+		border-radius:3px;		 		
+	}
+	.panel_form {
+		background:#f1f1f1;
+		margin-top:15px;
+		border:1px solid #ccc; 
+		padding:10px;
+		//box-shadow: 2px 2px 2px #e9e9e9;
+		border-radius:3px;		
+	}	
+</style>
+

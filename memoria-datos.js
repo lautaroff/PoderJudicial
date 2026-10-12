@@ -1,0 +1,3916 @@
+window.PJM_MEMORIA = {
+  "version": "2026-10-12",
+  "modules": [
+    {
+      "id": 1,
+      "name": "Organización del Estado",
+      "color": "#285dab",
+      "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+      "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+      "pages": 39
+    },
+    {
+      "id": 2,
+      "name": "Poder Judicial de Mendoza",
+      "color": "#0b7274",
+      "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+      "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+      "pages": 113
+    },
+    {
+      "id": 3,
+      "name": "Derechos Humanos",
+      "color": "#7354a5",
+      "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+      "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+      "pages": 23
+    },
+    {
+      "id": 4,
+      "name": "Violencia de Género",
+      "color": "#af466c",
+      "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+      "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+      "pages": 10
+    },
+    {
+      "id": 5,
+      "name": "Servicio de Justicia",
+      "color": "#936c17",
+      "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+      "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+      "pages": 32
+    }
+  ],
+  "cards": [
+    {
+      "id": "m1-01",
+      "module": 1,
+      "title": "Cuatro elementos",
+      "question": "¿Qué cuatro elementos componen el Estado?",
+      "answer": "Territorio, población, poder y gobierno. Territorio es la base espacial; población, el conjunto humano; poder, la capacidad estatal; gobierno, los órganos que lo ejercen.",
+      "page": 2,
+      "cue": "Ubicá un mapa, sus habitantes, una capacidad de decisión y los órganos que la ejercen. Son cuatro piezas distintas.",
+      "note": "",
+      "sources": [
+        {
+          "module": 1,
+          "page": 2
+        },
+        {
+          "module": 1,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "m1-02",
+      "module": 1,
+      "title": "Estado de Derecho",
+      "question": "¿Qué limita jurídicamente al gobierno en un Estado de Derecho?",
+      "answer": "Un ordenamiento positivo regula su organización y actuación y los derechos y libertades de los habitantes. La autoridad está sometida a normas.",
+      "page": 3,
+      "cue": "Imaginá al gobierno dentro del marco de la Constitución: el marco también lo limita.",
+      "note": "",
+      "sources": [
+        {
+          "module": 1,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "m1-03",
+      "module": 1,
+      "title": "Constituyente y constituido",
+      "question": "¿En qué se diferencia el poder constituyente de los poderes constituidos?",
+      "answer": "El constituyente establece o reforma la Constitución. Los poderes constituidos nacen de ella y ejercen las competencias que reciben.",
+      "page": 3,
+      "cue": "Crear el tablero / actuar dentro del tablero. La imagen es una ayuda propia, no una definición jurídica.",
+      "note": "",
+      "sources": [
+        {
+          "module": 1,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "m1-04",
+      "module": 1,
+      "title": "Supremacía",
+      "question": "¿Qué exige la supremacía constitucional a las normas inferiores?",
+      "answer": "Que sean compatibles con la Constitución y el bloque constitucional aplicable. Una norma de rango inferior no puede contradecir válidamente la superior.",
+      "page": 4,
+      "cue": "Escalera normativa: cada peldaño inferior debe respetar el superior.",
+      "note": "",
+      "sources": [
+        {
+          "module": 1,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "id": "m1-05",
+      "module": 1,
+      "title": "Representativa",
+      "question": "¿Qué significa la forma representativa?",
+      "answer": "El pueblo ejerce el gobierno mediante representantes. La iniciativa y consulta popular complementan la participación según la Constitución.",
+      "page": 6,
+      "cue": "La ciudadanía elige quién ocupa el espacio de decisión.",
+      "note": "",
+      "sources": [
+        {
+          "module": 1,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "m1-06",
+      "module": 1,
+      "title": "Republicana",
+      "question": "Nombrá rasgos de la forma republicana.",
+      "answer": "Soberanía popular, igualdad ante la ley, elección y periodicidad de autoridades políticas, responsabilidad, publicidad de los actos y división de poderes.",
+      "page": 6,
+      "cue": "Las decisiones tienen autor responsable y pueden verse: responsabilidad + publicidad. No trasladar el mandato político a los jueces.",
+      "note": "",
+      "sources": [
+        {
+          "module": 1,
+          "page": 6
+        },
+        {
+          "module": 1,
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "m1-07",
+      "module": 1,
+      "title": "Federal",
+      "question": "¿Qué distribuye territorialmente el federalismo argentino?",
+      "answer": "Distribuye el poder entre el gobierno federal y entidades locales autónomas. El módulo distingue Nación, provincias, CABA y municipios.",
+      "page": 8,
+      "cue": "Cuatro escalas territoriales; no son cuatro oficinas subordinadas entre sí en toda materia.",
+      "note": "",
+      "sources": [
+        {
+          "module": 1,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "m1-08",
+      "module": 1,
+      "title": "Autonomía y autarquía",
+      "question": "¿Cuál es la diferencia entre autonomía y autarquía?",
+      "answer": "Autonomía comprende autogobierno y normas propias. Autarquía se refiere a autoadministración. Las provincias son autónomas, no soberanas.",
+      "page": 9,
+      "cue": "Autonomía: decidir reglas propias. Autarquía: administrar. Recordá que no significan lo mismo.",
+      "note": "",
+      "sources": [
+        {
+          "module": 1,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "m1-09",
+      "module": 1,
+      "title": "Congreso",
+      "question": "¿Por qué el Congreso es bicameral, colegiado y complejo?",
+      "answer": "Tiene dos cámaras; está integrado por muchas personas; y posee órganos internos diferenciados. Diputados representa al pueblo y Senado a provincias y CABA.",
+      "page": 11,
+      "cue": "Dos salas, varias personas, organización interna: cada rasgo responde a una pregunta distinta.",
+      "note": "",
+      "sources": [
+        {
+          "module": 1,
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "m1-10",
+      "module": 1,
+      "title": "Diputados y Senado",
+      "question": "¿Qué pares edad–ciudadanía–mandato presenta la tabla nacional?",
+      "answer": "Diputados: 25 años, 4 de ciudadanía y 4 de mandato. Senado: 30 años, 6 de ciudadanía y 6 de mandato. Ambos: nativo del distrito o 2 años de residencia inmediata.",
+      "page": 12,
+      "cue": "Dos renglones: D = 25 / 4 / 4; S = 30 / 6 / 6. No mezcles edad y años de ejercicio.",
+      "note": "",
+      "sources": [
+        {
+          "module": 1,
+          "page": 12
+        }
+      ]
+    },
+    {
+      "id": "m1-11",
+      "module": 1,
+      "title": "Ejecutivo nacional",
+      "question": "¿Quién ejerce el Ejecutivo nacional y cuánto dura el mandato?",
+      "answer": "El presidente ejerce el Poder Ejecutivo. El mandato dura cuatro años; el art. 90 regula una reelección consecutiva o sucesión recíproca y el intervalo de un período posterior.",
+      "page": 15,
+      "cue": "Cuatro años y una continuidad permitida: luego aparece el intervalo constitucional.",
+      "note": "",
+      "sources": [
+        {
+          "module": 1,
+          "page": 15
+        },
+        {
+          "module": 1,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "id": "m1-12",
+      "module": 1,
+      "title": "DNU",
+      "question": "¿Qué cuatro materias quedan excluidas de los DNU?",
+      "answer": "Penal, tributaria, electoral y régimen de partidos políticos. El DNU es una excepción constitucional, no una facultad ordinaria para reemplazar al Congreso.",
+      "page": 17,
+      "cue": "Pensá en castigos, tributos, elecciones y partidos: cuatro asuntos especialmente vedados.",
+      "note": "",
+      "sources": [
+        {
+          "module": 1,
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "m1-13",
+      "module": 1,
+      "title": "Jurisdicción",
+      "question": "¿Qué expresa la función jurisdiccional?",
+      "answer": "La potestad de resolver controversias aplicando el Derecho y hacer cumplir las decisiones, con independencia e imparcialidad.",
+      "page": 21,
+      "cue": "Un conflicto llega, una decisión lo resuelve y puede hacerse cumplir.",
+      "note": "",
+      "sources": [
+        {
+          "module": 1,
+          "page": 21
+        }
+      ]
+    },
+    {
+      "id": "m1-14",
+      "module": 1,
+      "title": "Independencia judicial",
+      "question": "¿Qué dos garantías de independencia destaca el material?",
+      "answer": "Inamovilidad mientras dure la buena conducta e intangibilidad de remuneración. No excluyen los procedimientos constitucionales de remoción.",
+      "page": 22,
+      "cue": "Cargo y remuneración protegidos; responsabilidad y remoción siguen existiendo.",
+      "note": "",
+      "sources": [
+        {
+          "module": 1,
+          "page": 22
+        }
+      ]
+    },
+    {
+      "id": "m1-15",
+      "module": 1,
+      "title": "Federal y provincial",
+      "question": "¿Un juzgado federal situado en Mendoza integra el Poder Judicial provincial?",
+      "answer": "No. La ubicación geográfica no cambia el orden jurisdiccional. Coexisten justicia federal y justicia provincial con competencias propias.",
+      "page": 23,
+      "cue": "Separá dónde está el edificio de a qué orden pertenece.",
+      "note": "",
+      "sources": [
+        {
+          "module": 1,
+          "page": 23
+        }
+      ]
+    },
+    {
+      "id": "m1-16",
+      "module": 1,
+      "title": "Misión y visión",
+      "question": "¿Cómo distinguir misión de visión institucional?",
+      "answer": "Misión es la razón de ser: afianzar justicia y derechos mediante acceso y servicio. Visión es el futuro buscado: un Poder Judicial accesible, eficaz y orientado a proteger derechos.",
+      "page": 25,
+      "cue": "Misión = propósito presente; visión = destino. Leé también los recuadros gráficos originales.",
+      "note": "",
+      "sources": [
+        {
+          "module": 1,
+          "page": 25
+        },
+        {
+          "module": 1,
+          "page": 26
+        }
+      ]
+    },
+    {
+      "id": "m1-17",
+      "module": 1,
+      "title": "Ministerios públicos",
+      "question": "¿Qué distingue al MP Fiscal del MP de la Defensa y Pupilar?",
+      "answer": "El Fiscal defiende la legalidad y los intereses generales. La Defensa y Pupilar brinda asistencia técnico-jurídica para garantizar acceso a justicia, especialmente a personas en vulnerabilidad.",
+      "page": 27,
+      "cue": "Fiscal: legalidad e interés general. Defensa: asistencia y defensa técnica. No intercambiar roles.",
+      "note": "",
+      "sources": [
+        {
+          "module": 1,
+          "page": 27
+        },
+        {
+          "module": 1,
+          "page": 28
+        }
+      ]
+    },
+    {
+      "id": "m1-18",
+      "module": 1,
+      "title": "Tres funciones de la Corte",
+      "question": "¿Qué funciones de la Suprema Corte distingue el módulo?",
+      "answer": "Administrativa y de superintendencia; jurisdiccional; dirimente. Organizar personal, decidir una causa y ejercer potestades prudenciales para resolver conflictos responden a funciones distintas.",
+      "page": 28,
+      "cue": "Tres puertas en la misma Corte: organizar / juzgar / dirimir. La dirimente no se equipara automáticamente a juzgar.",
+      "note": "",
+      "sources": [
+        {
+          "module": 1,
+          "page": 28
+        },
+        {
+          "module": 1,
+          "page": 29
+        }
+      ]
+    },
+    {
+      "id": "m1-19",
+      "module": 1,
+      "title": "Jerarquía",
+      "question": "¿Qué relación describe la jerarquía administrativa?",
+      "answer": "Supremacía y subordinación entre órganos de una misma persona jurídica. Línea es la cadena vertical y grado es la ubicación del órgano en esa cadena.",
+      "page": 31,
+      "cue": "Dibujá una línea con escalones: la línea une; el grado ubica.",
+      "note": "",
+      "sources": [
+        {
+          "module": 1,
+          "page": 31
+        }
+      ]
+    },
+    {
+      "id": "m1-20",
+      "module": 1,
+      "title": "Competencia",
+      "question": "¿La competencia pertenece a la persona funcionaria o al órgano?",
+      "answer": "Al órgano o cargo. Son las atribuciones que puede y debe ejercer legítimamente. Es irrenunciable, con las reglas y excepciones legales sobre delegación o avocación.",
+      "page": 32,
+      "cue": "La llave pertenece al cargo, no al bolsillo personal de quien lo ocupa.",
+      "note": "",
+      "sources": [
+        {
+          "module": 1,
+          "page": 32
+        }
+      ]
+    },
+    {
+      "id": "m1-21",
+      "module": 1,
+      "title": "Acto administrativo",
+      "question": "¿Qué define al acto administrativo?",
+      "answer": "Declaración unilateral efectuada en ejercicio de función administrativa que produce efectos jurídicos individuales y directos.",
+      "page": 32,
+      "cue": "Una declaración + función administrativa + efecto individual directo: comprobar los tres componentes.",
+      "note": "",
+      "sources": [
+        {
+          "module": 1,
+          "page": 32
+        }
+      ]
+    },
+    {
+      "id": "m1-22",
+      "module": 1,
+      "title": "Ejecutividad y ejecutoriedad",
+      "question": "¿Por qué ejecutividad y ejecutoriedad no son sinónimos?",
+      "answer": "Ejecutividad es obligatoriedad y exigibilidad del acto regular notificado. Ejecutoriedad es la posibilidad jurídicamente habilitada de ejecutarlo por sí, sin previa habilitación judicial.",
+      "page": 34,
+      "cue": "Obligatorio / ejecutable por la Administración. El segundo requiere habilitación y límites legales.",
+      "note": "",
+      "sources": [
+        {
+          "module": 1,
+          "page": 34
+        },
+        {
+          "module": 1,
+          "page": 35
+        }
+      ]
+    },
+    {
+      "id": "m1-23",
+      "module": 1,
+      "title": "Vicios del acto",
+      "question": "¿Qué consecuencias corresponden a muy leve, leve, grave y grosero?",
+      "answer": "Muy leve: no afecta validez. Leve: anulabilidad. Grave: nulidad. Grosero: inexistencia. La clasificación exige valorar circunstancias y gravedad.",
+      "page": 36,
+      "cue": "Cuatro escalones crecientes: válido / anulable / nulo / inexistente. No aplicar sin examinar el caso.",
+      "note": "",
+      "sources": [
+        {
+          "module": 1,
+          "page": 36
+        },
+        {
+          "module": 1,
+          "page": 37
+        }
+      ]
+    },
+    {
+      "id": "m1-24",
+      "module": 1,
+      "title": "Lecturas obligatorias",
+      "question": "¿Qué remisiones obligatorias agrega el punto 1.6?",
+      "answer": "Reglamento del Poder Judicial, arts. 3 y 13; Acordada 15422; capítulo III del Decreto Ley 560/73; Ley 9665. La residencia del reglamento fue ampliada a 100 km y no se exige cumplirla al rendir.",
+      "page": 39,
+      "cue": "Una hoja de remisiones es parte del programa: módulo + reglamento + modificatoria + estatuto + ley nueva. No alcanza con el resumen.",
+      "note": "",
+      "sources": [
+        {
+          "module": 1,
+          "page": 39
+        }
+      ]
+    },
+    {
+      "id": "m2-01",
+      "module": 2,
+      "title": "Proceso",
+      "question": "¿Para qué sirve el proceso y cuál es su doble función?",
+      "answer": "Es un medio pacífico de debate para resolver un conflicto: permite obtener solución estatal (función privada) y sustituye la fuerza privada por una garantía institucional (función pública).",
+      "page": 2,
+      "cue": "Del conflicto a una respuesta institucional: la paz social y la solución particular conviven.",
+      "note": "",
+      "sources": [
+        {
+          "module": 2,
+          "page": 2
+        },
+        {
+          "module": 2,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "m2-02",
+      "module": 2,
+      "title": "Partes y auxiliares",
+      "question": "¿Un testigo o perito es parte por colaborar con la prueba?",
+      "answer": "No. Actor y demandado sostienen pretensiones enfrentadas. El testigo aporta hechos y el perito conocimiento especializado; esa colaboración no los convierte en partes.",
+      "page": 3,
+      "cue": "Dos lados del conflicto y colaboradores de la prueba: ubicarlos en lugares distintos.",
+      "note": "",
+      "sources": [
+        {
+          "module": 2,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "m2-03",
+      "module": 2,
+      "title": "Conocimiento y monitorio",
+      "question": "¿Qué diferencia estructural hay entre conocimiento y monitorio?",
+      "answer": "En conocimiento se debate y prueba antes de la sentencia de fondo. El monitorio comienza con una sentencia sobre base documental y ofrece después oportunidad de oposición.",
+      "page": 4,
+      "cue": "Conocimiento: debate → decisión. Monitorio: decisión inicial → posible oposición. Son esquemas de estudio, no todas las etapas de cada vía.",
+      "note": "",
+      "sources": [
+        {
+          "module": 2,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "id": "m2-04",
+      "module": 2,
+      "title": "Cautelar",
+      "question": "¿Qué fin tiene una medida cautelar?",
+      "answer": "Asegurar que el resultado de otro proceso no se frustre. Normalmente se cumple sin audiencia previa del afectado y después se notifica; no elimina la impugnación posterior.",
+      "page": 4,
+      "cue": "Protege el resultado futuro; no confundir asegurar con decidir definitivamente.",
+      "note": "",
+      "sources": [
+        {
+          "module": 2,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "id": "m2-05",
+      "module": 2,
+      "title": "Amparo, corpus y data",
+      "question": "¿Qué derecho orienta a cada vía: amparo, hábeas corpus, hábeas data?",
+      "answer": "Amparo: derecho constitucional frente a arbitrariedad o ilegalidad manifiesta. Hábeas corpus: libertad individual. Hábeas data: datos personales, su conocimiento y corrección cuando corresponda.",
+      "page": 5,
+      "cue": "Tres objetos: derecho / libertad física / datos. El objeto, no el nombre parecido, orienta la distinción.",
+      "note": "",
+      "sources": [
+        {
+          "module": 2,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "id": "m2-06",
+      "module": 2,
+      "title": "Cargo",
+      "question": "¿Qué acredita el cargo de un escrito?",
+      "answer": "La presentación, con fecha, hora y datos significativos. No es la carátula que identifica la causa ni la resolución que contiene la decisión.",
+      "page": 7,
+      "cue": "Cargo = cuándo entró. Carátula = qué causa. Resolución = qué decidió el órgano.",
+      "note": "",
+      "sources": [
+        {
+          "module": 2,
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "m2-07",
+      "module": 2,
+      "title": "Decreto, auto, sentencia",
+      "question": "¿Qué función cumple cada resolución civil?",
+      "answer": "Decreto: desarrollo o trámite. Auto: cuestiones que no corresponden a sentencia definitiva. Sentencia: decisión del fondo. Los plazos generales tienen excepciones expresas.",
+      "page": 7,
+      "cue": "Mover / resolver una cuestión / decidir el fondo. Identificá el contenido antes de memorizar un plazo.",
+      "note": "",
+      "sources": [
+        {
+          "module": 2,
+          "page": 7
+        },
+        {
+          "module": 2,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "m2-08",
+      "module": 2,
+      "title": "Audiencia inicial civil",
+      "question": "¿Qué se hace en la audiencia inicial civil?",
+      "answer": "Intentar conciliar, sanear el proceso, delimitar hechos y decidir admisión y producción de prueba. Debe dirigirla indelegablemente el juez.",
+      "page": 8,
+      "cue": "Preparar el terreno del debate: ordenar qué se discute y qué se prueba.",
+      "note": "",
+      "sources": [
+        {
+          "module": 2,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "m2-09",
+      "module": 2,
+      "title": "Prueba y alegato",
+      "question": "¿Qué distingue la prueba del alegato?",
+      "answer": "La prueba procura acreditar hechos. El alegato argumenta qué conclusión debe extraerse de lo probado. El alegato no sustituye la falta de prueba.",
+      "page": 9,
+      "cue": "Prueba = elementos; alegato = razonamiento sobre esos elementos.",
+      "note": "",
+      "sources": [
+        {
+          "module": 2,
+          "page": 9
+        },
+        {
+          "module": 2,
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "m2-10",
+      "module": 2,
+      "title": "Bus Federal",
+      "question": "¿Para qué sirve el Bus Federal de Justicia?",
+      "answer": "Para comunicaciones interjurisdiccionales digitales. Oficinas derivadoras centralizan envío/recepción; el uso de la plataforma no elimina formalidades, pagos ni vías alternativas ante fallas.",
+      "page": 11,
+      "cue": "Un puente entre jurisdicciones: transporta comunicaciones, no dicta decisiones.",
+      "note": "",
+      "sources": [
+        {
+          "module": 2,
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "m2-11",
+      "module": 2,
+      "title": "BLSG",
+      "question": "¿Para qué sirve el beneficio de litigar sin gastos?",
+      "answer": "Facilita acceso a justicia a quien no puede afrontar gastos. El módulo incorpora trámite automatizado con información socioeconómica y vía incidental; el informe es un insumo del trámite.",
+      "page": 17,
+      "cue": "La barrera económica no debe cerrar la puerta. Consultar datos requiere habilitación institucional.",
+      "note": "",
+      "sources": [
+        {
+          "module": 2,
+          "page": 17
+        },
+        {
+          "module": 2,
+          "page": 18
+        }
+      ]
+    },
+    {
+      "id": "m2-12",
+      "module": 2,
+      "title": "Competencia y cuantía",
+      "question": "¿Cómo calcula el módulo la cuantía civil/Paz?",
+      "answer": "Por capital nominal reclamado, sin intereses ni accesorios. En responsabilidad civil y consumo, el material usa 20 JUS como frontera Paz/Civil.",
+      "page": 27,
+      "cue": "Separá capital de accesorios antes de comparar el límite. No uses pesos históricos de 2023.",
+      "note": "",
+      "sources": [
+        {
+          "module": 2,
+          "page": 27
+        },
+        {
+          "module": 2,
+          "page": 25
+        }
+      ]
+    },
+    {
+      "id": "m2-13",
+      "module": 2,
+      "title": "Apremio",
+      "question": "¿Qué es el apremio?",
+      "answer": "Una estructura monitoria para el cobro compulsivo de créditos tributarios y otros créditos legalmente encomendados, con título suficiente y defensas previstas para esa vía.",
+      "page": 42,
+      "cue": "Cobro con título + defensa propia de esa estructura; no es cualquier demanda de conocimiento.",
+      "note": "",
+      "sources": [
+        {
+          "module": 2,
+          "page": 42
+        }
+      ]
+    },
+    {
+      "id": "m2-14",
+      "module": 2,
+      "title": "Preventivo y quiebra",
+      "question": "¿Qué distingue al concurso preventivo de la quiebra?",
+      "answer": "El preventivo busca superar la insolvencia mediante acuerdo con acreedores. La quiebra persigue liquidación y distribución, con desapoderamiento según régimen legal.",
+      "page": 59,
+      "cue": "Dos salidas colectivas de la insolvencia: acordar / liquidar. No equivalen a cobrar un acreedor aislado.",
+      "note": "",
+      "sources": [
+        {
+          "module": 2,
+          "page": 59
+        }
+      ]
+    },
+    {
+      "id": "m2-15",
+      "module": 2,
+      "title": "Síndico",
+      "question": "¿Qué función cumple el síndico concursal?",
+      "answer": "Es un órgano técnico necesario: vigila administración en preventivo, administra y liquida en quiebra conforme al régimen y emite dictámenes; no sustituye al juez.",
+      "page": 58,
+      "cue": "Juez decide; síndico interviene técnicamente en el concurso. Son roles diferenciados.",
+      "note": "",
+      "sources": [
+        {
+          "module": 2,
+          "page": 58
+        }
+      ]
+    },
+    {
+      "id": "m2-16",
+      "module": 2,
+      "title": "Familia",
+      "question": "¿Qué criterios orientan el abordaje de NNA en familia?",
+      "answer": "Interés superior, autonomía progresiva y derecho a ser oído. Deben atenderse circunstancias y capacidad progresiva, evitando reducir el análisis a una edad aislada.",
+      "page": 64,
+      "cue": "Interés / autonomía / escucha: la persona menor de edad participa como sujeto de derechos.",
+      "note": "",
+      "sources": [
+        {
+          "module": 2,
+          "page": 64
+        },
+        {
+          "module": 2,
+          "page": 68
+        }
+      ]
+    },
+    {
+      "id": "m2-17",
+      "module": 2,
+      "title": "Protectorio laboral",
+      "question": "¿Qué busca el principio protectorio laboral?",
+      "answer": "Compensar jurídicamente la desigualdad de la relación laboral mediante reglas como in dubio pro operario, norma más favorable y condición más beneficiosa.",
+      "page": 72,
+      "cue": "No son tres nombres del mismo supuesto: duda interpretativa, comparación normativa y condición adquirida se distinguen.",
+      "note": "",
+      "sources": [
+        {
+          "module": 2,
+          "page": 72
+        },
+        {
+          "module": 2,
+          "page": 73
+        }
+      ]
+    },
+    {
+      "id": "m2-18",
+      "module": 2,
+      "title": "Vías laborales previas",
+      "question": "¿Qué vías previas distingue el material para despido y riesgos del trabajo?",
+      "answer": "Despido y rubros derivados: Oficina de Conciliación Laboral. Accidente o enfermedad profesional: Comisión Médica en el régimen explicado. No intercambiar recorridos.",
+      "page": 76,
+      "cue": "Dos puertas según conflicto: OCL / Comisión Médica. Revisar los supuestos y excepciones oficiales.",
+      "note": "",
+      "sources": [
+        {
+          "module": 2,
+          "page": 76
+        }
+      ]
+    },
+    {
+      "id": "m2-19",
+      "module": 2,
+      "title": "Garantías penales",
+      "question": "¿Puede la prisión cautelar usarse como una pena anticipada?",
+      "answer": "No. El estado de inocencia subsiste hasta sentencia firme. Acusación no equivale a culpabilidad y las medidas cautelares tienen finalidad y requisitos propios.",
+      "page": 90,
+      "cue": "Imputación / cautela / condena son tres casilleros diferentes.",
+      "note": "",
+      "sources": [
+        {
+          "module": 2,
+          "page": 90
+        }
+      ]
+    },
+    {
+      "id": "m2-20",
+      "module": 2,
+      "title": "Teoría del delito",
+      "question": "¿Qué cuatro presupuestos ordenan el análisis clásico del delito?",
+      "answer": "Conducta, tipicidad, antijuridicidad y culpabilidad. Un hecho típico puede estar justificado; tipicidad no demuestra por sí sola culpabilidad.",
+      "page": 92,
+      "cue": "Cuatro filtros: hecho exteriorizado / encaje legal / ausencia de permiso / reproche personal.",
+      "note": "",
+      "sources": [
+        {
+          "module": 2,
+          "page": 92
+        }
+      ]
+    },
+    {
+      "id": "m2-21",
+      "module": 2,
+      "title": "Fiscal, juez y OGAP",
+      "question": "¿Cómo se separan investigación, decisión y organización en el modelo penal?",
+      "answer": "Fiscal investiga y acusa. Juez controla legalidad y decide con imparcialidad. OGAP administra agenda, salas y recursos; no resuelve prisión preventiva ni sentencias.",
+      "page": 93,
+      "cue": "Investigar / decidir / organizar: tres trabajos que no se intercambian.",
+      "note": "",
+      "sources": [
+        {
+          "module": 2,
+          "page": 93
+        },
+        {
+          "module": 2,
+          "page": 94
+        }
+      ]
+    },
+    {
+      "id": "m2-22",
+      "module": 2,
+      "title": "Juicio por jurados",
+      "question": "¿Cuántos integrantes tiene y qué decide el jurado?",
+      "answer": "12 titulares y 4 suplentes, con paridad. El jurado decide hechos y veredicto; el juez técnico dirige y resuelve cuestiones jurídicas. El módulo exige unanimidad de titulares para el veredicto.",
+      "page": 96,
+      "cue": "12 deciden + 4 suplen. Hechos/veredicto y derecho/dirección son responsabilidades diferenciadas.",
+      "note": "",
+      "sources": [
+        {
+          "module": 2,
+          "page": 96
+        },
+        {
+          "module": 2,
+          "page": 99
+        }
+      ]
+    },
+    {
+      "id": "m2-23",
+      "module": 2,
+      "title": "Penal juvenil 2026",
+      "question": "¿Qué franja de edad presenta el módulo 2026 para punibilidad juvenil?",
+      "answer": "Desde 14 años hasta las cero horas del día en que se cumplen 18, conforme a la nueva ley citada. Estar en la franja no implica culpabilidad probada ni prisión obligatoria.",
+      "page": 102,
+      "cue": "Una franja temporal, no un veredicto. No reutilizar 16–18 del régimen anterior; leer también los anexos nuevos de p. 109.",
+      "note": "",
+      "sources": [
+        {
+          "module": 2,
+          "page": 102
+        },
+        {
+          "module": 2,
+          "page": 109
+        }
+      ]
+    },
+    {
+      "id": "m2-24",
+      "module": 2,
+      "title": "Legajo juvenil",
+      "question": "¿La consulta provincial de LeD vuelve público un legajo juvenil?",
+      "answer": "No. El módulo dispone que el legajo penal juvenil es privado. La interoperabilidad y trazabilidad no autorizan acceso público indiscriminado.",
+      "page": 108,
+      "cue": "Una red puede conectar oficinas sin abrir la información a todo el mundo.",
+      "note": "",
+      "sources": [
+        {
+          "module": 2,
+          "page": 108
+        }
+      ]
+    },
+    {
+      "id": "m3-01",
+      "module": 3,
+      "title": "Dignidad",
+      "question": "¿La dignidad depende de virtudes, nacionalidad o buena conducta?",
+      "answer": "No. Es inherente a toda persona humana y fundamento de los derechos humanos. No se otorga como premio ni se pierde por cometer un delito.",
+      "page": 6,
+      "cue": "La persona va primero; su dignidad no es una medalla que el Estado entrega.",
+      "note": "",
+      "sources": [
+        {
+          "module": 3,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "m3-02",
+      "module": 3,
+      "title": "Garante principal",
+      "question": "¿Quién es titular y quién es el principal garante de los derechos humanos?",
+      "answer": "La persona es titular; el Estado es primer y principal garante. Las obligaciones abarcan respeto, protección y garantía.",
+      "page": 3,
+      "cue": "Persona con derechos / Estado con obligaciones: dos posiciones de la relación.",
+      "note": "",
+      "sources": [
+        {
+          "module": 3,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "m3-03",
+      "module": 3,
+      "title": "Subsidiariedad",
+      "question": "¿Cómo se relaciona la protección internacional con la interna?",
+      "answer": "La internacional es una garantía adicional y subsidiaria de los mecanismos nacionales. No sustituye sin más a los recursos internos.",
+      "page": 3,
+      "cue": "Una segunda red de protección, adicional a la primera.",
+      "note": "",
+      "sources": [
+        {
+          "module": 3,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "m3-04",
+      "module": 3,
+      "title": "Universal y regional",
+      "question": "¿Qué sistemas internacionales menciona el módulo para Argentina?",
+      "answer": "Sistema universal, en la ONU, y sistema regional interamericano, en la OEA. Ambos tienen órganos y mecanismos propios.",
+      "page": 4,
+      "cue": "Dos círculos: mundo / región. No confundir ONU con OEA.",
+      "note": "",
+      "sources": [
+        {
+          "module": 3,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "id": "m3-05",
+      "module": 3,
+      "title": "Jerarquía de tratados",
+      "question": "¿Todos los tratados de derechos humanos tienen jerarquía constitucional?",
+      "answer": "No automáticamente. La tienen los enumerados en el art. 75 inc. 22 CN y los elevados por el procedimiento constitucional. Todos los ratificados tienen jerarquía superior a las leyes.",
+      "page": 4,
+      "cue": "Constitucional y supralegal no son la misma altura.",
+      "note": "",
+      "sources": [
+        {
+          "module": 3,
+          "page": 4
+        },
+        {
+          "module": 3,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "id": "m3-06",
+      "module": 3,
+      "title": "Efectividad",
+      "question": "¿Qué agrega la efectividad al reconocimiento de un derecho?",
+      "answer": "Que pueda gozarse y ejercerse plenamente, con exigibilidad y operatividad. No basta declararlo como una aspiración.",
+      "page": 6,
+      "cue": "Del papel a la posibilidad real de ejercer y reclamar.",
+      "note": "",
+      "sources": [
+        {
+          "module": 3,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "m3-07",
+      "module": 3,
+      "title": "Progresividad",
+      "question": "¿Qué dirección impone la progresividad?",
+      "answer": "Avanzar hacia mayor reconocimiento, protección y realización de derechos. La prohibición de regresividad impide, al menos en principio, retroceder sobre lo alcanzado.",
+      "page": 6,
+      "cue": "Una trayectoria de protección creciente; revisar un retroceso requiere fundamento, no tratarlo como libre opción.",
+      "note": "",
+      "sources": [
+        {
+          "module": 3,
+          "page": 6
+        },
+        {
+          "module": 3,
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "m3-08",
+      "module": 3,
+      "title": "Pro personae",
+      "question": "¿Cómo orienta la selección e interpretación de normas el principio pro personae?",
+      "answer": "Hacia la protección más amplia de derechos y la restricción menos intensa. Opera tanto al elegir entre normas aplicables como al interpretar una norma.",
+      "page": 7,
+      "cue": "Abrir protección / estrechar restricción. La flecha apunta a la persona protegida.",
+      "note": "",
+      "sources": [
+        {
+          "module": 3,
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "m3-09",
+      "module": 3,
+      "title": "Igualdad",
+      "question": "¿Igualdad exige dar idéntico trato ante cualquier situación?",
+      "answer": "No. Reconoce diferencias y puede requerir medidas frente a desigualdad estructural. No discriminación impide diferencias que lesionen derechos.",
+      "page": 8,
+      "cue": "Equilibrar acceso puede requerir remover una barrera específica.",
+      "note": "",
+      "sources": [
+        {
+          "module": 3,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "m3-10",
+      "module": 3,
+      "title": "Acción positiva",
+      "question": "¿Qué fin tienen las medidas de acción positiva?",
+      "answer": "Generar condiciones que compensen desigualdad estructural histórica. El módulo las caracteriza como temporales y orientadas al igual goce de derechos.",
+      "page": 8,
+      "cue": "Un apoyo dirigido a una barrera, no una etiqueta permanente de inferioridad.",
+      "note": "",
+      "sources": [
+        {
+          "module": 3,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "m3-11",
+      "module": 3,
+      "title": "Universalidad",
+      "question": "¿A quiénes y en qué lugares pertenecen los derechos humanos?",
+      "answer": "A todas las personas, en todo momento y lugar, sin distinciones que nieguen su condición humana.",
+      "page": 8,
+      "cue": "Toda persona atraviesa el mismo umbral de titularidad.",
+      "note": "",
+      "sources": [
+        {
+          "module": 3,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "m3-12",
+      "module": 3,
+      "title": "Interdependencia",
+      "question": "¿Por qué negar un derecho puede afectar otros?",
+      "answer": "Los derechos son indivisibles, interdependientes, integrales y complementarios: forman un sistema de protección de una vida digna.",
+      "page": 8,
+      "cue": "Una red: cortar un vínculo puede tensionar los demás.",
+      "note": "",
+      "sources": [
+        {
+          "module": 3,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "m3-13",
+      "module": 3,
+      "title": "Irrenunciables e imprescriptibles",
+      "question": "¿Qué significan irrenunciabilidad e imprescriptibilidad en este material?",
+      "answer": "No se puede obligar a renunciar a derechos y libertades; no se pierden por el transcurso del tiempo ni por falta de ejercicio.",
+      "page": 9,
+      "cue": "Ni firma forzada ni reloj borran la titularidad de derechos humanos.",
+      "note": "",
+      "sources": [
+        {
+          "module": 3,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "m3-14",
+      "module": 3,
+      "title": "Inalienables",
+      "question": "¿Los derechos humanos pueden comercializarse o transferirse?",
+      "answer": "No. Son atributos inherentes a la persona y no pueden cederse, venderse o transferirse.",
+      "page": 9,
+      "cue": "Una persona no pone en venta su titularidad de derechos.",
+      "note": "",
+      "sources": [
+        {
+          "module": 3,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "m3-15",
+      "module": 3,
+      "title": "Clasificación didáctica",
+      "question": "¿Clasificar derechos en civiles, sociales y colectivos permite jerarquizarlos?",
+      "answer": "No. La clasificación es pedagógica e histórica; no reduce importancia, exigibilidad ni fuerza vinculante de ninguna categoría.",
+      "page": 9,
+      "cue": "Estantes para ordenar el estudio, no un podio de derechos.",
+      "note": "",
+      "sources": [
+        {
+          "module": 3,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "m3-16",
+      "module": 3,
+      "title": "Respetar",
+      "question": "¿Qué exige la obligación estatal de respetar?",
+      "answer": "Abstenerse de interferir ilegítimamente en el ejercicio de derechos. Es la dimensión negativa, sin que los demás deberes se reduzcan a abstenerse.",
+      "page": 10,
+      "cue": "Primero, no obstaculizar ni vulnerar.",
+      "note": "",
+      "sources": [
+        {
+          "module": 3,
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "m3-17",
+      "module": 3,
+      "title": "Garantizar",
+      "question": "¿La obligación de garantizar se cumple sólo con no dañar?",
+      "answer": "No. Requiere medidas positivas para hacer posible el goce efectivo, organizar mecanismos de protección y responder a las violaciones.",
+      "page": 11,
+      "cue": "Hacer que el derecho pueda ejercerse: organizar y actuar.",
+      "note": "",
+      "sources": [
+        {
+          "module": 3,
+          "page": 11
+        },
+        {
+          "module": 3,
+          "page": 12
+        }
+      ]
+    },
+    {
+      "id": "m3-18",
+      "module": 3,
+      "title": "Proteger",
+      "question": "¿Qué alcanza la protección frente a terceros?",
+      "answer": "Exige medidas para evitar que particulares vulneren derechos y respuestas adecuadas ante esas afectaciones. No toda afectación se agota en un agente estatal directo.",
+      "page": 11,
+      "cue": "El Estado debe cuidar también frente al daño de terceros.",
+      "note": "",
+      "sources": [
+        {
+          "module": 3,
+          "page": 11
+        },
+        {
+          "module": 3,
+          "page": 12
+        }
+      ]
+    },
+    {
+      "id": "m3-19",
+      "module": 3,
+      "title": "Investigar y reparar",
+      "question": "¿Qué deberes aparecen ante violaciones de derechos?",
+      "answer": "Prevenir, investigar, sancionar cuando corresponda y reparar, dentro de las obligaciones de garantía. No basta un reconocimiento formal sin respuesta efectiva.",
+      "page": 11,
+      "cue": "Antes: prevenir. Después: investigar, sancionar y reparar; cada verbo tiene una función.",
+      "note": "",
+      "sources": [
+        {
+          "module": 3,
+          "page": 11
+        },
+        {
+          "module": 3,
+          "page": 3
+        },
+        {
+          "module": 3,
+          "page": 13
+        }
+      ]
+    },
+    {
+      "id": "m3-20",
+      "module": 3,
+      "title": "Vulnerabilidad situada",
+      "question": "¿La vulnerabilidad es una cualidad natural e inmutable de una persona?",
+      "answer": "No. Se vincula a contextos y condiciones estructurales de desigualdad, es dinámica y modificable. Se habla de personas o grupos en situación de vulnerabilidad.",
+      "page": 16,
+      "cue": "Poner el foco en las barreras y el contexto, no fijar una etiqueta esencial.",
+      "note": "",
+      "sources": [
+        {
+          "module": 3,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "id": "m3-21",
+      "module": 3,
+      "title": "Discriminación estructural",
+      "question": "¿Qué exige reconocer patrones de desigualdad estructural?",
+      "answer": "No limitarse a un caso aislado: identificar barreras y adoptar acciones para revertir desigualdades en el acceso y ejercicio de derechos.",
+      "page": 17,
+      "cue": "Una dificultad repetida en un grupo pide mirar también el sistema que la produce.",
+      "note": "",
+      "sources": [
+        {
+          "module": 3,
+          "page": 17
+        }
+      ]
+    },
+    {
+      "id": "m3-22",
+      "module": 3,
+      "title": "Enfoque de derechos",
+      "question": "¿Qué cambia el enfoque de derechos en una política pública?",
+      "answer": "Las personas se consideran titulares con derechos exigibles y el Estado responsable de cumplir obligaciones, en cada acción, decisión y política.",
+      "page": 18,
+      "cue": "De receptor de ayuda a titular que puede exigir.",
+      "note": "",
+      "sources": [
+        {
+          "module": 3,
+          "page": 18
+        }
+      ]
+    },
+    {
+      "id": "m3-23",
+      "module": 3,
+      "title": "Acceso integral",
+      "question": "¿Acceso a justicia equivale solamente a poder entrar a un tribunal?",
+      "answer": "No. El modelo integral incluye ingreso, permanencia, participación y una respuesta efectiva, con eliminación de barreras a lo largo de la trayectoria.",
+      "page": 21,
+      "cue": "Puerta, recorrido y respuesta: las tres partes del viaje importan.",
+      "note": "",
+      "sources": [
+        {
+          "module": 3,
+          "page": 21
+        }
+      ]
+    },
+    {
+      "id": "m3-24",
+      "module": 3,
+      "title": "Barreras de género",
+      "question": "¿Por qué una barrera institucional puede afectar más a mujeres en vulnerabilidad?",
+      "answer": "La desigualdad y discriminación estructural se combinan con otras barreras. El enfoque exige reconocer el contexto y mejorar las condiciones reales de acceso.",
+      "page": 22,
+      "cue": "Barreras que se superponen: mirar la combinación, sin presumir experiencias idénticas.",
+      "note": "",
+      "sources": [
+        {
+          "module": 3,
+          "page": 22
+        },
+        {
+          "module": 3,
+          "page": 23
+        }
+      ]
+    },
+    {
+      "id": "m4-01",
+      "module": 4,
+      "title": "Perspectiva de género",
+      "question": "¿Qué permite observar la perspectiva de género?",
+      "answer": "Relaciones de poder, desigualdades y sesgos asociados al género para evitar reproducirlos en decisiones y prácticas institucionales.",
+      "page": 2,
+      "cue": "Un lente hace visible un sesgo; no agrega una preferencia arbitraria.",
+      "note": "",
+      "sources": [
+        {
+          "module": 4,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "id": "m4-02",
+      "module": 4,
+      "title": "Interseccionalidad",
+      "question": "¿Qué analiza la interseccionalidad?",
+      "answer": "Cómo se entrecruzan género y otras condiciones o ejes de desigualdad, produciendo experiencias específicas que no se explican por un factor aislado.",
+      "page": 2,
+      "cue": "Cruce de caminos, no suma mecánica de etiquetas.",
+      "note": "",
+      "sources": [
+        {
+          "module": 4,
+          "page": 2
+        }
+      ]
+    },
+    {
+      "id": "m4-03",
+      "module": 4,
+      "title": "Sexo y género",
+      "question": "¿En qué se diferencia sexo de género en el módulo?",
+      "answer": "Sexo refiere a características biológicas. Género, a una construcción sociohistórica y dinámica de roles y características atribuidas; es relacional y modificable.",
+      "page": 3,
+      "cue": "Cuerpo / atribuciones sociales: dos dimensiones que no deben confundirse.",
+      "note": "",
+      "sources": [
+        {
+          "module": 4,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "m4-04",
+      "module": 4,
+      "title": "Estereotipos",
+      "question": "¿Qué hace un estereotipo de género?",
+      "answer": "Prescribe lo esperable o deseable para cada sexo y sanciona socialmente a quien se aparta. No es una descripción neutral de cada persona.",
+      "page": 3,
+      "cue": "Una plantilla sobre las personas borra diferencias y genera expectativas obligatorias.",
+      "note": "",
+      "sources": [
+        {
+          "module": 4,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "m4-05",
+      "module": 4,
+      "title": "Machismo y sexismo",
+      "question": "¿Cómo distingue el módulo machismo de sexismo?",
+      "answer": "Machismo: creencia en superioridad del varón. Sexismo: métodos y mecanismos culturales o institucionales que mantienen subordinación y desigualdad.",
+      "page": 3,
+      "cue": "Creencia de superioridad / mecanismos que la sostienen.",
+      "note": "",
+      "sources": [
+        {
+          "module": 4,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "m4-06",
+      "module": 4,
+      "title": "Orientación",
+      "question": "¿Qué dimensión responde a «quién me atrae»?",
+      "answer": "La orientación sexual: atracción emocional, afectiva y sexual. No permite inferir identidad o expresión de género.",
+      "page": 4,
+      "cue": "Atracción no es autopercepción ni apariencia.",
+      "note": "",
+      "sources": [
+        {
+          "module": 4,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "id": "m4-07",
+      "module": 4,
+      "title": "Identidad",
+      "question": "¿Qué dimensión responde a «cómo me autopercibo»?",
+      "answer": "La identidad de género: vivencia interna e individual, coincida o no con el sexo asignado al nacer.",
+      "page": 4,
+      "cue": "El centro es la vivencia de la persona, no una lectura externa.",
+      "note": "",
+      "sources": [
+        {
+          "module": 4,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "id": "m4-08",
+      "module": 4,
+      "title": "Expresión",
+      "question": "¿Qué dimensión responde a «cómo me muestro»?",
+      "answer": "La expresión de género: manifestaciones externas como vestimenta, peinado, lenguaje corporal o estilo. No autoriza a deducir orientación.",
+      "page": 4,
+      "cue": "La expresión es visible; identidad y atracción no se deducen de la ropa.",
+      "note": "",
+      "sources": [
+        {
+          "module": 4,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "id": "m4-09",
+      "module": 4,
+      "title": "Hetero y cisnormatividad",
+      "question": "¿Qué presupone cada normatividad?",
+      "answer": "Heteronormatividad: heterosexualidad como única forma válida. Cisnormatividad: que toda identidad coincide con el sexo asignado al nacer.",
+      "page": 4,
+      "cue": "Una presupone atracción; otra, identidad. Identificá la dimensión de cada supuesto.",
+      "note": "",
+      "sources": [
+        {
+          "module": 4,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "id": "m4-10",
+      "module": 4,
+      "title": "Ley 26743",
+      "question": "¿Se exige cirugía, hormonas o diagnóstico para la rectificación registral resumida?",
+      "answer": "No. El módulo excluye esos requisitos. La ley reconoce identidad autopercibida y trato conforme a ella; consultar el articulado para todos los requisitos del trámite.",
+      "page": 5,
+      "cue": "Reconocimiento de identidad no es un examen médico.",
+      "note": "",
+      "sources": [
+        {
+          "module": 4,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "id": "m4-11",
+      "module": 4,
+      "title": "Violencia directa e indirecta",
+      "question": "¿Puede haber violencia sin una agresión física?",
+      "answer": "Sí. Incluye acciones u omisiones basadas en desigualdad de poder; la indirecta comprende prácticas o criterios discriminatorios que colocan a la mujer en desventaja.",
+      "page": 5,
+      "cue": "Mirar conducta, omisión y efecto; no buscar únicamente un golpe.",
+      "note": "",
+      "sources": [
+        {
+          "module": 4,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "id": "m4-12",
+      "module": 4,
+      "title": "Tipo y modalidad",
+      "question": "¿Cuál es la diferencia entre tipo y modalidad de violencia?",
+      "answer": "Tipo describe la forma del daño o afectación; modalidad identifica el ámbito o contexto de manifestación. Un mismo hecho puede combinar tipos y una modalidad.",
+      "page": 5,
+      "cue": "Tipo = qué daño. Modalidad = en qué contexto. Son dos ejes que se cruzan.",
+      "note": "",
+      "sources": [
+        {
+          "module": 4,
+          "page": 5
+        },
+        {
+          "module": 4,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "m4-13",
+      "module": 4,
+      "title": "Física y psicológica",
+      "question": "¿Qué distingue violencia física de psicológica?",
+      "answer": "La física actúa sobre el cuerpo y causa daño, dolor o riesgo. La psicológica afecta emocionalmente, autoestima o desarrollo mediante humillación, control, aislamiento u otras conductas.",
+      "page": 5,
+      "cue": "Cuerpo / vida emocional: pueden coexistir, no se excluyen.",
+      "note": "",
+      "sources": [
+        {
+          "module": 4,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "id": "m4-14",
+      "module": 4,
+      "title": "Sexual y económica",
+      "question": "¿Qué objetos protegen estos dos tipos?",
+      "answer": "La sexual afecta decidir libremente sobre vida sexual o reproductiva. La económica o patrimonial menoscaba recursos, ingresos o bienes.",
+      "page": 5,
+      "cue": "Decisión sexual / recursos y patrimonio: reconocer el objeto afectado.",
+      "note": "",
+      "sources": [
+        {
+          "module": 4,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "id": "m4-15",
+      "module": 4,
+      "title": "Simbólica y política",
+      "question": "¿Cómo distinguir violencia simbólica de política?",
+      "answer": "Simbólica: mensajes, signos y estereotipos que naturalizan dominación. Política: restricción de participación y representación pública en igualdad.",
+      "page": 5,
+      "cue": "Mensaje que subordina / participación que se impide. No confundir tipo política con modalidad pública política.",
+      "note": "",
+      "sources": [
+        {
+          "module": 4,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "id": "m4-16",
+      "module": 4,
+      "title": "Doméstica",
+      "question": "¿La modalidad doméstica exige convivencia actual?",
+      "answer": "No. Puede provenir de familiares o vínculos vigentes o finalizados, con o sin convivencia, según la definición del módulo.",
+      "page": 6,
+      "cue": "El vínculo importa; no sólo compartir techo hoy.",
+      "note": "",
+      "sources": [
+        {
+          "module": 4,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "m4-17",
+      "module": 4,
+      "title": "Laboral e institucional",
+      "question": "¿Qué diferencia estas modalidades?",
+      "answer": "Laboral: discriminación, hostigamiento o desigualdad en el empleo. Institucional: agentes que retardan, obstaculizan o impiden acceso a derechos o políticas públicas.",
+      "page": 6,
+      "cue": "Empleo / acceso a derechos por acción institucional. El mismo hecho puede requerir más de una mirada.",
+      "note": "",
+      "sources": [
+        {
+          "module": 4,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "m4-18",
+      "module": 4,
+      "title": "Digital",
+      "question": "¿Qué caracteriza la modalidad digital o telemática?",
+      "answer": "Se ejerce mediante TIC: difusión no consentida de material íntimo, ciberacoso, extorsión, odio misógino o ciberataques, según el módulo.",
+      "page": 6,
+      "cue": "El medio digital define el contexto; el daño puede ser psicológico, sexual, económico u otro.",
+      "note": "",
+      "sources": [
+        {
+          "module": 4,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "m4-19",
+      "module": 4,
+      "title": "Ciclo de violencia",
+      "question": "¿Qué tres fases presenta el modelo de Walker?",
+      "answer": "Acumulación de tensión, explosión o descarga y luna de miel o arrepentimiento. Con el tiempo puede desaparecer la tercera fase y aumentar frecuencia y gravedad.",
+      "page": 7,
+      "cue": "Una secuencia ayuda a reconocer la dinámica; no usarla para negar violencia cuando un caso no repite exactamente el modelo.",
+      "note": "",
+      "sources": [
+        {
+          "module": 4,
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "m4-20",
+      "module": 4,
+      "title": "Revictimización",
+      "question": "¿Qué prácticas pueden revictimizar en una oficina?",
+      "answer": "Demoras injustificadas, derivaciones inconducentes, interrogatorios repetitivos, indagaciones privadas o exámenes superfluos y tratos deshumanizados.",
+      "page": 8,
+      "cue": "No hacer que el recorrido institucional agregue un nuevo daño.",
+      "note": "",
+      "sources": [
+        {
+          "module": 4,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "m4-21",
+      "module": 4,
+      "title": "Retractación",
+      "question": "¿Retirar o no ratificar una denuncia obliga a cerrar una investigación de acción pública?",
+      "answer": "No. El MPF debe continuar de oficio; se analiza el contexto y se produce prueba independiente, sin amenazas a la persona retractada.",
+      "page": 9,
+      "cue": "Retractación no es botón de cierre: contexto, prueba y deber estatal.",
+      "note": "",
+      "sources": [
+        {
+          "module": 4,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "m4-22",
+      "module": 4,
+      "title": "Protocolo 30979",
+      "question": "¿Quién aplica el protocolo de violencia laboral por género y a quién protege?",
+      "answer": "La Dirección de la Mujer, Género y Diversidad. Alcanza personal judicial sin importar cargo, antigüedad o contratación y contempla trabajo presencial y remoto en las cuatro circunscripciones.",
+      "page": 9,
+      "cue": "La protección cruza cargos y modalidades de trabajo.",
+      "note": "",
+      "sources": [
+        {
+          "module": 4,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "m4-23",
+      "module": 4,
+      "title": "Principios del protocolo",
+      "question": "Nombrá los principios de actuación del protocolo resumido.",
+      "answer": "Dignidad, confidencialidad, no revictimización, gratuidad, celeridad e imparcialidad. Divulgar datos vulnera la confidencialidad.",
+      "page": 9,
+      "cue": "Seis condiciones del recorrido: digno, reservado, sin daño añadido, gratuito, célere e imparcial.",
+      "note": "",
+      "sources": [
+        {
+          "module": 4,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "m4-24",
+      "module": 4,
+      "title": "Medidas de resguardo",
+      "question": "¿Qué ejemplos de resguardo inmediato menciona el módulo?",
+      "answer": "Separar espacios, trabajo remoto o traslado transitorio, flexibilidad horaria y licencia. No confundir estas medidas con sanción definitiva ni presumir consentimiento universal para compulsas.",
+      "page": 10,
+      "cue": "Proteger durante el trámite es distinto de resolver responsabilidad. Para compulsas: consultar original pp. 17–18.",
+      "note": "",
+      "sources": [
+        {
+          "module": 4,
+          "page": 10
+        },
+        {
+          "file": "biblioteca/2026/referencias/Protocolo-Violencia-Laboral-30979.pdf",
+          "page": 17,
+          "label": "Protocolo original"
+        }
+      ]
+    },
+    {
+      "id": "m5-01",
+      "module": 5,
+      "title": "Centro en la ciudadanía",
+      "question": "¿Qué cambia al poner a la ciudadanía en el centro del servicio?",
+      "answer": "Se organiza la atención alrededor de necesidades y derechos reales: orientación, accesibilidad, transparencia, respeto y eficiencia, no sólo cumplimiento interno del trámite.",
+      "page": 3,
+      "cue": "El expediente tiene una persona alrededor; ordenar el servicio desde su necesidad.",
+      "note": "",
+      "sources": [
+        {
+          "module": 5,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "m5-02",
+      "module": 5,
+      "title": "Calidad",
+      "question": "¿La calidad del servicio equivale únicamente a rapidez?",
+      "answer": "No. Integra respeto y empatía, accesibilidad, transparencia, participación y eficacia en la respuesta. Rapidez sin comprensión puede dejar la necesidad sin resolver.",
+      "page": 4,
+      "cue": "Un reloj no mide por sí solo si la persona entendió y pudo actuar.",
+      "note": "",
+      "sources": [
+        {
+          "module": 5,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "id": "m5-03",
+      "module": 5,
+      "title": "Puerta de entrada",
+      "question": "¿Por qué el agente es una puerta de entrada a la justicia?",
+      "answer": "Su trato y orientación conectan a la persona con el ejercicio de derechos y con la institución; la atención integra la tutela efectiva.",
+      "page": 5,
+      "cue": "La primera interacción puede abrir o cerrar el recorrido.",
+      "note": "",
+      "sources": [
+        {
+          "module": 5,
+          "page": 5
+        }
+      ]
+    },
+    {
+      "id": "m5-04",
+      "module": 5,
+      "title": "Experiencia integral",
+      "question": "¿La experiencia de justicia se reduce a la sentencia?",
+      "answer": "No. Incluye la trayectoria completa de interacciones, expectativas y emociones desde búsqueda de información hasta finalización.",
+      "page": 6,
+      "cue": "Mirar toda la ruta, no sólo la última estación.",
+      "note": "",
+      "sources": [
+        {
+          "module": 5,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "m5-05",
+      "module": 5,
+      "title": "Búsqueda y formalización",
+      "question": "¿Qué respuestas ayudan en búsqueda y formalización?",
+      "answer": "Búsqueda: información clara y señalización frente a incertidumbre. Formalización: explicar pasos y evitar tecnicismos frente a ansiedad y expectativas.",
+      "page": 6,
+      "cue": "Primero orientarse; después iniciar con pasos comprensibles.",
+      "note": "",
+      "sources": [
+        {
+          "module": 5,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "m5-06",
+      "module": 5,
+      "title": "Seguimiento y audiencia",
+      "question": "¿Qué necesita una persona durante seguimiento y audiencia?",
+      "answer": "Seguimiento: conocer estado y plazos realistas. Audiencia: entender roles y desarrollo, con trato cálido frente a intimidación o miedo.",
+      "page": 7,
+      "cue": "En seguimiento pregunta dónde va; en audiencia quién hace qué.",
+      "note": "",
+      "sources": [
+        {
+          "module": 5,
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "m5-07",
+      "module": 5,
+      "title": "Resolución y cierre",
+      "question": "¿Cómo atender resolución y finalización?",
+      "answer": "Comunicar con empatía, explicar opciones y orientar el cierre sin trámites innecesarios. El resultado puede generar alivio o frustración.",
+      "page": 7,
+      "cue": "La decisión se explica; la salida se acompaña.",
+      "note": "",
+      "sources": [
+        {
+          "module": 5,
+          "page": 7
+        }
+      ]
+    },
+    {
+      "id": "m5-08",
+      "module": 5,
+      "title": "Lenguaje claro",
+      "question": "¿Qué busca el lenguaje claro en la atención?",
+      "answer": "Que la información sea comprensible y útil: adaptar vocabulario, organizar ideas, explicar tecnicismos y comprobar comprensión sin perder precisión.",
+      "page": 9,
+      "cue": "Claro no es incompleto: el criterio es si la persona comprende qué hacer.",
+      "note": "",
+      "sources": [
+        {
+          "module": 5,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "m5-09",
+      "module": 5,
+      "title": "Comunicación no verbal",
+      "question": "¿Qué debe concordar con las palabras al atender?",
+      "answer": "Postura, gestos, expresión facial, mirada, tono y distancia según la situación. La comunicación verbal y no verbal deben sostener un trato respetuoso.",
+      "page": 11,
+      "cue": "Un «te escucho» necesita una conducta que lo acompañe.",
+      "note": "",
+      "sources": [
+        {
+          "module": 5,
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "m5-10",
+      "module": 5,
+      "title": "Escucha activa",
+      "question": "¿Escuchar activamente consiste sólo en permanecer en silencio?",
+      "answer": "No. Requiere atención, empatía, preguntas pertinentes, reformulación y verificación de comprensión, sin juzgar ni interrumpir innecesariamente.",
+      "page": 11,
+      "cue": "Escuchar → reformular → verificar. La secuencia es una ayuda práctica propia.",
+      "note": "",
+      "sources": [
+        {
+          "module": 5,
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "m5-11",
+      "module": 5,
+      "title": "Regla contextual",
+      "question": "¿La referencia a Mehrabian significa que sólo 7% de cualquier información jurídica depende de palabras?",
+      "answer": "No. El material la contextualiza a actitudes y sentimientos. No debe generalizarse a transmisión de contenido jurídico o instrucciones.",
+      "page": 10,
+      "cue": "Contexto antes que porcentaje: el significado de una norma sí depende de sus palabras.",
+      "note": "",
+      "sources": [
+        {
+          "module": 5,
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "m5-12",
+      "module": 5,
+      "title": "Cuatro pilares",
+      "question": "¿Cuáles son los cuatro pilares de atención?",
+      "answer": "Cortesía, respeto, eficiencia y resolución efectiva. Cada uno describe conductas observables, no sólo una intención amable.",
+      "page": 14,
+      "cue": "Saludar / dignificar / usar bien recursos / resolver u orientar el paso siguiente.",
+      "note": "",
+      "sources": [
+        {
+          "module": 5,
+          "page": 14
+        }
+      ]
+    },
+    {
+      "id": "m5-13",
+      "module": 5,
+      "title": "Derivación",
+      "question": "¿Qué convierte una derivación en orientación útil?",
+      "answer": "Comprender la necesidad, explicar por qué y adónde se deriva, brindar información precisa y verificar dudas. Evitar enviar de oficina en oficina sin una dirección concreta.",
+      "page": 16,
+      "cue": "Un puente con destino y explicación, no una puerta que se cierra.",
+      "note": "",
+      "sources": [
+        {
+          "module": 5,
+          "page": 16
+        }
+      ]
+    },
+    {
+      "id": "m5-14",
+      "module": 5,
+      "title": "Quejas",
+      "question": "¿Cómo abordar una queja?",
+      "answer": "Escuchar sin interrumpir, reconocer el problema o malestar, buscar solución o derivación pertinente, actuar y hacer seguimiento según el procedimiento descrito.",
+      "page": 17,
+      "cue": "La queja informa un fallo del recorrido y pide una respuesta, no una defensa automática de la oficina.",
+      "note": "",
+      "sources": [
+        {
+          "module": 5,
+          "page": 17
+        },
+        {
+          "module": 5,
+          "page": 18
+        }
+      ]
+    },
+    {
+      "id": "m5-15",
+      "module": 5,
+      "title": "Modelo social",
+      "question": "¿Dónde sitúa las barreras el modelo social de discapacidad?",
+      "answer": "En la interacción entre personas y entornos con obstáculos. La institución debe remover barreras y proporcionar apoyos para participación en igualdad.",
+      "page": 18,
+      "cue": "Mirar la escalera, el formulario y el trato; no atribuir todo a la persona.",
+      "note": "",
+      "sources": [
+        {
+          "module": 5,
+          "page": 18
+        }
+      ]
+    },
+    {
+      "id": "m5-16",
+      "module": 5,
+      "title": "Diseño y ajustes",
+      "question": "¿Qué distingue diseño universal de ajustes razonables?",
+      "answer": "Diseño universal: condiciones accesibles pensadas desde el inicio para el mayor número de personas. Ajustes razonables: modificaciones necesarias para un caso particular, sin carga desproporcionada.",
+      "page": 19,
+      "cue": "Preparar el entorno para muchos / adaptar lo necesario para una persona.",
+      "note": "",
+      "sources": [
+        {
+          "module": 5,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "id": "m5-17",
+      "module": 5,
+      "title": "Cuatro dimensiones accesibles",
+      "question": "¿Qué dimensiones de accesibilidad desarrolla el módulo?",
+      "answer": "Física; información y comunicación; actitudinal; tecnológica. No basta eliminar una escalera si los contenidos o el trato siguen excluyendo.",
+      "page": 19,
+      "cue": "Edificio / mensaje / trato / sistema: cuatro lugares donde buscar barreras.",
+      "note": "",
+      "sources": [
+        {
+          "module": 5,
+          "page": 19
+        },
+        {
+          "module": 5,
+          "page": 20
+        }
+      ]
+    },
+    {
+      "id": "m5-18",
+      "module": 5,
+      "title": "Accesibilidad actitudinal",
+      "question": "¿Cómo evitar una barrera actitudinal?",
+      "answer": "Dirigirse a la persona, escuchar, no infantilizar ni presumir incapacidad y ofrecer ayuda sin imponerla. Adaptar el trato a necesidades expresadas.",
+      "page": 20,
+      "cue": "Preguntar y respetar autonomía antes de ayudar.",
+      "note": "",
+      "sources": [
+        {
+          "module": 5,
+          "page": 20
+        }
+      ]
+    },
+    {
+      "id": "m5-19",
+      "module": 5,
+      "title": "Personas mayores",
+      "question": "¿Qué puede requerir una atención accesible a personas mayores?",
+      "answer": "Considerar barreras sensoriales, movilidad, tiempos y brecha digital, con alternativas y explicaciones claras, sin tratar a todas como dependientes.",
+      "page": 21,
+      "cue": "Tiempo, formato y alternativa; no suponer una misma necesidad por la edad.",
+      "note": "",
+      "sources": [
+        {
+          "module": 5,
+          "page": 21
+        }
+      ]
+    },
+    {
+      "id": "m5-20",
+      "module": 5,
+      "title": "Niñez y cultura",
+      "question": "¿Qué cambia al atender niñez o personas con otra lengua/cultura?",
+      "answer": "Usar comunicación adecuada, reconocer participación y necesidades; procurar intérpretes o apoyos cuando corresponda y evitar estereotipos.",
+      "page": 22,
+      "cue": "Adaptar el canal para escuchar a la persona, no cambiar su derecho a ser escuchada.",
+      "note": "",
+      "sources": [
+        {
+          "module": 5,
+          "page": 22
+        },
+        {
+          "module": 5,
+          "page": 23
+        }
+      ]
+    },
+    {
+      "id": "m5-21",
+      "module": 5,
+      "title": "Cinco componentes",
+      "question": "¿Cuáles son los cinco componentes de una competencia?",
+      "answer": "Saber; saber hacer; saber ser/estar; querer hacer; poder hacer. Conocimiento, habilidad, actitud, motivación y condiciones de realización se complementan.",
+      "page": 24,
+      "cue": "Una mano de cinco apoyos: conocer, aplicar, actuar, querer y contar con medios.",
+      "note": "",
+      "sources": [
+        {
+          "module": 5,
+          "page": 24
+        }
+      ]
+    },
+    {
+      "id": "m5-22",
+      "module": 5,
+      "title": "Iceberg",
+      "question": "¿Qué enseña el modelo del iceberg de competencias?",
+      "answer": "Conocimientos y habilidades son más visibles. Actitudes, valores y motivaciones son menos visibles y también influyen en el desempeño.",
+      "page": 25,
+      "cue": "Lo visible no agota la competencia; mirar también lo que sostiene la conducta.",
+      "note": "",
+      "sources": [
+        {
+          "module": 5,
+          "page": 25
+        }
+      ]
+    },
+    {
+      "id": "m5-23",
+      "module": 5,
+      "title": "Aprendizaje consciente",
+      "question": "¿Qué secuencia didáctica de aprendizaje presenta el módulo?",
+      "answer": "Incompetencia inconsciente, incompetencia consciente, competencia consciente y competencia inconsciente. Reconocer una falta permite practicar de manera deliberada.",
+      "page": 27,
+      "cue": "No sé que falta → detecto la falta → hago con atención → desempeño automatizado. No usarlo como diagnóstico rígido de una persona.",
+      "note": "",
+      "sources": [
+        {
+          "module": 5,
+          "page": 27
+        }
+      ]
+    },
+    {
+      "id": "m5-24",
+      "module": 5,
+      "title": "Ética y barreras",
+      "question": "¿Cómo conecta la ética del agente con el acceso a justicia?",
+      "answer": "Integridad, responsabilidad, respeto y confidencialidad deben traducirse en acciones que eviten barreras económicas, culturales, geográficas, de género y discapacidad.",
+      "page": 28,
+      "cue": "Un valor se recuerda mejor unido a una acción concreta que abre el acceso.",
+      "note": "",
+      "sources": [
+        {
+          "module": 5,
+          "page": 28
+        },
+        {
+          "module": 5,
+          "page": 29
+        }
+      ]
+    }
+  ],
+  "maps": [
+    {
+      "id": "estado",
+      "module": 1,
+      "title": "El Estado: piezas, forma y límites",
+      "root": "Estado",
+      "rootSources": [
+        {
+          "module": 1,
+          "page": 2
+        }
+      ],
+      "lead": "La composición, la forma de gobierno y los límites jurídicos responden a preguntas diferentes.",
+      "groups": [
+        {
+          "title": "¿Con qué se integra?",
+          "relation": "se compone de",
+          "nodes": [
+            {
+              "id": "territorio",
+              "label": "Territorio",
+              "detail": "Base espacial de la soberanía: tierra, aguas y aire.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 2
+                }
+              ]
+            },
+            {
+              "id": "poblacion",
+              "label": "Población",
+              "detail": "Elemento humano asentado con permanencia.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 2
+                }
+              ]
+            },
+            {
+              "id": "poder",
+              "label": "Poder",
+              "detail": "Capacidad estatal para cumplir fines, con autoridad y coerción.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 2
+                }
+              ]
+            },
+            {
+              "id": "gobierno",
+              "label": "Gobierno",
+              "detail": "Órganos que ejercen el poder mediante funciones.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "¿Qué forma adopta Argentina?",
+          "relation": "adopta una forma",
+          "nodes": [
+            {
+              "id": "m1-05",
+              "label": "Representativa",
+              "detail": "El pueblo ejerce el gobierno mediante representantes. La iniciativa y consulta popular complementan la participación según la Constitución.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 6
+                }
+              ]
+            },
+            {
+              "id": "m1-06",
+              "label": "Republicana",
+              "detail": "Soberanía popular, igualdad ante la ley, elección y periodicidad de autoridades políticas, responsabilidad, publicidad de los actos y división de poderes.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 6
+                },
+                {
+                  "module": 1,
+                  "page": 7
+                }
+              ]
+            },
+            {
+              "id": "m1-07",
+              "label": "Federal",
+              "detail": "Distribuye el poder entre el gobierno federal y entidades locales autónomas. El módulo distingue Nación, provincias, CABA y municipios.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "¿Qué limita su actuación?",
+          "relation": "está sujeto a",
+          "nodes": [
+            {
+              "id": "m1-02",
+              "label": "Estado de Derecho",
+              "detail": "Un ordenamiento positivo regula su organización y actuación y los derechos y libertades de los habitantes. La autoridad está sometida a normas.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 3
+                }
+              ]
+            },
+            {
+              "id": "m1-04",
+              "label": "Supremacía",
+              "detail": "Que sean compatibles con la Constitución y el bloque constitucional aplicable. Una norma de rango inferior no puede contradecir válidamente la superior.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 4
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "hint": "Ubicación propia: piezas a la izquierda; forma en el centro; límites a la derecha. Reconstruí la relación y después los nombres.",
+      "kind": "concept"
+    },
+    {
+      "id": "corte",
+      "module": 1,
+      "title": "Una Corte, tres funciones",
+      "root": "Suprema Corte de Mendoza",
+      "rootSources": [
+        {
+          "module": 1,
+          "page": 28
+        }
+      ],
+      "lead": "Las ramas clasifican la función ejercida; no crean tres instituciones distintas.",
+      "groups": [
+        {
+          "title": "Organizar",
+          "relation": "ejerce función",
+          "nodes": [
+            {
+              "id": "corte-admin",
+              "label": "Administrativa / superintendencia",
+              "detail": "Reglamentos internos, disciplina, nombramientos y gestión.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 28
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Decidir causas",
+          "relation": "ejerce función",
+          "nodes": [
+            {
+              "id": "corte-jur",
+              "label": "Jurisdiccional",
+              "detail": "Resuelve causas dentro de competencias constitucionales y legales.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 29
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Resolver conflictos prudentemente",
+          "relation": "ejerce función",
+          "nodes": [
+            {
+              "id": "corte-dir",
+              "label": "Dirimente",
+              "detail": "Actuación prudencial, gradual, de buena fe y sin arbitrariedad; el módulo la distingue de jurisdicción.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 29
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "hint": "Ayuda propia: organizar / juzgar / dirimir. Primero reconocé el contenido del acto. La organización por Ley 9423 debe estudiarse también en M2.",
+      "kind": "concept"
+    },
+    {
+      "id": "administracion",
+      "module": 1,
+      "title": "Órgano, atribuciones y efectos",
+      "root": "Organización administrativa",
+      "rootSources": [
+        {
+          "module": 1,
+          "page": 30
+        }
+      ],
+      "lead": "No confundir quién puede decidir con qué efectos produce una decisión.",
+      "groups": [
+        {
+          "title": "Relaciones entre órganos",
+          "relation": "se ordena mediante",
+          "nodes": [
+            {
+              "id": "m1-19",
+              "label": "Jerarquía",
+              "detail": "Supremacía y subordinación entre órganos de una misma persona jurídica. Línea es la cadena vertical y grado es la ubicación del órgano en esa cadena.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 31
+                }
+              ]
+            },
+            {
+              "id": "m1-20",
+              "label": "Competencia",
+              "detail": "Al órgano o cargo. Son las atribuciones que puede y debe ejercer legítimamente. Es irrenunciable, con las reglas y excepciones legales sobre delegación o avocación.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 32
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Declaración y eficacia",
+          "relation": "produce y regula",
+          "nodes": [
+            {
+              "id": "m1-21",
+              "label": "Acto administrativo",
+              "detail": "Declaración unilateral efectuada en ejercicio de función administrativa que produce efectos jurídicos individuales y directos.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 32
+                }
+              ]
+            },
+            {
+              "id": "m1-22",
+              "label": "Ejecutividad y ejecutoriedad",
+              "detail": "Ejecutividad es obligatoriedad y exigibilidad del acto regular notificado. Ejecutoriedad es la posibilidad jurídicamente habilitada de ejecutarlo por sí, sin previa habilitación judicial.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 34
+                },
+                {
+                  "module": 1,
+                  "page": 35
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Control de validez",
+          "relation": "examina",
+          "nodes": [
+            {
+              "id": "m1-23",
+              "label": "Vicios del acto",
+              "detail": "Muy leve: no afecta validez. Leve: anulabilidad. Grave: nulidad. Grosero: inexistencia. La clasificación exige valorar circunstancias y gravedad.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 36
+                },
+                {
+                  "module": 1,
+                  "page": 37
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Personas que la integran",
+          "relation": "se rigen también por",
+          "nodes": [
+            {
+              "id": "m1-24",
+              "label": "Lecturas obligatorias",
+              "detail": "Reglamento del Poder Judicial, arts. 3 y 13; Acordada 15422; capítulo III del Decreto Ley 560/73; Ley 9665. La residencia del reglamento fue ampliada a 100 km y no se exige cumplirla al rendir.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 39
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "hint": "Ubicá competencia antes del acto: tener una intención útil no crea atribuciones legales.",
+      "kind": "concept"
+    },
+    {
+      "id": "fueros",
+      "module": 2,
+      "title": "Árbol de materias: identificar el conflicto",
+      "root": "Materias del módulo 2",
+      "rootSources": [
+        {
+          "module": 2,
+          "page": 2
+        }
+      ],
+      "lead": "Este árbol agrupa temas del programa. Las ramas no expresan subordinación jerárquica ni un reparto exhaustivo de competencia.",
+      "groups": [
+        {
+          "title": "Patrimonio, cobro e insolvencia",
+          "relation": "incluye asuntos de",
+          "nodes": [
+            {
+              "id": "civil",
+              "label": "Civil / comercial",
+              "detail": "Conflictos privados y reglas procesales civiles.",
+              "sources": [
+                {
+                  "module": 2,
+                  "page": 2
+                }
+              ]
+            },
+            {
+              "id": "paz",
+              "label": "Paz",
+              "detail": "Primera instancia con competencias específicas; mirar materia, territorio y cuantía.",
+              "sources": [
+                {
+                  "module": 2,
+                  "page": 24
+                }
+              ]
+            },
+            {
+              "id": "tributario",
+              "label": "Tributario",
+              "detail": "Obligación tributaria y cobro por apremio con título suficiente.",
+              "sources": [
+                {
+                  "module": 2,
+                  "page": 42
+                }
+              ]
+            },
+            {
+              "id": "concursal",
+              "label": "Concursal",
+              "detail": "Insolvencia y ejecución colectiva: preventivo / quiebra.",
+              "sources": [
+                {
+                  "module": 2,
+                  "page": 59
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Vínculos y trabajo",
+          "relation": "incluye asuntos de",
+          "nodes": [
+            {
+              "id": "familia",
+              "label": "Familia",
+              "detail": "Relaciones familiares, interés superior, autonomía progresiva y participación.",
+              "sources": [
+                {
+                  "module": 2,
+                  "page": 64
+                }
+              ]
+            },
+            {
+              "id": "laboral",
+              "label": "Laboral",
+              "detail": "Conflictos del trabajo y tutela protectoria; no todo empleo público sigue esta vía.",
+              "sources": [
+                {
+                  "module": 2,
+                  "page": 72
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Potestad punitiva",
+          "relation": "incluye asuntos de",
+          "nodes": [
+            {
+              "id": "penal",
+              "label": "Penal",
+              "detail": "Delitos, garantías y separación acusación / decisión.",
+              "sources": [
+                {
+                  "module": 2,
+                  "page": 87
+                }
+              ]
+            },
+            {
+              "id": "juvenil",
+              "label": "Penal juvenil",
+              "detail": "Especialidad y actualizaciones 2026; remisiones de la p. 109.",
+              "sources": [
+                {
+                  "module": 2,
+                  "page": 102
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "hint": "Ayuda propia: preguntá qué conflicto hay antes de buscar la oficina. Para resolver un caso real hacen falta sus reglas específicas.",
+      "kind": "concept"
+    },
+    {
+      "id": "proceso",
+      "module": 2,
+      "title": "Proceso de conocimiento: el orden tiene sentido",
+      "root": "Secuencia civil básica",
+      "rootSources": [
+        {
+          "module": 2,
+          "page": 3
+        }
+      ],
+      "lead": "Esquema didáctico general. No reemplaza los incidentes, excepciones ni reglas particulares; el monitorio tiene otra estructura.",
+      "groups": [
+        {
+          "title": "Inicio del debate",
+          "relation": "se inicia y contradice con",
+          "nodes": [
+            {
+              "id": "demanda",
+              "label": "Demanda",
+              "detail": "El actor formula su pretensión.",
+              "sources": [
+                {
+                  "module": 2,
+                  "page": 3
+                }
+              ]
+            },
+            {
+              "id": "contestacion",
+              "label": "Contestación",
+              "detail": "El demandado responde a la pretensión.",
+              "sources": [
+                {
+                  "module": 2,
+                  "page": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Acreditación y discusión",
+          "relation": "continúa con",
+          "nodes": [
+            {
+              "id": "m2-08",
+              "label": "Audiencia inicial",
+              "detail": "Intentar conciliar, sanear el proceso, delimitar hechos y decidir admisión y producción de prueba. Debe dirigirla indelegablemente el juez.",
+              "sources": [
+                {
+                  "module": 2,
+                  "page": 8
+                }
+              ]
+            },
+            {
+              "id": "prueba",
+              "label": "Prueba",
+              "detail": "Acredita los hechos relevantes controvertidos.",
+              "sources": [
+                {
+                  "module": 2,
+                  "page": 9
+                }
+              ]
+            },
+            {
+              "id": "alegatos",
+              "label": "Alegatos",
+              "detail": "Argumentan qué conclusión deriva de la prueba.",
+              "sources": [
+                {
+                  "module": 2,
+                  "page": 10
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Respuesta jurisdiccional",
+          "relation": "culmina normalmente en",
+          "nodes": [
+            {
+              "id": "sentencia",
+              "label": "Sentencia",
+              "detail": "Decide el fondo del litigio.",
+              "sources": [
+                {
+                  "module": 2,
+                  "page": 8
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "hint": "Ubicación propia: entrar al debate → preparar y probar → argumentar → decidir. La secuencia explica por qué prueba y alegato son distintos.",
+      "kind": "sequence"
+    },
+    {
+      "id": "penal",
+      "module": 2,
+      "title": "Investigar, decidir y organizar",
+      "root": "Modelo acusatorio",
+      "rootSources": [
+        {
+          "module": 2,
+          "page": 93
+        }
+      ],
+      "lead": "La división por tareas evita confundir administración con jurisdicción.",
+      "groups": [
+        {
+          "title": "Investigación y acusación",
+          "relation": "asigna al",
+          "nodes": [
+            {
+              "id": "fiscal",
+              "label": "Ministerio Público Fiscal",
+              "detail": "Dirige investigación y sostiene acusación cuando corresponde.",
+              "sources": [
+                {
+                  "module": 2,
+                  "page": 93
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Control y decisión",
+          "relation": "asigna al",
+          "nodes": [
+            {
+              "id": "juez",
+              "label": "Juez imparcial",
+              "detail": "Controla legalidad y decide medidas y controversias; no sostiene acusación.",
+              "sources": [
+                {
+                  "module": 2,
+                  "page": 93
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Gestión de audiencias",
+          "relation": "asigna a",
+          "nodes": [
+            {
+              "id": "ogap",
+              "label": "OGAP",
+              "detail": "Agenda, salas, recursos, traslados y tareas administrativas.",
+              "sources": [
+                {
+                  "module": 2,
+                  "page": 94
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Garantías durante todo el proceso",
+          "relation": "exige",
+          "nodes": [
+            {
+              "id": "m2-19",
+              "label": "Garantías penales",
+              "detail": "No. El estado de inocencia subsiste hasta sentencia firme. Acusación no equivale a culpabilidad y las medidas cautelares tienen finalidad y requisitos propios.",
+              "sources": [
+                {
+                  "module": 2,
+                  "page": 90
+                }
+              ]
+            },
+            {
+              "id": "m2-24",
+              "label": "Legajo juvenil",
+              "detail": "No. El módulo dispone que el legajo penal juvenil es privado. La interoperabilidad y trazabilidad no autorizan acceso público indiscriminado.",
+              "sources": [
+                {
+                  "module": 2,
+                  "page": 108
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "hint": "Tres mesas de trabajo: carpeta de investigación / decisión judicial / calendario. Son imágenes propias para recordar funciones.",
+      "kind": "concept"
+    },
+    {
+      "id": "derechos",
+      "module": 3,
+      "title": "Derechos: fundamento, principios y obligaciones",
+      "root": "Dignidad de la persona",
+      "rootSources": [
+        {
+          "module": 3,
+          "page": 6
+        }
+      ],
+      "lead": "Los principios orientan la interpretación; los deberes obligan al Estado. No son categorías intercambiables.",
+      "groups": [
+        {
+          "title": "Principios para aplicar",
+          "relation": "fundamenta y orienta",
+          "nodes": [
+            {
+              "id": "m3-06",
+              "label": "Efectividad",
+              "detail": "Que pueda gozarse y ejercerse plenamente, con exigibilidad y operatividad. No basta declararlo como una aspiración.",
+              "sources": [
+                {
+                  "module": 3,
+                  "page": 6
+                }
+              ]
+            },
+            {
+              "id": "m3-07",
+              "label": "Progresividad",
+              "detail": "Avanzar hacia mayor reconocimiento, protección y realización de derechos. La prohibición de regresividad impide, al menos en principio, retroceder sobre lo alcanzado.",
+              "sources": [
+                {
+                  "module": 3,
+                  "page": 6
+                },
+                {
+                  "module": 3,
+                  "page": 7
+                }
+              ]
+            },
+            {
+              "id": "m3-08",
+              "label": "Pro personae",
+              "detail": "Hacia la protección más amplia de derechos y la restricción menos intensa. Opera tanto al elegir entre normas aplicables como al interpretar una norma.",
+              "sources": [
+                {
+                  "module": 3,
+                  "page": 7
+                }
+              ]
+            },
+            {
+              "id": "m3-09",
+              "label": "Igualdad",
+              "detail": "No. Reconoce diferencias y puede requerir medidas frente a desigualdad estructural. No discriminación impide diferencias que lesionen derechos.",
+              "sources": [
+                {
+                  "module": 3,
+                  "page": 8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Obligaciones estatales",
+          "relation": "exige al Estado",
+          "nodes": [
+            {
+              "id": "m3-16",
+              "label": "Respetar",
+              "detail": "Abstenerse de interferir ilegítimamente en el ejercicio de derechos. Es la dimensión negativa, sin que los demás deberes se reduzcan a abstenerse.",
+              "sources": [
+                {
+                  "module": 3,
+                  "page": 10
+                }
+              ]
+            },
+            {
+              "id": "m3-17",
+              "label": "Garantizar",
+              "detail": "No. Requiere medidas positivas para hacer posible el goce efectivo, organizar mecanismos de protección y responder a las violaciones.",
+              "sources": [
+                {
+                  "module": 3,
+                  "page": 11
+                },
+                {
+                  "module": 3,
+                  "page": 12
+                }
+              ]
+            },
+            {
+              "id": "m3-18",
+              "label": "Proteger",
+              "detail": "Exige medidas para evitar que particulares vulneren derechos y respuestas adecuadas ante esas afectaciones. No toda afectación se agota en un agente estatal directo.",
+              "sources": [
+                {
+                  "module": 3,
+                  "page": 11
+                },
+                {
+                  "module": 3,
+                  "page": 12
+                }
+              ]
+            },
+            {
+              "id": "satisfaccion",
+              "label": "Satisfacción",
+              "detail": "Políticas y acciones para superar obstáculos al ejercicio, especialmente DESCA.",
+              "sources": [
+                {
+                  "module": 3,
+                  "page": 11
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Acceso en la práctica",
+          "relation": "requiere reconocer",
+          "nodes": [
+            {
+              "id": "m3-20",
+              "label": "Vulnerabilidad situada",
+              "detail": "No. Se vincula a contextos y condiciones estructurales de desigualdad, es dinámica y modificable. Se habla de personas o grupos en situación de vulnerabilidad.",
+              "sources": [
+                {
+                  "module": 3,
+                  "page": 16
+                }
+              ]
+            },
+            {
+              "id": "m3-22",
+              "label": "Enfoque de derechos",
+              "detail": "Las personas se consideran titulares con derechos exigibles y el Estado responsable de cumplir obligaciones, en cada acción, decisión y política.",
+              "sources": [
+                {
+                  "module": 3,
+                  "page": 18
+                }
+              ]
+            },
+            {
+              "id": "m3-23",
+              "label": "Acceso integral",
+              "detail": "No. El modelo integral incluye ingreso, permanencia, participación y una respuesta efectiva, con eliminación de barreras a lo largo de la trayectoria.",
+              "sources": [
+                {
+                  "module": 3,
+                  "page": 21
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "hint": "Ayuda propia: dignidad al centro; principios responden cómo interpretar, obligaciones qué debe hacer el Estado y acceso dónde remover barreras.",
+      "kind": "concept"
+    },
+    {
+      "id": "genero",
+      "module": 4,
+      "title": "Diversidad: tres preguntas diferentes",
+      "root": "Dimensiones de la sexualidad",
+      "rootSources": [
+        {
+          "module": 4,
+          "page": 4
+        }
+      ],
+      "lead": "Ninguna dimensión permite deducir automáticamente las otras.",
+      "groups": [
+        {
+          "title": "Atracción",
+          "relation": "se describe con",
+          "nodes": [
+            {
+              "id": "m4-06",
+              "label": "Orientación sexual",
+              "detail": "La orientación sexual: atracción emocional, afectiva y sexual. No permite inferir identidad o expresión de género.",
+              "sources": [
+                {
+                  "module": 4,
+                  "page": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Vivencia interna",
+          "relation": "se describe con",
+          "nodes": [
+            {
+              "id": "m4-07",
+              "label": "Identidad de género",
+              "detail": "La identidad de género: vivencia interna e individual, coincida o no con el sexo asignado al nacer.",
+              "sources": [
+                {
+                  "module": 4,
+                  "page": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Manifestación externa",
+          "relation": "se describe con",
+          "nodes": [
+            {
+              "id": "m4-08",
+              "label": "Expresión de género",
+              "detail": "La expresión de género: manifestaciones externas como vestimenta, peinado, lenguaje corporal o estilo. No autoriza a deducir orientación.",
+              "sources": [
+                {
+                  "module": 4,
+                  "page": 4
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "hint": "Tres preguntas del propio PDF: ¿quién me atrae?, ¿cómo me autopercibo?, ¿cómo me muestro? No hacer inferencias a partir de apariencia.",
+      "kind": "concept"
+    },
+    {
+      "id": "violencias",
+      "module": 4,
+      "title": "Violencia: dos ejes que se cruzan",
+      "root": "Violencia contra las mujeres",
+      "rootSources": [
+        {
+          "module": 4,
+          "page": 5
+        }
+      ],
+      "lead": "Un tipo puede manifestarse en varias modalidades. La relación es de cruce, no de equivalencia uno a uno.",
+      "groups": [
+        {
+          "title": "Tipo = forma de afectación",
+          "relation": "puede ser de tipo",
+          "nodes": [
+            {
+              "id": "fisica",
+              "label": "Física",
+              "detail": "Cuerpo, dolor, daño o riesgo.",
+              "sources": [
+                {
+                  "module": 4,
+                  "page": 5
+                }
+              ]
+            },
+            {
+              "id": "psicologica",
+              "label": "Psicológica",
+              "detail": "Daño emocional, humillación, aislamiento o control.",
+              "sources": [
+                {
+                  "module": 4,
+                  "page": 5
+                }
+              ]
+            },
+            {
+              "id": "sexual",
+              "label": "Sexual",
+              "detail": "Vulnera decisión sexual o reproductiva.",
+              "sources": [
+                {
+                  "module": 4,
+                  "page": 5
+                }
+              ]
+            },
+            {
+              "id": "economica",
+              "label": "Económica / patrimonial",
+              "detail": "Afecta recursos, bienes o ingresos.",
+              "sources": [
+                {
+                  "module": 4,
+                  "page": 5
+                }
+              ]
+            },
+            {
+              "id": "simbolica",
+              "label": "Simbólica",
+              "detail": "Mensajes o signos que naturalizan dominación.",
+              "sources": [
+                {
+                  "module": 4,
+                  "page": 5
+                }
+              ]
+            },
+            {
+              "id": "politica",
+              "label": "Política",
+              "detail": "Restringe participación y representación.",
+              "sources": [
+                {
+                  "module": 4,
+                  "page": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Modalidad = ámbito / contexto",
+          "relation": "se manifiesta en modalidad",
+          "nodes": [
+            {
+              "id": "domestica",
+              "label": "Doméstica",
+              "detail": "Vínculo familiar o afectivo, con o sin convivencia.",
+              "sources": [
+                {
+                  "module": 4,
+                  "page": 6
+                }
+              ]
+            },
+            {
+              "id": "institucional",
+              "label": "Institucional",
+              "detail": "Agentes obstaculizan acceso a derechos.",
+              "sources": [
+                {
+                  "module": 4,
+                  "page": 6
+                }
+              ]
+            },
+            {
+              "id": "laboral-v",
+              "label": "Laboral",
+              "detail": "Discrimina u hostiga en el empleo.",
+              "sources": [
+                {
+                  "module": 4,
+                  "page": 6
+                }
+              ]
+            },
+            {
+              "id": "reproductiva",
+              "label": "Contra la libertad reproductiva",
+              "detail": "Impide decidir número o intervalo de hijos.",
+              "sources": [
+                {
+                  "module": 4,
+                  "page": 6
+                }
+              ]
+            },
+            {
+              "id": "obstetrica",
+              "label": "Obstétrica",
+              "detail": "Abuso o trato deshumanizado en atención de salud.",
+              "sources": [
+                {
+                  "module": 4,
+                  "page": 6
+                }
+              ]
+            },
+            {
+              "id": "mediatica",
+              "label": "Mediática",
+              "detail": "Mensajes e imágenes en medios masivos.",
+              "sources": [
+                {
+                  "module": 4,
+                  "page": 6
+                }
+              ]
+            },
+            {
+              "id": "publicos",
+              "label": "En espacios públicos",
+              "detail": "Acoso con connotación sexual en calle o transporte.",
+              "sources": [
+                {
+                  "module": 4,
+                  "page": 6
+                }
+              ]
+            },
+            {
+              "id": "publica-politica",
+              "label": "Pública política",
+              "detail": "Intimidación para frenar representación o actividad política.",
+              "sources": [
+                {
+                  "module": 4,
+                  "page": 6
+                }
+              ]
+            },
+            {
+              "id": "digital",
+              "label": "Digital / telemática",
+              "detail": "Violencia mediante TIC.",
+              "sources": [
+                {
+                  "module": 4,
+                  "page": 6
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "hint": "Ejemplo propio: hostigar por mensajes a una compañera puede combinar daño psicológico y contextos laboral/digital. No es una clasificación excluyente.",
+      "kind": "matrix"
+    },
+    {
+      "id": "servicio",
+      "module": 5,
+      "title": "El viaje de quien busca justicia",
+      "root": "Experiencia integral",
+      "rootSources": [
+        {
+          "module": 5,
+          "page": 6
+        }
+      ],
+      "lead": "Las estaciones muestran un recorrido didáctico, con emociones y respuestas de atención. Un caso real puede volver a una etapa.",
+      "groups": [
+        {
+          "title": "Orientarse e iniciar",
+          "relation": "comprende",
+          "nodes": [
+            {
+              "id": "busqueda",
+              "label": "Búsqueda",
+              "detail": "Incertidumbre: señalización e información clara.",
+              "sources": [
+                {
+                  "module": 5,
+                  "page": 6
+                }
+              ]
+            },
+            {
+              "id": "formalizacion",
+              "label": "Formalización",
+              "detail": "Ansiedad: explicar pasos sin tecnicismos innecesarios.",
+              "sources": [
+                {
+                  "module": 5,
+                  "page": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Participar y conocer avances",
+          "relation": "comprende",
+          "nodes": [
+            {
+              "id": "seguimiento",
+              "label": "Seguimiento",
+              "detail": "Impaciencia: estado del caso y plazos realistas.",
+              "sources": [
+                {
+                  "module": 5,
+                  "page": 7
+                }
+              ]
+            },
+            {
+              "id": "audiencia",
+              "label": "Audiencia",
+              "detail": "Intimidación: explicar roles y sostener trato cálido.",
+              "sources": [
+                {
+                  "module": 5,
+                  "page": 7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Comprender y concluir",
+          "relation": "comprende",
+          "nodes": [
+            {
+              "id": "resolucion",
+              "label": "Resolución",
+              "detail": "Alivio o frustración: comunicar opciones con empatía.",
+              "sources": [
+                {
+                  "module": 5,
+                  "page": 7
+                }
+              ]
+            },
+            {
+              "id": "finalizacion",
+              "label": "Finalización",
+              "detail": "Agotamiento: guiar el cierre sin trámites innecesarios.",
+              "sources": [
+                {
+                  "module": 5,
+                  "page": 7
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "hint": "Ayuda propia: orientación → participación → comprensión y cierre. Pegá a cada estación una conducta concreta del agente.",
+      "kind": "sequence"
+    },
+    {
+      "id": "accesibilidad",
+      "module": 5,
+      "title": "Accesibilidad: mirar cuatro lugares",
+      "root": "Participación en igualdad",
+      "rootSources": [
+        {
+          "module": 5,
+          "page": 18
+        }
+      ],
+      "lead": "Remover una sola barrera no vuelve accesible todo el servicio.",
+      "groups": [
+        {
+          "title": "Entorno construido",
+          "relation": "requiere accesibilidad",
+          "nodes": [
+            {
+              "id": "ac-fisica",
+              "label": "Física",
+              "detail": "Circulación autónoma, puertas, baños y señalización.",
+              "sources": [
+                {
+                  "module": 5,
+                  "page": 19
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Mensajes",
+          "relation": "requiere accesibilidad",
+          "nodes": [
+            {
+              "id": "ac-comunicacion",
+              "label": "Informativa / comunicacional",
+              "detail": "Formatos, lectura fácil, subtítulos e intérpretes según necesidad.",
+              "sources": [
+                {
+                  "module": 5,
+                  "page": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Trato",
+          "relation": "requiere accesibilidad",
+          "nodes": [
+            {
+              "id": "ac-actitud",
+              "label": "Actitudinal",
+              "detail": "Escuchar, no infantilizar y ofrecer ayuda sin imponerla.",
+              "sources": [
+                {
+                  "module": 5,
+                  "page": 20
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sistemas",
+          "relation": "requiere accesibilidad",
+          "nodes": [
+            {
+              "id": "ac-tecnologia",
+              "label": "Tecnológica",
+              "detail": "Lectores de pantalla, formularios y alternativas a lo digital.",
+              "sources": [
+                {
+                  "module": 5,
+                  "page": 21
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "hint": "Cuatro coordenadas propias: edificio / mensaje / trato / sistema. Recorré mentalmente una oficina y buscá una barrera en cada coordenada.",
+      "kind": "concept"
+    },
+    {
+      "id": "competencias",
+      "module": 5,
+      "title": "Cinco componentes del desempeño",
+      "root": "Competencia profesional",
+      "rootSources": [
+        {
+          "module": 5,
+          "page": 24
+        }
+      ],
+      "lead": "Estos componentes se complementan. La ausencia de medios no equivale a ausencia de motivación.",
+      "groups": [
+        {
+          "title": "Conocimiento",
+          "relation": "requiere",
+          "nodes": [
+            {
+              "id": "saber",
+              "label": "Saber",
+              "detail": "Conocimiento teórico y técnico.",
+              "sources": [
+                {
+                  "module": 5,
+                  "page": 24
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Aplicación",
+          "relation": "requiere",
+          "nodes": [
+            {
+              "id": "hacer",
+              "label": "Saber hacer",
+              "detail": "Habilidad para aplicar el conocimiento.",
+              "sources": [
+                {
+                  "module": 5,
+                  "page": 24
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Actitud",
+          "relation": "requiere",
+          "nodes": [
+            {
+              "id": "ser",
+              "label": "Saber ser / estar",
+              "detail": "Comportamiento y actitudes.",
+              "sources": [
+                {
+                  "module": 5,
+                  "page": 24
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Motivación",
+          "relation": "requiere",
+          "nodes": [
+            {
+              "id": "querer",
+              "label": "Querer hacer",
+              "detail": "Disposición para actuar.",
+              "sources": [
+                {
+                  "module": 5,
+                  "page": 24
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Condiciones",
+          "relation": "requiere",
+          "nodes": [
+            {
+              "id": "poder-hacer",
+              "label": "Poder hacer",
+              "detail": "Recursos y condiciones institucionales.",
+              "sources": [
+                {
+                  "module": 5,
+                  "page": 24
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "hint": "Ayuda propia: cinco dedos de una mano. Usá un ejemplo único —atender a una persona— para explicar cómo interviene cada componente.",
+      "kind": "concept"
+    }
+  ],
+  "pairs": [
+    {
+      "id": "p1",
+      "module": 1,
+      "title": "Constituyente / constituido",
+      "a": "Constituyente: crea o reforma la Constitución.",
+      "b": "Constituido: nace de ella y actúa dentro de su competencia.",
+      "criterion": "¿Establece el marco o ejerce atribuciones dentro del marco?",
+      "sources": [
+        {
+          "module": 1,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "module": 1,
+      "title": "Autonomía / autarquía",
+      "a": "Autonomía: autogobierno y normas propias.",
+      "b": "Autarquía: autoadministración.",
+      "criterion": "¿Se trata de darse gobierno y reglas, o administrar?",
+      "sources": [
+        {
+          "module": 1,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "module": 1,
+      "title": "Ejecutividad / ejecutoriedad",
+      "a": "Ejecutividad: obligatoriedad y exigibilidad del acto.",
+      "b": "Ejecutoriedad: ejecución propia habilitada por el orden jurídico.",
+      "criterion": "¿El acto obliga o puede ejecutarlo la Administración por sí?",
+      "sources": [
+        {
+          "module": 1,
+          "page": 34
+        },
+        {
+          "module": 1,
+          "page": 35
+        }
+      ]
+    },
+    {
+      "id": "p4",
+      "module": 2,
+      "title": "Prueba / alegato",
+      "a": "Prueba: procura acreditar hechos.",
+      "b": "Alegato: argumenta sobre la prueba producida.",
+      "criterion": "¿Aporta elementos de convicción o razona sus consecuencias?",
+      "sources": [
+        {
+          "module": 2,
+          "page": 10
+        },
+        {
+          "module": 2,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "p5",
+      "module": 2,
+      "title": "Conocimiento / monitorio",
+      "a": "Conocimiento: debate y prueba antes de sentencia de fondo.",
+      "b": "Monitorio: decisión inicial sobre título y oposición posterior.",
+      "criterion": "¿En qué momento se abre la contradicción?",
+      "sources": [
+        {
+          "module": 2,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "id": "p6",
+      "module": 3,
+      "title": "Respetar / garantizar",
+      "a": "Respetar: abstenerse de interferir ilegítimamente.",
+      "b": "Garantizar: adoptar acciones para ejercicio y protección efectivos.",
+      "criterion": "¿Exige abstención o acción positiva? Los deberes se complementan.",
+      "sources": [
+        {
+          "module": 3,
+          "page": 10
+        },
+        {
+          "module": 3,
+          "page": 11
+        }
+      ]
+    },
+    {
+      "id": "p7",
+      "module": 3,
+      "title": "Clasificación / jerarquía",
+      "a": "Clasificar: ordenar categorías con fin didáctico e histórico.",
+      "b": "Jerarquizar derechos: considerar unos más importantes o menos exigibles.",
+      "criterion": "El módulo admite clasificación, no menor fuerza de una categoría.",
+      "sources": [
+        {
+          "module": 3,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "p8",
+      "module": 4,
+      "title": "Tipo / modalidad",
+      "a": "Tipo: forma del daño, por ejemplo psicológico.",
+      "b": "Modalidad: contexto, por ejemplo laboral o digital.",
+      "criterion": "Son ejes cruzados; no hace falta elegir uno excluyendo al otro.",
+      "sources": [
+        {
+          "module": 4,
+          "page": 5
+        },
+        {
+          "module": 4,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "p9",
+      "module": 4,
+      "title": "Identidad / expresión",
+      "a": "Identidad: vivencia interna del género.",
+      "b": "Expresión: manifestación externa.",
+      "criterion": "La apariencia no permite deducir identidad ni orientación.",
+      "sources": [
+        {
+          "module": 4,
+          "page": 4
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "module": 5,
+      "title": "Diseño universal / ajuste",
+      "a": "Diseño universal: prever accesibilidad desde el inicio para muchos.",
+      "b": "Ajuste razonable: adaptación necesaria para un caso particular.",
+      "criterion": "¿La respuesta se diseña de base o atiende una necesidad concreta?",
+      "sources": [
+        {
+          "module": 5,
+          "page": 19
+        }
+      ]
+    },
+    {
+      "id": "p11",
+      "module": 5,
+      "title": "Querer / poder hacer",
+      "a": "Querer hacer: motivación y disposición.",
+      "b": "Poder hacer: medios y condiciones de realización.",
+      "criterion": "La falta de recursos no demuestra por sí misma falta de voluntad.",
+      "sources": [
+        {
+          "module": 5,
+          "page": 24
+        }
+      ]
+    },
+    {
+      "id": "p12",
+      "module": 5,
+      "title": "Derivación / paseo",
+      "a": "Derivación útil: explica destino, motivo y próximos pasos.",
+      "b": "Derivación inconducente: envía de oficina en oficina sin resolver orientación.",
+      "criterion": "¿La persona sale con un paso concreto y comprensible?",
+      "sources": [
+        {
+          "module": 5,
+          "page": 16
+        }
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "id": "c1",
+      "module": 1,
+      "text": "Un tribunal compra papel para sus oficinas. ¿Qué función describe el contenido de esa actuación?",
+      "options": [
+        "Administrativa",
+        "Jurisdiccional por pertenecer a un tribunal",
+        "Constituyente"
+      ],
+      "correct": 0,
+      "why": "La función se clasifica por contenido. Comprar insumos organiza la actividad; no resuelve una causa.",
+      "sources": [
+        {
+          "module": 1,
+          "page": 21
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "module": 1,
+      "text": "Una autoridad elegida afirma que puede ignorar la Constitución por tener mayoría. ¿Qué idea permite evaluar esa afirmación?",
+      "options": [
+        "La elección elimina límites normativos",
+        "Es un poder constituido sujeto a la Constitución",
+        "Todo acto de gobierno es poder constituyente"
+      ],
+      "correct": 1,
+      "why": "La legitimidad electoral no elimina la supremacía constitucional ni las competencias de los poderes constituidos.",
+      "sources": [
+        {
+          "module": 1,
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "module": 1,
+      "text": "Una oficina no responde una solicitud. Sin norma que atribuya efecto al silencio, ¿puede presumirse que aceptó?",
+      "options": [
+        "Sí, siempre",
+        "Sólo si lo decide quien solicitó",
+        "No, el significado debe estar previsto jurídicamente"
+      ],
+      "correct": 2,
+      "why": "El silencio no expresa por sí solo voluntad; produce el significado que el ordenamiento le atribuye expresamente.",
+      "sources": [
+        {
+          "module": 1,
+          "page": 33
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "module": 2,
+      "text": "Un profesional explica por qué los testimonios producidos confirman su pretensión. ¿Qué actividad realiza?",
+      "options": [
+        "Prueba pericial",
+        "Alegato",
+        "Cargo"
+      ],
+      "correct": 1,
+      "why": "Argumenta sobre la prueba. El alegato extrae conclusiones; el testimonio es el elemento probatorio.",
+      "sources": [
+        {
+          "module": 2,
+          "page": 10
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "module": 2,
+      "text": "La OGAP fija sala y horario para una audiencia. Una persona le pide además decidir prisión preventiva. ¿Qué corresponde reconocer?",
+      "options": [
+        "Puede decidirla por controlar la agenda",
+        "Debe decidirla la oficina que tenga sala disponible",
+        "OGAP organiza; la decisión corresponde al juez"
+      ],
+      "correct": 2,
+      "why": "La gestión administrativa se separa de las funciones jurisdiccionales. Administrar una audiencia no atribuye potestad para decidir medidas.",
+      "sources": [
+        {
+          "module": 2,
+          "page": 94
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "module": 2,
+      "text": "Alguien sostiene que LeD con alcance provincial permite publicar un legajo juvenil en internet. ¿Es correcto?",
+      "options": [
+        "No; el legajo juvenil es privado",
+        "Sí, interoperabilidad significa publicidad general",
+        "Sí, si no hay audiencia ese día"
+      ],
+      "correct": 0,
+      "why": "La herramienta permite gestión e intercambio autorizado. El material mantiene privacidad del legajo juvenil.",
+      "sources": [
+        {
+          "module": 2,
+          "page": 108
+        }
+      ]
+    },
+    {
+      "id": "c7",
+      "module": 3,
+      "text": "Una persona presa recibe trato degradante porque «perdió sus derechos». ¿Qué fundamento contradice esa justificación?",
+      "options": [
+        "La dignidad depende del mérito",
+        "La dignidad es inherente a toda persona",
+        "Sólo los ciudadanos libres tienen derechos humanos"
+      ],
+      "correct": 1,
+      "why": "La dignidad no es un premio por buena conducta y no se pierde por un delito. La restricción legítima de un derecho no suprime los demás.",
+      "sources": [
+        {
+          "module": 3,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "c8",
+      "module": 3,
+      "text": "Una política considera a las personas como titulares capaces de reclamar y al Estado como obligado. ¿Qué enfoque aplica?",
+      "options": [
+        "Enfoque de derechos",
+        "Beneficio puramente discrecional sin exigibilidad",
+        "Renuncia a la garantía estatal"
+      ],
+      "correct": 0,
+      "why": "El enfoque de derechos vincula decisiones públicas con titulares y obligaciones exigibles.",
+      "sources": [
+        {
+          "module": 3,
+          "page": 18
+        }
+      ]
+    },
+    {
+      "id": "c9",
+      "module": 3,
+      "text": "Una oficina tiene puerta abierta, pero formularios incomprensibles y ninguna orientación. ¿Por qué el acceso es insuficiente?",
+      "options": [
+        "Entrar físicamente agota el derecho",
+        "Una vez abierto el edificio ya no existen barreras",
+        "El acceso integral exige poder transitar y obtener respuesta efectiva"
+      ],
+      "correct": 2,
+      "why": "El modelo integral va más allá del ingreso; atiende barreras en el recorrido y en el resultado del acceso.",
+      "sources": [
+        {
+          "module": 3,
+          "page": 21
+        }
+      ]
+    },
+    {
+      "id": "c10",
+      "module": 4,
+      "text": "Un superior humilla a una trabajadora por mensajería del trabajo. ¿Qué distinción permite analizarlo?",
+      "options": [
+        "Digital es siempre un tipo y psicológica una modalidad",
+        "Daño psicológico es tipo; laboral/digital pueden describir contextos",
+        "Cada hecho sólo puede tener una etiqueta"
+      ],
+      "correct": 1,
+      "why": "Tipos y modalidades son ejes distintos y pueden combinarse. La calificación completa depende del caso.",
+      "sources": [
+        {
+          "module": 4,
+          "page": 5
+        },
+        {
+          "module": 4,
+          "page": 6
+        }
+      ]
+    },
+    {
+      "id": "c11",
+      "module": 4,
+      "text": "Una mujer quiere retirar la denuncia por temor al agresor en un delito de acción pública. ¿Qué pauta enseña el módulo?",
+      "options": [
+        "Amenazarla para que ratifique",
+        "Cerrar sin otra investigación",
+        "Analizar contexto y continuar de oficio con prueba independiente"
+      ],
+      "correct": 2,
+      "why": "La retractación se comprende en contexto; el deber de investigación de acción pública no depende de ratificación y no admite amenazas a la víctima.",
+      "sources": [
+        {
+          "module": 4,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "c12",
+      "module": 4,
+      "text": "Un agente hace repetir la misma narración íntima varias veces sin necesidad. ¿Qué riesgo institucional aparece?",
+      "options": [
+        "Revictimización",
+        "Imparcialidad necesaria en toda atención",
+        "Sólo un problema de tiempo, nunca de derechos"
+      ],
+      "correct": 0,
+      "why": "Interrogatorios repetitivos e indagaciones innecesarias pueden producir victimización secundaria.",
+      "sources": [
+        {
+          "module": 4,
+          "page": 8
+        }
+      ]
+    },
+    {
+      "id": "c13",
+      "module": 5,
+      "text": "Una persona no comprende una cédula. ¿Qué conducta de orientación es adecuada?",
+      "options": [
+        "Repetir más fuerte el tecnicismo",
+        "Explicar con lenguaje claro y verificar qué comprendió",
+        "Decidir por ella qué estrategia judicial elegir"
+      ],
+      "correct": 1,
+      "why": "La orientación precisa y comprensible ayuda a ejercer derechos. No implica sustituir asesoramiento letrado ni decidir estrategia jurídica.",
+      "sources": [
+        {
+          "module": 5,
+          "page": 9
+        }
+      ]
+    },
+    {
+      "id": "c14",
+      "module": 5,
+      "text": "Una persona usa silla de ruedas. La oficina ofrece ayuda sin consultarla e ignora lo que pide. ¿Qué barrera aparece además de las físicas?",
+      "options": [
+        "Actitudinal",
+        "Únicamente tecnológica",
+        "Ninguna, ofrecer ayuda siempre basta"
+      ],
+      "correct": 0,
+      "why": "La ayuda debe respetar autonomía y necesidades expresadas; no infantilizar ni imponer.",
+      "sources": [
+        {
+          "module": 5,
+          "page": 20
+        }
+      ]
+    },
+    {
+      "id": "c15",
+      "module": 5,
+      "text": "Una agente sabe atender un trámite y quiere hacerlo, pero no tiene acceso al sistema autorizado. ¿Qué componente falta en el ejemplo?",
+      "options": [
+        "Querer hacer",
+        "Saber ser",
+        "Poder hacer"
+      ],
+      "correct": 2,
+      "why": "Poder hacer incluye medios y condiciones institucionales. No se puede deducir falta de motivación de falta de recursos.",
+      "sources": [
+        {
+          "module": 5,
+          "page": 24
+        }
+      ]
+    }
+  ],
+  "sourcePageRule": "Las páginas son posiciones del archivo PDF, contando la portada. Las ayudas y ejercicios son originales de práctica."
+};

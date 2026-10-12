@@ -1,0 +1,11 @@
+# Código y documentos propios con finales de línea estables.
+* text=auto eol=lf
+
+# Capturas de fuentes e históricos: preservar bytes y hashes de procedencia.
+biblioteca/2026/** -text
+historico-prepublicacion/** -text
+*.pdf binary
+*.mp4 binary
+*.png binary
+*.jpg binary
+*.doc binary

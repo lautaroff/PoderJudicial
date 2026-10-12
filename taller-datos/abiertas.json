@@ -1,0 +1,3932 @@
+[
+  {
+    "id": "O1-001",
+    "module": 1,
+    "topic": "1.1",
+    "title": "Elementos en una situación concreta",
+    "prompt": "Un relato describe las personas que viven en Mendoza, sus límites geográficos, los órganos que toman decisiones y la capacidad de hacer cumplir esas decisiones. Relacioná cada descripción con un elemento del Estado y explicá por qué no son intercambiables.",
+    "model": "Personas: población; ámbito geográfico: territorio; órganos: gobierno; capacidad de cumplir fines mediante autoridad y coerción: poder. Gobierno identifica quién ejerce funciones, mientras poder designa una capacidad de la organización estatal.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Relaciona personas con población y espacio con territorio.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Relaciona órganos con gobierno.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Explica poder mediante autoridad y coerción.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Distingue órgano que actúa de capacidad de actuación.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 2,
+        "label": "M1"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 3,
+        "label": "M1"
+      }
+    ]
+  },
+  {
+    "id": "O1-002",
+    "module": 1,
+    "topic": "1.1",
+    "title": "Constituir y ejercer",
+    "prompt": "Se afirma que un órgano creado por la Constitución puede reemplazarla por su propio reglamento porque ejerce poder estatal. Refutá la afirmación distinguiendo poder constituyente, poderes constituidos y supremacía.",
+    "model": "El constituyente crea u organiza mediante la Constitución; los poderes constituidos son órganos creados por ella y ejercen competencias. Sus reglamentos deben respetarla: ejercer poder estatal no otorga facultad para sustituir la norma fundamental.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Distingue constituyente de órganos constituidos.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Explica que el constituyente crea y organiza.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Niega superioridad de un reglamento sobre la Constitución.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Aplica la gradación jerárquica al caso.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 3,
+        "label": "M1"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 4,
+        "label": "M1"
+      }
+    ]
+  },
+  {
+    "id": "O1-003",
+    "module": 1,
+    "topic": "1.1",
+    "title": "Autonomía provincial",
+    "prompt": "Explicá cómo pueden las provincias dictar su Constitución y elegir autoridades dentro de un Estado federal sin poder desconocer la Constitución Nacional.",
+    "model": "La autonomía permite legislación e instituciones propias y elección de autoridades. Las provincias integran el Estado federal y el orden local debe ajustarse al marco nacional conforme a la distribución constitucional de competencias. Autonomía no significa poder local ilimitado.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Incluye Constitución o legislación propia y elección de autoridades.",
+        "critical": false
+      },
+      {
+        "id": "c2",
+        "text": "Distingue autonomía de independencia soberana ilimitada.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Reconoce distribución de competencias entre niveles.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Explica subordinación del orden local al marco constitucional federal.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 8,
+        "label": "M1"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 9,
+        "label": "M1"
+      }
+    ]
+  },
+  {
+    "id": "O1-004",
+    "module": 1,
+    "topic": "1.2",
+    "title": "Órgano y contenido de la función",
+    "prompt": "El Congreso compra insumos y un tribunal resuelve un litigio. Clasificá materialmente ambas actividades y explicá por qué nombrar al órgano no basta para identificar la función.",
+    "model": "La compra es actividad materialmente administrativa aunque el órgano sea legislativo; resolver el litigio aplicando derecho es jurisdicción. La separación de poderes no hace que cada órgano realice exclusivamente una clase de actividad.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Clasifica la compra como administrativa.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Clasifica resolver el litigio como jurisdiccional.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Distingue criterio orgánico y material.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Niega exclusividad absoluta de una función por órgano.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 20,
+        "label": "M1"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 21,
+        "label": "M1"
+      }
+    ]
+  },
+  {
+    "id": "O1-005",
+    "module": 1,
+    "topic": "1.2",
+    "title": "Urgencia y límites del Ejecutivo",
+    "prompt": "Se propone un DNU tributario porque el trámite legislativo resulta lento. Explicá condición excepcional, materias excluidas y controles. No describas el DNU como facultad legislativa ordinaria.",
+    "model": "La regla prohíbe disposiciones legislativas del Presidente; la excepción requiere circunstancias que hagan imposible el trámite normal, no mera preferencia por rapidez. Un DNU no puede regular materia tributaria, penal, electoral ni de partidos políticos. Está sujeto a controles parlamentarios y judiciales.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Explica regla general y excepción por imposibilidad del trámite normal.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Rechaza el DNU tributario e identifica las cuatro materias excluidas.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "No equipara mera lentitud o conveniencia con excepcionalidad.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Reconoce control parlamentario y revisión judicial.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 16,
+        "label": "M1"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 17,
+        "label": "M1"
+      }
+    ]
+  },
+  {
+    "id": "O1-006",
+    "module": 1,
+    "topic": "1.2",
+    "title": "Derecho nacional y justicia provincial",
+    "prompt": "Un robo ocurrido en Mendoza está definido en el Código Penal de la Nación. Explicá por qué ese dato no determina por sí un tribunal federal y distinguí derecho de fondo, proceso y jurisdicción.",
+    "model": "El Código Penal nacional define delitos y penas. Los delitos ordinarios son investigados y juzgados por justicia provincial conforme a su procedimiento; la jurisdicción depende de competencias constitucionales y legales. Fondo nacional y proceso provincial pueden coexistir.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Distingue delitos y penas del procedimiento para investigarlos y juzgarlos.",
+        "critical": false
+      },
+      {
+        "id": "c2",
+        "text": "Niega federalidad automática por aplicar el Código Penal nacional.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Reconoce competencia ordinaria provincial y competencias federales específicas.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Ubica el CPP de Mendoza en el supuesto ordinario.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 22,
+        "label": "M1"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 88,
+        "label": "M2"
+      }
+    ]
+  },
+  {
+    "id": "O1-007",
+    "module": 1,
+    "topic": "1.3",
+    "title": "Misión y visión aplicadas",
+    "prompt": "Una propuesta dice «por qué existe la institución» y otra dice «a dónde quiere llegar». Identificá misión y visión y explicá cómo ambas pueden orientar una mejora del servicio judicial.",
+    "model": "Misión expresa razón de ser, propósito y función social; visión indica dirección y metas a mediano y largo plazo. Una mejora debe relacionar su propósito actual con la situación futura deseada, sin convertir visión en descripción del trámite diario.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Identifica razón de ser como misión.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Identifica destino y metas como visión.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Distingue propósito actual de orientación futura.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Relaciona una mejora propuesta con ambos conceptos.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 25,
+        "label": "M1"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 26,
+        "label": "M1"
+      }
+    ]
+  },
+  {
+    "id": "O1-008",
+    "module": 1,
+    "topic": "1.3",
+    "title": "Tres participantes en la designación",
+    "prompt": "Reconstruí la designación de un juez provincial inferior: función del Consejo, libertad del Ejecutivo para elegir y participación del Senado. Señalá dos errores de atribución que deben evitarse.",
+    "model": "El Consejo preselecciona por concurso público de oposición y antecedentes y eleva terna vinculante. El Ejecutivo elige dentro de ella; el nombramiento requiere acuerdo del Senado en sesión pública. El Consejo no nombra por sí y el Ejecutivo no elige alguien ajeno a la terna.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Describe concurso y preselección del Consejo.",
+        "critical": false
+      },
+      {
+        "id": "c2",
+        "text": "Explica terna vinculante y elección del Ejecutivo dentro de ella.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Incluye acuerdo del Senado en sesión pública.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Niega nombramiento unilateral por el Consejo.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 27,
+        "label": "M1"
+      }
+    ]
+  },
+  {
+    "id": "O1-009",
+    "module": 1,
+    "topic": "1.3",
+    "title": "Fiscalía y Defensa no son intercambiables",
+    "prompt": "Una persona confunde al Ministerio Público Fiscal con la Defensa y Pupilar. Explicá la misión de cada uno y por qué la coincidencia en procurar legalidad o acceso no vuelve idénticos sus roles. Identificá sus autoridades.",
+    "model": "El MPF defiende legalidad e intereses generales de la sociedad y vela por debido proceso mediante representación del interés público. La Defensa y Pupilar brinda asistencia técnico jurídica para acceso a justicia de personas vulnerables. El Procurador General encabeza el MPF; el Defensor o la Defensora General encabeza Defensa y Pupilar. El Procurador General encabeza el MPF; el Defensor o la Defensora General encabeza Defensa y Pupilar. Sus misiones y autoridades son distintas.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Atribuye legalidad e intereses generales al MPF.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Atribuye asistencia técnico jurídica y acceso de personas vulnerables a Defensa y Pupilar.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Distingue Procurador General de Defensor/a General.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Niega que las misiones vuelvan intercambiables los órganos.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 27,
+        "label": "M1"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 28,
+        "label": "M1"
+      }
+    ]
+  },
+  {
+    "id": "O1-010",
+    "module": 1,
+    "topic": "1.4",
+    "title": "Colegio, pleno y sorteo",
+    "prompt": "Según Ley 9423, explicá cómo se integra la Corte y cómo se asigna una causa jurisdiccional que no corresponde al pleno. Incluí dirección del proceso y orden de votos.",
+    "model": "La Corte tiene siete miembros y actúa en colegio o pleno. Para causas no reservadas al pleno se sortean auditablemente tres ministros. El primero dirige el proceso y el sorteo determina el orden de votos; las excepciones de arts. 2 y 9 impiden tratar todo caso por colegio.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Indica siete miembros y modalidades colegio/pleno.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Describe sorteo auditable de tres ministros.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Asigna dirección al primero sorteado y orden de votos al sorteo.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Reconoce excepciones de competencias de pleno.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+        "page": 1,
+        "label": "Ley-9423"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+        "page": 5,
+        "label": "Ley-9423"
+      }
+    ]
+  },
+  {
+    "id": "O1-011",
+    "module": 1,
+    "topic": "1.4",
+    "title": "Dos sentencias de distinto régimen",
+    "prompt": "Compará sentencia en pleno del art. 9 y sentencia plenaria del art. 10 de Ley 9423. Tratá finalidad, trámite y diferencias de recusación o recursos.",
+    "model": "En pleno se decide una causa por importancia o para evitar contradicción, dentro de los momentos procesales fijados; admite excusación/recusación con causa y recursos procesales. La plenaria unifica interpretación por incidente separado y pregunta afirmativa/negativa; no admite excusación, recusación ni recurso contra esa decisión.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Distingue decisión de la causa de unificación por incidente separado.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Incluye pregunta objetiva afirmativa/negativa en art. 10.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Reconoce excusación/recusación con causa y recursos en art. 9.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Niega excusación, recusación y recurso contra decisión plenaria art. 10.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+        "page": 5,
+        "label": "Ley-9423"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+        "page": 6,
+        "label": "Ley-9423"
+      }
+    ]
+  },
+  {
+    "id": "O1-012",
+    "module": 1,
+    "topic": "1.4",
+    "title": "Administrar sin resolver el litigio",
+    "prompt": "La Corte organiza personal y también decide una controversia entre poderes. Explicá qué clases de funciones corresponden y ubicá Sala Administrativa y pleno en Ley 9423 sin convertir toda decisión en una sentencia.",
+    "model": "La gestión de personal y organización integra atribuciones administrativas o de superintendencia. La resolución de conflictos entre poderes corresponde a competencias del pleno. Sala Administrativa se integra por Presidencia y dos Vicepresidencias; administración, jurisdicción y competencia dirimente deben distinguirse por contenido y reglas.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Identifica organización/personal como administración o superintendencia.",
+        "critical": false
+      },
+      {
+        "id": "c2",
+        "text": "Ubica conflictos entre poderes en competencias del pleno.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Describe composición de Sala Administrativa.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "No convierte todos los actos de administración en sentencias.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+        "page": 1,
+        "label": "Ley-9423"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+        "page": 2,
+        "label": "Ley-9423"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+        "page": 3,
+        "label": "Ley-9423"
+      }
+    ]
+  },
+  {
+    "id": "O1-013",
+    "module": 1,
+    "topic": "1.5",
+    "title": "Competencia y orden de servicio",
+    "prompt": "Un agente se atribuye una decisión ajena a su cargo porque ayudaría a resolver rápido una consulta. Explicá competencia, carácter ligado al órgano y por qué la utilidad no autoriza esa ampliación.",
+    "model": "Competencia es conjunto de atribuciones del ordenamiento que el órgano puede y debe ejercer. Puede ser expresa o razonablemente implícita, pero corresponde al cargo, no a voluntad individual. No se extiende por acuerdos o conveniencia fuera de mecanismos legales de sustitución, delegación o avocación.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Define competencia por atribuciones del ordenamiento.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Reconoce competencia expresa o razonablemente implícita.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "La vincula al órgano/cargo y no a voluntad del agente.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Distingue utilidad de mecanismos legales de modificación del ejercicio.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 31,
+        "label": "M1"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 32,
+        "label": "M1"
+      }
+    ]
+  },
+  {
+    "id": "O1-014",
+    "module": 1,
+    "topic": "1.5",
+    "title": "Acto, hecho y reglamento",
+    "prompt": "Clasificá una decisión administrativa individual de traslado de un agente a otra oficina, el movimiento material de mobiliario y una norma general de organización. Explicá declaración, materialidad y destinatarios.",
+    "model": "La decisión individual es acto administrativo: declaración que produce efectos jurídicos individuales. Mover mobiliario es hecho administrativo, actuación material. La norma general es reglamento, dirigido a personas indeterminadas. Un hecho puede ejecutar un acto, pero no es la misma declaración.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Relaciona decisión individual con acto y efectos individuales.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Relaciona movimiento material con hecho.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Relaciona regla general con reglamento y destinatarios indeterminados.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Explica vínculo de ejecución sin confundir acto y hecho.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 32,
+        "label": "M1"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 33,
+        "label": "M1"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 37,
+        "label": "M1"
+      }
+    ]
+  },
+  {
+    "id": "O1-015",
+    "module": 1,
+    "topic": "1.5",
+    "title": "Motivar y ejecutar",
+    "prompt": "Un acto individual se presenta como obligatorio pero carece de fundamentos y se pretende ejecutarlo por fuerza sin verificar habilitación. Explicá motivación, notificación, ejecutividad y ejecutoriedad.",
+    "model": "Motivación expone razones fácticas y jurídicas. La ejecutividad del acto regular se vincula con dictado y notificación correcta. Ejecutividad no equivale a ejecutoriedad: ejecutar por sí requiere medios habilitados por el ordenamiento; de faltar, corresponde vía judicial para ejecución forzada.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Explica motivación fáctica y jurídica.",
+        "critical": false
+      },
+      {
+        "id": "c2",
+        "text": "Incluye notificación correcta en la exigibilidad del acto regular.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Distingue ejecutividad de ejecutoriedad.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Condiciona ejecución por sí a habilitación jurídica; no presume fuerza ilimitada.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 34,
+        "label": "M1"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 35,
+        "label": "M1"
+      }
+    ]
+  },
+  {
+    "id": "O1-016",
+    "module": 1,
+    "topic": "1.6",
+    "title": "Orden jerárquica con requisitos",
+    "prompt": "Según el art. 13 del DL 560, ¿basta que quien da una orden sea superior? Enumerá las condiciones y relacioná la obediencia con prestación diligente del servicio.",
+    "model": "Debe emanar de superior con atribuciones para darla, reunir formalidades y referirse a actos de servicio compatibles con funciones del agente. La prestación personal exige eficiencia, capacidad y diligencia. Jerarquía no sustituye esos requisitos.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Incluye atribuciones del superior.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Incluye formalidades y actos de servicio compatibles con funciones.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Relaciona prestación personal con eficiencia, capacidad y diligencia.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Niega obediencia automática por sola superioridad.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+        "page": 4,
+        "label": "Decreto-Ley-560"
+      }
+    ]
+  },
+  {
+    "id": "O1-017",
+    "module": 1,
+    "topic": "1.6",
+    "title": "Regalo, reserva y salida del empleo",
+    "prompt": "Un agente recibe un regalo por su tarea y luego, al cesar, cree que puede difundir asuntos reservados. Explicá qué deberes del DL 560 operan y su duración.",
+    "model": "Debe rehusar dádivas, obsequios u otras ventajas motivadas en la función. Debe guardar secreto de asuntos que deban permanecer reservados por naturaleza o instrucciones; esa obligación subsiste después de cesar. No todo asunto es reservado, pero el cese no libera del secreto que corresponda.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Rechaza el regalo ligado al desempeño de funciones.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Describe qué asuntos deben permanecer reservados.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Indica subsistencia del secreto tras el cese.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Evita convertir toda información en automáticamente secreta.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+        "page": 4,
+        "label": "Decreto-Ley-560"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+        "page": 5,
+        "label": "Decreto-Ley-560"
+      }
+    ]
+  },
+  {
+    "id": "O1-018",
+    "module": 1,
+    "topic": "1.6",
+    "title": "Lectura vigente y requisito de residencia",
+    "prompt": "Explicá cómo estudiar residencia y obligaciones usando Reglamento, Acordada 15.422 y M1. Incluí el radio y si debe cumplirse al rendir, y evitá tratar la copia del estatuto de 1997 como consolidación 2026.",
+    "model": "La Acordada modifica residencia al asiento de funciones o radio que no exceda 100 km; M1 dice que no se exige cumplirlo al rendir. Las obligaciones remiten a Reglamento arts. 3 y 13 y DL 560 capítulo III con Ley 9665. El PDF antiguo debe leerse con modificaciones, no como consolidación total actual.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Indica asiento de funciones o radio que no exceda 100 km según Acordada.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Niega exigencia de ese requisito al rendir según M1.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Identifica lecturas normativas obligatorias y modificatoria Ley 9665.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "No presenta PDF DL 560 de 1997 como consolidación de todas las reformas actuales.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "page": 39,
+        "label": "M1"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Acordada-15422.pdf",
+        "page": 1,
+        "label": "Acordada-15422"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+        "page": 1,
+        "label": "DL 560: fecha del texto"
+      }
+    ]
+  },
+  {
+    "id": "O2-001",
+    "module": 2,
+    "topic": "2.1",
+    "title": "La sentencia al principio",
+    "prompt": "Compará proceso de conocimiento y estructura monitoria. Si alguien afirma que una sentencia inicial monitoria elimina la defensa, explicá el error y la secuencia básica.",
+    "model": "En conocimiento se debate y prueba antes de decidir el fondo. La estructura monitoria comienza con sentencia y luego permite oposición, tras notificación. El orden cambia, pero no desaparece defensa ni control del título que sustenta la pretensión.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Distingue sentencia al final del conocimiento y al inicio del monitorio.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Incluye notificación y oportunidad de oposición.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Niega que monitorio equivalga a condena sin defensa.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Explica finalidad de hacer efectivo un título o derecho con esa estructura.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 4,
+        "label": "M2"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 28,
+        "label": "M2"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 29,
+        "label": "M2"
+      }
+    ]
+  },
+  {
+    "id": "O2-002",
+    "module": 2,
+    "topic": "2.1",
+    "title": "Presentación y custodia",
+    "prompt": "Un escrito digital fue presentado hoy. Explicá para qué sirve el cargo y por qué consultar el expediente no autoriza alterar actuaciones. Diferenciá publicidad civil de acceso irrestricto universal.",
+    "model": "El cargo registra presentación, fecha/hora y datos de la pieza y agregados; no sustituye una resolución. La consulta digital no autoriza modificar documentos. La publicidad del expediente civil admite excepciones; deben respetarse custodia y reglas del fuero, sin extenderla automáticamente a todo legajo.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Asigna al cargo constancia de presentación y fecha/hora.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "No confunde cargo con resolución judicial.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Niega facultad de alterar actuaciones por tener acceso de consulta.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Reconoce publicidad civil con excepciones, no acceso universal a todo fuero.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 5,
+        "label": "M2"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 6,
+        "label": "M2"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 7,
+        "label": "M2"
+      }
+    ]
+  },
+  {
+    "id": "O2-003",
+    "module": 2,
+    "topic": "2.1",
+    "title": "Preparar dos audiencias",
+    "prompt": "Explicá qué cuestiones deben quedar ordenadas en la audiencia inicial civil y qué ocurre en la final. Incluí conducción judicial y ubicación de la prueba y los alegatos.",
+    "model": "En la inicial el juez dirige indelegablemente, intenta conciliación, sanea, delimita hechos y resuelve la admisión y ordena la producción de prueba. En la final hay debate oral, recepción de prueba oral y alegatos; se documenta lo sustancial. Alegatos finales no sustituyen saneamiento ni selección probatoria inicial.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Incluye conciliación, saneamiento y delimitación de hechos en inicial.",
+        "critical": false
+      },
+      {
+        "id": "c2",
+        "text": "Ubica admisión y orden de producción de prueba en inicial; recepción oral en final.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Incluye conducción indelegable del juez en inicial.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Ubica alegatos en final y distingue su función de la prueba.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 8,
+        "label": "M2"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 9,
+        "label": "M2"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 10,
+        "label": "M2"
+      }
+    ]
+  },
+  {
+    "id": "O2-004",
+    "module": 2,
+    "topic": "2.1",
+    "title": "Cautelar y defensa posterior",
+    "prompt": "Se solicita embargo preventivo para que una futura sentencia conserve utilidad. Explicá finalidad, momento posible y por qué suele ejecutarse antes de avisar al afectado sin convertirse en sentencia definitiva.",
+    "model": "La cautelar asegura el resultado del litigio frente al riesgo de modificación o desaparición del objeto. Puede solicitarse antes, durante o después del conocimiento conforme a sus requisitos. En general se decide inaudita parte, se cumple y luego se notifica; no decide por sí el fondo.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Explica aseguramiento de utilidad de la sentencia.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Reconoce momentos posibles y necesidad de requisitos legales.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Describe ejecución y notificación posterior como regla general, no ausencia definitiva de defensa.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Distingue cautelar de resolución final del derecho litigioso.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 4,
+        "label": "M2"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 39,
+        "label": "M2"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 40,
+        "label": "M2"
+      }
+    ]
+  },
+  {
+    "id": "O2-005",
+    "module": 2,
+    "topic": "2.1",
+    "title": "Dos umbrales en JUS",
+    "prompt": "Un consumidor reclama 18 JUS de capital y 6 de intereses; otro pretende una pequeña causa individual de consumo por 4 JUS. Explicá qué magnitud determina competencia por cuantía y por qué 20 JUS y 3 JUS no son el mismo límite.",
+    "model": "La cuantía se calcula sobre capital nominal, sin intereses ni accesorios: el primer reclamo computa 18 JUS. El umbral general de ciertas competencias Paz/Civil es 20 JUS; pequeña causa individual de consumo exige no superar 3 JUS, por lo que 4 excede ese supuesto.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Computa 18 JUS y excluye 6 de intereses.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Distingue umbral general de 20 de pequeña causa de consumo hasta 3.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Rechaza encuadrar automáticamente 4 JUS en pequeña causa individual de consumo.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "No generaliza el límite de 3 JUS a todo conflicto entre vecinos o toda competencia de Paz.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 25,
+        "label": "M2"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 27,
+        "label": "M2"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 33,
+        "label": "M2"
+      }
+    ]
+  },
+  {
+    "id": "O2-006",
+    "module": 2,
+    "topic": "2.1",
+    "title": "Facultades del recaudador",
+    "prompt": "Un recaudador propone transar o suspender el apremio sin autorización del ente. Explicá qué debe acreditarse y por qué ser representante no concede libertad ilimitada para disponer del crédito. Agregá el límite de percepción extrajudicial de los rubros ejecutados.",
+    "model": "Para desistir, transar, conceder esperas, paralizar o suspender necesita autorización escrita del ente recaudador, y el juez no provee sin acreditarla. No puede percibir fuera del juicio los rubros ejecutados. Representación y facultades legales tienen límites.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Exige autorización escrita del ente para disponer en los supuestos señalados.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Indica que el juez debe exigir acreditación.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Niega percepción extrajudicial de los rubros ejecutados por el recaudador.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Distingue representación de potestad ilimitada para transar.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 44,
+        "label": "M2"
+      }
+    ]
+  },
+  {
+    "id": "O2-007",
+    "module": 2,
+    "topic": "2.1",
+    "title": "Crisis patrimonial y administración",
+    "prompt": "Compará concurso preventivo y quiebra: finalidad, quién administra y papel del síndico. Relacioná universalidad objetiva y subjetiva con el tratamiento colectivo de la crisis.",
+    "model": "El preventivo procura acuerdo y conserva administración del deudor bajo vigilancia del síndico y control judicial. La quiebra busca liquidar y distribuir; desplaza al deudor de administración y el síndico administra/liquida. Universalidad objetiva refiere patrimonio; subjetiva, acreedores y pretensiones involucradas.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Distingue acuerdo preventivo de finalidad liquidativa.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Distingue administración vigilada del deudor de su desplazamiento en quiebra.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Ubica funciones diferentes del síndico.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Explica universalidad por bienes y por acreedores.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 57,
+        "label": "M2"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 58,
+        "label": "M2"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 59,
+        "label": "M2"
+      }
+    ]
+  },
+  {
+    "id": "O2-008",
+    "module": 2,
+    "topic": "2.2",
+    "title": "Órgano decisor y auxiliar familiar",
+    "prompt": "Una oficina recibe una consulta familiar y confunde CAI, Ministerio Pupilar y juzgado. Explicá roles y nivel de decisión, e incluí cómo se organiza primera y segunda instancia.",
+    "model": "Primera instancia corresponde a tribunales de gestión asociada o juzgados unipersonales; la Cámara actúa en segunda. CAI es auxiliar, no reemplaza decisión judicial. Asesorías de NNA y personas con capacidad restringida participan en protección de sus derechos según intervención directa o complementaria.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Distingue primera instancia y Cámara de segunda.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Identifica CAI como auxiliar, no tribunal decisor.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Describe intervención Pupilar ligada a derechos de NNA y personas con capacidad restringida.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "No confunde intervención institucional con sentencia.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 64,
+        "label": "M2"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 65,
+        "label": "M2"
+      }
+    ]
+  },
+  {
+    "id": "O2-009",
+    "module": 2,
+    "topic": "2.2",
+    "title": "Interés superior y participación",
+    "prompt": "En un proceso familiar se pretende decidir lo que afecta a un niño sin escucharlo, alegando que los adultos conocen su interés. Explicá por qué interés superior y participación deben analizarse juntos sin presumir siempre condición de parte.",
+    "model": "El niño es sujeto de derechos; su interés superior se vincula con satisfacción integral de ellos. Participación comprende ser oído y que su opinión sea ponderada, además de asistencia técnica autónoma y preferentemente especializada. Participar no implica que siempre tenga condición procesal de parte.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Relaciona interés superior con derechos, no sola preferencia de adultos.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Incluye derecho a ser oído y opinión ponderada.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Reconoce asistencia técnica letrada autónoma de representantes legales.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "No afirma condición de parte automática en todo proceso.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 64,
+        "label": "M2"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 68,
+        "label": "M2"
+      }
+    ]
+  },
+  {
+    "id": "O2-010",
+    "module": 2,
+    "topic": "2.2",
+    "title": "Derecho de fondo y proceso de familia",
+    "prompt": "Explicá cómo se relacionan derechos familiares sustanciales y Código Procesal de Familia y Violencia Familiar. Incluí asistencia del abogado del niño y por qué no basta leer una única ley sin sus modificaciones.",
+    "model": "Las leyes de fondo establecen derechos y deberes; el código provincial regula procedimientos para hacerlos efectivos, con vías ordinarias, abreviadas, urgentes y especiales. El abogado del niño integra asistencia técnica autónoma y hay registro específico. El material señala reformas a Ley 9120, por lo que debe estudiarse su versión modificada.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Distingue derechos/deberes de fondo de procedimientos para realizarlos.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Menciona variedad de procesos familiares, no una única vía universal.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Reconoce asistencia autónoma y registro de abogado del niño.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Advierte que Ley 9120 tiene modificaciones y no debe leerse congelada en 2018.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 68,
+        "label": "M2"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 69,
+        "label": "M2"
+      }
+    ]
+  },
+  {
+    "id": "O2-011",
+    "module": 2,
+    "topic": "2.3",
+    "title": "Renuncia y protección laboral",
+    "prompt": "Se propone que un trabajador renuncie a vacaciones legalmente reconocidas para obtener otra ventaja. Explicá irrenunciabilidad y orden público laboral y distinguí esa limitación de la autonomía contractual civil.",
+    "model": "El trabajador no puede disponer válidamente de derechos y garantías que la normativa le reconoce; el resumen considera nula esa renuncia. El orden público laboral limita lo que puede transarse o disponerse y procura evitar abusos. No basta presentar un beneficio alternativo o consentimiento para eliminar el mínimo protegido.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Rechaza renuncia al derecho protegido por sola voluntad.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Explica orden público como límite a disponibilidad.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Distingue de autonomía civil sin trasplantarla sin límites.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Relaciona la protección con prevención de menoscabo o abuso.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 73,
+        "label": "M2"
+      }
+    ]
+  },
+  {
+    "id": "O2-012",
+    "module": 2,
+    "topic": "2.3",
+    "title": "Gratuidad no significa ausencia de costas",
+    "prompt": "Un trabajador cree que no puede ser condenado a ningún gasto y un empleador cree que debe pagar para iniciar defensa. Explicá gratuidad, oportunidad de pago y diferencia respecto de Tasa de Justicia.",
+    "model": "Gratuidad permite iniciar actuación sin pago previo de gastos y también alcanza al demandado. Puede haber costas al final si se impone condena. El trabajador está exento de Tasa de Justicia; empleador o ART condenados no tienen esa exención, sin equiparar gratuidad con inexistencia total de gastos.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Distingue acceso sin pago previo de eventual condena en costas.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Incluye gratuidad inicial de actuación del demandado.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Diferencia exención de Tasa de Justicia del trabajador.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "No extiende esa exención automáticamente al empleador o ART.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 73,
+        "label": "M2"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 74,
+        "label": "M2"
+      }
+    ]
+  },
+  {
+    "id": "O2-013",
+    "module": 2,
+    "topic": "2.3",
+    "title": "Secuencia e impulso laboral",
+    "prompt": "Reconstruí la secuencia desde traslado de demanda laboral hasta vista de causa: plazos de respuesta, propósito de inicial e impulso del expediente. Evitá importar sin más plazos civiles.",
+    "model": "Tras notificación de demanda, el demandado contesta en ocho días hábiles; la actora recibe traslado por tres días. La inicial intenta conciliación y ordena prueba; luego se produce prueba y la vista recibe declaraciones y alegatos. El impulso corresponde conjuntamente a partes y tribunal.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Indica ocho días hábiles de contestación desde notificación.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Incluye traslado de contestación a actora por tres días.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Distingue inicial de vista de causa y ubica conciliación/prueba/alegatos.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Atribuye impulso compartido, no exclusivamente de oficio.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 84,
+        "label": "M2"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 85,
+        "label": "M2"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 86,
+        "label": "M2"
+      }
+    ]
+  },
+  {
+    "id": "O2-014",
+    "module": 2,
+    "topic": "2.4",
+    "title": "Conducta típica que no completa delito",
+    "prompt": "Explicá el orden de análisis conducta, tipicidad, antijuridicidad y culpabilidad. Si una acción encaja en una descripción penal pero está justificada, ¿qué conclusión no puede darse automáticamente?",
+    "model": "Primero se analiza conducta, luego adecuación al tipo, contradicción con ordenamiento sin justificación y finalmente reproche personal. Una conducta típica puede estar justificada y no ser antijurídica; tipicidad no basta para afirmar un delito completo ni culpabilidad.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Ordena los cuatro niveles de análisis.",
+        "critical": false
+      },
+      {
+        "id": "c2",
+        "text": "Distingue tipicidad de antijuridicidad.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Reconoce que justificación excluye contradicción antijurídica.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "No presume culpabilidad o delito completo por solo encaje en tipo.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 92,
+        "label": "M2"
+      }
+    ]
+  },
+  {
+    "id": "O2-015",
+    "module": 2,
+    "topic": "2.4",
+    "title": "Audiencia organizada y decisión",
+    "prompt": "Una OGAP coordina una audiencia de preventiva y alguien le solicita que la conceda. Explicá roles de OGAP, Fiscalía, defensa y juez dentro del modelo acusatorio.",
+    "model": "OGAP organiza agenda, salas, logística y recursos; no decide preventiva. Fiscalía investiga y acusa; defensa contradice y ejerce derechos; juez controla legalidad y decide imparcialmente. Separar gestión, investigación y jurisdicción conserva garantías y no impide coordinación.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Limita OGAP a gestión y niega potestad de conceder preventiva.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Asigna investigación/acusación al MPF.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Reconoce papel contradictorio de defensa.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Asigna decisión y control imparcial al juez.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 93,
+        "label": "M2"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 94,
+        "label": "M2"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 95,
+        "label": "M2"
+      }
+    ]
+  },
+  {
+    "id": "O2-016",
+    "module": 2,
+    "topic": "2.4",
+    "title": "Unanimidad y jurado estancado",
+    "prompt": "Un jurado vota culpabilidad 11 a 1. Explicá por qué no hay veredicto válido por mayoría, qué puede ocurrir si persiste el desacuerdo y qué cambia si un segundo jurado se estanca.",
+    "model": "Se exige unanimidad de los doce titulares para culpabilidad o no culpabilidad. Persistiendo el desacuerdo puede declararse estancado; si acusación continúa, se disuelve y puede haber nuevo juicio con otro jurado. Un segundo estancamiento conduce a absolución. El juez sentencia conforme al veredicto, no reemplaza la unanimidad.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Exige unanimidad de doce para ambas clases de veredicto.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Niega que 11 a 1 baste por mayoría.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Describe nuevo jurado condicionado a continuación de acusación.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Incluye absolución ante segundo estancamiento.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 99,
+        "label": "M2"
+      }
+    ]
+  },
+  {
+    "id": "O2-017",
+    "module": 2,
+    "topic": "2.4",
+    "title": "Edad al hecho y proceso en trámite",
+    "prompt": "Un adolescente cumple 18 durante una causa por un hecho cometido a los 17. Explicá qué momento determina el régimen, cómo se resuelve una duda inmediata sobre edad y qué sucede con actos regularmente cumplidos al aplicar nuevas reglas procesales.",
+    "model": "Importa edad al momento del hecho, dentro del tramo desde 14 y antes de 18. Ante duda inmediata se presume menor edad o no punibilidad y régimen más favorable. Las reglas procesales se aplican desde vigencia a causas en trámite, conservando actos regularmente cumplidos; cumplir 18 después no cambia retroactivamente la edad al hecho.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Determina régimen por edad al hecho y distingue cumpleaños posterior.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Indica tramo desde 14 hasta antes de 18.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Aplica presunción favorable ante duda inmediata.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Conserva actos regulares al aplicar disposiciones procesales nuevas desde vigencia.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 1,
+        "label": "Código juvenil"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 102,
+        "label": "M2"
+      }
+    ]
+  },
+  {
+    "id": "O2-018",
+    "module": 2,
+    "topic": "2.4",
+    "title": "Reserva e identidad con límites precisos",
+    "prompt": "Una oficina propone publicar escuela y domicilio de un adolescente sin nombre; otra pretende negar todo acceso a su defensa por reserva. Explicá ambas reglas y las excepciones judiciales pertinentes.",
+    "model": "Datos indirectos que individualizan también están protegidos. La excepción de art. 6 exige pedido procesal, resolución fundada y dictamen favorable de Asesoría bajo límites estrictos. Reserva de actuaciones rige frente a terceros; las partes constituidas acceden, sin excluir reglas específicas de diligencias reservadas y secreto excepcional.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Reconoce identificación indirecta y no la limita al nombre.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Incluye resolución fundada y dictamen favorable de Asesoría para excepción art. 6.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Distingue terceros de partes constituidas/defensa.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Reconoce reservas específicas y secreto excepcional; no presume acceso o prohibición absolutos.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 2,
+        "label": "Código juvenil"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 3,
+        "label": "Código juvenil"
+      }
+    ]
+  },
+  {
+    "id": "O2-019",
+    "module": 2,
+    "topic": "2.4",
+    "title": "Tribunal, juez y excepción unipersonal",
+    "prompt": "Explicá regla de integración del Tribunal Penal Juvenil, excepción del art. 12, competencias del Juez Penal Juvenil y órgano de ejecución. ¿Puede la simple conveniencia administrativa sustituir esas reglas?",
+    "model": "Tribunal: tres jueces como regla; excepcionalmente uno si naturaleza, menor complejidad o entidad de pena lo justifican y partes lo piden. Juez Juvenil controla garantías, interviene en flagrancia salvo caso conjunto y juzga correccionales. Ejecuta/controla el órgano que condenó; conveniencia no crea competencia.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Indica colegio de tres como regla.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Incluye fundamento legal y solicitud de partes para excepción unipersonal.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Distingue garantías/flagrancia/correccional del Juez de competencias del Tribunal.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Asigna ejecución al órgano que impuso condena, no a una oficina administrativa.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 4,
+        "label": "Código juvenil"
+      }
+    ]
+  },
+  {
+    "id": "O2-020",
+    "module": 2,
+    "topic": "2.4",
+    "title": "Informe y decisión ante incumplimiento",
+    "prompt": "Un supervisor de DRPJ detecta incumplimiento y decide aumentar la medida sin audiencia. Explicá qué puede hacer, periodicidad de informes y quién decide consecuencias más gravosas.",
+    "model": "DRPJ implementa y supervisa conforme a resoluciones judiciales. El supervisor sigue el caso, informa periódicamente con intervalos no mayores de tres meses y comunica inmediatamente incumplimientos. La consecuencia requiere audiencia oral contradictoria y decisión fundada del órgano judicial, con participación del adolescente y citación de víctima; no sanción unilateral administrativa.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Distingue ejecución administrativa DRPJ de decisión judicial.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Incluye informes con periodicidad no mayor a tres meses.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Incluye comunicación inmediata del incumplimiento.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Exige audiencia contradictoria y decisión judicial fundada antes de agravar.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Ley-9735-Responsabilidad-Penal-Juvenil.pdf",
+        "page": 1,
+        "label": "Ley 9735"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Ley-9735-Responsabilidad-Penal-Juvenil.pdf",
+        "page": 3,
+        "label": "Ley 9735"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 6,
+        "label": "Código juvenil"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 7,
+        "label": "Código juvenil"
+      }
+    ]
+  },
+  {
+    "id": "O2-021",
+    "module": 2,
+    "topic": "2.4",
+    "title": "Tres horas, imputación y UPANA",
+    "prompt": "Ordená los plazos de situación inmediata, imputación y diagnóstico situacional de un adolescente puesto a disposición. Agregá límite y finalidad de UPANA cuando luego se dicta preventiva.",
+    "model": "Fiscal: decisión inmediata máximo improrrogable tres horas. Imputación: doce desde puesta a disposición, prorrogables fundadamente otras doce. Tras imputación: notificar DRPJ máximo tres horas e informe al fiscal dentro de 48. UPANA es excepcional y transitoria, máximo doce días; dispuesta preventiva debe trasladarse a centro especializado.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Indica decisión inmediata en tres horas improrrogables.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Cuenta imputación desde puesta a disposición: 12 más 12 fundadas.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Distingue aviso DRPJ en tres horas e informe en 48.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Indica máximo doce días UPANA y traslado por preventiva; no la trata como pena.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 8,
+        "label": "Código juvenil"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 9,
+        "label": "Código juvenil"
+      }
+    ]
+  },
+  {
+    "id": "O2-022",
+    "module": 2,
+    "topic": "2.4",
+    "title": "Investigación y conexidad con adultos",
+    "prompt": "Una investigación compleja incluye adolescentes y adultos. Explicá plazo ordinario, ampliaciones y cómo se preserva la especialidad juvenil sin duplicar necesariamente toda prueba común.",
+    "model": "Investigación juvenil: tres meses desde imputación, prorrogables otro tanto; suma gravedad y muy difícil investigación permiten prórrogas hasta máximo total doce. La investigación conjunta tiene reglas de actuación fiscal y prueba común, pero no prorroga competencia juvenil ni elimina garantías, plazos o intervención especializada sobre libertad y derechos.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Cuenta tres meses desde imputación y reconoce prórroga por otro tanto.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Condiciona máximo doce a suma gravedad y muy difícil investigación.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Reconoce tratamiento de investigación/prueba común sin eliminar especialidad.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Mantiene garantías y control especializado de libertad del adolescente.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 1,
+        "label": "Código juvenil"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 9,
+        "label": "Código juvenil"
+      }
+    ]
+  },
+  {
+    "id": "O2-023",
+    "module": 2,
+    "topic": "2.4",
+    "title": "Salud mental sin castigo encubierto",
+    "prompt": "Diferenciá incapacidad sobreviniente e inimputabilidad comprobada durante investigación. Si surge internación por salud durante ejecución, explicá control, informes y cómputo del tiempo.",
+    "model": "Si un padecimiento sobreviniente excluye capacidad de entender o querer, el juez ordena suspensión previo dictamen del Cuerpo Médico Forense; inimputabilidad comprobada y sobreseimiento hacen cesar intervención penal, con remisión a familia si subsiste internación por riesgo. En ejecución, art. 86 exige control judicial de legalidad, informes cada treinta días corridos como máximo y cómputo íntegro del tratamiento/internación controlada como cumplimiento.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Distingue suspensión por incapacidad de entender/querer, previo dictamen forense, de sobreseimiento por inimputabilidad.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Incluye remisión al juez de familia si persiste necesidad sanitaria tras cese penal.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "No convierte tratamiento sanitario en sanción por sí.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Incluye informes de ejecución como máximo cada treinta días corridos.",
+        "critical": false
+      },
+      {
+        "id": "c5",
+        "text": "Incluye cómputo íntegro del tiempo de tratamiento/internación judicialmente controlada.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 10,
+        "label": "Código juvenil"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 25,
+        "label": "Código juvenil"
+      }
+    ]
+  },
+  {
+    "id": "O2-024",
+    "module": 2,
+    "topic": "2.4",
+    "title": "Preventiva: tres relojes",
+    "prompt": "Reconstruí art. 41 sin mezclar plazo fiscal para pedir preventiva, día judicial para ampliar ese plazo y duración de la detención. Agregá cuándo se decide en audiencia.",
+    "model": "Fiscal solicita dentro de cinco días de imputación; puede pedir antes de vencer ampliación única hasta otros cinco por la cantidad de hechos atribuidos o su evidente complejidad. Juez resuelve ese pedido de ampliación en un día. Preventiva inicial no supera tres meses desde efectiva detención; prórrogas trimestrales, máximo total dieciocho. Se decide oral e inmediatamente al terminar audiencia. Regla de cómputo: los plazos expresados en días se cuentan como días hábiles por el art. 4 y las remisiones a los arts. 194–196 CPP; no convertir horas o meses en días ni ignorar supuestos expresamente formulados como días corridos.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Cuenta solicitud fiscal desde imputación: cinco días.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Condiciona ampliación única hasta cinco a pedido previo y cantidad de hechos o evidente complejidad.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Asigna un día a resolver ampliación, no a decidir preventiva.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Cuenta duración desde detención efectiva: tres meses iniciales, prórrogas trimestrales, máximo dieciocho.",
+        "critical": true
+      },
+      {
+        "id": "c5",
+        "text": "Indica decisión oral e inmediata al terminar audiencia.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 12,
+        "label": "Código juvenil"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 13,
+        "label": "Código juvenil"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 2,
+        "label": "Código juvenil · art. 4, cómputo"
+      }
+    ]
+  },
+  {
+    "id": "O2-025",
+    "module": 2,
+    "topic": "2.4",
+    "title": "Custodia excepcional y cumpleaños",
+    "prompt": "Diferenciá custodia protectoria de cautelar por riesgos procesales. Indicá la regla literal de convocatoria/fundamentos y plazo de prórroga; explicá qué ocurre al cumplir 18 sin confundirlo con extinción de condena.",
+    "model": "Custodia atiende necesidades excepcionales de protección, distinta de cautelares por fuga u obstaculización. Art. 47 dispone convocar a audiencia dentro de dos días hábiles, resolver oral e inmediatamente y diferir fundamentos dentro de tres hábiles. Prórroga: resolución en 48 horas previa vista a Asesoría. Custodia cesa a los 18 o restitución de derechos; condena no se extingue por cumpleaños y hay reglas de traslado.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Distingue finalidad protectoria de riesgos procesales.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Reproduce convocatoria a audiencia dentro de dos días hábiles y fundamentos diferidos dentro de tres; no inventa una simple facultad de diferir.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Incluye 48 horas para decisión de prórroga y vista a Asesoría.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Reconoce cese automático de custodia a los 18/restablecimiento de derechos.",
+        "critical": true
+      },
+      {
+        "id": "c5",
+        "text": "Niega extinción automática de condena al cumplir 18.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 13,
+        "label": "Código juvenil"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 14,
+        "label": "Código juvenil"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 15,
+        "label": "Código juvenil"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 24,
+        "label": "Código juvenil"
+      }
+    ]
+  },
+  {
+    "id": "O2-026",
+    "module": 2,
+    "topic": "2.4",
+    "title": "Adultos, jurados y declaraciones previas",
+    "prompt": "Explicá integración del juicio técnico conjunto con adultos y cuándo deben separarse procesos. Si un testigo declaró antes, ¿puede una grabación reemplazarlo automáticamente en el nuevo debate?",
+    "model": "En juicio técnico conjunto son dos magistrados juveniles y uno ordinario. Si adulto debe ir a jurados se separa proceso y adolescente es juzgado técnicamente; también hay separación en correccionales. Registro previo sirve para contradicción o falta de memoria con identificación, contexto y posibilidad de explicación/contraexamen, no sustitución automática.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Indica dos jueces juveniles y uno ordinario en supuesto técnico conjunto.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Separa al adolescente del jurado popular del adulto.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Reconoce separación correccional.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Limita uso de grabación a fines y garantías del art. 60.",
+        "critical": true
+      },
+      {
+        "id": "c5",
+        "text": "Incluye contexto y oportunidad de explicar/contrainterrogar, no mero fragmento aislado.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 16,
+        "label": "Código juvenil"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 17,
+        "label": "Código juvenil"
+      }
+    ]
+  },
+  {
+    "id": "O2-027",
+    "module": 2,
+    "topic": "2.4",
+    "title": "Consentimiento en abreviado",
+    "prompt": "Un adolescente asiente al abreviado presionado por un adulto coimputado. Explicá controles necesarios, si el acuerdo obliga al juez y dos restricciones que suelen confundirse sobre edad y flagrancia.",
+    "model": "Es excepcional y exige defensa efectiva y consentimiento personal libre, informado e inequívoco, comprobado judicialmente con comprensión real y ausencia de presión. Acuerdo no obliga al juez y puede rechazarse fundadamente. No puede decidirse en inicial de flagrancia; la edad sola tampoco justifica rechazo.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Exige consentimiento personal libre/informado/inequívoco y defensa efectiva.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Incluye control de comprensión y de presiones de adultos.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Niega vinculación obligatoria del juez al acuerdo.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Excluye decisión en audiencia inicial de flagrancia.",
+        "critical": true
+      },
+      {
+        "id": "c5",
+        "text": "No funda rechazo exclusivamente en edad.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 17,
+        "label": "Código juvenil"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 18,
+        "label": "Código juvenil"
+      }
+    ]
+  },
+  {
+    "id": "O2-028",
+    "module": 2,
+    "topic": "2.4",
+    "title": "Flagrancia juvenil delimitada",
+    "prompt": "Explicá supuesto del art. 63, plazo de audiencia inicial y condición de prórroga. Agregá cómo funciona integración unipersonal/colegiada y qué solución no puede decidirse en esa inicial.",
+    "model": "Rige para aprehensión flagrante por delitos dolosos cuya pena no supere veinte años. Inicial máximo tres días desde imputación, prórroga igual excepcional fundada por pruebas imprescindibles inmediatas o ampliación UMA por complejidad familiar. Tribunal actúa en principio unipersonal, colegiado en conjunto y posible pedido de partes; no abreviado en inicial. Regla de cómputo: los plazos expresados en días se cuentan como días hábiles por el art. 4 y las remisiones a los arts. 194–196 CPP; no convertir horas o meses en días ni ignorar supuestos expresamente formulados como días corridos.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Delimita delitos dolosos y pena no superior a veinte años.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Cuenta tres días desde imputación y posible igual prórroga fundada.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Incluye fundamentos específicos de prueba o informe UMA, no mera conveniencia.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Distingue regla unipersonal de conjunto colegiado y solicitud de partes.",
+        "critical": false
+      },
+      {
+        "id": "c5",
+        "text": "Niega abreviado en inicial de flagrancia.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 18,
+        "label": "Código juvenil"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 19,
+        "label": "Código juvenil"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 2,
+        "label": "Código juvenil · art. 4, cómputo"
+      }
+    ]
+  },
+  {
+    "id": "O2-029",
+    "module": 2,
+    "topic": "2.4",
+    "title": "Restauración, reserva y acción civil",
+    "prompt": "Una mediación juvenil termina con acuerdo y se cree extinguida toda acción civil, incluso sin acuerdo expreso de la víctima. Explicá momento, límites penales, reserva del mediador y condiciones del efecto civil.",
+    "model": "Mecanismos pueden proponerse desde inicio hasta apertura del debate. Conciliación/mediación no procede en muerte de víctima, condenas previas, dos o más procesos graves en trámite y demás exclusiones. Mediador comunica resultado, no discusiones. El acuerdo alternativo no extingue por sí acción civil: exige voluntad expresa, informada, libre y homologación con alcance inequívoco.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Ubica oportunidad desde inicio hasta apertura del debate.",
+        "critical": false
+      },
+      {
+        "id": "c2",
+        "text": "Identifica muerte, condenas previas y dos procesos graves en trámite como límites.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Preserva reserva de conversaciones en informe de resultado.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Niega extinción civil automática y exige acuerdo expreso/informado/homologado.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 8,
+        "label": "Código juvenil"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 19,
+        "label": "Código juvenil"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 20,
+        "label": "Código juvenil"
+      }
+    ]
+  },
+  {
+    "id": "O2-030",
+    "module": 2,
+    "topic": "2.4",
+    "title": "Revisión amplia: legitimación y trámite",
+    "prompt": "Un representante de víctima quiere usar revisión amplia juvenil de una absolución. Explicá procedencia y legitimación del recurso especial, presentación, audiencia y cómputo de resolución sin inventar un plazo desde interposición.",
+    "model": "Revisión amplia sólo contra condenatorias, por adolescente o defensa. Se interpone y funda por escrito ante origen en diez días de notificación. Trámite escrito; audiencia si se pide expresamente, adolescente desea ser oído o tribunal la requiere por complejidad; se fija en diez días siguientes. Resolución en cinco después de informes orales o vencimiento del plazo escrito según art. 74. Regla de cómputo: los plazos expresados en días se cuentan como días hábiles por el art. 4 y las remisiones a los arts. 194–196 CPP; no convertir horas o meses en días ni ignorar supuestos expresamente formulados como días corridos.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Limita recurso especial a condenatorias y adolescente/defensa.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Incluye origen, escrito fundado y diez días desde notificación.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Describe tres supuestos de audiencia y diez días para fijarla.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Cuenta cinco días conforme al evento legal; no desde interposición automática.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 21,
+        "label": "Código juvenil"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 22,
+        "label": "Código juvenil"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 2,
+        "label": "Código juvenil · art. 4, cómputo"
+      }
+    ]
+  },
+  {
+    "id": "O2-031",
+    "module": 2,
+    "topic": "2.4",
+    "title": "Ejecución progresiva y derechos dentro del centro",
+    "prompt": "Un centro suspende escolarización por disciplina y concede egreso automáticamente al llegar a la mitad de pena. Corregí ambas decisiones e incluí umbrales, evaluación y reconsideración si se deniega progresión.",
+    "model": "Escolarización no puede suspenderse disciplinariamente. Progresión se evalúa: tercio para semiabierto/salidas; mitad para abierto/egreso; dos tercios para sustitución. Tiempo no genera cambio automático: evolución, responsabilización, informe y decisión fundada en audiencia. Si se deniega se fija reconsideración hasta tres meses.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Rechaza suspensión disciplinaria de escolarización.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Ordena umbrales tercio/mitad/dos tercios y sus modalidades.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Niega concesión automática por tiempo transcurrido.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Incluye evolución, responsabilización, informes y decisión judicial en audiencia.",
+        "critical": true
+      },
+      {
+        "id": "c5",
+        "text": "Indica reconsideración no superior a tres meses si se deniega.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Ley-9735-Responsabilidad-Penal-Juvenil.pdf",
+        "page": 4,
+        "label": "Ley 9735"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 26,
+        "label": "Código juvenil"
+      }
+    ]
+  },
+  {
+    "id": "O2-032",
+    "module": 2,
+    "topic": "2.4",
+    "title": "No punible: comprobación limitada y archivo",
+    "prompt": "Un niño por debajo de edad punible es señalado por un hecho delictivo. Explicá límites de comprobación, asistencia, información y archivo; diferenciá compulsa sobre responsabilidad parental de pena al niño.",
+    "model": "No procede persecución ni sanción punitiva. Fiscal verifica limitadamente hecho, edad y circunstancias sin imputar responsabilidad/culpabilidad; da intervención inmediata a protección y defensa. Informa según edad/madurez o a responsables. Determinada participación activa, cesa intervención penal y archiva; extrae compulsa contravencional para eventual responsabilidad parental, no condena penal al niño.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Niega proceso/sanción penal punitiva al no punible.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Limita comprobación a hecho, edad y circunstancias sin culpabilidad.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Incluye protección inmediata y defensa técnica.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Adecuación de información a capacidad y comunicación a responsables cuando corresponda.",
+        "critical": false
+      },
+      {
+        "id": "c5",
+        "text": "Incluye cese/archivo y distingue compulsa parental de castigo al niño.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 27,
+        "label": "Código juvenil"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+        "page": 28,
+        "label": "Código juvenil"
+      }
+    ]
+  },
+  {
+    "id": "O3-001",
+    "module": 3,
+    "topic": "3.1",
+    "title": "Titular y garante",
+    "prompt": "Una oficina trata derechos humanos como concesiones para ciudadanos nacionales solamente. Explicá quiénes son titulares, papel del Estado y dos rasgos que distinguen esta noción de derechos.",
+    "model": "Son derechos básicos de todas las personas, independientemente de ciudadanía o pertenencia política. La persona es titular y Estado principal garante; además cuentan con garantía internacional subsidiaria. No dependen de una concesión administrativa ni se limitan a nacionales.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Reconoce titularidad de todas las personas, no sólo ciudadanos.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Identifica Estado como principal garante.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Incluye garantía internacional adicional/subsidiaria.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Niega carácter de concesión de oficina o gobierno.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 2,
+        "label": "M3"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 3,
+        "label": "M3"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 6,
+        "label": "M3"
+      }
+    ]
+  },
+  {
+    "id": "O3-002",
+    "module": 3,
+    "topic": "3.1",
+    "title": "Ratificación y rango constitucional",
+    "prompt": "Un tratado de derechos humanos fue ratificado y alguien afirma que eso siempre basta para adquirir rango constitucional. Explicá jerarquía supralegal y vías de jerarquía constitucional en el esquema del módulo.",
+    "model": "Los tratados ratificados son superiores a leyes. Jerarquía constitucional corresponde a instrumentos enumerados en art. 75 inc. 22 y a los reconocidos por el mecanismo constitucional previsto; ratificación por sí no equivale siempre a elevación constitucional. Debe verificarse el instrumento y su incorporación.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Distingue jerarquía superior a leyes de jerarquía constitucional.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Incluye instrumentos enumerados en art. 75 inc. 22.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Incluye reconocimiento posterior por mecanismo constitucional.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Niega ascenso constitucional automático por toda ratificación.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 4,
+        "label": "M3"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 5,
+        "label": "M3"
+      }
+    ]
+  },
+  {
+    "id": "O3-003",
+    "module": 3,
+    "topic": "3.1",
+    "title": "Garantía internacional subsidiaria",
+    "prompt": "Explicá por qué protección internacional no sustituye automáticamente mecanismos internos y qué expresa que sea garantía adicional. Distinguí sistemas universal y regional de los tribunales nacionales.",
+    "model": "Estado es primer garante y debe disponer mecanismos internos idóneos. La protección internacional es adicional y subsidiaria cuando éstos no responden conforme a requisitos aplicables; no autoriza saltar todo procedimiento. Sistema universal funciona en ONU y regional en OEA, con organismos y competencias propias.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Ubica al Estado y mecanismos internos como primera garantía.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Explica garantía adicional/subsidiaria sin sustitución automática.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Distingue ONU/universal y OEA/regional.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Reconoce reglas/competencias para reclamar, no acceso libre sin requisitos.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 3,
+        "label": "M3"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 4,
+        "label": "M3"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 13,
+        "label": "M3"
+      }
+    ]
+  },
+  {
+    "id": "O3-004",
+    "module": 3,
+    "topic": "3.2",
+    "title": "Dignidad y efectividad en la ventanilla",
+    "prompt": "Una persona imputada es humillada al solicitar información y sus derechos se describen sólo como buenas intenciones. Aplicá dignidad y efectividad para explicar por qué ambas prácticas son incorrectas.",
+    "model": "Dignidad es inherente a toda persona y no se pierde por conductas reprochadas ni imputación. Efectividad exige goce y ejercicio reales, garantía obligatoria y posibilidad de exigir por vías legales/judiciales. Respeto y acceso efectivo no son premios o expresiones voluntarias de buena voluntad.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Reconoce dignidad inherente también a persona imputada.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Niega pérdida de dignidad por conducta o defecto.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Explica efectividad como ejercicio real y obligación de garantía.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Incluye exigibilidad/justiciabilidad frente al incumplimiento.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 6,
+        "label": "M3"
+      }
+    ]
+  },
+  {
+    "id": "O3-005",
+    "module": 3,
+    "topic": "3.2",
+    "title": "Avanzar y no retroceder",
+    "prompt": "Explicá progresividad y prohibición de regresividad. ¿Por qué no basta anunciar nuevos derechos mientras se desarman mecanismos que hacían posible ejercer los ya reconocidos?",
+    "model": "Progresividad orienta avance creciente en reconocimiento, protección y realización. La prohibición de regresividad impide retrotraer el nivel de goce alcanzado según el principio expuesto. Reconocimiento nominal no compensa que se reduzca efectividad; deben analizarse condiciones reales y obligaciones estatales.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Incluye avance en reconocimiento y realización, no sólo declaraciones.",
+        "critical": false
+      },
+      {
+        "id": "c2",
+        "text": "Explica regresión como retroceso del nivel de protección/goce.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Vincula mecanismos de ejercicio con efectividad.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Niega que anuncio nominal neutralice por sí un retroceso.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 6,
+        "label": "M3"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 7,
+        "label": "M3"
+      }
+    ]
+  },
+  {
+    "id": "O3-006",
+    "module": 3,
+    "topic": "3.2",
+    "title": "Acción positiva e igualdad",
+    "prompt": "Una medida temporal busca compensar desigualdad estructural de un colectivo y se la rechaza porque no trata idénticamente a todos. Explicá cómo puede ser compatible con igualdad y qué debe perseguir.",
+    "model": "Igualdad reconoce diferencias sin limitar derechos. Acciones positivas temporales buscan balancear desigualdad histórica que impide igual goce. Debe analizarse fundamento y objetivo de equiparación, no confundir distinción compensatoria con discriminación que cercena derechos.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Distingue igualdad de trato idéntico en toda circunstancia.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Identifica desigualdad histórica/estructural como fundamento.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Incluye carácter temporal y finalidad de equiparar goce.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Distingue acción positiva de diferencias que menoscaban derechos.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 8,
+        "label": "M3"
+      }
+    ]
+  },
+  {
+    "id": "O3-007",
+    "module": 3,
+    "topic": "3.3",
+    "title": "Clasificar sin jerarquizar",
+    "prompt": "Compará derechos civiles y políticos, económicos/sociales/culturales y de incidencia colectiva. Usá ejemplos y explicá por qué esa clasificación no permite proteger unos y desatender otros.",
+    "model": "Clasificaciones son pedagógicas e históricas; no reducen importancia o exigibilidad. Vida o libertad son civiles; salud/educación, DESC; ambiente, colectivo. Hay obligaciones negativas y positivas dominantes, no exclusivas. Los derechos son interdependientes e indivisibles, por lo que no deben ordenarse como premios de distinto valor.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Da al menos un ejemplo coherente por grupo.",
+        "critical": false
+      },
+      {
+        "id": "c2",
+        "text": "Niega jerarquía de importancia/exigibilidad por clasificación.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Reconoce interdependencia e indivisibilidad.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "No presenta obligaciones negativas/positivas como exclusivas de un grupo.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 8,
+        "label": "M3"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 9,
+        "label": "M3"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 15,
+        "label": "M3"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 16,
+        "label": "M3"
+      }
+    ]
+  },
+  {
+    "id": "O3-008",
+    "module": 3,
+    "topic": "3.3",
+    "title": "El tiempo y la comercialización",
+    "prompt": "Explicá cómo irrenunciabilidad, imprescriptibilidad e inalienabilidad se relacionan con que los derechos sean inherentes. Evitá confundir descripción de derechos con un permiso de comercializarlos.",
+    "model": "No se obliga a renunciar a los derechos; el módulo los describe como no perdidos por tiempo o falta de ejercicio. Son atributos inherentes que no se transfieren ni comercializan. Estas características refieren a los derechos humanos; no convierten toda relación patrimonial en un derecho vendible ni justifican exigir renuncias.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Explica irrenunciabilidad sin exigir renuncia forzada.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Incluye falta de pérdida del derecho por tiempo o no ejercicio según módulo.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Explica inalienabilidad como no transferencia/comercialización.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Relaciona características con inherencia a la persona.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 9,
+        "label": "M3"
+      }
+    ]
+  },
+  {
+    "id": "O3-009",
+    "module": 3,
+    "topic": "3.4",
+    "title": "Agente que excede atribuciones",
+    "prompt": "Un funcionario usa su posición para vulnerar un derecho fuera de sus competencias. Se sostiene que el Estado queda libre de responsabilidad porque esa conducta era ilegal. Explicá por qué debe analizarse atribución estatal y obligación de respeto.",
+    "model": "El deber de respeto exige abstenerse de vulnerar derechos. Actuar prevaliéndose de poderes oficiales puede comprometer al Estado aun desbordando competencia o actuando ilegalmente. Lo relevante es acción/omisión atribuible al Estado; no basta invocar ilegalidad para desvincularlo ni esperar individualización penal del agente en todo caso.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Define respeto como abstención de vulnerar derechos.",
+        "critical": false
+      },
+      {
+        "id": "c2",
+        "text": "Reconoce atribución posible por uso de posición oficial aun ilegal.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Niega exclusión automática por exceso de competencia.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Distingue responsabilidad estatal de determinación penal individual.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 10,
+        "label": "M3"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 12,
+        "label": "M3"
+      }
+    ]
+  },
+  {
+    "id": "O3-010",
+    "module": 3,
+    "topic": "3.4",
+    "title": "Daño privado y debida diligencia",
+    "prompt": "Un particular amenaza a una persona en riesgo real e inmediato conocido por autoridades. Explicá cuándo una omisión estatal puede generar responsabilidad y distinguí protección de satisfacción de derechos.",
+    "model": "No todo daño privado se imputa automáticamente al Estado: puede haber responsabilidad por falta de debida diligencia para prevenir, investigar o atender conforme a deberes. Protección exige medidas frente a riesgo conocido o que debió conocerse; satisfacción busca políticas que remuevan obstáculos estructurales al ejercicio, en especial DESCA.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Niega responsabilidad estatal automática por cada acto privado.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Incluye omisión y debida diligencia en prevención/investigación.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Relaciona protección con riesgo real/inmediato conocido o cognoscible.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Distingue satisfacción mediante políticas para remover obstáculos.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 11,
+        "label": "M3"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 12,
+        "label": "M3"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 13,
+        "label": "M3"
+      }
+    ]
+  },
+  {
+    "id": "O3-011",
+    "module": 3,
+    "topic": "3.5",
+    "title": "Situación que puede cambiar",
+    "prompt": "Explicá por qué el módulo prefiere «personas en situación de vulnerabilidad» y no una etiqueta que las describa como naturalmente incapaces. Incluí cómo identificar colectivos y propósito de políticas activas.",
+    "model": "La desventaja surge de relaciones económicas, sociales, culturales o legales discriminatorias, no de defectos esenciales de víctimas. Es dinámica y modificable. Colectivos varían con sociedad y momento histórico; se identifican para políticas de inclusión que respeten identidad y necesidades y garanticen igual goce.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Atribuye desventaja a contextos/relaciones, no inferioridad natural.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Explica carácter dinámico y modificable.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Reconoce variación histórica y territorial de colectivos.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Vincula identificación con políticas inclusivas y derechos, no exclusión.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 16,
+        "label": "M3"
+      }
+    ]
+  },
+  {
+    "id": "O3-012",
+    "module": 3,
+    "topic": "3.5",
+    "title": "Regla neutral con efecto desigual",
+    "prompt": "Una regla de atención aparentemente igual perjudica sistemáticamente a un grupo por barreras estructurales. Explicá igualdad sustantiva y qué cambia al analizar efectos en vez de sólo la forma de la regla.",
+    "model": "La igualdad sustantiva examina subordinación y desigualdad real. Una medida neutral puede producir efectos discriminatorios; no basta que su texto sea igual. Deben evaluarse razonabilidad, contexto y acciones para compensar desventaja y asegurar recursos judiciales accesibles, sin equiparar toda diferencia a discriminación.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Examina efectos y contexto además del texto formal.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Reconoce posible discriminación por medida aparentemente neutral.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Incluye deber de acciones para equilibrar desigualdad.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "No reduce análisis a prohibir cualquier distinción.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 17,
+        "label": "M3"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 18,
+        "label": "M3"
+      }
+    ]
+  },
+  {
+    "id": "O3-013",
+    "module": 3,
+    "topic": "3.6",
+    "title": "Derechos frente a beneficencia",
+    "prompt": "Compará una política presentada como favor del Estado con enfoque de derechos. Incluí titulares, exigibilidad, metas y rendición de cuentas, y aplicalo a una mejora judicial.",
+    "model": "Enfoque reconoce personas titulares que pueden demandar prestaciones y conductas, no sólo beneficiarios necesitados. Ancla decisiones en estándares, fija metas y mecanismos de evaluación, refuerza reclamos y rendición de cuentas. Una mejora judicial debe medir acceso y cumplimiento de derechos, no sólo cantidad de favores.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Reconoce titulares capaces de reclamar frente a deberes estatales.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Distingue enfoque de lógica de benefactor voluntario.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Incluye estándares/metas para evaluar avances.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Incluye exigibilidad y rendición de cuentas.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 18,
+        "label": "M3"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 19,
+        "label": "M3"
+      }
+    ]
+  },
+  {
+    "id": "O3-014",
+    "module": 3,
+    "topic": "3.6",
+    "title": "Tres barreras y una respuesta",
+    "prompt": "Clasificá estos obstáculos: falta de dinero o conectividad; trato culpabilizante y jerga; trámites excesivos y mala coordinación. Proponé una respuesta ligada a cada barrera e incorporá cómo género puede agravar el impacto.",
+    "model": "Son barreras estructurales/contextuales, actitudinales/simbólicas e institucionales/procedimentales, respectivamente. Respuestas: apoyos o canales accesibles; escucha respetuosa y lenguaje claro; simplificar y coordinar. Género cruza esas barreras y exige analizar impactos diferenciados y discriminación estructural, no tratar todas las experiencias como idénticas.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Clasifica los tres obstáculos en categorías correctas.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Propone una respuesta coherente para cada categoría.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Relaciona barreras con ejercicio efectivo del acceso a justicia.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Incluye impactos de género sin universalizar una experiencia única.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 21,
+        "label": "M3"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 22,
+        "label": "M3"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "page": 23,
+        "label": "M3"
+      }
+    ]
+  },
+  {
+    "id": "O4-001",
+    "module": 4,
+    "topic": "4.1",
+    "title": "Perspectiva en cada práctica",
+    "prompt": "Una institución crea una charla aislada y cree haber integrado perspectiva de género en todas sus decisiones. Explicá perspectiva, transversalización e interseccionalidad mediante un caso con género y discapacidad.",
+    "model": "Perspectiva identifica asignaciones sociales jerárquicas y asimetrías de poder. Transversalizar exige incorporarla a políticas, normas, decisiones y prácticas, no sólo una charla. Interseccionalidad analiza cómo género se entrelaza con discapacidad y otros ejes, intensificando desventajas sin tratarlos como problemas aislados.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Define perspectiva como análisis de roles/jerarquías y poder.",
+        "critical": false
+      },
+      {
+        "id": "c2",
+        "text": "Exige integración transversal en decisiones y prácticas, no acto aislado.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Explica entrelazamiento de género y discapacidad en el caso.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "No reduce interseccionalidad a enumerar etiquetas sin interacción.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 2,
+        "label": "M4"
+      }
+    ]
+  },
+  {
+    "id": "O4-002",
+    "module": 4,
+    "topic": "4.1",
+    "title": "El parámetro supuestamente universal",
+    "prompt": "Un protocolo considera normal sólo la experiencia masculina y explica desigualdad mediante supuesta inferioridad femenina. Distinguí androcentrismo, patriarcado y machismo.",
+    "model": "Androcentrismo presenta experiencia masculina como universal/neutra. Patriarcado organiza predominio y autoridad del varón en estructuras sociales. Machismo expresa creencia de superioridad que pretende legitimar control sobre vida/cuerpo/libertad de mujeres. Se relacionan pero describen planos distintos, no rasgos biológicos inevitables.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Asocia parámetro masculino universal con androcentrismo.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Asocia estructura de predominio con patriarcado.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Asocia creencia de superioridad/control con machismo.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Niega naturalización biológica de las jerarquías sociales.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 2,
+        "label": "M4"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 3,
+        "label": "M4"
+      }
+    ]
+  },
+  {
+    "id": "O4-003",
+    "module": 4,
+    "topic": "4.1",
+    "title": "Capacidades atribuidas por estereotipo",
+    "prompt": "Una selección asigna tareas de cuidado a mujeres y de conducción a varones sin evaluar capacidades. Explicá sexo, género, estereotipos y segregación del trabajo.",
+    "model": "Sexo refiere características biológicas; género a construcción sociohistórica, dinámica y relacional de roles. Estereotipos son expectativas preconcebidas que sancionan apartarse del mandato. La distribución automática reproduce segregación entre cuidado doméstico y producción/espacio público y jerarquías de valoración, no evaluación individual.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Distingue características biológicas de construcción de roles.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Identifica expectativas preconcebidas como estereotipos.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Relaciona el caso con segregación del trabajo y valoración desigual.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "No presenta esas aptitudes como naturales o universales por sexo.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 3,
+        "label": "M4"
+      }
+    ]
+  },
+  {
+    "id": "O4-004",
+    "module": 4,
+    "topic": "4.2",
+    "title": "Identidad, expresión y orientación",
+    "prompt": "Al atender a una persona se deduce su orientación sexual a partir de vestimenta o identidad de género. Explicá las tres dimensiones y dos presunciones normativas que deben evitarse.",
+    "model": "Identidad es vivencia interna del género; expresión, manifestación externa; orientación, atracción afectiva/emocional/sexual. Una no determina automáticamente las otras. Heteronormatividad supone sólo heterosexualidad válida; cisnormatividad presume identidad coincidente con sexo asignado. Ambas pueden producir exclusión en atención.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Distingue identidad, expresión y orientación.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Niega deducción automática de orientación por apariencia/identidad.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Explica heteronormatividad.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Explica cisnormatividad sin equipararla a orientación.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 4,
+        "label": "M4"
+      }
+    ]
+  },
+  {
+    "id": "O4-005",
+    "module": 4,
+    "topic": "4.2",
+    "title": "Rectificación sin diagnóstico obligatorio",
+    "prompt": "Una persona adulta solicita rectificación registral de género y se le exige cirugía o certificado psiquiátrico. Explicá reconocimiento de identidad autopercibida y requisitos médicos que el material descarta; incluí características del trámite.",
+    "model": "Ley de identidad reconoce vivencia autopercibida y trato/documentos acordes. Para rectificación no se exige cirugía, hormonas ni diagnósticos médicos/psicológicos. El trámite es administrativo, confidencial y gratuito; no es una autorización clínica para validar identidad.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Reconoce derecho a identidad autopercibida y trato acorde.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Descarta cirugía y tratamientos hormonales obligatorios.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Descarta diagnóstico médico/psicológico exigido para rectificación.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Incluye naturaleza administrativa, confidencial y gratuita.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 4,
+        "label": "M4"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 5,
+        "label": "M4"
+      }
+    ]
+  },
+  {
+    "id": "O4-006",
+    "module": 4,
+    "topic": "4.3",
+    "title": "Tipos y modalidades en un mismo hecho",
+    "prompt": "En una relación laboral se hostiga psicológicamente a una mujer y se paga menos por igual tarea. Clasificá tipos y modalidad, y explicá por qué no debe elegirse sólo una categoría como si fueran excluyentes.",
+    "model": "Hostigamiento puede ser violencia psicológica; desigualdad salarial encuadra en económica/patrimonial. El contexto es modalidad laboral. Tipos describen la forma de afectación y modalidades el ámbito/contexto: pueden coexistir y violencia no exige lesión física visible.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Identifica tipo psicológico del hostigamiento.",
+        "critical": false
+      },
+      {
+        "id": "c2",
+        "text": "Identifica tipo económico/patrimonial en desigualdad salarial.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Identifica modalidad laboral.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Distingue clasificaciones compatibles y niega necesidad de daño físico visible.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 5,
+        "label": "M4"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 6,
+        "label": "M4"
+      }
+    ]
+  },
+  {
+    "id": "O4-007",
+    "module": 4,
+    "topic": "4.3",
+    "title": "Promesas tras la agresión",
+    "prompt": "Tras un episodio grave hay regalos y promesas y una persona concluye que el riesgo quedó eliminado. Explicá ciclo de violencia y por qué esa fase no prueba por sí el fin del problema.",
+    "model": "El esquema distingue acumulación de tensión, explosión y luna de miel/arrepentimiento. Regalos y promesas pueden corresponder a esta última y renovar esperanza; no prueban cese definitivo. El material describe posible intensificación y acortamiento/desaparición de esa fase, lo que exige atención al riesgo y no culpabilizar a sobreviviente.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Ordena las tres fases.",
+        "critical": false
+      },
+      {
+        "id": "c2",
+        "text": "Ubica regalos/promesas en luna de miel.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Niega eliminación automática de riesgo por reconciliación.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "No culpa a sobreviviente por permanecer o renovar esperanza.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 6,
+        "label": "M4"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 7,
+        "label": "M4"
+      }
+    ]
+  },
+  {
+    "id": "O4-008",
+    "module": 4,
+    "topic": "4.3",
+    "title": "Violencia como problema público",
+    "prompt": "Se dice que la violencia doméstica es sólo asunto privado y que alcohol o pobreza la explican completamente. Refutá esas ideas e indicá por qué debe analizarse riesgo sin una causa única.",
+    "model": "Es problema social y de derechos humanos que exige respuesta estatal, atraviesa clases sociales y no se limita a baja educación. Alcohol/drogas pueden agravar, pero no justifican dominación. El análisis considera heterogeneidad, intencionalidad y factores de riesgo dinámicos en vez de una causa única o excusa.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Niega carácter exclusivamente privado y reconoce dimensión pública de derechos.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Niega limitación a pobreza o baja educación.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "No usa alcohol/drogas como justificación de violencia.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Incluye factores dinámicos y evita explicación única.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 6,
+        "label": "M4"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 7,
+        "label": "M4"
+      }
+    ]
+  },
+  {
+    "id": "O4-009",
+    "module": 4,
+    "topic": "4.4",
+    "title": "Interrogatorios y obstáculos institucionales",
+    "prompt": "Una mujer es enviada entre oficinas, se le exige repetir el relato y se cuestiona credibilidad por vestimenta. Explicá revictimización y violencia institucional y proponé una corrección coherente.",
+    "model": "Revictimización comprende demoras, derivaciones inconducentes, interrogatorios repetitivos o tratos deshumanizados. Violencia institucional obstaculiza derechos mediante prácticas de agentes públicos; juzgar por vestimenta reproduce prejuicios. Corregir implica trato digno, coordinación, evitar repeticiones superfluas y adoptar protección oportuna.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Identifica repetición/derivaciones y demoras como posible revictimización.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Relaciona obstáculos de agentes con violencia institucional.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Rechaza valoración de credibilidad por vestimenta o estilo de vida.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Propone coordinación y trato/protección oportunos sin repetición superflua.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 8,
+        "label": "M4"
+      }
+    ]
+  },
+  {
+    "id": "O4-010",
+    "module": 4,
+    "topic": "4.4",
+    "title": "Retractación sin castigo intimidatorio",
+    "prompt": "Una denunciante quiere retirar su denuncia y se propone amenazarla con falso testimonio para que continúe. Explicá cómo abordar contexto, acción pública y prueba sin cargar toda investigación sobre ella.",
+    "model": "Retractación puede vincularse con coacción, temor, dependencia o ciclo de violencia. En delitos de acción pública MPF debe continuar de oficio. Investigación debe reunir pruebas independientes y acompañamiento interdisciplinario en lenguaje claro. No corresponde amenazar a la retractada con causas para forzar ratificación.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Analiza posibles factores de retractación sin presumir mentira.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Mantiene impulso de oficio en acción pública.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Incluye evidencia independiente y acompañamiento.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Rechaza amenazas de persecución para obtener ratificación.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 8,
+        "label": "M4"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 9,
+        "label": "M4"
+      }
+    ]
+  },
+  {
+    "id": "O4-011",
+    "module": 4,
+    "topic": "4.4",
+    "title": "Perspectiva e imparcialidad",
+    "prompt": "Explicá por qué incorporar perspectiva de género puede contribuir a imparcialidad y no autoriza presumir culpabilidad. Relacioná eliminación de sesgos con investigación y valoración probatoria.",
+    "model": "Perspectiva elimina sesgos patriarcales que contaminan aparente neutralidad, por lo que no contradice imparcialidad. Debe analizarse contexto y prueba sin estereotipos, manteniendo presunción de inocencia y carga de acusación. No equivale a creer o condenar automáticamente por sexo de participantes.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Relaciona perspectiva con identificación/eliminación de prejuicios.",
+        "critical": false
+      },
+      {
+        "id": "c2",
+        "text": "Niega oposición necesaria entre perspectiva e imparcialidad.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Mantiene prueba y presunción de inocencia, no culpabilidad automática.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Evita estereotipos en investigación y valoración.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 8,
+        "label": "M4"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 9,
+        "label": "M4"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "page": 90,
+        "label": "M2"
+      }
+    ]
+  },
+  {
+    "id": "O4-012",
+    "module": 4,
+    "topic": "4.5",
+    "title": "Recepción de denuncia laboral",
+    "prompt": "Según el protocolo, explicá quién atiende y cómo puede presentarse denuncia. ¿Hace falta abogado, formulario exacto o puede ser anónima/colectiva sin firmas? Incluí resguardo de datos.",
+    "model": "Actúa Dirección de la Mujer, Género y Diversidad. Presentación escrita, correo o personal; debe contener mínimos del Anexo II aunque no use formulario. No exige abogado, sí suscripción; no admite anonimato ni colectiva sin individualización y firmas. Se registra relato sin interpretaciones y entrega recepción bajo confidencialidad.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Identifica Dirección como órgano de aplicación y vías de presentación.",
+        "critical": false
+      },
+      {
+        "id": "c2",
+        "text": "Distingue requisitos mínimos de necesidad absoluta de usar formulario.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Niega abogado obligatorio y exige firma/individualización sin anonimato.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Incluye relato fiel, constancia de recepción y confidencialidad.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 9,
+        "label": "M4"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 10,
+        "label": "M4"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Protocolo-Violencia-Laboral-30979.pdf",
+        "page": 16,
+        "label": "Protocolo Ac. 30.979"
+      }
+    ]
+  },
+  {
+    "id": "O4-013",
+    "module": 4,
+    "topic": "4.5",
+    "title": "Resguardo sin condena anticipada",
+    "prompt": "Explicá tres medidas posibles de resguardo laboral y por qué no deben confundirse con sanción definitiva. ¿En qué condición se considera traslado de la persona afectada?",
+    "model": "Pueden separarse espacios, asignarse remoto o traslado transitorio de denunciada, flexibilizar horario o otorgar licencia prevista. Afectada puede ser trasladada si lo solicita. Son medidas preventivas para protección, no declaración automática de responsabilidad; deben respetar dignidad, confidencialidad, no revictimización e imparcialidad.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Describe al menos tres medidas previstas coherentes.",
+        "critical": false
+      },
+      {
+        "id": "c2",
+        "text": "Condiciona traslado de afectada a su solicitud.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Distingue resguardo preventivo de condena/sanción definitiva.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Incluye principios de protección y confidencialidad/imparcialidad.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 9,
+        "label": "M4"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 10,
+        "label": "M4"
+      }
+    ]
+  },
+  {
+    "id": "O4-014",
+    "module": 4,
+    "topic": "4.5",
+    "title": "Compulsas y voluntad: distinciones",
+    "prompt": "El resumen dice «compulsas con conformidad». Precisá, usando el protocolo original, qué ocurre con compulsa administrativa, delito perseguible de oficio, delito de instancia privada y colegio profesional.",
+    "model": "Administrativa requiere voluntad expresa de investigación. Si surgen hechos perseguibles de oficio se remite al MPF, sin transformar toda compulsa en consentimiento universal. Para instancia privada se asesora para que manifieste voluntad; remisión a colegio profesional requiere consentimiento previo. Destinatarios y régimen no son intercambiables.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Exige voluntad expresa para compulsa administrativa.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Remite delitos de oficio al MPF sin consentimiento universal inventado.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Incluye asesoramiento y manifestación de voluntad en instancia privada.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Exige consentimiento previo para colegio profesional.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "page": 10,
+        "label": "M4"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Protocolo-Violencia-Laboral-30979.pdf",
+        "page": 17,
+        "label": "Protocolo Ac. 30.979"
+      },
+      {
+        "file": "biblioteca/2026/referencias/Protocolo-Violencia-Laboral-30979.pdf",
+        "page": 18,
+        "label": "Protocolo Ac. 30.979"
+      }
+    ]
+  },
+  {
+    "id": "O5-001",
+    "module": 5,
+    "topic": "5.1",
+    "title": "La sentencia no agota el servicio",
+    "prompt": "Una oficina tiene decisiones técnicamente correctas, pero notificaciones incomprensibles y trato indiferente. Explicá por qué un servicio centrado en ciudadanía exige revisar también esas prácticas y no sólo amabilidad.",
+    "model": "El servicio pone necesidades legítimas, expectativas y derechos en diseño, implementación y evaluación. Tutela efectiva se construye también en orientación, claridad y trato digno. Ser amable sin remover barreras no basta; deben medirse comprensión, acceso y gestión oportuna junto con corrección técnica.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Coloca derechos y necesidades legítimas en decisiones de servicio.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Reconoce claridad y trato como condiciones de acceso, no decoración.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Distingue gestión centrada en ciudadanía de sola amabilidad.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Propone evaluar comprensión/acceso y oportunidad además de técnica.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 2,
+        "label": "M5"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 3,
+        "label": "M5"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 4,
+        "label": "M5"
+      }
+    ]
+  },
+  {
+    "id": "O5-002",
+    "module": 5,
+    "topic": "5.1",
+    "title": "Principios convertidos en acciones",
+    "prompt": "Elegí una mejora de atención y explicá cómo aplicar orientación a ciudadanía, accesibilidad, transparencia, eficiencia, calidad, respeto/empatía y participación sin convertir el servicio en favoritismo.",
+    "model": "Debe escuchar necesidades, remover barreras, informar claramente, reducir redundancias, mejorar continuamente, tratar con dignidad y recoger opiniones. Los siete principios se aplican conjuntamente; imparcialidad y sometimiento a ley impiden satisfacer expectativas mediante privilegios o promesas ajenas al cargo.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Relaciona los siete principios con acciones concretas, no sólo nombres.",
+        "critical": false
+      },
+      {
+        "id": "c2",
+        "text": "Incluye escucha y accesibilidad al diseñar la mejora.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Incluye evaluación/mejora continua y participación.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Mantiene imparcialidad y ley, sin favoritismos por agradar.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 3,
+        "label": "M5"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 4,
+        "label": "M5"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 5,
+        "label": "M5"
+      }
+    ]
+  },
+  {
+    "id": "O5-003",
+    "module": 5,
+    "topic": "5.2",
+    "title": "Mapa del viaje ciudadano",
+    "prompt": "Reconstruí las seis etapas del recorrido judicial del módulo y relacioná al menos tres con emociones y acciones del agente. Explicá por qué el mapa no se limita al momento de presentación.",
+    "model": "Búsqueda, formalización, seguimiento, audiencia, resolución y finalización. Por ejemplo, incertidumbre inicial pide información clara; ansiedad al presentar, explicación paso a paso; seguimiento, estado y plazos realistas; audiencia, roles claros; fallo, empatía/opciones; cierre, guía práctica. Experiencia abarca contactos desde búsqueda hasta final.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Ordena las seis etapas.",
+        "critical": false
+      },
+      {
+        "id": "c2",
+        "text": "Relaciona al menos tres emociones/necesidades con acciones coherentes.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Incluye contactos antes y después de presentación.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "No reduce experiencia al resultado procesal o al trámite formal.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 6,
+        "label": "M5"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 7,
+        "label": "M5"
+      }
+    ]
+  },
+  {
+    "id": "O5-004",
+    "module": 5,
+    "topic": "5.2",
+    "title": "Momento crítico y garantía real",
+    "prompt": "Una persona recibió información formalmente disponible pero no la entendió y quedó sin saber el siguiente paso. Explicá momento de la verdad, diferencia entre garantía formal y expectativa humana, y una acción verificable para corregirlo.",
+    "model": "Cada contacto forma una impresión; algunos afectan especialmente confianza, como primera recepción o mala noticia. Disponibilidad formal no equivale a comprensión útil. Hay que explicar en lenguaje accesible, indicar próximos pasos y verificar comprensión, sin prometer resultado del litigio.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Define momento de la verdad como contacto que forma impresión.",
+        "critical": false
+      },
+      {
+        "id": "c2",
+        "text": "Distingue disponibilidad formal de comprensión/orientación reales.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Propone próximos pasos y comprobación de comprensión.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "No promete fallo favorable como remedio de satisfacción.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 7,
+        "label": "M5"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 8,
+        "label": "M5"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 16,
+        "label": "M5"
+      }
+    ]
+  },
+  {
+    "id": "O5-005",
+    "module": 5,
+    "topic": "5.3",
+    "title": "Reescribir sin cambiar el contenido",
+    "prompt": "Reescribí para público general: «El interesado deberá comparecer ante este tribunal el martes a las 10 para la audiencia señalada». Explicá cómo conservar precisión y mejorar claridad, concisión y tono sin agregar consecuencias no informadas.",
+    "model": "Por ejemplo: «Debe presentarse en este tribunal el martes a las 10 para la audiencia». Conserva persona destinataria, lugar, día, hora y finalidad; sustituye jerga por vocabulario común y estructura directa. Si falta un dato necesario se verifica; no se inventa amenaza o resultado.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Conserva tribunal, martes, 10 y finalidad de audiencia.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Sustituye jerga por lenguaje cotidiano y directo.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Mantiene información precisa, breve y respetuosa.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "No agrega sanciones o consecuencias no proporcionadas.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 9,
+        "label": "M5"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 10,
+        "label": "M5"
+      }
+    ]
+  },
+  {
+    "id": "O5-006",
+    "module": 5,
+    "topic": "5.3",
+    "title": "Escuchar, parafrasear y aprender",
+    "prompt": "Una persona expresa angustia y una consulta que vuelve a repetir. Redactá una breve respuesta con parafraseo y reflejo emocional, una pregunta abierta y cómo usar la repetición como retroalimentación.",
+    "model": "Puede decir: «Si entendí bien, necesita saber el próximo paso; comprendo su incertidumbre. ¿Qué parte de la explicación le genera dudas?». Parafraseo verifica contenido, reflejo reconoce emoción; escuchar sin interrumpir ni juzgar. Consultas repetidas permiten revisar claridad y mejorar comunicación, no culpar automáticamente al usuario.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Distingue parafraseo del contenido y reflejo emocional.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Formula pregunta abierta útil para aclarar.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Incluye escucha sin interrupción/prejuicio.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Usa repetición como señal de revisión comunicativa, no culpa del ciudadano.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 11,
+        "label": "M5"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 12,
+        "label": "M5"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 13,
+        "label": "M5"
+      }
+    ]
+  },
+  {
+    "id": "O5-007",
+    "module": 5,
+    "topic": "5.4",
+    "title": "Enojo y límites respetuosos",
+    "prompt": "Un ciudadano grita por una presentación sin respuesta. Proponé atención coherente: emoción, acción concreta, límite de respeto y derivación si excede tu competencia.",
+    "model": "Mantener calma, reconocer frustración y no replicar intensidad; revisar estado e informar lo comprobado. Pedir trato respetuoso para asistir. Si consulta excede atribuciones, derivar con contacto preciso y verificar que sabe cómo seguir. Validar emoción no habilita decidir el litigio ni prometer un resultado.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Mantiene calma y valida emoción sin escalar.",
+        "critical": false
+      },
+      {
+        "id": "c2",
+        "text": "Ofrece revisión concreta e información verificada.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Establece límite de respeto sin humillar.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Deriva con precisión cuando excede competencia, sin asumir decisión judicial.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 12,
+        "label": "M5"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 15,
+        "label": "M5"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 16,
+        "label": "M5"
+      }
+    ]
+  },
+  {
+    "id": "O5-008",
+    "module": 5,
+    "topic": "5.4",
+    "title": "Queja con trazabilidad y aprendizaje",
+    "prompt": "Una oficina recibe una queja y la cierra verbalmente sin registro ni investigación. Reconstruí las cinco etapas del flujo y explicá qué aporta cada una a la mejora.",
+    "model": "Recepción activa escucha y valida; registro/acuse documenta y da seguimiento; investigación objetiva identifica causa raíz; comunicación explica medidas con honestidad; cierre/aprendizaje ajusta protocolo y comparte mejoras. Una respuesta verbal sola no aporta trazabilidad ni aprendizaje; el reclamo no se trata como ataque personal.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Incluye recepción empática y registro/acuse con seguimiento.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Incluye investigación objetiva de causa raíz.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Incluye comunicación clara de medidas y errores comprobados.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Incluye cierre con ajuste/aprendizaje, no mera desaparición de queja.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 17,
+        "label": "M5"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 18,
+        "label": "M5"
+      }
+    ]
+  },
+  {
+    "id": "O5-009",
+    "module": 5,
+    "topic": "5.5",
+    "title": "Accesibilidad más allá de la rampa",
+    "prompt": "Hay una rampa pero el formulario digital no funciona con lector de pantalla y el agente habla sólo al acompañante. Explicá dimensiones de accesibilidad y ajustes razonables sin llamar privilegio a igualar oportunidades.",
+    "model": "Física no agota acceso: información/comunicación, actitud y tecnología deben permitir participación. Formulario debe ser utilizable; atención debe dirigirse a la persona, no infantilizar ni imponer ayuda. Si medidas generales no bastan, ajustes necesarios/adecuados sin carga desproporcionada procuran igualdad real, no ventajas indebidas.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Distingue dimensiones física, información, actitud y tecnología.",
+        "critical": false
+      },
+      {
+        "id": "c2",
+        "text": "Identifica formulario inaccesible como barrera tecnológica.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Dirige atención a persona y ofrece ayuda sin imponerla.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Define ajuste razonable e igualdad real sin privilegio indebido.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 19,
+        "label": "M5"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 20,
+        "label": "M5"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 21,
+        "label": "M5"
+      }
+    ]
+  },
+  {
+    "id": "O5-010",
+    "module": 5,
+    "topic": "5.5",
+    "title": "Idioma, edad y canal accesible",
+    "prompt": "Una persona mayor no comprende el idioma del documento y no puede usar el portal. Diseñá una atención que preserve autonomía y comprensión sin asumir incapacidad por edad.",
+    "model": "Indagar necesidades reales; dar tiempo y explicación clara, asistencia digital y canal presencial. Para barrera idiomática gestionar intérprete en instancias relevantes y materiales adecuados cuando corresponda, con sensibilidad cultural. Respetar autonomía: edad o idioma no permiten infantilizar ni hablar automáticamente sólo a acompañante.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Reconoce necesidades específicas sin atribuir incapacidad automática por edad.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Incluye tiempo/claridad y alternativa presencial o asistencia digital.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Incluye intérprete y adecuación cultural para comprensión.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Mantiene trato directo y autonomía de la persona.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 20,
+        "label": "M5"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 21,
+        "label": "M5"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 22,
+        "label": "M5"
+      }
+    ]
+  },
+  {
+    "id": "O5-011",
+    "module": 5,
+    "topic": "5.6",
+    "title": "Competencia que se demuestra",
+    "prompt": "Un agente conoce las normas pero no sabe aplicarlas, se desregula al atender y carece de recursos adecuados. Explicá componentes de competencia y cuatro dimensiones de idoneidad, diferenciando carencia individual de medios institucionales.",
+    "model": "Competencia integra saber, saber hacer, ser/estar, querer y poder hacer. Idoneidad combina psicofísica, científico técnica, ética y de gestión. Conocimiento no basta sin aplicación y conducta; equilibrio emocional y planificación importan. Poder hacer depende también de recursos organizacionales, por lo que un fallo de medios no equivale automáticamente a falta de motivación.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Distingue los cinco componentes, incluida disponibilidad de medios.",
+        "critical": false
+      },
+      {
+        "id": "c2",
+        "text": "Identifica cuatro dimensiones de idoneidad.",
+        "critical": false
+      },
+      {
+        "id": "c3",
+        "text": "Niega suficiencia de conocer normas sin aplicación/conducta.",
+        "critical": true
+      },
+      {
+        "id": "c4",
+        "text": "Distingue recursos institucionales de motivación/capacidad individuales.",
+        "critical": true
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 24,
+        "label": "M5"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 25,
+        "label": "M5"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 26,
+        "label": "M5"
+      }
+    ]
+  },
+  {
+    "id": "O5-012",
+    "module": 5,
+    "topic": "5.6",
+    "title": "Ética, aprendizaje y ejemplo",
+    "prompt": "Un agente favorece a un conocido y cree que sólo importa comportarse bien cuando lo supervisan. Explicá integridad, imparcialidad y responsabilidad, y cómo transformar una conducta mediante aprendizaje consciente.",
+    "model": "Integridad exige coherencia; imparcialidad, criterios objetivos sin favoritismos; responsabilidad, asumir consecuencias aun sin supervisión. Reconocer una carencia permite pasar de incompetencia inconsciente a consciente, practicar competencia consciente y formar hábito. La mejora combina reflexión y conducta consistente, no sólo recitar valores.",
+    "checkpoints": [
+      {
+        "id": "c1",
+        "text": "Rechaza favoritismo y explica imparcialidad objetiva.",
+        "critical": true
+      },
+      {
+        "id": "c2",
+        "text": "Incluye coherencia/integridad y responsabilidad sin supervisión.",
+        "critical": true
+      },
+      {
+        "id": "c3",
+        "text": "Ordena reconocimiento, práctica consciente y hábito en etapas del aprendizaje.",
+        "critical": false
+      },
+      {
+        "id": "c4",
+        "text": "Propone mejora conductual verificable, no sólo declaración de valores.",
+        "critical": false
+      }
+    ],
+    "sources": [
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 25,
+        "label": "M5"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 27,
+        "label": "M5"
+      },
+      {
+        "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "page": 28,
+        "label": "M5"
+      }
+    ]
+  }
+]

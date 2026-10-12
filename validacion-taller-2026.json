@@ -1,0 +1,33 @@
+{
+  "status": "PASS",
+  "ejercicios": {
+    "open": 90,
+    "cases": 20,
+    "sequences": 12,
+    "errors": 20
+  },
+  "diagnosticos_especificos": 100,
+  "diagnosticos_lectura": 20,
+  "preguntas_videos": 40,
+  "ids_unicos": 302,
+  "referencias": 732,
+  "pdfs": 12,
+  "videos": [
+    {
+      "file": "videos/v1.mp4",
+      "duration": 360.0,
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "file": "videos/v2.mp4",
+      "duration": 360.0,
+      "width": 1280,
+      "height": 720
+    }
+  ],
+  "textos_lectura_palabras": [
+    699,
+    698
+  ]
+}
