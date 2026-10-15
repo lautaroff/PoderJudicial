@@ -65,6 +65,39 @@ function complete(n){run(`current.forEach((q,i)=>{if(i<${n})answers[i]=q.correct
   check(()=>assert(!run("markdown('[x](javascript:alert)')").includes('href=')));
   const multi=run('bank.find(q=>q.fuentes?.length>1)');
   check(()=>assert.equal((run('questionSources(bank.find(q=>q.fuentes?.length>1))').match(/Abrir PDF/g)||[]).length,multi.fuentes.length));
-  console.log(`PASS: ${checks} comprobaciones. Selección por apartado, 50/40 minutos, distribución, corrección, fuentes, lectura, errores, reloj, conservación y lector.`);
-  fs.writeFileSync(root+'/validacion-logica-2026.json',JSON.stringify({fecha:'2026-10-12',comprobaciones:checks,resultado:'PASS',alcance:'DOM simulado; complementado por navegador real'},null,2));
+  const historyBefore=storage.get('pjm-history');storage.set('pjm-history','[]');storage.set('pjm-seen-2026','{}');
+  element('moduleFilter').value='1';element('topicFilter').value='';
+  const seenStudy=new Set(),totalM1=run("bank.filter(q=>q.etapa==='especificos'&&q.modulo===1).length");
+  while(seenStudy.size<totalM1){
+    await start('estudio');const ids=run('current.map(q=>q.id)');
+    check(()=>assert(ids.every(id=>!seenStudy.has(id))));
+    ids.forEach(id=>seenStudy.add(id));
+    // Simula abandonar, sin guardar resultado: la exposición igual debe persistir.
+    run('finished=true');
+  }
+  check(()=>assert.equal(seenStudy.size,totalM1));
+  await start('estudio');check(()=>assert(element('exam').innerHTML.includes('Ya viste todas')));run('finished=true');
+  storage.set('pjm-seen-2026','{}');
+  element('examDistribution').value='balanced';const examIds=new Set();
+  for(let i=0;i<3;i++){
+    await start('especificos');const ids=run('current.map(q=>q.id)');
+    check(()=>assert.equal(ids.length,50));check(()=>assert(ids.every(id=>!examIds.has(id))));
+    ids.forEach(id=>examIds.add(id));run('finished=true');
+  }
+  storage.set('pjm-seen-2026','{}');const readTexts=new Set();
+  const totalTexts=run("new Set(bank.filter(q=>q.etapa==='lectura').map(q=>q.texto)).size");
+  for(let i=0;i<totalTexts;i++){
+    await start('lectura');const text=run('current[0].texto');
+    check(()=>assert(!readTexts.has(text)));readTexts.add(text);run('finished=true');
+  }
+  await start('lectura');check(()=>assert.equal(run('current.length'),10));run('finished=true');
+  storage.set('pjm-seen-2026','{}');
+  const oldIds=run("bank.filter(q=>q.etapa==='especificos'&&q.modulo===1).slice(0,10).map(q=>q.id)");
+  storage.set('pjm-history',JSON.stringify([{fecha:'2026-10-14',items:oldIds.map(id=>({id}))}]));
+  await start('estudio');check(()=>assert(run('current.map(q=>q.id)').every(id=>!oldIds.includes(id))));run('finished=true');
+  const counters=JSON.parse(storage.get('pjm-seen-2026'));check(()=>assert.equal(counters[oldIds[0]].count,1));
+  run('seenQuestions()');check(()=>assert.equal(JSON.parse(storage.get('pjm-seen-2026'))[oldIds[0]].count,1));
+  storage.set('pjm-history',historyBefore);
+  console.log(`PASS: ${checks} comprobaciones. Selección, rotación sin repetición, migración de historial, abandonos, lectura agrupada, corrección y reloj.`);
+  fs.writeFileSync(root+'/validacion-logica-2026.json',JSON.stringify({fecha:'2026-10-15',comprobaciones:checks,resultado:'PASS',alcance:'DOM simulado; selección sin repetición, migración de historial y abandonos'},null,2));
 })().catch(e=>{console.error(e);process.exitCode=1});

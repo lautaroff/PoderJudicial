@@ -30,6 +30,7 @@ output/playwright/*
 !output/playwright/comprobar-navegacion.js
 !output/playwright/comprobar-taller.js
 !output/playwright/comprobar-taller-video.js
+!output/playwright/comprobar-rotacion.js
 
 # Cachés de render; las fuentes de video y MP4 terminados sí se versionan.
 video-estudio/.hyperframes/

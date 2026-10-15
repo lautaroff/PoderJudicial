@@ -29,6 +29,8 @@ La bibliografía nueva es exclusiva de conocimientos específicos. Los videos re
 
 Los avances completados se guardan sólo en este navegador. En el simulador principal cerrar una práctica en curso pierde esas respuestas; el taller conserva borradores y el vencimiento del cuestionario. «Descargar mis avances» del cuaderno exporta resultados, cobertura, memoria visual y taller. El taller también permite descargar su registro. No hay importación automática. Se conserva el historial anterior y se lo identifica como preparación previa.
 
+Desde el 15/10/2026, el simulador registra las preguntas al mostrarlas, incluso si se abandona. En estudio entrega hasta diez preguntas nuevas del filtro elegido, sin rellenar con conocidas si quedan menos de diez. Una vez agotadas, informa que empieza un repaso y prioriza las menos vistas y más antiguas. Los simulacros conservan su cantidad y distribución, priorizando nuevas; si necesitan repetir lo indican. Comprensión alterna los seis pasajes antes de repetir. El historial previo se aprovecha cuando contiene IDs. El registro de exposición también se exporta y se conserva al borrar resultados; «Repasar mis errores» permite repetir intencionalmente.
+
 ## Documentos y reproducibilidad
 
 [Manual](MANUAL-DE-PREPARACION.md) · [Plan](PLAN-DE-ESTUDIO.md) · [Etapas](GUIA-CONCURSO-2026.md) · [Biblioteca](BIBLIOTECA-Y-TEMARIO.md) · [Comparación](ACTUALIZACION-2026.md) · [Revisión](REVISION-CONTENIDO.md) · [Ejercicios imprimibles](CUADERNO-DE-EJERCICIOS.html).

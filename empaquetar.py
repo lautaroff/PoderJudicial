@@ -3,6 +3,7 @@ import zipfile,json,hashlib
 ROOT=Path(__file__).resolve().parent
 names=['index.html','estudio.css','app.js','datos-preguntas.js','fuentes-2026.js','indice-2026.json','preguntas.json','textos.json','CUADERNO-DE-EJERCICIOS.html','README.md','GUIA-CONCURSO-2026.md','MANUAL-DE-PREPARACION.md','BIBLIOTECA-Y-TEMARIO.md','PLAN-DE-ESTUDIO.md','PLAN-DE-ESTUDIO-2026.md','ACTUALIZACION-2026.md','EVALUACIONES-REALES-Y-ANTECEDENTES.md','REVISION-CONTENIDO.md','VERIFICACION.md','memoria.html','memoria.css','memoria.js','memoria-datos.json','memoria-datos.js','generar_memoria.py','preparar_material.py','verificar_simulador.cjs','verificar_enlaces_2026.py','integrar_documentos_2026.py','integrar_bancos_2026.py','generar_fuentes_2026.py','descargar_2026.py','descargar_referencias_2026.py','empaquetar.py','validacion-datos-2026.json','validacion-logica-2026.json','validacion-enlaces-2026.json']
 files=[ROOT/name for name in names]
+files.extend(ROOT/name for name in ['output/playwright/comprobar-rotacion.js','validacion-rotacion-2026.json'])
 files.extend(ROOT/name for name in ['taller.html','taller.css','taller.js','taller-datos.js','preparar_taller.py','integrar_taller.py','corregir_taller.py','generar_videos_practica.py','validacion-taller-2026.json','validacion-taller-navegador-2026.json','validacion-taller-video-2026.json'])
 files.extend(p for p in (ROOT/'taller-datos').glob('*.json'))
 files.extend(p for p in (ROOT/'videos').glob('*') if p.suffix in {'.mp4','.vtt','.html'})

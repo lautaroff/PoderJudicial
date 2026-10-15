@@ -51,3 +51,10 @@ La publicación nueva es exclusiva de conocimientos específicos. Los videos rea
 - Se usa una marca de inicio única para calcular cada vencimiento; recargar o cerrar no extiende el plazo. Las respuestas libres se califican por **autoevaluación explícita**, separada de los aciertos por clave. No se asigna una nota automática por similitud de texto ni se conserva una repetición como diagnóstico nuevo.
 
 Los controles de integridad y navegador no convierten una clave en fuente oficial ni prueban rendimiento del estudiante. Las limitaciones de protocolo `file:` y emulación móvil descritas arriba también se aplican al taller. El [uso propuesto](estudio-2026/COMO-USAR-TALLER.md) combina lectura, recuperación, aplicación, corrección y evaluación diferida.
+
+
+## Rotación de preguntas — 15/10/2026
+
+El simulador registra exposición al mostrar cada pregunta, aun si se abandona. En estudio agota las nuevas del filtro antes de repetir; la última tanda puede contener menos de diez. Al agotar el filtro informa repaso y prioriza las menos vistas y más antiguas. Los simulacros mantienen tamaño, reloj y distribución, priorizando nuevas dentro de cada módulo; las repeticiones necesarias se identifican. Comprensión rota por pasajes completos, evitando repetir antes de recorrer los seis. El historial anterior con IDs se incorpora sin duplicar conteos; resultados y errores se preservan. El registro de exposición también se exporta.
+
+Validación: 70 comprobaciones de lógica correctas (incluye las 45 previas), con agotamiento completo del módulo 1, abandono, recuperación de historial, tres simulacros equilibrados sin repetición y seis lecturas distintas. Nueve comprobaciones en Chromium HTTP local verificaron guardado tras recargar, tres tandas distintas, aviso de agotamiento, corrección y dos simulacros completos sin solapamiento. [Resultado de navegador](validacion-rotacion-2026.json). No agrega preguntas al banco: una selección pequeña termina agotándose.
