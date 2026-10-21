@@ -1,0 +1,188 @@
+{
+  "fecha": "2026-10-21",
+  "estado": "PASS",
+  "comprobaciones_totales": 36,
+  "errores_consola": [],
+  "detalle": [
+    {
+      "check": "index_sin_errores_iniciales",
+      "ok": true,
+      "detail": "[]"
+    },
+    {
+      "check": "index_27_apartados_cobertura",
+      "ok": true,
+      "detail": "filas=27"
+    },
+    {
+      "check": "index_27_semaforos_dominio",
+      "ok": true,
+      "detail": "pills=27"
+    },
+    {
+      "check": "index_entrenador_numeros_inicia",
+      "ok": true,
+      "detail": "preguntas=3"
+    },
+    {
+      "check": "index_entrenador_numeros_corrige",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "index_etiquetas_causa_error_visibles",
+      "ok": true,
+      "detail": "botones=12"
+    },
+    {
+      "check": "index_etiqueta_error_activa",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "index_simulacro_50_preguntas",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "index_omr_50_burbujas",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "index_ritmo_visible",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "index_descarte_distractor",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "index_bandera_omr_sincronizada",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "index_omr_respondida_sincronizada",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "index_banner_recuperar_practica",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "index_practica_recuperada_50",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "index_respuesta_recuperada",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "index_bandera_recuperada",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "index_lectura_split_screen",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "index_param_doc_abre_guia",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "index_mobile_390_sin_desborde",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "puentes_mapas_existen_en_atlas",
+      "ok": true,
+      "detail": "faltan=[]"
+    },
+    {
+      "check": "memoria_puentes_visibles",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "memoria_zoom_persiste_cambio_modo",
+      "ok": true,
+      "detail": "115 % -> 115 %"
+    },
+    {
+      "check": "memoria_reconstruir_marca_ya_usado",
+      "ok": true,
+      "detail": "1. Concurso (ya usado)"
+    },
+    {
+      "check": "memoria_tarjeta_due_medianoche",
+      "ok": true,
+      "detail": "hora=0"
+    },
+    {
+      "check": "memoria_caso_evalua",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "memoria_mobile_390_sin_desborde",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "taller_param_modulo_aplicado",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "taller_param_apartado_aplicado",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "taller_secuencias_preserva_foco",
+      "ok": true,
+      "detail": "focused=1"
+    },
+    {
+      "check": "taller_lectura_split_screen",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "taller_pildora_confianza_sincroniza",
+      "ok": true,
+      "detail": "sel=high"
+    },
+    {
+      "check": "taller_video_boton_tts_visible",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "taller_video_notas_visibles_en_cuestionario",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "taller_mobile_390_sin_desborde",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "navegador_sin_errores_consola",
+      "ok": true,
+      "detail": "[]"
+    }
+  ]
+}

@@ -21,7 +21,7 @@ Las páginas son **posiciones del visor PDF**, no numeración histórica. Los gr
 - [Código Procesal Penal Juvenil, 29pp][J]. P1–28 articulado; 29 firmas.
 - [CIDH Justicia Juvenil2011][CIDH]. M2 p 106 remite a impresas 17–45, posiciones PDF30–58; la lectura íntegra es recomendada.
 - [LCQ, HTML local][LCQ] y [CPCCyT, HTML local][CPC]. Se citan artículos: no tienen una página PDF inventada.
-- [Guía M2](GUIA-M2.md), [Guía anexos](GUIA-ANEXOS.md), [Manual](../MANUAL-DE-PREPARACION.md), [datos actuales](../memoria-datos.json).
+- [Guía M2](GUIA-M2.md), [Guía anexos](GUIA-ANEXOS.md), [Manual](../MANUAL-DE-PREPARACION.md), [datos actuales](contenido/integrado/memoria-datos.json).
 
 No duplicar el mapa institucional general del PJ ni Ley 9423 auditados en M1: desde M2 enlazarlo y desarrollar competencias, actores y recorridos. Clasificación de materias, dependencia administrativa, instancia recursiva y sucesión procesal son relaciones diferentes.
 

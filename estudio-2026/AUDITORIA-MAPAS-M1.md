@@ -8,7 +8,7 @@ El pedido de un panorama del Poder Judicial está justificado **como falta de re
 
 El mayor vacío es relacionar correctamente **órganos jurisdiccionales, órdenes federal/provincial, ministerios públicos y superintendencia**. Dibujarlos en una sola cadena de mando induciría errores. La estructura útil debe tener capas y leyendas de relaciones. Hay también déficit visual en jerarquía normativa y designación/remoción. Organización administrativa tiene mapa, pero reúne demasiadas preguntas diferentes y omite varios desarrollos que sí están en la guía.
 
-Fuentes: [M1 oficial local](../biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=2), [guía existente](GUIA-M1-M3.md), [revisión y alertas existentes](REVISION-M1-M3.md), [inventario interactivo](../memoria-datos.json), [manual](../MANUAL-DE-PREPARACION.md). Los enlaces de página de las propuestas siguientes atribuyen cada grupo a su fuente; no atribuyen al PDF los ejemplos originales.
+Fuentes: [M1 oficial local](../biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=2), [guía existente](GUIA-M1-M3.md), [revisión y alertas existentes](REVISION-M1-M3.md), [inventario interactivo](contenido/integrado/memoria-datos.json), [manual](../MANUAL-DE-PREPARACION.md). Los enlaces de página de las propuestas siguientes atribuyen cada grupo a su fuente; no atribuyen al PDF los ejemplos originales.
 
 ## Matriz de cobertura de todos los apartados
 

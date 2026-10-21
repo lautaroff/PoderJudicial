@@ -1,0 +1,1324 @@
+[
+  {
+    "id": "P101",
+    "etapa": "institucional",
+    "tema": "Estado",
+    "pregunta": "¿Cuál es el elemento humano del Estado?",
+    "opciones": [
+      "Poder",
+      "Población",
+      "Gobierno",
+      "Territorio"
+    ],
+    "correcta": 1,
+    "explicacion": "La población reúne a las personas asentadas en el ámbito estatal.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=2 | Material oficial 2026: respaldo conceptual, p. PDF 2; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 1,
+    "subtema": "1.1",
+    "pagina": 2,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P101",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 2,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P102",
+    "etapa": "institucional",
+    "tema": "Estado",
+    "pregunta": "¿Qué elemento alude al ámbito espacial del Estado?",
+    "opciones": [
+      "Gobierno",
+      "Territorio",
+      "Convención",
+      "Población"
+    ],
+    "correcta": 1,
+    "explicacion": "Territorio designa el espacio del ejercicio soberano.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=2 | Material oficial 2026: respaldo conceptual, p. PDF 2; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 1,
+    "subtema": "1.1",
+    "pagina": 2,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P102",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 2,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P103",
+    "etapa": "institucional",
+    "tema": "Gobierno",
+    "pregunta": "¿Qué se entiende por gobierno en la organización estatal?",
+    "opciones": [
+      "Toda la población sin distinción en el trámite ordinario provincial",
+      "Únicamente el espacio geográfico",
+      "El conjunto de órganos que ejercen funciones del Estado",
+      "Sólo los bienes públicos"
+    ],
+    "correcta": 2,
+    "explicacion": "Gobierno se distingue de población, territorio y poder.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=3 | Material oficial 2026: respaldo conceptual, p. PDF 3; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 1,
+    "subtema": "1.1",
+    "pagina": 3,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P103",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 3,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P104",
+    "etapa": "institucional",
+    "tema": "Constitución",
+    "pregunta": "¿Qué posición ocupa la Constitución en la organización jurídica?",
+    "opciones": [
+      "Resolución privada de una empresa",
+      "Recibo administrativo",
+      "Norma fundamental",
+      "Simple instructivo de oficina"
+    ],
+    "correcta": 2,
+    "explicacion": "Organiza poderes y reconoce derechos y garantías.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=3 | Material oficial 2026: respaldo conceptual, p. PDF 3; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 1,
+    "subtema": "1.1",
+    "pagina": 3,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P104",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 3,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P105",
+    "etapa": "institucional",
+    "tema": "Poderes constituidos",
+    "pregunta": "¿Qué son los poderes constituidos?",
+    "opciones": [
+      "Órganos organizados por la Constitución",
+      "Los únicos titulares de derechos",
+      "Cualquier grupo de vecinos",
+      "Los redactores de todo texto particular"
+    ],
+    "correcta": 0,
+    "explicacion": "Constituyente crea u organiza; constituido ejerce competencias.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=3 | Material oficial 2026: respaldo conceptual, p. PDF 3; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 1,
+    "subtema": "1.1",
+    "pagina": 3,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P105",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 3,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P106",
+    "etapa": "institucional",
+    "tema": "Legislativo",
+    "pregunta": "¿Qué cámaras integran el Congreso Nacional?",
+    "opciones": [
+      "Diputados y Senado",
+      "Juzgados y cámaras laborales",
+      "Intendencias y gobernaciones",
+      "Fiscalías y defensorías"
+    ],
+    "correcta": 0,
+    "explicacion": "La organización nacional legislativa es bicameral.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=11 | Material oficial 2026: respaldo conceptual, p. PDF 11; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 1,
+    "subtema": "1.2.1",
+    "pagina": 11,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P106",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 11,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P107",
+    "etapa": "institucional",
+    "tema": "Ejecutivo",
+    "pregunta": "¿Quién encabeza el Poder Ejecutivo nacional?",
+    "opciones": [
+      "La persona que ejerce la Presidencia de la Nación",
+      "El rector de una universidad",
+      "El presidente de toda cámara laboral",
+      "El jefe de cualquier mesa de entradas en el"
+    ],
+    "correcta": 0,
+    "explicacion": "La jefatura del Ejecutivo se distingue de la función judicial.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=14 | Material oficial 2026: respaldo conceptual, p. PDF 14; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 1,
+    "subtema": "1.2.2",
+    "pagina": 14,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P107",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 14,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P108",
+    "etapa": "institucional",
+    "tema": "Justicia federal",
+    "pregunta": "¿Qué criterio es correcto sobre justicia federal y provincial?",
+    "opciones": [
+      "Se diferencian por competencias constitucionales y legales",
+      "La provincial carece de jurisdicción",
+      "Son idénticas en todos los asuntos",
+      "La federal absorbe todo litigio familiar en el trámite ordinario provincial"
+    ],
+    "correcta": 0,
+    "explicacion": "Competencia federal es específica; provincias organizan su justicia.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=22 | Material oficial 2026: respaldo conceptual, p. PDF 22; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 1,
+    "subtema": "1.2.3",
+    "pagina": 22,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P108",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 22,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P109",
+    "etapa": "institucional",
+    "tema": "Derecho común",
+    "pregunta": "¿Qué error debe evitarse sobre los códigos de fondo dictados por el Congreso?",
+    "opciones": [
+      "Identificar competencia local",
+      "Distinguir derecho de fondo de procedimiento en el ámbito interno de la oficina",
+      "Suponer que toda causa que los aplica es necesariamente federal",
+      "Leer normas constitucionales"
+    ],
+    "correcta": 2,
+    "explicacion": "M2 muestra que el Congreso dicta el Código Penal y, aun así, la mayoría de sus delitos se investiga y juzga en la justicia provincial. Que el derecho de fondo sea nacional no convierte por sí solo toda causa en federal.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=88 | Material oficial 2026: respaldo conceptual, p. PDF 88; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 2,
+    "subtema": "2.4",
+    "pagina": 88,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P109",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "pagina": 88,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P110",
+    "etapa": "institucional",
+    "tema": "Misión",
+    "pregunta": "¿Qué expresa la misión institucional?",
+    "opciones": [
+      "El destino de vacaciones",
+      "La razón de ser y propósito de la organización",
+      "El listado de equipos informáticos en el",
+      "Un pronóstico electoral"
+    ],
+    "correcta": 1,
+    "explicacion": "Misión responde por qué existe la institución.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=26 | Material oficial 2026: respaldo conceptual, p. PDF 26; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 1,
+    "subtema": "1.3",
+    "pagina": 26,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P110",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 26,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P111",
+    "etapa": "institucional",
+    "tema": "Visión",
+    "pregunta": "¿Qué expresa la visión institucional?",
+    "opciones": [
+      "La lista de expedientes del día",
+      "La denuncia de una persona",
+      "La situación y metas a las que se desea llegar",
+      "El resultado de una causa individual dentro"
+    ],
+    "correcta": 2,
+    "explicacion": "Visión orienta una situación futura deseada.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=25 | Material oficial 2026: respaldo conceptual, p. PDF 25; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 1,
+    "subtema": "1.3",
+    "pagina": 25,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P111",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 25,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P112",
+    "etapa": "institucional",
+    "tema": "Organización",
+    "pregunta": "¿Qué criterio distingue un tribunal colegiado?",
+    "opciones": [
+      "Carecer de jueces",
+      "Depender de una parte litigante",
+      "Ser siempre una oficina informática dentro del procedimiento común",
+      "La integración por varios jueces que actúan según su régimen"
+    ],
+    "correcta": 3,
+    "explicacion": "La integración colegiada es plural. M2 distingue, en el fuero laboral, la intervención de los tres jueces de la sala unipersonal de uno solo; la conformación del tribunal no exige que siempre intervengan todos en cada expediente.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=75 | Material oficial 2026: respaldo conceptual, p. PDF 75; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 2,
+    "subtema": "2.3",
+    "pagina": 75,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P112",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "pagina": 75,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P113",
+    "etapa": "institucional",
+    "tema": "Gestión administrativa y jurisdicción",
+    "pregunta": "En el modelo del Fuero Penal Colegiado descrito en M2, ¿qué idea orienta la organización de la gestión?",
+    "opciones": [
+      "Suprimir toda trazabilidad",
+      "Convertir al empleado en juez",
+      "Organizar los recursos administrativos para facilitar la función jurisdiccional, con intervención de la OGAP",
+      "Eliminar toda función jurisdiccional en el marco ordinario del procedimiento judicial provincial según la reglamentación vigente"
+    ],
+    "correcta": 2,
+    "explicacion": "M2 separa la función jurisdiccional de los jueces de la gestión administrativa a cargo de la OGAP. Ésta organiza agendas, salas, recursos y logística. La pregunta se limita a ese modelo; no equipara todos los tribunales de gestión asociada.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=94 | Material oficial 2026: respaldo conceptual, p. PDF 94; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf | biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=95 | Material oficial 2026: respaldo conceptual, p. PDF 95; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 2,
+    "subtema": "2.4",
+    "pagina": 94,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P113",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "pagina": 94,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      },
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "pagina": 95,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P114",
+    "etapa": "institucional",
+    "tema": "Ministerio Público Fiscal",
+    "pregunta": "¿Qué función distingue al Ministerio Público Fiscal?",
+    "opciones": [
+      "Administrar elecciones partidarias privadas",
+      "Vender documentos de expedientes",
+      "Defender legalidad e intereses generales de la sociedad según sus atribuciones",
+      "Representar exclusivamente al demandado civil en todo caso según las pautas"
+    ],
+    "correcta": 2,
+    "explicacion": "Su actuación responde al interés público y marco legal.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=27 | Material oficial 2026: respaldo conceptual, p. PDF 27; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 1,
+    "subtema": "1.3",
+    "pagina": 27,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P114",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 27,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P115",
+    "etapa": "institucional",
+    "tema": "Defensa y Pupilar",
+    "pregunta": "¿Qué misión destaca el material de la Defensa y Pupilar?",
+    "opciones": [
+      "Recaudar todos los tributos",
+      "Elegir todos los jueces mediante sentencia en el trámite ordinario provincial",
+      "Asistencia técnico jurídica para acceso a justicia de personas vulnerables",
+      "Sancionar leyes generales"
+    ],
+    "correcta": 2,
+    "explicacion": "Defensa, fiscalía y tribunal cumplen funciones diferentes.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=28 | Material oficial 2026: respaldo conceptual, p. PDF 28; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 1,
+    "subtema": "1.3",
+    "pagina": 28,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P115",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 28,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P116",
+    "etapa": "institucional",
+    "tema": "Consejo provincial",
+    "pregunta": "¿Qué función cumple el Consejo de la Magistratura mendocino en la designación de jueces de tribunales inferiores?",
+    "opciones": [
+      "Emitir toda partida de nacimiento",
+      "Administrar el correo personal de agentes conforme a las reglas generales de actuación administrativa según la reglamentación vigente",
+      "Preseleccionar aspirantes mediante concurso público de oposición y antecedentes y elevar una terna al Poder Ejecutivo",
+      "Resolver toda demanda civil"
+    ],
+    "correcta": 2,
+    "explicacion": "El Consejo realiza la preselección por concurso y eleva una terna vinculante. El Ejecutivo elige un candidato y requiere acuerdo del Senado. El Consejo no efectúa por sí solo el nombramiento definitivo.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=27 | Material oficial 2026: respaldo conceptual, p. PDF 27; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 1,
+    "subtema": "1.3",
+    "pagina": 27,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P116",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 27,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P117",
+    "etapa": "institucional",
+    "tema": "Enjuiciamiento",
+    "pregunta": "¿Qué finalidad tiene un procedimiento de remoción de magistrados?",
+    "opciones": [
+      "Resolver una herencia",
+      "Examinar responsabilidad institucional y eventual destitución según su régimen",
+      "Sustituir automáticamente cualquier juicio penal en el ámbito interno de la oficina",
+      "Conceder empleos administrativos por sorteo"
+    ],
+    "correcta": 1,
+    "explicacion": "En el ejemplo de los jueces federales inferiores, M1 explica que la decisión del Jurado produce la remoción. Si además hay un ilícito, puede intervenir la justicia ordinaria; la destitución no sustituye automáticamente el juicio penal.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=25 | Material oficial 2026: respaldo conceptual, p. PDF 25; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 1,
+    "subtema": "1.2.3",
+    "pagina": 25,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P117",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 25,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P118",
+    "etapa": "institucional",
+    "tema": "Corte",
+    "pregunta": "¿Puede la Suprema Corte desarrollar funciones administrativas además de jurisdiccionales?",
+    "opciones": [
+      "Sólo para asuntos electorales privados",
+      "Sí, según las atribuciones que le corresponden",
+      "No, ningún órgano judicial administra recursos",
+      "Sólo si una parte litigante lo ordena"
+    ],
+    "correcta": 1,
+    "explicacion": "La clasificación de funciones no implica actividad única por órgano.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=28 | Material oficial 2026: respaldo conceptual, p. PDF 28; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 1,
+    "subtema": "1.4",
+    "pagina": 28,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P118",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 28,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P119",
+    "etapa": "institucional",
+    "tema": "Jerarquía",
+    "pregunta": "¿Qué principio ordena relaciones de superioridad y subordinación administrativa?",
+    "opciones": [
+      "Testamento",
+      "Peritaje",
+      "Reconvención",
+      "Jerarquía"
+    ],
+    "correcta": 3,
+    "explicacion": "La jerarquía organiza órganos y relaciones internas.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=31 | Material oficial 2026: respaldo conceptual, p. PDF 31; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 1,
+    "subtema": "1.5",
+    "pagina": 31,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P119",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 31,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P120",
+    "etapa": "institucional",
+    "tema": "Competencia",
+    "pregunta": "¿Puede un agente ampliar sus atribuciones sólo porque una tarea le parece útil?",
+    "opciones": [
+      "No; debe respetar la competencia y los mecanismos legales",
+      "Sí, sin límites",
+      "Sí, si no deja constancia",
+      "Sí, si lo solicita un amigo sin intervención de los órganos de control jurisdiccional"
+    ],
+    "correcta": 0,
+    "explicacion": "La competencia proviene del ordenamiento jurídico, de forma expresa o razonablemente implícita. Un agente no la amplía por mera conveniencia personal; deben respetarse las atribuciones y los mecanismos legales.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=32 | Material oficial 2026: respaldo conceptual, p. PDF 32; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 1,
+    "subtema": "1.5",
+    "pagina": 32,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P120",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 32,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P121",
+    "etapa": "institucional",
+    "tema": "Actividad administrativa",
+    "pregunta": "¿Qué distingue un hecho administrativo de una declaración jurídica?",
+    "opciones": [
+      "Es siempre una sentencia penal",
+      "Es una actuación material de la administración",
+      "Es siempre una reforma constitucional dentro",
+      "Es una ley general necesariamente"
+    ],
+    "correcta": 1,
+    "explicacion": "La actividad material y la declaración con efectos jurídicos se diferencian.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=33 | Material oficial 2026: respaldo conceptual, p. PDF 33; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 1,
+    "subtema": "1.5",
+    "pagina": 33,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P121",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 33,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P122",
+    "etapa": "institucional",
+    "tema": "Contratación",
+    "pregunta": "¿Qué finalidad general tiene la selección de un contratante público?",
+    "opciones": [
+      "Evitar toda documentación",
+      "Sustituir la competencia administrativa por rumores dentro del",
+      "Elegir conforme a reglas legales y criterios públicos aplicables",
+      "Premiar amistades"
+    ],
+    "correcta": 2,
+    "explicacion": "El antecedente 2023 distingue decisión de contratar, selección del cocontratante y perfeccionamiento; describe procedimientos y publicidad. Aquí se practica el principio general, sin afirmar la vigencia actual de cada norma de contratación citada en ese PDF histórico.",
+    "fuente": "biblioteca/pdf/Modulo-1-Concurso-Ingreso-2023.pdf#page=134 | Antecedente 2023; ampliación histórica, p. PDF 134; URL https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-1-Concurso-Ingreso-2023.pdf | Ampliación histórica: desarrollo no localizado en los PDFs del programa 2026; no es predicción del contenido de los videos.",
+    "modulo": 1,
+    "subtema": "ampliacion-historica",
+    "pagina": 134,
+    "version": 2026,
+    "anio_fuente": 2023,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Ampliación histórica: desarrollo no localizado en los PDFs del programa 2026; no es predicción del contenido de los videos.",
+    "origen": "historico-prepublicacion/preguntas.json#P122",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/pdf/Modulo-1-Concurso-Ingreso-2023.pdf",
+        "pagina": 134,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-1-Concurso-Ingreso-2023.pdf",
+        "descripcion": "Antecedente 2023; ampliación histórica"
+      }
+    ]
+  },
+  {
+    "id": "P123",
+    "etapa": "institucional",
+    "tema": "Agentes",
+    "pregunta": "¿Qué relación distingue la actuación de un agente público?",
+    "opciones": [
+      "El ejercicio de funciones estatales dentro de atribuciones y deberes",
+      "La facultad de sentenciar por voluntad propia",
+      "El poder de actuar sin norma",
+      "La representación automática de cualquier litigante según las"
+    ],
+    "correcta": 0,
+    "explicacion": "M1 define al agente estatal por la ejecución de funciones específicas del Estado y remite a un régimen jurídico de derechos y obligaciones. La actuación dentro de atribuciones se complementa con la regla de competencia de M1 p. PDF 32.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=38 | Material oficial 2026: respaldo conceptual, p. PDF 38; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=39 | Material oficial 2026: respaldo conceptual, p. PDF 39; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=32 | Competencia: atribuciones del ordenamiento jurídico, p. PDF 32; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 1,
+    "subtema": "1.6",
+    "pagina": 38,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P123",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 38,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      },
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 39,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      },
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 32,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Competencia: atribuciones del ordenamiento jurídico"
+      }
+    ]
+  },
+  {
+    "id": "P124",
+    "etapa": "institucional",
+    "tema": "Reglamento",
+    "pregunta": "¿Dónde deben verificarse las obligaciones formales del empleado judicial?",
+    "opciones": [
+      "En opiniones sin fuente",
+      "Sólo en consejos informales de redes",
+      "Únicamente en las preferencias del usuario",
+      "En el reglamento, estatuto y normas aplicables"
+    ],
+    "correcta": 3,
+    "explicacion": "M1 p. PDF 39 exige completar la formación con Reglamento arts. 3 y 13, Acordada 15.422 y capítulo III del DL 560 con Ley 9665. Las obligaciones se verifican en esas normas y sus modificaciones aplicables.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=39 | Material oficial 2026: respaldo conceptual, p. PDF 39; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 1,
+    "subtema": "1.6",
+    "pagina": 39,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P124",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 39,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P125",
+    "etapa": "institucional",
+    "tema": "Perspectiva de género",
+    "pregunta": "¿Es adecuado asignar capacidad profesional por estereotipos de género?",
+    "opciones": [
+      "Sí, eliminan la necesidad de pruebas",
+      "Sí, sustituyen la evaluación de aptitudes según las pautas administrativas",
+      "No; los estereotipos pueden producir desigualdad y discriminación",
+      "Sí, siempre son criterios objetivos"
+    ],
+    "correcta": 2,
+    "explicacion": "M4 define estereotipos como prejuicios e ideas preconcebidas acerca de lo esperable para cada sexo. Usarlos para asignar capacidad profesional es una aplicación de ese prejuicio, en vez de evaluar aptitudes individuales.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=3 | Material oficial 2026: respaldo conceptual, p. PDF 3; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 4,
+    "subtema": "4.1",
+    "pagina": 3,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P125",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "pagina": 3,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P126",
+    "etapa": "institucional",
+    "tema": "Género",
+    "pregunta": "¿El concepto de género se limita exclusivamente a mujeres?",
+    "opciones": [
+      "Sí, significa sólo anatomía",
+      "Sí, equivale a edad",
+      "Sí, por definición excluye a varones en el marco de la organización interna del despacho judicial",
+      "No; comprende construcciones y relaciones sociales que también involucran a varones"
+    ],
+    "correcta": 3,
+    "explicacion": "El material diferencia construcción social y características biológicas.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=3 | Material oficial 2026: respaldo conceptual, p. PDF 3; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 4,
+    "subtema": "4.1",
+    "pagina": 3,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P126",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "pagina": 3,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P127",
+    "etapa": "institucional",
+    "tema": "Violencia",
+    "pregunta": "¿Puede la violencia contra las mujeres presentarse de otras formas además de la física?",
+    "opciones": [
+      "No, sólo hay violencia en lugares públicos dentro del procedimiento común",
+      "No, sólo existe si hay una lesión visible",
+      "No, todo daño psicológico es irrelevante",
+      "Sí; existen diversas formas y modalidades según la normativa"
+    ],
+    "correcta": 3,
+    "explicacion": "M4 distingue violencia física, psicológica, sexual, económica o patrimonial, simbólica y política, además de modalidades según el ámbito o contexto. Tipos y modalidades no son la misma clasificación.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=5 | Material oficial 2026: respaldo conceptual, p. PDF 5; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf | biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf#page=6 | Material oficial 2026: respaldo conceptual, p. PDF 6; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 4,
+    "subtema": "4.3",
+    "pagina": 5,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P127",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "pagina": 5,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      },
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "pagina": 6,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P128",
+    "etapa": "institucional",
+    "tema": "Derechos",
+    "pregunta": "¿Pierde una persona su dignidad por encontrarse imputada?",
+    "opciones": [
+      "Sí, depende del empleado",
+      "Sí, toda imputación la elimina",
+      "No; la dignidad es inherente a la persona",
+      "Sí, sólo la conserva con patrimonio"
+    ],
+    "correcta": 2,
+    "explicacion": "M3 señala que la dignidad es inherente a toda persona y no se pierde por defectos o acciones socialmente disvaliosas. Por ello tampoco una imputación la elimina.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=6 | Material oficial 2026: respaldo conceptual, p. PDF 6; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 3,
+    "subtema": "3.2",
+    "pagina": 6,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P128",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 6,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P129",
+    "etapa": "institucional",
+    "tema": "Obligaciones estatales",
+    "pregunta": "¿Cuál es una obligación estatal frente a derechos humanos?",
+    "opciones": [
+      "Delegarlos completamente en particulares",
+      "Ignorar barreras de acceso",
+      "Sólo anunciarlos sin medidas",
+      "Respetar, proteger y garantizar derechos"
+    ],
+    "correcta": 3,
+    "explicacion": "Las obligaciones incluyen abstenciones y acciones protectoras.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=3 | Material oficial 2026: respaldo conceptual, p. PDF 3; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 3,
+    "subtema": "3.1",
+    "pagina": 3,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P129",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 3,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P130",
+    "etapa": "institucional",
+    "tema": "Protección internacional",
+    "pregunta": "¿Qué rasgo tiene la protección internacional de derechos humanos respecto de mecanismos internos?",
+    "opciones": [
+      "Sólo protege empleados judiciales",
+      "Reemplaza toda justicia local de manera automática según las pautas",
+      "No exige ningún procedimiento",
+      "Opera como garantía adicional con reglas propias y carácter subsidiario"
+    ],
+    "correcta": 3,
+    "explicacion": "Debe evitarse pensar que toda petición puede saltar sin requisitos a instancias internacionales.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=3 | Material oficial 2026: respaldo conceptual, p. PDF 3; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 3,
+    "subtema": "3.1",
+    "pagina": 3,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P130",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 3,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P131",
+    "etapa": "institucional",
+    "tema": "Efectividad",
+    "pregunta": "¿Qué reclama el principio de efectividad de derechos?",
+    "opciones": [
+      "Dejarlos como declaraciones sin aplicación",
+      "Eliminar mecanismos de reclamo",
+      "Posibilitar su goce y ejercicio reales",
+      "Limitar protección a avisos publicitarios"
+    ],
+    "correcta": 2,
+    "explicacion": "Reconocimiento formal y ejercicio efectivo son distintos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=6 | Material oficial 2026: respaldo conceptual, p. PDF 6; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 3,
+    "subtema": "3.2",
+    "pagina": 6,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P131",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 6,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P132",
+    "etapa": "institucional",
+    "tema": "Discriminación",
+    "pregunta": "¿Qué criterio es compatible con igualdad y no discriminación?",
+    "opciones": [
+      "Excluir por prejuicio",
+      "Asignar derechos por apariencia según las pautas administrativas de cada órgano local",
+      "Negar atención por origen",
+      "Evitar diferencias que impidan injustificadamente el goce de derechos"
+    ],
+    "correcta": 3,
+    "explicacion": "Las diferencias de trato deben analizarse según fundamento y efectos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=8 | Material oficial 2026: respaldo conceptual, p. PDF 8; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 3,
+    "subtema": "3.2",
+    "pagina": 8,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P132",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 8,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P133",
+    "etapa": "institucional",
+    "tema": "Accesibilidad",
+    "pregunta": "¿Qué respuesta reduce una barrera comunicacional?",
+    "opciones": [
+      "Usar palabras técnicas sin explicación en el ámbito interno de la oficina",
+      "Brindar información comprensible y canal de asistencia adecuado",
+      "Derivar sin indicar dónde",
+      "Ignorar la consulta"
+    ],
+    "correcta": 1,
+    "explicacion": "M5 desarrolla claridad, precisión y lenguaje comprensible, y exige derivación adecuada cuando la consulta excede las competencias del agente. Estas prácticas reducen barreras de comunicación y orientación.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=9 | Material oficial 2026: respaldo conceptual, p. PDF 9; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf | biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=16 | Orientación y derivación adecuada, p. PDF 16; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 5,
+    "subtema": "5.3",
+    "pagina": 9,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P133",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "pagina": 9,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      },
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "pagina": 16,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "descripcion": "Orientación y derivación adecuada"
+      }
+    ]
+  },
+  {
+    "id": "P134",
+    "etapa": "institucional",
+    "tema": "Funciones",
+    "pregunta": "¿Resolver un litigio y comprar suministros son la misma clase de función?",
+    "opciones": [
+      "No; jurisdicción y administración se distinguen por su contenido",
+      "Sí, ninguna se sujeta a normas",
+      "Sí, ambas son siempre reforma constitucional dentro del procedimiento común",
+      "Sí, toda compra es una sentencia"
+    ],
+    "correcta": 0,
+    "explicacion": "Un órgano judicial puede actuar en funciones diferentes.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=21 | Material oficial 2026: respaldo conceptual, p. PDF 21; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 1,
+    "subtema": "1.2.3",
+    "pagina": 21,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P134",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 21,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P135",
+    "etapa": "institucional",
+    "tema": "Autonomía provincial",
+    "pregunta": "¿Qué facultad provincial es característica de su autonomía?",
+    "opciones": [
+      "Organizar instituciones locales dentro del marco constitucional",
+      "Abolir derechos humanos por circular",
+      "Desconocer toda la Constitución Nacional en el ámbito interno de la oficina",
+      "Modificar sola una ley nacional de fondo"
+    ],
+    "correcta": 0,
+    "explicacion": "Autonomía se ejerce con los límites constitucionales federales.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=8 | Material oficial 2026: respaldo conceptual, p. PDF 8; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 1,
+    "subtema": "1.1",
+    "pagina": 8,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P135",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 8,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P136",
+    "etapa": "institucional",
+    "tema": "Constitución",
+    "pregunta": "¿La reforma constitucional y una ley ordinaria siguen necesariamente el mismo procedimiento?",
+    "opciones": [
+      "Sí, una sentencia la modifica siempre",
+      "Sí, basta cualquier circular",
+      "No; la Constitución Nacional tiene un procedimiento especial de reforma",
+      "Sí, cualquier oficina puede reformarla en ejercicio de atribuciones administrativas ordinarias"
+    ],
+    "correcta": 2,
+    "explicacion": "El antecedente 2023 explica que la Constitución es rígida y que el art. 30 prevé un procedimiento especial de reforma. Ese desarrollo detallado no se localizó en el programa 2026; se conserva como ampliación histórica, sin atribuirlo al temario nuevo.",
+    "fuente": "biblioteca/pdf/Modulo-1-Concurso-Ingreso-2023.pdf#page=4 | Antecedente 2023; ampliación histórica, p. PDF 4; URL https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-1-Concurso-Ingreso-2023.pdf | Ampliación histórica: desarrollo no localizado en los PDFs del programa 2026; no es predicción del contenido de los videos.",
+    "modulo": 1,
+    "subtema": "ampliacion-historica",
+    "pagina": 4,
+    "version": 2026,
+    "anio_fuente": 2023,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Ampliación histórica: desarrollo no localizado en los PDFs del programa 2026; no es predicción del contenido de los videos.",
+    "origen": "historico-prepublicacion/preguntas.json#P136",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/pdf/Modulo-1-Concurso-Ingreso-2023.pdf",
+        "pagina": 4,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2023/04/Modulo-1-Concurso-Ingreso-2023.pdf",
+        "descripcion": "Antecedente 2023; ampliación histórica"
+      }
+    ]
+  },
+  {
+    "id": "P137",
+    "etapa": "institucional",
+    "tema": "Independencia",
+    "pregunta": "¿Independencia judicial significa libertad para decidir sin derecho?",
+    "opciones": [
+      "Sí, autoriza capricho",
+      "Sí, elimina fundamentación",
+      "No; protege decisión jurídica sin presiones indebidas",
+      "Sí, permite favorecer amigos dentro del procedimiento común"
+    ],
+    "correcta": 2,
+    "explicacion": "La independencia convive con sujeción al derecho y responsabilidad.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=21 | Material oficial 2026: respaldo conceptual, p. PDF 21; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 1,
+    "subtema": "1.2.3",
+    "pagina": 21,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P137",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 21,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P138",
+    "etapa": "institucional",
+    "tema": "Servicio judicial",
+    "pregunta": "¿Qué distinción debe mantener un agente al orientar al público?",
+    "opciones": [
+      "Toda consulta permite prometer un resultado",
+      "Información de trámite y decisiones que corresponden al órgano competente",
+      "Toda orientación reemplaza al juez",
+      "Toda solicitud autoriza al empleado a condenar en el ámbito interno de la oficina"
+    ],
+    "correcta": 1,
+    "explicacion": "M5 pide brindar información precisa sobre pasos y derivar al área competente cuando la consulta excede las atribuciones del agente. M1 distingue esas atribuciones de decisiones que pertenecen a otros órganos; orientar no autoriza a decidir el litigio.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf#page=16 | Material oficial 2026: respaldo conceptual, p. PDF 16; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf | biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=32 | Límites de competencia del órgano y agente, p. PDF 32; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 5,
+    "subtema": "5.4",
+    "pagina": 16,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P138",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "pagina": 16,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      },
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 32,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Límites de competencia del órgano y agente"
+      }
+    ]
+  },
+  {
+    "id": "P139",
+    "etapa": "institucional",
+    "tema": "Vulnerabilidad",
+    "pregunta": "¿Por qué se identifican barreras específicas de acceso?",
+    "opciones": [
+      "Para negar información",
+      "Para hacer posible una protección efectiva en situaciones desiguales",
+      "Para decidir por prejuicios",
+      "Para excluir grupos vulnerables dentro del ámbito interno de cada jurisdicción estatal"
+    ],
+    "correcta": 1,
+    "explicacion": "El acceso requiere atender circunstancias y obstáculos.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=22 | Material oficial 2026: respaldo conceptual, p. PDF 22; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf | biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf#page=23 | Material oficial 2026: respaldo conceptual, p. PDF 23; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 3,
+    "subtema": "3.6",
+    "pagina": 22,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P139",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 22,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      },
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "pagina": 23,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  },
+  {
+    "id": "P140",
+    "etapa": "institucional",
+    "tema": "Constitucionalidad",
+    "pregunta": "¿Una norma inferior incompatible con la Constitución adquiere superioridad por ser reciente?",
+    "opciones": [
+      "Sí, siempre",
+      "No; la fecha no elimina la jerarquía constitucional",
+      "Sí, si es más breve",
+      "Sí, si es una circular en el trámite ordinario provincial"
+    ],
+    "correcta": 1,
+    "explicacion": "Fecha y jerarquía no deben confundirse.",
+    "fuente": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf#page=4 | Material oficial 2026: respaldo conceptual, p. PDF 4; URL https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf | Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "modulo": 1,
+    "subtema": "1.1",
+    "pagina": 4,
+    "version": 2026,
+    "anio_fuente": 2026,
+    "tipo_material": "practica_general_institucional",
+    "oficial": false,
+    "alcance": "Concepto respaldado por material oficial 2026; pregunta original de práctica general, no extraída de videos ni cuestionarios institucionales oficiales.",
+    "origen": "historico-prepublicacion/preguntas.json#P140",
+    "fuentes": [
+      {
+        "archivo": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "pagina": 4,
+        "url": "https://jusmendoza.gob.ar/wp-content/uploads/2026/10/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+        "descripcion": "Material oficial 2026: respaldo conceptual"
+      }
+    ]
+  }
+]

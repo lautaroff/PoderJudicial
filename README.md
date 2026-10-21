@@ -1,46 +1,50 @@
 # Preparación judicial Mendoza · programa 2026
 
-Abrí [index.html](index.html) con doble clic. Conservá la carpeta completa: funciona sin instalar programas y sin subir resultados. El PDF se abre en el visor del navegador; cada enlace indica su página. En modo estudio podés profundizar mientras practicás; en simulacro, al corregir.
+Abrí [index.html](index.html) con doble clic. Conservá la carpeta completa: funciona 100 % sin conexión, sin instalar programas y sin subir resultados. El PDF se abre en el visor del navegador; cada enlace indica su página. En modo estudio podés profundizar mientras practicás; en simulacro, al corregir.
 
 ## Por dónde empezar
 
-1. Abrí «Mi recorrido», leé las reglas y el plan de 28 sesiones.
-2. Elegí módulo: PDF completo, guía explicada y práctica por apartado.
-3. Entrá en [Mapas y tarjetas](memoria.html): ocultá conceptos, reconstruí conexiones y respondé antes de revelar.
-4. Entrá al [Taller de dominio](taller.html): explicá sin opciones, compará casos, ordená procesos y corregí errores. Conservá los diagnósticos A/B para comprobar aprendizaje con preguntas nuevas.
-5. Alterná comprensión y las dos jornadas de video originales; corregí desde las fuentes. [Rutina del taller](estudio-2026/COMO-USAR-TALLER.md).
-6. Consultá las novedades oficiales para fechas, videos y hoja de respuestas.
+1. Abrí «Mi recorrido» en [index.html](index.html), leé las reglas y el plan de 28 sesiones, y usá los semáforos de dominio por apartado.
+2. Elegí módulo: PDF completo, guía explicada y práctica directa por apartado o por plazos y números.
+3. Practicá en el **Simulador y entrenador**:
+   - **Práctica guiada por tema** (sin reloj, con acceso inmediato a la fuente).
+   - **Entrenador de números, plazos y competencias** (117 ítems verificados de completar huecos y órganos, con alertas de trampas frecuentes).
+   - **Simulacros cronometrados** (distribución proporcional al peso real del temario, equilibrada o al azar, con hoja de respuestas OMR interactiva, marcado `⚑` para revisar, descarte de distractores `✕` y ritmo sugerido).
+4. Entrá en [Mapas y tarjetas](memoria.html): ocultá conceptos, reconstruí conexiones con control de conceptos ya usados y respondé antes de revelar.
+5. Entrá al [Taller de dominio](taller.html): explicá sin opciones, compará casos, ordená procesos y corregí errores. Conservá los diagnósticos A/B para comprobar aprendizaje con preguntas nuevas.
+6. Alterná comprensión (en pantalla dividida con el texto fijo) y las dos jornadas de video originales (con narración por voz opcional y bloc de apuntes integrado); corregí desde las fuentes. [Rutina del taller](estudio-2026/COMO-USAR-TALLER.md).
 
-## Contenido actualizado al 12/10/2026
+## Contenido y mejoras implementadas (octubre de 2026)
 
-- Índice y cinco módulos oficiales completos: 220 páginas PDF, con biblioteca y lector por hoja.
-- Lecturas obligatorias, normas citadas y anexo penal juvenil de octubre, con alcance documentado.
-- Manual completo, guías por módulo, comparación 2023/2026, revisión de erratas y nueve etapas del concurso.
-- Banco específico renovado, ejercicios generales y seis textos originales de comprensión; corrección explicada y fuente.
-- Mapas, tarjetas, contrastes y casos con recuerdo activo y repaso espaciado.
-- Taller: 90 abiertas con rúbricas, 20 pares de casos, 12 secuencias, 20 errores, dos diagnósticos específicos, dos textos nuevos y dos videos de seis minutos con cuestionarios.
-- Cuaderno imprimible y archivo histórico conservado.
+- **Índice y cinco módulos oficiales completos**: 220 páginas PDF, con biblioteca y lector integrado por hoja.
+- **Banco específico renovado y equilibrado**: 575 preguntas de opción múltiple (475 específicas, 40 institucionales, 60 de lectura) + 160 preguntas reservadas en el taller (diagnósticos A/B y videos), todas con distractores equilibrados en extensión (0 % de sesgo por longitud en `herramientas/calidad/sesgo_opciones.py --estricto`) y barajado aleatorio de opciones en tiempo de ejecución.
+- **Entrenador de números, plazos y competencias**: 117 ítems verificados contra página oficial (`contenido/plazos/numeros.json`) sobre plazos procesales, cómputo de días, edades, mayorías, duración de mandatos, números de ley y órganos competentes.
+- **Mapas, tarjetas, contrastes y casos**: 49 mapas interactivos, 120 tarjetas con repetición espaciada normalizada a medianoche local, 12 contrastes y 15 casos con opciones barajadas y puentes directos de práctica.
+- **Taller de dominio**: 90 preguntas abiertas con rúbricas, 20 pares de casos, 12 secuencias con foco accesible, 20 párrafos con error, dos diagnósticos específicos, dos textos nuevos de lectura en vista dividida y dos jornadas de video con narración TTS opcional y bloc de apuntes.
+- **Continuidad e importación/exportación**: persistencia automática de cuestionarios en curso, etiquetado de causas de error (`Plazo/número`, `Órgano/competencia`, `Condición/excepción`, `Lectura rápida`) y botones para exportar e importar tus avances JSON en las tres aplicaciones.
 
-Las cantidades verificadas se muestran en el portal y en [VERIFICACION.md](VERIFICACION.md). Las guías y ejercicios son preparación independiente; los originales oficiales se mantienen intactos.
+Las cantidades verificadas y los controles técnicos se detallan en [estudio-2026/VERIFICACION.md](estudio-2026/VERIFICACION.md).
 
-## Reglas que conviene tener presentes
+## Organización del repositorio
 
-La bibliografía nueva es exclusiva de conocimientos específicos. Los videos reales y el texto de comprensión se conocerán según su convocatoria. El escrito tiene 50 preguntas: la nueva página dice 50 minutos, pero Acordada/FAQ dicen 40; el simulador ofrece ambos. No se encontró una rectificación formal que cierre la diferencia. Los mínimos son 15/20 en cada jornada virtual, 7/10 lectura y 35/50 específicos. Entrenar no acredita aprobación ni garantiza nota.
-
-Los avances completados se guardan sólo en este navegador. En el simulador principal cerrar una práctica en curso pierde esas respuestas; el taller conserva borradores y el vencimiento del cuestionario. «Descargar mis avances» del cuaderno exporta resultados, cobertura, memoria visual y taller. El taller también permite descargar su registro. No hay importación automática. Se conserva el historial anterior y se lo identifica como preparación previa.
-
-Desde el 15/10/2026, el simulador registra las preguntas al mostrarlas, incluso si se abandona. En estudio entrega hasta diez preguntas nuevas del filtro elegido, sin rellenar con conocidas si quedan menos de diez. Una vez agotadas, informa que empieza un repaso y prioriza las menos vistas y más antiguas. Los simulacros conservan su cantidad y distribución, priorizando nuevas; si necesitan repetir lo indican. Comprensión alterna los seis pasajes antes de repetir. El historial previo se aprovecha cuando contiene IDs. El registro de exposición también se exporta y se conserva al borrar resultados; «Repasar mis errores» permite repetir intencionalmente.
-
-Desde el 21/10/2026, el atlas incorpora mapas por niveles, flujos con decisiones, búsqueda por concepto y enfoque por rama. Empezá por [la estructura judicial](memoria.html#map=m1-estructura-judicial) y consultá [cómo estudiar con los mapas ampliados](estudio-2026/GUIA-MAPAS-2026.md). Las fuentes siguen disponibles al practicar y las explicaciones propias se conservan al exportar.
+- **Raíz (`/`)**: páginas de entrada (`index.html`, `memoria.html`, `taller.html`, `CUADERNO-DE-EJERCICIOS.html`) y paquetes JS/CSS listos para usar sin servidor (`app.js`, `memoria.js`, `mapas.js`, `taller.js`, `datos-*.js`, `fuentes-2026.js`, `memoria-datos.js`, `taller-datos.js`).
+- **`contenido/`**: fuentes canónicas JSON editables (`bancos/`, `taller/`, `mapas/`, `plazos/`, `integrado/`).
+- **`estudio-2026/`**: manual de preparación, plan de 28 sesiones, guías explicadas por módulo y anexos, e informes de verificación.
+- **`biblioteca/`**: PDF oficiales del programa 2026, normativa de referencia con manifiestos SHA-256 y material histórico.
+- **`herramientas/`**: pipeline de construcción (`construir.py`), scripts de preparación, utilidades de autoría (`autoria/`) y validadores de calidad (`calidad/`).
+- **`validaciones/`**: reportes JSON generados automáticamente por los controles de integridad y simulador.
+- **`videos/`**: jornadas de video MP4, subtítulos VTT y transcripciones.
+- **`historico/` y `paquetes/`**: archivos de etapas previas y paquetes ZIP distribuibles.
 
 ## Documentos y reproducibilidad
 
-[Manual](MANUAL-DE-PREPARACION.md) · [Plan](PLAN-DE-ESTUDIO.md) · [Etapas](GUIA-CONCURSO-2026.md) · [Biblioteca](BIBLIOTECA-Y-TEMARIO.md) · [Comparación](ACTUALIZACION-2026.md) · [Revisión](REVISION-CONTENIDO.md) · [Ejercicios imprimibles](CUADERNO-DE-EJERCICIOS.html).
+[Manual](estudio-2026/MANUAL-DE-PREPARACION.md) · [Plan](estudio-2026/PLAN-DE-ESTUDIO.md) · [Etapas](estudio-2026/GUIA-CONCURSO-2026.md) · [Biblioteca](estudio-2026/BIBLIOTECA-Y-TEMARIO.md) · [Comparación](estudio-2026/ACTUALIZACION-2026.md) · [Revisión](estudio-2026/REVISION-CONTENIDO.md) · [Ejercicios imprimibles](CUADERNO-DE-EJERCICIOS.html).
 
-Para regenerar datos después de editar guías y bancos: `python integrar_documentos_2026.py`, `python integrar_bancos_2026.py`, `python generar_fuentes_2026.py`, `python preparar_mapas.py`, `python preparar_material.py`, `python preparar_taller.py`. Verificar con `node verificar_simulador.cjs`; empaquetar con `python empaquetar.py`. Los MP4 se conservan ya renderizados. Estos scripts requieren Python y las bibliotecas usadas por los autores; estudiar con el paquete generado no requiere ejecutarlos.
+Para regenerar y validar todos los datos en un solo paso después de editar guías o bancos en `contenido/`:
 
-Procedencia: [material oficial 2026](https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026-material-de-estudio/), [convocatoria y novedades](https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026/). Fecha de descarga, URL y SHA-256 en los manifiestos de la biblioteca.
+```bash
+python herramientas/construir.py
+node herramientas/verificar_simulador.cjs
+```
 
-## Copia del repositorio y paquetes ZIP
-
-El repositorio conserva el proyecto completo, incluidos PDF, guías, datos y videos terminados. Después de descargarlo o clonarlo, abrí `index.html` manteniendo sus carpetas. Los ZIP generados se conservan localmente y se excluyen de Git porque superan 100 MiB por archivo. Para generar el paquete completo ejecutá `python empaquetar.py`; comprueba el contenido con CRC y SHA-256 y escribe `PREPARACION-JUDICIAL-MENDOZA-2026-TALLER.zip`. El ZIP preparatorio antiguo también deja de versionarse; su copia local y el historial Git se conservan.
+Para generar el paquete ZIP completo: `python herramientas/empaquetar.py` (escribe `paquetes/PREPARACION-JUDICIAL-MENDOZA-2026-TALLER.zip`).

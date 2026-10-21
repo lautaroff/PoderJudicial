@@ -1,0 +1,1669 @@
+[
+  {
+    "id": "V1",
+    "title": "Funciones y roles de justicia",
+    "description": "Clip original de lectura y esquemas; veinte preguntas sobre su contenido.",
+    "duration": 360,
+    "file": "videos/v1.mp4",
+    "captions": "videos/v1.vtt",
+    "narration": false,
+    "scenes": [
+      {
+        "title": "Funciones y límites",
+        "text": "Esta jornada es una práctica original. Observá relaciones, órganos y límites. Después responderás veinte preguntas sobre lo expuesto. No es un video institucional oficial ni anticipa sus preguntas.",
+        "nodes": "Observar|Relacionar|Responder",
+        "sources": [
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 2,
+            "label": "M1"
+          }
+        ],
+        "start": 0,
+        "duration": 30
+      },
+      {
+        "title": "Cuatro elementos del Estado",
+        "text": "Población es el conjunto humano; territorio es el ámbito espacial. Poder es la capacidad de alcanzar fines mediante autoridad y coerción. Gobierno es el conjunto de órganos que ejerce funciones. El gobierno puede cambiar sin que desaparezca el Estado.",
+        "nodes": "Territorio|Población|Poder|Gobierno",
+        "sources": [
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 2,
+            "label": "M1"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 3,
+            "label": "M1"
+          }
+        ],
+        "start": 30,
+        "duration": 30
+      },
+      {
+        "title": "La Constitución organiza y limita",
+        "text": "La Constitución es la norma fundamental. Organiza el poder y reconoce derechos. Una norma inferior no adquiere superioridad por ser más reciente. La supremacía exige compatibilidad con la Constitución y con el bloque constitucional aplicable.",
+        "nodes": "Norma fundamental|Organización|Derechos|Límites",
+        "sources": [
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 3,
+            "label": "M1"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 4,
+            "label": "M1"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 5,
+            "label": "M1"
+          }
+        ],
+        "start": 60,
+        "duration": 30
+      },
+      {
+        "title": "Representativa, republicana y federal",
+        "text": "La forma representativa permite ejercer el gobierno mediante representantes. La república comprende responsabilidad, publicidad de actos y división de poderes. El federalismo distribuye poder entre el orden federal y entidades locales autónomas; no borra las competencias provinciales.",
+        "nodes": "Representantes|Responsabilidad|Publicidad|Autonomía",
+        "sources": [
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 6,
+            "label": "M1"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 7,
+            "label": "M1"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 8,
+            "label": "M1"
+          }
+        ],
+        "start": 90,
+        "duration": 30
+      },
+      {
+        "title": "Órgano y función no son lo mismo",
+        "text": "La función no se determina sólo por el nombre del órgano. Un tribunal ejerce jurisdicción al resolver una controversia y también administra cuando organiza recursos o concede una licencia. Debe distinguirse la actividad realizada y su régimen.",
+        "nodes": "Tribunal|Resolver|Organizar|Actividad concreta",
+        "sources": [
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 21,
+            "label": "M1"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 29,
+            "label": "M1"
+          }
+        ],
+        "start": 120,
+        "duration": 30
+      },
+      {
+        "title": "La Corte también administra",
+        "text": "El módulo distingue funciones administrativa, jurisdiccional y dirimente de la Suprema Corte. La superintendencia comprende organización y facultades disciplinarias. Conceder una licencia o nombrar personal son actuaciones administrativas; no constituyen sentencias sobre el fondo de un litigio.",
+        "nodes": "Administrar|Juzgar|Dirimir|Superintendencia",
+        "sources": [
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 28,
+            "label": "M1"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 29,
+            "label": "M1"
+          }
+        ],
+        "start": 150,
+        "duration": 30
+      },
+      {
+        "title": "El proceso sustituye la fuerza privada",
+        "text": "El proceso ofrece un medio pacífico para debatir un conflicto ante un tercero imparcial. Las partes plantean sus pretensiones y defensas. La imparcialidad exige que quien decide no se convierta en defensor de una de las partes.",
+        "nodes": "Conflicto|Debate|Tercero imparcial|Decisión",
+        "sources": [
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+            "page": 2,
+            "label": "M2"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+            "page": 3,
+            "label": "M2"
+          }
+        ],
+        "start": 180,
+        "duration": 30
+      },
+      {
+        "title": "Investigar y decidir se separan",
+        "text": "En el modelo acusatorio, el Ministerio Público Fiscal investiga y sostiene la acusación en delitos de acción pública. Los jueces resuelven peticiones desde una posición imparcial y controlan medidas que afectan derechos. Investigar y acusar no equivale a juzgar.",
+        "nodes": "Fiscalía: investigar|Fiscalía: acusar|Juez: controlar|Juez: decidir",
+        "sources": [
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+            "page": 93,
+            "label": "M2"
+          }
+        ],
+        "start": 210,
+        "duration": 30
+      },
+      {
+        "title": "La OGAP organiza la gestión",
+        "text": "La Ley 9040 consolidó la separación entre jurisdicción y gestión administrativa penal. La OGAP organiza audiencias y tareas de gestión. El juez resuelve las cuestiones jurídicas. Administrar una agenda no atribuye potestad para decidir prisión preventiva.",
+        "nodes": "OGAP: agenda|OGAP: gestión|Juez: jurisdicción|Ley 9040",
+        "sources": [
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+            "page": 94,
+            "label": "M2"
+          }
+        ],
+        "start": 240,
+        "duration": 30
+      },
+      {
+        "title": "La defensa y el jurado",
+        "text": "La defensa contradice la acusación y ejerce derechos del imputado. En juicio por jurados, el jurado decide los hechos y emite veredicto; el juez técnico dirige el debate, resuelve cuestiones jurídicas e imparte instrucciones sobre el derecho aplicable.",
+        "nodes": "Defensa: contradecir|Jurado: hechos|Jurado: veredicto|Juez: derecho",
+        "sources": [
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+            "page": 94,
+            "label": "M2"
+          }
+        ],
+        "start": 270,
+        "duration": 30
+      },
+      {
+        "title": "Publicidad con límites",
+        "text": "El acceso a información judicial no implica que cualquier persona pueda consultar cualquier actuación sin condiciones. Hay reglas de publicidad y supuestos de reserva, como las medidas cautelares antes de ser trabadas. Digitalizar un expediente no elimina esos límites.",
+        "nodes": "Publicidad|Reserva|Permisos|Expediente digital",
+        "sources": [
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+            "page": 6,
+            "label": "M2"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+            "page": 5,
+            "label": "M2"
+          }
+        ],
+        "start": 300,
+        "duration": 30
+      },
+      {
+        "title": "Recuperá las relaciones",
+        "text": "Sin mirar apuntes, recordá qué integra el Estado y qué distingue órgano de función. Separá fiscal, juez, defensa, jurado y OGAP. En el cuestionario elegí por el contenido del video, no por suponer atribuciones que aquí no se expusieron.",
+        "nodes": "Elementos|Funciones|Roles|Límites",
+        "sources": [
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+            "page": 94,
+            "label": "M2"
+          }
+        ],
+        "start": 330,
+        "duration": 30
+      }
+    ],
+    "questions": [
+      {
+        "id": "V1Q01",
+        "prompt": "¿Qué elemento identifica al conjunto humano?",
+        "options": [
+          "Poder",
+          "Gobierno",
+          "Población",
+          "Territorio"
+        ],
+        "correct": 2,
+        "why": "Población La escena 2 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v1.mp4",
+            "time": 30,
+            "label": "Escena 2"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 2,
+            "label": "M1"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 3,
+            "label": "M1"
+          }
+        ]
+      },
+      {
+        "id": "V1Q02",
+        "prompt": "¿Qué diferencia al gobierno del poder?",
+        "options": [
+          "El gobierno identifica órganos; el poder una capacidad estatal",
+          "El poder es únicamente la población",
+          "El gobierno es sólo territorio",
+          "Ambos designan exclusivamente a jueces conforme a las reglas generales de actuación administrativa"
+        ],
+        "correct": 0,
+        "why": "El gobierno identifica órganos; el poder una capacidad estatal La escena 2 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v1.mp4",
+            "time": 30,
+            "label": "Escena 2"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 2,
+            "label": "M1"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 3,
+            "label": "M1"
+          }
+        ]
+      },
+      {
+        "id": "V1Q03",
+        "prompt": "¿Qué posición tiene la Constitución en lo expuesto?",
+        "options": [
+          "Resolución individual de trámite",
+          "Norma que sólo regula la agenda judicial",
+          "Norma fundamental que organiza y limita",
+          "Reglamento interno de cada oficina"
+        ],
+        "correct": 2,
+        "why": "Norma fundamental que organiza y limita La escena 3 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v1.mp4",
+            "time": 60,
+            "label": "Escena 3"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 3,
+            "label": "M1"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 4,
+            "label": "M1"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 5,
+            "label": "M1"
+          }
+        ]
+      },
+      {
+        "id": "V1Q04",
+        "prompt": "¿Qué sucede con una norma inferior por ser más reciente?",
+        "options": [
+          "La fecha no le otorga superioridad constitucional",
+          "Pasa automáticamente sobre la Constitución",
+          "Se convierte en poder constituyente",
+          "Deroga siempre los derechos constitucionales"
+        ],
+        "correct": 0,
+        "why": "La fecha no le otorga superioridad constitucional La escena 3 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v1.mp4",
+            "time": 60,
+            "label": "Escena 3"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 3,
+            "label": "M1"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 4,
+            "label": "M1"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 5,
+            "label": "M1"
+          }
+        ]
+      },
+      {
+        "id": "V1Q05",
+        "prompt": "¿Qué relación describe el federalismo?",
+        "options": [
+          "Eliminación de toda competencia provincial",
+          "Concentración de toda decisión en una oficina con intervención directa en el trámite principal de la causa",
+          "Distribución entre orden federal y entidades locales autónomas",
+          "Organización exclusiva de partidos políticos"
+        ],
+        "correct": 2,
+        "why": "Distribución entre orden federal y entidades locales autónomas La escena 4 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v1.mp4",
+            "time": 90,
+            "label": "Escena 4"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 6,
+            "label": "M1"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 7,
+            "label": "M1"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 8,
+            "label": "M1"
+          }
+        ]
+      },
+      {
+        "id": "V1Q06",
+        "prompt": "¿Qué rasgos republicanos se mencionaron?",
+        "options": [
+          "Reserva de todos los actos y poder sin límites sin intervención de los órganos de control jurisdiccional",
+          "Identidad entre gobierno y población",
+          "Duración vitalicia de todos los cargos",
+          "Responsabilidad, publicidad de actos y división de poderes"
+        ],
+        "correct": 3,
+        "why": "Responsabilidad, publicidad de actos y división de poderes La escena 4 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v1.mp4",
+            "time": 90,
+            "label": "Escena 4"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 6,
+            "label": "M1"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 7,
+            "label": "M1"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 8,
+            "label": "M1"
+          }
+        ]
+      },
+      {
+        "id": "V1Q07",
+        "prompt": "¿Cómo se reconoce la función de una actuación?",
+        "options": [
+          "Por la actividad concreta y su régimen",
+          "Por la cantidad de empleados del órgano",
+          "Sólo por el nombre del edificio",
+          "Por la rapidez con que se realiza"
+        ],
+        "correct": 0,
+        "why": "Por la actividad concreta y su régimen La escena 5 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v1.mp4",
+            "time": 120,
+            "label": "Escena 5"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 21,
+            "label": "M1"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 29,
+            "label": "M1"
+          }
+        ]
+      },
+      {
+        "id": "V1Q08",
+        "prompt": "¿Qué ejemplo fue administrativo?",
+        "options": [
+          "Decidir culpabilidad en un juicio",
+          "Conceder una licencia al personal",
+          "Resolver el fondo de una controversia",
+          "Impartir veredicto como jurado"
+        ],
+        "correct": 1,
+        "why": "Conceder una licencia al personal La escena 5 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v1.mp4",
+            "time": 120,
+            "label": "Escena 5"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 21,
+            "label": "M1"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 29,
+            "label": "M1"
+          }
+        ]
+      },
+      {
+        "id": "V1Q09",
+        "prompt": "¿Qué comprende la superintendencia expuesta?",
+        "options": [
+          "La defensa particular de cada litigante",
+          "Organización y facultades disciplinarias",
+          "La representación de cada parte",
+          "La investigación fiscal de todos los delitos"
+        ],
+        "correct": 1,
+        "why": "Organización y facultades disciplinarias La escena 6 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v1.mp4",
+            "time": 150,
+            "label": "Escena 6"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 28,
+            "label": "M1"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 29,
+            "label": "M1"
+          }
+        ]
+      },
+      {
+        "id": "V1Q10",
+        "prompt": "¿Qué tres funciones de la Corte nombró el video?",
+        "options": [
+          "Únicamente fiscal y defensiva",
+          "Investigadora, policial y electoral sin límites",
+          "Legislativa, partidaria y comercial",
+          "Administrativa, jurisdiccional y dirimente"
+        ],
+        "correct": 3,
+        "why": "Administrativa, jurisdiccional y dirimente La escena 6 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v1.mp4",
+            "time": 150,
+            "label": "Escena 6"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 28,
+            "label": "M1"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 29,
+            "label": "M1"
+          }
+        ]
+      },
+      {
+        "id": "V1Q11",
+        "prompt": "¿Qué finalidad del proceso se destacó?",
+        "options": [
+          "Eliminar todas las defensas",
+          "Garantizar éxito al primero que consulte dentro del trámite común previsto por la normativa local",
+          "Debatir pacíficamente un conflicto ante tercero imparcial",
+          "Autorizar la fuerza privada"
+        ],
+        "correct": 2,
+        "why": "Debatir pacíficamente un conflicto ante tercero imparcial La escena 7 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v1.mp4",
+            "time": 180,
+            "label": "Escena 7"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+            "page": 2,
+            "label": "M2"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+            "page": 3,
+            "label": "M2"
+          }
+        ]
+      },
+      {
+        "id": "V1Q12",
+        "prompt": "¿Qué exige la imparcialidad del decisor?",
+        "options": [
+          "No convertirse en defensor de una parte",
+          "Decidir por la presión de las partes",
+          "Ayudar sólo a quien parezca más convincente",
+          "Asumir simultáneamente la acusación"
+        ],
+        "correct": 0,
+        "why": "No convertirse en defensor de una parte La escena 7 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v1.mp4",
+            "time": 180,
+            "label": "Escena 7"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+            "page": 2,
+            "label": "M2"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+            "page": 3,
+            "label": "M2"
+          }
+        ]
+      },
+      {
+        "id": "V1Q13",
+        "prompt": "¿Quién investiga y sostiene acusación en acción pública?",
+        "options": [
+          "El jurado antes del juicio",
+          "El Ministerio Público Fiscal",
+          "La OGAP por manejar la agenda",
+          "El agente de atención al público"
+        ],
+        "correct": 1,
+        "why": "El Ministerio Público Fiscal La escena 8 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v1.mp4",
+            "time": 210,
+            "label": "Escena 8"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+            "page": 93,
+            "label": "M2"
+          }
+        ]
+      },
+      {
+        "id": "V1Q14",
+        "prompt": "¿Qué tarea judicial aparece durante investigación?",
+        "options": [
+          "Defender los intereses de una sola parte conforme a las reglas generales de actuación administrativa",
+          "Reunir prueba para sostener la acusación",
+          "Controlar medidas que afectan derechos y resolver peticiones",
+          "Organizar únicamente calendarios"
+        ],
+        "correct": 2,
+        "why": "Controlar medidas que afectan derechos y resolver peticiones La escena 8 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v1.mp4",
+            "time": 210,
+            "label": "Escena 8"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+            "page": 93,
+            "label": "M2"
+          }
+        ]
+      },
+      {
+        "id": "V1Q15",
+        "prompt": "¿Qué tarea corresponde a la OGAP?",
+        "options": [
+          "Sostener la acusación fiscal",
+          "Emitir veredicto sobre hechos dentro del trámite común previsto por la normativa local",
+          "Decidir prisión preventiva",
+          "Organizar audiencias y gestión administrativa"
+        ],
+        "correct": 3,
+        "why": "Organizar audiencias y gestión administrativa La escena 9 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v1.mp4",
+            "time": 240,
+            "label": "Escena 9"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+            "page": 94,
+            "label": "M2"
+          }
+        ]
+      },
+      {
+        "id": "V1Q16",
+        "prompt": "¿Qué ley se nombró respecto de reorganización penal?",
+        "options": [
+          "Ley 9665",
+          "Ley 9423",
+          "Ley 26618",
+          "Ley 9040"
+        ],
+        "correct": 3,
+        "why": "Ley 9040 La escena 9 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v1.mp4",
+            "time": 240,
+            "label": "Escena 9"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+            "page": 94,
+            "label": "M2"
+          }
+        ]
+      },
+      {
+        "id": "V1Q17",
+        "prompt": "¿Qué función de la defensa se expuso?",
+        "options": [
+          "Emitir el veredicto del jurado",
+          "Organizar la agenda de todos los jueces",
+          "Reemplazar el control judicial de medidas sin intervención de los órganos de control jurisdiccional",
+          "Contradecir la acusación y ejercer derechos del imputado"
+        ],
+        "correct": 3,
+        "why": "Contradecir la acusación y ejercer derechos del imputado La escena 10 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v1.mp4",
+            "time": 270,
+            "label": "Escena 10"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+            "page": 94,
+            "label": "M2"
+          }
+        ]
+      },
+      {
+        "id": "V1Q18",
+        "prompt": "¿Cómo se distinguen jurado y juez técnico?",
+        "options": [
+          "El jurado sostiene acusación y el juez representa a la defensa",
+          "Ambos son empleados de mesa de entradas",
+          "El jurado administra OGAP; el juez investiga",
+          "El jurado decide hechos y veredicto; el juez dirige y resuelve derecho"
+        ],
+        "correct": 3,
+        "why": "El jurado decide hechos y veredicto; el juez dirige y resuelve derecho La escena 10 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v1.mp4",
+            "time": 270,
+            "label": "Escena 10"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+            "page": 94,
+            "label": "M2"
+          }
+        ]
+      },
+      {
+        "id": "V1Q19",
+        "prompt": "¿Digitalizar un expediente elimina restricciones de acceso?",
+        "options": [
+          "Sí, todo queda abierto sin condiciones",
+          "Sólo elimina restricciones penales, sin excepción",
+          "Sí, si alguien conoce el número",
+          "No; siguen las reglas de publicidad y reserva"
+        ],
+        "correct": 3,
+        "why": "No; siguen las reglas de publicidad y reserva La escena 11 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v1.mp4",
+            "time": 300,
+            "label": "Escena 11"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+            "page": 6,
+            "label": "M2"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+            "page": 5,
+            "label": "M2"
+          }
+        ]
+      },
+      {
+        "id": "V1Q20",
+        "prompt": "¿Qué ejemplo de reserva se mencionó?",
+        "options": [
+          "La totalidad de Constitución y leyes",
+          "Todos los actos republicanos para siempre",
+          "Medidas cautelares antes de ser trabadas",
+          "Todo trámite de orientación general"
+        ],
+        "correct": 2,
+        "why": "Medidas cautelares antes de ser trabadas La escena 11 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v1.mp4",
+            "time": 300,
+            "label": "Escena 11"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+            "page": 6,
+            "label": "M2"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+            "page": 5,
+            "label": "M2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "V2",
+    "title": "Derechos, atención y accesibilidad",
+    "description": "Clip original de lectura y esquemas; veinte preguntas sobre su contenido.",
+    "duration": 360,
+    "file": "videos/v2.mp4",
+    "captions": "videos/v2.vtt",
+    "narration": false,
+    "scenes": [
+      {
+        "title": "Atender con derechos",
+        "text": "Esta segunda jornada es una práctica original de observación. El foco es dignidad, comunicación, violencia y accesibilidad. El cuestionario posterior se basa sólo en estas escenas; no corresponde a videos oficiales del concurso.",
+        "nodes": "Dignidad|Comunicación|Barreras|Orientación",
+        "sources": [
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 2,
+            "label": "M5"
+          }
+        ],
+        "start": 0,
+        "duration": 30
+      },
+      {
+        "title": "Dignidad e igualdad",
+        "text": "Los derechos humanos corresponden a las personas por su dignidad. La igualdad y la no discriminación orientan la actuación estatal. Una situación de vulnerabilidad no disminuye derechos: obliga a identificar barreras y respuestas que permitan ejercerlos.",
+        "nodes": "Dignidad|Igualdad|No discriminación|Barreras",
+        "sources": [
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+            "page": 6,
+            "label": "M3"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+            "page": 8,
+            "label": "M3"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+            "page": 16,
+            "label": "M3"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+            "page": 18,
+            "label": "M3"
+          }
+        ],
+        "start": 30,
+        "duration": 30
+      },
+      {
+        "title": "Respetar, proteger y garantizar",
+        "text": "Respetar exige que el Estado se abstenga de vulnerar derechos. Proteger requiere enfrentar afectaciones provenientes de terceros y es parte de garantizar los derechos. Garantizar exige condiciones y medidas que posibiliten su ejercicio. Estas obligaciones se relacionan; sus ejemplos no describen una única conducta.",
+        "nodes": "Respetar: abstenerse|Proteger: terceros|Garantizar: posibilitar",
+        "sources": [
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+            "page": 10,
+            "label": "M3"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+            "page": 11,
+            "label": "M3"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+            "page": 12,
+            "label": "M3"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+            "page": 13,
+            "label": "M3"
+          }
+        ],
+        "start": 60,
+        "duration": 30
+      },
+      {
+        "title": "Escuchar antes de suponer",
+        "text": "Un servicio centrado en la ciudadanía identifica la necesidad real. Las preguntas abiertas permiten describir la situación. Parafrasear con palabras propias ayuda a confirmar lo comprendido. La orientación debe dejar claros los próximos pasos.",
+        "nodes": "Preguntar|Escuchar|Parafrasear|Orientar",
+        "sources": [
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 16,
+            "label": "M5"
+          }
+        ],
+        "start": 90,
+        "duration": 30
+      },
+      {
+        "title": "Lenguaje claro y precisión",
+        "text": "Usar lenguaje claro implica facilitar que la persona encuentre, comprenda y use la información. No exige eliminar condiciones relevantes ni prometer un resultado. La explicación debe conservar precisión y distinguir recepción de un trámite de decisión sobre su fondo.",
+        "nodes": "Encontrar|Comprender|Usar|Conservar precisión",
+        "sources": [
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 9,
+            "label": "M5"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 3,
+            "label": "M5"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+            "page": 7,
+            "label": "M2"
+          }
+        ],
+        "start": 120,
+        "duration": 30
+      },
+      {
+        "title": "Tipo y modalidad de violencia",
+        "text": "Los tipos describen formas de daño: física, psicológica, sexual, económica o patrimonial, simbólica y política. Las modalidades describen ámbitos o contextos. Un mismo hecho puede combinar un tipo psicológico con una modalidad laboral o digital.",
+        "nodes": "Tipo: forma de daño|Modalidad: contexto|Pueden combinarse",
+        "sources": [
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+            "page": 5,
+            "label": "M4"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+            "page": 6,
+            "label": "M4"
+          }
+        ],
+        "start": 150,
+        "duration": 30
+      },
+      {
+        "title": "Revictimización",
+        "text": "Pedir una narración innecesaria y repetida o culpabilizar a quien sufrió violencia puede revictimizar. La atención debe evitar prácticas que agreguen daño. No hay que sustituir el trato respetuoso por prejuicios sobre cómo debería reaccionar una persona afectada.",
+        "nodes": "Evitar repetición innecesaria|No culpabilizar|Trato respetuoso",
+        "sources": [
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+            "page": 8,
+            "label": "M4"
+          }
+        ],
+        "start": 180,
+        "duration": 30
+      },
+      {
+        "title": "Cuatro lugares donde buscar barreras",
+        "text": "La accesibilidad incluye barreras físicas, comunicacionales, actitudinales y tecnológicas. Una rampa no resuelve un formulario que no puede utilizar un lector de pantalla. Facilitar el acceso exige mirar el recorrido completo y las necesidades reales.",
+        "nodes": "Edificio|Mensaje|Trato|Sistema",
+        "sources": [
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 19,
+            "label": "M5"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 20,
+            "label": "M5"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 21,
+            "label": "M5"
+          }
+        ],
+        "start": 210,
+        "duration": 30
+      },
+      {
+        "title": "Diseño universal y ajuste razonable",
+        "text": "El diseño universal busca que servicios y entornos puedan ser utilizados por la mayor diversidad de personas desde su concepción. Un ajuste razonable responde a una necesidad particular. No conviene exigir una solución idéntica si esa uniformidad mantiene una barrera.",
+        "nodes": "Diseñar para diversidad|Ajustar ante necesidad|Remover barreras",
+        "sources": [
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 19,
+            "label": "M5"
+          }
+        ],
+        "start": 240,
+        "duration": 30
+      },
+      {
+        "title": "Orientar y derivar",
+        "text": "El agente debe brindar información precisa sobre el trámite dentro de su competencia. Si una consulta excede sus atribuciones, deriva al área adecuada con información de contacto útil. Orientar no equivale a decidir una controversia ni a garantizar una sentencia favorable.",
+        "nodes": "Información de trámite|Competencia|Derivación|Sin promesas de sentencia",
+        "sources": [
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 16,
+            "label": "M5"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 32,
+            "label": "M1"
+          }
+        ],
+        "start": 270,
+        "duration": 30
+      },
+      {
+        "title": "Comprobar que la explicación sirva",
+        "text": "Antes de cerrar la atención, se verifica si la persona comprendió qué hacer. Pedir que explique el primer paso ayuda a detectar una duda pendiente. La transparencia y la eficiencia no consisten sólo en hablar rápido o reducir controles sin comprender su finalidad.",
+        "nodes": "Verificar comprensión|Primer paso|Dudas pendientes|Respuesta útil",
+        "sources": [
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 16,
+            "label": "M5"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 15,
+            "label": "M5"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 17,
+            "label": "M5"
+          }
+        ],
+        "start": 300,
+        "duration": 30
+      },
+      {
+        "title": "Recordá antes de responder",
+        "text": "Recuperá obligaciones, barreras y diferencias: tipo y modalidad; diseño universal y ajuste; orientación y decisión. En el cuestionario posterior, cada respuesta debe apoyarse en lo que estas escenas expusieron.",
+        "nodes": "Diferencias|Necesidades|Derechos|Próximos pasos",
+        "sources": [
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 16,
+            "label": "M5"
+          }
+        ],
+        "start": 330,
+        "duration": 30
+      }
+    ],
+    "questions": [
+      {
+        "id": "V2Q01",
+        "prompt": "¿En qué se fundamentan los derechos humanos expuestos?",
+        "options": [
+          "En la dignidad de las personas",
+          "En la condición de funcionario",
+          "En pertenecer al Estado",
+          "En acertar un cuestionario"
+        ],
+        "correct": 0,
+        "why": "En la dignidad de las personas La escena 2 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v2.mp4",
+            "time": 30,
+            "label": "Escena 2"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+            "page": 6,
+            "label": "M3"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+            "page": 8,
+            "label": "M3"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+            "page": 16,
+            "label": "M3"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+            "page": 18,
+            "label": "M3"
+          }
+        ]
+      },
+      {
+        "id": "V2Q02",
+        "prompt": "¿Qué implica identificar vulnerabilidad?",
+        "options": [
+          "Presumir incapacidad para toda decisión",
+          "Reducir derechos por la situación personal",
+          "Detectar barreras sin disminuir derechos",
+          "Aplicar siempre idéntica solución sin considerar necesidades"
+        ],
+        "correct": 2,
+        "why": "Detectar barreras sin disminuir derechos La escena 2 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v2.mp4",
+            "time": 30,
+            "label": "Escena 2"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+            "page": 6,
+            "label": "M3"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+            "page": 8,
+            "label": "M3"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+            "page": 16,
+            "label": "M3"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+            "page": 18,
+            "label": "M3"
+          }
+        ]
+      },
+      {
+        "id": "V2Q03",
+        "prompt": "¿Qué expresa la obligación de respeto?",
+        "options": [
+          "Resolver únicamente ataques de particulares",
+          "Derivar toda actuación sin intervenir",
+          "Garantizar siempre un resultado favorable",
+          "Abstenerse de vulnerar derechos"
+        ],
+        "correct": 3,
+        "why": "Abstenerse de vulnerar derechos La escena 3 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v2.mp4",
+            "time": 60,
+            "label": "Escena 3"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+            "page": 10,
+            "label": "M3"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+            "page": 11,
+            "label": "M3"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+            "page": 12,
+            "label": "M3"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+            "page": 13,
+            "label": "M3"
+          }
+        ]
+      },
+      {
+        "id": "V2Q04",
+        "prompt": "¿Qué relación corresponde a proteger?",
+        "options": [
+          "Limitar derechos por comodidad de la oficina",
+          "Enfrentar afectaciones provenientes de terceros",
+          "Actuar sólo cuando el Estado es autor directo",
+          "Eliminar la posibilidad de reclamar"
+        ],
+        "correct": 1,
+        "why": "Enfrentar afectaciones provenientes de terceros La escena 3 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v2.mp4",
+            "time": 60,
+            "label": "Escena 3"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+            "page": 10,
+            "label": "M3"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+            "page": 11,
+            "label": "M3"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+            "page": 12,
+            "label": "M3"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+            "page": 13,
+            "label": "M3"
+          }
+        ]
+      },
+      {
+        "id": "V2Q05",
+        "prompt": "¿Para qué sirve una pregunta abierta?",
+        "options": [
+          "Para imponer una respuesta predeterminada",
+          "Para que la persona describa su necesidad real",
+          "Para reemplazar la escucha por suposiciones",
+          "Para decidir la sentencia en ventanilla"
+        ],
+        "correct": 1,
+        "why": "Para que la persona describa su necesidad real La escena 4 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v2.mp4",
+            "time": 90,
+            "label": "Escena 4"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 16,
+            "label": "M5"
+          }
+        ]
+      },
+      {
+        "id": "V2Q06",
+        "prompt": "¿Qué busca el parafraseo?",
+        "options": [
+          "Repetir tecnicismos sin explicación dentro del trámite común previsto por la normativa local",
+          "Cambiar el sentido del pedido",
+          "Confirmar lo entendido con palabras propias",
+          "Cerrar la consulta antes de oírla"
+        ],
+        "correct": 2,
+        "why": "Confirmar lo entendido con palabras propias La escena 4 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v2.mp4",
+            "time": 90,
+            "label": "Escena 4"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 16,
+            "label": "M5"
+          }
+        ]
+      },
+      {
+        "id": "V2Q07",
+        "prompt": "¿Qué debe conservar una explicación clara?",
+        "options": [
+          "La menor cantidad de palabras aunque falten requisitos",
+          "Una promesa de resultado favorable",
+          "Todos los tecnicismos sin adaptar",
+          "Precisión y condiciones relevantes"
+        ],
+        "correct": 3,
+        "why": "Precisión y condiciones relevantes La escena 5 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v2.mp4",
+            "time": 120,
+            "label": "Escena 5"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 9,
+            "label": "M5"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 3,
+            "label": "M5"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+            "page": 7,
+            "label": "M2"
+          }
+        ]
+      },
+      {
+        "id": "V2Q08",
+        "prompt": "¿Qué diferencia debe mantenerse sobre un trámite?",
+        "options": [
+          "Recibir significa siempre aprobar",
+          "Recepción no equivale a decisión sobre el fondo",
+          "Orientar equivale a sentenciar",
+          "Un comprobante demuestra que ganó la parte"
+        ],
+        "correct": 1,
+        "why": "Recepción no equivale a decisión sobre el fondo La escena 5 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v2.mp4",
+            "time": 120,
+            "label": "Escena 5"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 9,
+            "label": "M5"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 3,
+            "label": "M5"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+            "page": 7,
+            "label": "M2"
+          }
+        ]
+      },
+      {
+        "id": "V2Q09",
+        "prompt": "¿Qué distinguen tipo y modalidad de violencia?",
+        "options": [
+          "Órgano competente y monto de tasa",
+          "Edad y domicilio de las partes",
+          "Dos listas que se excluyen necesariamente",
+          "Forma de daño y ámbito o contexto"
+        ],
+        "correct": 3,
+        "why": "Forma de daño y ámbito o contexto La escena 6 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v2.mp4",
+            "time": 150,
+            "label": "Escena 6"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+            "page": 5,
+            "label": "M4"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+            "page": 6,
+            "label": "M4"
+          }
+        ]
+      },
+      {
+        "id": "V2Q10",
+        "prompt": "¿Puede un hecho combinar afectación psicológica y modalidad digital?",
+        "options": [
+          "Sólo si no ocurrió en ámbito privado",
+          "No, sólo admite una clasificación total",
+          "No, digital es un tipo corporal",
+          "Sí, describen ejes distintos"
+        ],
+        "correct": 3,
+        "why": "Sí, describen ejes distintos La escena 6 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v2.mp4",
+            "time": 150,
+            "label": "Escena 6"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+            "page": 5,
+            "label": "M4"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+            "page": 6,
+            "label": "M4"
+          }
+        ]
+      },
+      {
+        "id": "V2Q11",
+        "prompt": "¿Qué práctica puede revictimizar?",
+        "options": [
+          "Tratar con respeto",
+          "Escuchar sin imponer prejuicios durante la atención inicial en la mesa de entradas judicial",
+          "Evitar preguntas irrelevantes",
+          "Exigir narración innecesaria repetida o culpabilizar"
+        ],
+        "correct": 3,
+        "why": "Exigir narración innecesaria repetida o culpabilizar La escena 7 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v2.mp4",
+            "time": 180,
+            "label": "Escena 7"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+            "page": 8,
+            "label": "M4"
+          }
+        ]
+      },
+      {
+        "id": "V2Q12",
+        "prompt": "¿Qué criterio de trato se expuso?",
+        "options": [
+          "Evitar prejuicios sobre cómo debería reaccionar la persona",
+          "Valorar la consulta según estereotipos conforme a las reglas generales de actuación administrativa",
+          "Desconfiar siempre si no llora",
+          "Exigir una reacción emocional única"
+        ],
+        "correct": 0,
+        "why": "Evitar prejuicios sobre cómo debería reaccionar la persona La escena 7 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v2.mp4",
+            "time": 180,
+            "label": "Escena 7"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+            "page": 8,
+            "label": "M4"
+          }
+        ]
+      },
+      {
+        "id": "V2Q13",
+        "prompt": "¿Qué barreras se deben mirar?",
+        "options": [
+          "Físicas, comunicacionales, actitudinales y tecnológicas",
+          "Sólo el acceso al edificio",
+          "Únicamente los horarios internos",
+          "Sólo las computadoras de la oficina dentro del régimen ordinario de competencia provincial"
+        ],
+        "correct": 0,
+        "why": "Físicas, comunicacionales, actitudinales y tecnológicas La escena 8 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v2.mp4",
+            "time": 210,
+            "label": "Escena 8"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 19,
+            "label": "M5"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 20,
+            "label": "M5"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 21,
+            "label": "M5"
+          }
+        ]
+      },
+      {
+        "id": "V2Q14",
+        "prompt": "¿Por qué una rampa no basta en el ejemplo?",
+        "options": [
+          "Porque los sistemas nunca generan barreras como criterio administrativo general frente a cada consulta",
+          "Puede quedar una barrera en el formulario digital",
+          "Porque toda rampa reduce la accesibilidad",
+          "Porque el trato no importa"
+        ],
+        "correct": 1,
+        "why": "Puede quedar una barrera en el formulario digital La escena 8 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v2.mp4",
+            "time": 210,
+            "label": "Escena 8"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 19,
+            "label": "M5"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 20,
+            "label": "M5"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 21,
+            "label": "M5"
+          }
+        ]
+      },
+      {
+        "id": "V2Q15",
+        "prompt": "¿Qué caracteriza el diseño universal?",
+        "options": [
+          "Considerar diversidad de personas desde la concepción",
+          "Crear un servicio exclusivo para una única necesidad",
+          "Ofrecer una barrera idéntica a todos",
+          "Esperar siempre una petición individual para diseñar"
+        ],
+        "correct": 0,
+        "why": "Considerar diversidad de personas desde la concepción La escena 9 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v2.mp4",
+            "time": 240,
+            "label": "Escena 9"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 19,
+            "label": "M5"
+          }
+        ]
+      },
+      {
+        "id": "V2Q16",
+        "prompt": "¿Qué distingue al ajuste razonable?",
+        "options": [
+          "Mantener uniformidad aunque impida el acceso",
+          "Eliminar toda condición del trámite",
+          "Responder a una necesidad particular",
+          "Sustituir toda regla por voluntad del agente"
+        ],
+        "correct": 2,
+        "why": "Responder a una necesidad particular La escena 9 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v2.mp4",
+            "time": 240,
+            "label": "Escena 9"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 19,
+            "label": "M5"
+          }
+        ]
+      },
+      {
+        "id": "V2Q17",
+        "prompt": "¿Qué corresponde cuando la consulta excede competencia del agente?",
+        "options": [
+          "Derivar adecuadamente con información útil",
+          "Prometer sentencia favorable",
+          "Dejar a la persona sin orientación dentro del trámite común previsto por la normativa local",
+          "Decidir igual para ahorrar tiempo"
+        ],
+        "correct": 0,
+        "why": "Derivar adecuadamente con información útil La escena 10 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v2.mp4",
+            "time": 270,
+            "label": "Escena 10"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 16,
+            "label": "M5"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 32,
+            "label": "M1"
+          }
+        ]
+      },
+      {
+        "id": "V2Q18",
+        "prompt": "¿Qué límite conserva la orientación?",
+        "options": [
+          "Reemplaza a los órganos jurisdiccionales",
+          "No decide controversias ni garantiza sentencias",
+          "Otorga competencia por experiencia personal",
+          "Permite resolver cualquier conflicto por cortesía"
+        ],
+        "correct": 1,
+        "why": "No decide controversias ni garantiza sentencias La escena 10 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v2.mp4",
+            "time": 270,
+            "label": "Escena 10"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 16,
+            "label": "M5"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+            "page": 32,
+            "label": "M1"
+          }
+        ]
+      },
+      {
+        "id": "V2Q19",
+        "prompt": "¿Cómo se verifica comprensión en el ejemplo?",
+        "options": [
+          "Pidiendo que explique el primer paso que daría",
+          "Preguntando sólo si escuchó cada palabra",
+          "Acelerando el cierre de la conversación",
+          "Repitiendo una frase técnica más fuerte"
+        ],
+        "correct": 0,
+        "why": "Pidiendo que explique el primer paso que daría La escena 11 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v2.mp4",
+            "time": 300,
+            "label": "Escena 11"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 16,
+            "label": "M5"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 15,
+            "label": "M5"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 17,
+            "label": "M5"
+          }
+        ]
+      },
+      {
+        "id": "V2Q20",
+        "prompt": "¿Qué significa eficiencia en lo expuesto?",
+        "options": [
+          "Derivar cualquier material aunque sea ilegible dentro del trámite común previsto por la normativa local",
+          "Medir sólo segundos de atención",
+          "Eliminar todo control sin evaluar finalidad",
+          "No basta hablar rápido ni quitar controles sin comprenderlos"
+        ],
+        "correct": 3,
+        "why": "No basta hablar rápido ni quitar controles sin comprenderlos La escena 11 desarrolla esta relación.",
+        "sources": [
+          {
+            "file": "videos/v2.mp4",
+            "time": 300,
+            "label": "Escena 11"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 16,
+            "label": "M5"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 15,
+            "label": "M5"
+          },
+          {
+            "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+            "page": 17,
+            "label": "M5"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,39 +1,36 @@
-# Paquetes generados: estudiar desde la carpeta o reconstruir con empaquetar.py.
+# Paquetes generados: estudiar desde la carpeta o reconstruir con herramientas/empaquetar.py.
 *.zip
+paquetes/*.zip
 
-# Índices, sesiones del navegador y ajustes temporales locales.
+# Índices, sesiones del navegador y cachés de Python.
 .codegraph/
 .cursor/
 .playwright-cli/
 __pycache__/
+**/__pycache__/
 *.py[cod]
-ajustar_*.py
-generar_anexos.py
-revisar_paginas.py
-versionar_recursos.py
 
-# Scripts intermedios de autoría; los bancos revisados son los datos canónicos.
-bancos-2026/*.py
-estudio-2026/*.py
-estudio-2026/*.png
-estudio-2026/*-imagenes/
+# Scripts e imágenes intermedias de autoría (no forman parte de los datos canónicos).
+herramientas/autoria/estudio/
+herramientas/autoria/bancos/
+herramientas/autoria/ajustar_*.py
+herramientas/autoria/generar_anexos.py
+herramientas/autoria/revisar_paginas.py
+herramientas/autoria/versionar_recursos.py
 biblioteca/2026/referencias/juvenil-paginas/
 
-# Conservar sólo las comprobaciones reproducibles y los informes finales.
-output/*
-!output/playwright/
-!output/video-check-v1.json
-!output/video-check-v2.json
-output/playwright/*
-!output/playwright/comprobar-portal.js
-!output/playwright/comprobar-final.js
-!output/playwright/comprobar-navegacion.js
-!output/playwright/comprobar-taller.js
-!output/playwright/comprobar-taller-video.js
-!output/playwright/comprobar-rotacion.js
-!output/playwright/comprobar-mapas.js
+# Conservar sólo las comprobaciones reproducibles y los informes finales en validaciones/.
+validaciones/capturas-previas/
+validaciones/playwright/*
+!validaciones/playwright/comprobar-portal.js
+!validaciones/playwright/comprobar-final.js
+!validaciones/playwright/comprobar-navegacion.js
+!validaciones/playwright/comprobar-taller.js
+!validaciones/playwright/comprobar-taller-video.js
+!validaciones/playwright/comprobar-rotacion.js
+!validaciones/playwright/comprobar-mapas.js
 
 # Cachés de render; las fuentes de video y MP4 terminados sí se versionan.
-video-estudio/.hyperframes/
-video-estudio/.thumbnails/
-video-estudio/snapshots/
+herramientas/video-estudio/.hyperframes/
+herramientas/video-estudio/.thumbnails/
+herramientas/video-estudio/snapshots/

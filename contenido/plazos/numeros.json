@@ -1,0 +1,2776 @@
+{
+  "version": 1,
+  "descripcion": "Entrenador de números, plazos, edades, composiciones, mayorías, normas y competencias verificadas contra el material oficial 2026.",
+  "items": [
+    {
+      "id": "NUM-M1-001",
+      "module": 1,
+      "topic": "1.1",
+      "kind": "norma",
+      "prompt": "La forma representativa, republicana y federal de gobierno está establecida en el artículo ____ de la Constitución Nacional.",
+      "answer": "1",
+      "accept": [
+        "1",
+        "1°",
+        "1º",
+        "uno",
+        "primero"
+      ],
+      "unit": "CN",
+      "explanation": "El artículo 1° de la Constitución Nacional adopta para su gobierno la forma representativa, republicana y federal.",
+      "trap": "No confundir con el art. 5° CN (autonomía provincial y condiciones bajo las cuales el Gobierno federal garantiza el goce de sus instituciones).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 13,
+          "label": "M1"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-002",
+      "module": 1,
+      "topic": "1.1",
+      "kind": "norma",
+      "prompt": "Según el artículo ____ de la Constitución Nacional, el pueblo no delibera ni gobierna sino por medio de sus representantes y autoridades creadas por la Constitución.",
+      "answer": "22",
+      "accept": [
+        "22",
+        "veintidos",
+        "veintidós"
+      ],
+      "unit": "CN",
+      "explanation": "El artículo 22 CN consagra el principio de democracia representativa o indirecta.",
+      "trap": "No confundir con el art. 39 CN (iniciativa popular) o el art. 40 CN (consulta popular).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 14,
+          "label": "M1"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-003",
+      "module": 1,
+      "topic": "1.1",
+      "kind": "norma",
+      "prompt": "Las provincias conservan todo el poder no delegado por la Constitución al Gobierno federal según el artículo ____ de la Constitución Nacional.",
+      "answer": "121",
+      "accept": [
+        "121",
+        "ciento veintiuno"
+      ],
+      "unit": "CN",
+      "explanation": "El art. 121 CN define la regla de deslinde federal: las provincias conservan todo el poder no delegado al Gobierno federal.",
+      "trap": "Suele confundirse con el art. 126 CN (poderes delegados que las provincias no ejercen) o el art. 75 CN (atribuciones del Congreso).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 13,
+          "label": "M1"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-004",
+      "module": 1,
+      "topic": "1.2",
+      "kind": "cantidad",
+      "prompt": "La Cámara de Senadores de la Nación se compone de ____ senadores por cada provincia y por la Ciudad de Buenos Aires (art. 54 CN).",
+      "answer": "3",
+      "accept": [
+        "3",
+        "tres"
+      ],
+      "unit": "senadores",
+      "explanation": "El art. 54 CN fija tres senadores por provincia y tres por CABA: dos por la mayoría y uno por la primera minoría.",
+      "trap": "No confundir con su mandato de 6 años ni con la renovación por tercios cada 2 años.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 16,
+          "label": "M1"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-005",
+      "module": 1,
+      "topic": "1.2",
+      "kind": "mandato",
+      "prompt": "Los diputados nacionales duran en su representación ____ años y son reelegibles, pero la Sala se renueva por mitad cada bienio (art. 50 CN).",
+      "answer": "4",
+      "accept": [
+        "4",
+        "cuatro"
+      ],
+      "unit": "años",
+      "explanation": "Los diputados nacionales tienen mandato de 4 años con renovación parcial por mitades cada 2 años.",
+      "trap": "No confundir con los 6 años de mandato de los senadores nacionales.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 16,
+          "label": "M1"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-006",
+      "module": 1,
+      "topic": "1.2",
+      "kind": "mandato",
+      "prompt": "Los senadores nacionales duran ____ años en el ejercicio de su mandato y el Senado se renueva a razón de una tercera parte de los distritos electorales cada dos años (art. 56 CN).",
+      "answer": "6",
+      "accept": [
+        "6",
+        "seis"
+      ],
+      "unit": "años",
+      "explanation": "El mandato de los senadores nacionales es de 6 años, son reelegibles indefinidamente y la Cámara se renueva por tercios cada 2 años.",
+      "trap": "En la Legislatura de Mendoza los senadores provinciales duran 4 años, mientras que en la Nación duran 6 años.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 16,
+          "label": "M1"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-007",
+      "module": 1,
+      "topic": "1.2",
+      "kind": "edad",
+      "prompt": "Para ser elegido diputado nacional se requiere haber cumplido la edad de ____ años y tener cuatro años de ciudadanía en ejercicio (art. 48 CN).",
+      "answer": "25",
+      "accept": [
+        "25",
+        "veinticinco"
+      ],
+      "unit": "años",
+      "explanation": "El art. 48 CN exige 25 años de edad para ser diputado nacional, mientras que para senador nacional o presidente exige 30 años.",
+      "trap": "En Mendoza, para ser diputado provincial bastan 21 años (art. 65 CM), pero para diputado nacional son 25 años.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 16,
+          "label": "M1"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-008",
+      "module": 1,
+      "topic": "1.2",
+      "kind": "edad",
+      "prompt": "Para ser elegido senador nacional o Presidente de la Nación se requiere haber cumplido la edad de ____ años (arts. 55 y 89 CN).",
+      "answer": "30",
+      "accept": [
+        "30",
+        "treinta"
+      ],
+      "unit": "años",
+      "explanation": "Tanto para senador nacional (art. 55 CN) como para Presidente o Vicepresidente de la Nación (art. 89 CN) se requieren 30 años de edad y 6 años de ciudadanía.",
+      "trap": "Para Gobernador de Mendoza se exigen más de 30 años (art. 119 CM).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 16,
+          "label": "M1"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-009",
+      "module": 1,
+      "topic": "1.2",
+      "kind": "mandato",
+      "prompt": "El Presidente y el Vicepresidente de la Nación duran en sus funciones el término de ____ años y pueden ser reelegidos por un solo período consecutivo (arts. 90 CN).",
+      "answer": "4",
+      "accept": [
+        "4",
+        "cuatro"
+      ],
+      "unit": "años",
+      "explanation": "El mandato presidencial es de 4 años con posibilidad de una sola reelección inmediata.",
+      "trap": "A diferencia del Presidente de la Nación, el Gobernador de Mendoza no puede ser reelegido para el período siguiente (art. 115 CM).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 18,
+          "label": "M1"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-010",
+      "module": 1,
+      "topic": "1.2",
+      "kind": "edad",
+      "prompt": "En la Provincia de Mendoza, para ser elegido diputado provincial se requiere ciudadanía natural en ejercicio o legal después de cinco años de obtenida y ser mayor de ____ años (art. 65 CM).",
+      "answer": "21",
+      "accept": [
+        "21",
+        "veintiun",
+        "veintiuno",
+        "veintiún"
+      ],
+      "unit": "años",
+      "explanation": "El art. 65 de la Constitución de Mendoza exige mayoría de 21 años para ser diputado provincial.",
+      "trap": "No confundir con los 25 años requeridos para diputado nacional ni con los 30 años exigidos para senador provincial.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 21,
+          "label": "M1"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-011",
+      "module": 1,
+      "topic": "1.2",
+      "kind": "mandato",
+      "prompt": "En la Legislatura de Mendoza, tanto los diputados como los senadores provinciales duran ____ años en su representación y las Cámaras se renuevan por mitad cada dos años.",
+      "answer": "4",
+      "accept": [
+        "4",
+        "cuatro"
+      ],
+      "unit": "años",
+      "explanation": "En Mendoza ambas cámaras legislativas (Diputados y Senadores) tienen mandato de 4 años y se renuevan por mitades cada bienio.",
+      "trap": "No confundir el mandato del senador provincial (4 años) con el del senador nacional (6 años).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 21,
+          "label": "M1"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-012",
+      "module": 1,
+      "topic": "1.2",
+      "kind": "plazo",
+      "prompt": "Las sesiones ordinarias de las Cámaras legislativas de Mendoza funcionan desde el 1 de mayo hasta el 30 de septiembre y pueden prorrogarse por propia iniciativa hasta por ____ días (art. 84 CM).",
+      "answer": "30",
+      "accept": [
+        "30",
+        "treinta"
+      ],
+      "unit": "días",
+      "explanation": "El período ordinario provincial va del 1 de mayo al 30 de septiembre y admite prórroga por hasta 30 días.",
+      "trap": "En el Congreso de la Nación el período ordinario se extiende desde el 1 de marzo hasta el 30 de noviembre (art. 63 CN).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 22,
+          "label": "M1"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-013",
+      "module": 1,
+      "topic": "1.2",
+      "kind": "plazo",
+      "prompt": "El Gobernador y el Vicegobernador de Mendoza no pueden ser reelegidos ni sucederse recíprocamente sino con un intervalo de ____ período (art. 115 CM).",
+      "answer": "1",
+      "accept": [
+        "1",
+        "un",
+        "uno"
+      ],
+      "unit": "período",
+      "explanation": "La Constitución de Mendoza prohíbe la reelección inmediata del Gobernador y Vicegobernador sin el intervalo de un período de 4 años.",
+      "trap": "A nivel nacional sí se admite una reelección consecutiva (art. 90 CN).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 23,
+          "label": "M1"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-014",
+      "module": 1,
+      "topic": "1.3",
+      "kind": "cantidad",
+      "prompt": "El territorio del Poder Judicial de Mendoza se divide actualmente en ____ circunscripciones judiciales.",
+      "answer": "4",
+      "accept": [
+        "4",
+        "cuatro"
+      ],
+      "unit": "circunscripciones",
+      "explanation": "La Provincia de Mendoza se organiza judicialmente en cuatro circunscripciones: Primera (Gran Mendoza), Segunda (Sur), Tercera (Este) y Cuarta (Valle de Uco).",
+      "trap": "No confundir con los 18 departamentos político-administrativos de la provincia.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 25,
+          "label": "M1"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-015",
+      "module": 1,
+      "topic": "1.3",
+      "kind": "organo",
+      "prompt": "¿A qué circunscripción judicial pertenecen los departamentos de Tunuyán, Tupungato y San Carlos?",
+      "options": [
+        "Primera Circunscripción Judicial",
+        "Segunda Circunscripción Judicial",
+        "Tercera Circunscripción Judicial",
+        "Cuarta Circunscripción Judicial"
+      ],
+      "correct": 3,
+      "explanation": "La Cuarta Circunscripción Judicial comprende el Valle de Uco: Tunuyán, Tupungato y San Carlos.",
+      "trap": "La Segunda comprende San Rafael, General Alvear y Malargüe; la Tercera comprende San Martín, Rivadavia, Junín, Santa Rosa y La Paz.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 25,
+          "label": "M1"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-016",
+      "module": 1,
+      "topic": "1.4",
+      "kind": "cantidad",
+      "prompt": "La Suprema Corte de Justicia de Mendoza está integrada por ____ miembros (ministros) y presidida por uno de ellos elegido cada dos años.",
+      "answer": "7",
+      "accept": [
+        "7",
+        "siete"
+      ],
+      "unit": "miembros",
+      "explanation": "La Suprema Corte de Justicia de Mendoza se compone de 7 miembros (Ley 9423 y M1 p. 26).",
+      "trap": "No confundir con los 5 miembros de la Corte Suprema de Justicia de la Nación ni con los 21 miembros del Jury de Enjuiciamiento.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 26,
+          "label": "M1"
+        },
+        {
+          "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+          "page": 1,
+          "label": "Ley 9423"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-017",
+      "module": 1,
+      "topic": "1.4",
+      "kind": "mandato",
+      "prompt": "Según la Ley 9423, la Presidencia de la Suprema Corte de Justicia de Mendoza se ejerce por el término de ____ años y puede ser reelecta.",
+      "answer": "2",
+      "accept": [
+        "2",
+        "dos"
+      ],
+      "unit": "años",
+      "explanation": "La Presidencia de la Suprema Corte se elige por votación de sus miembros (con acuerdo de 2/3 o mayoría en segunda votación) por 2 años.",
+      "trap": "No confundir con el mandato vitalicio mientras dure la buena conducta como ministro de la Corte.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 26,
+          "label": "M1"
+        },
+        {
+          "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+          "page": 1,
+          "label": "Ley 9423"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-018",
+      "module": 1,
+      "topic": "1.4",
+      "kind": "cantidad",
+      "prompt": "Según la Ley 9423, la Sala Jurisdiccional de la Suprema Corte se integra en cada causa por ____ miembros sorteados entre los seis jueces que no ejercen la Presidencia.",
+      "answer": "3",
+      "accept": [
+        "3",
+        "tres"
+      ],
+      "unit": "miembros",
+      "explanation": "La Ley 9423 eliminó las antiguas Salas 1 y 2 fijas e implementó colegios de 3 jueces sorteados por causa entre los 6 ministros que no ejercen la Presidencia.",
+      "trap": "El pleno de la Corte son los 7 miembros, pero cada causa ordinaria tramita ante un colegio sorteado de 3 miembros.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+          "page": 1,
+          "label": "Ley 9423"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-019",
+      "module": 1,
+      "topic": "1.3",
+      "kind": "cantidad",
+      "prompt": "El Consejo de la Magistratura de Mendoza está integrado por ____ miembros titulares (con igual número de suplentes) que duran dos años en sus funciones (art. 150 CM).",
+      "answer": "7",
+      "accept": [
+        "7",
+        "siete"
+      ],
+      "unit": "miembros",
+      "explanation": "Lo integran 7 miembros: 1 ministro de la SCJM (lo preside), 1 representante del Poder Ejecutivo, 1 de los magistrados en ejercicio, 2 abogados de la matrícula de distintas circunscripciones y 2 diputados provinciales de distintos partidos.",
+      "trap": "No confundir con el Jury de Enjuiciamiento (21 miembros: 7 ministros SCJM, 7 senadores y 7 diputados).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 27,
+          "label": "M1"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-020",
+      "module": 1,
+      "topic": "1.3",
+      "kind": "cantidad",
+      "prompt": "El Jury de Enjuiciamiento de magistrados en Mendoza se compone de los 7 miembros de la Suprema Corte, ____ senadores y 7 diputados provinciales (21 integrantes en total, art. 164 CM).",
+      "answer": "7",
+      "accept": [
+        "7",
+        "siete"
+      ],
+      "unit": "senadores",
+      "explanation": "El Jury se integra con los miembros de la Suprema Corte (7) y un número igual de senadores (7) y de diputados (7).",
+      "trap": "El Consejo de la Magistratura selecciona y propone candidatos (7 miembros); el Jury juzga la remoción de magistrados inferiores (21 miembros).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 27,
+          "label": "M1"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-021",
+      "module": 1,
+      "topic": "1.4",
+      "kind": "organo",
+      "prompt": "Según la Ley 9423, ¿qué órgano interno de la Suprema Corte está integrado por el Presidente y dos Vicepresidentes (1° y 2°) para ejercer el gobierno y la administración general del Poder Judicial?",
+      "options": [
+        "El Consejo de la Magistratura de la Provincia de Mendoza",
+        "La Sala Administrativa de la Suprema Corte de Justicia",
+        "La Secretaría Legal y Técnica de la Presidencia de Corte",
+        "El Pleno Jurisdiccional de los siete ministros titulares"
+      ],
+      "correct": 1,
+      "explanation": "La Sala Administrativa está compuesta por quien ejerce la Presidencia y por los Vicepresidentes 1° y 2° (art. 4 Ley 9423 y M1 p. 29).",
+      "trap": "No confundir con el Administrador General, que depende de la Presidencia/Sala Administrativa.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 29,
+          "label": "M1"
+        },
+        {
+          "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+          "page": 2,
+          "label": "Ley 9423"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-022",
+      "module": 1,
+      "topic": "1.6",
+      "kind": "edad",
+      "prompt": "Según el art. 13 del Reglamento del Poder Judicial de Mendoza, para ser nombrado empleado se requiere ser mayor de ____ años.",
+      "answer": "18",
+      "accept": [
+        "18",
+        "dieciocho"
+      ],
+      "unit": "años",
+      "explanation": "El art. 13 inc. 1° del Reglamento del Poder Judicial exige ser mayor de 18 años, acreditar buena conducta, ciudadanía en ejercicio y aprobar examen de competencia.",
+      "trap": "No confundir con los 21 años exigidos para diputado provincial ni los 14 años del régimen penal juvenil.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/referencias/Reglamento-Poder-Judicial.pdf",
+          "page": 4,
+          "label": "Reglamento PJ"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-023",
+      "module": 1,
+      "topic": "1.6",
+      "kind": "plazo",
+      "prompt": "Según la Acordada 15.422 (modificatoria del art. 3° del Reglamento del Poder Judicial), los magistrados, funcionarios y empleados no pueden residir a más de ____ kilómetros de la sede de sus funciones sin autorización.",
+      "answer": "30",
+      "accept": [
+        "30",
+        "treinta"
+      ],
+      "unit": "kilómetros",
+      "explanation": "La Acordada 15.422 prohíbe residir en lugares distantes a más de 30 km de la sede donde se desempeñan funciones, salvo autorización de la Sala Administrativa.",
+      "trap": "El texto original de 1953 fijaba un radio menor; la Acordada 15.422 lo amplió a 30 kilómetros.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/referencias/Acordada-15422.pdf",
+          "page": 1,
+          "label": "Ac. 15422"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-024",
+      "module": 1,
+      "topic": "1.6",
+      "kind": "plazo",
+      "prompt": "Según el Decreto-Ley 560/73 (reformado por Ley 9665), cuando una persona ingresa a planta permanente, su designación tiene carácter provisional durante los primeros ____ meses (período de prueba).",
+      "answer": "6",
+      "accept": [
+        "6",
+        "seis"
+      ],
+      "unit": "meses",
+      "explanation": "El art. 11 del Estatuto del Empleado Público (DL 560/73, texto según Ley 9665) establece que el nombramiento en planta permanente es provisional durante los primeros 6 meses.",
+      "trap": "No confundir con los 30 días de suspensión disciplinaria máxima sin sumario o los plazos recursivos.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 39,
+          "label": "M1"
+        },
+        {
+          "file": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+          "page": 2,
+          "label": "DL 560/73"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-001",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "plazo",
+      "prompt": "En el proceso ordinario civil (Ley 9001), el plazo para contestar la demanda es de ____ días hábiles.",
+      "answer": "20",
+      "accept": [
+        "20",
+        "veinte"
+      ],
+      "unit": "días hábiles",
+      "explanation": "En el proceso de conocimiento ordinario del CPCCTM (Ley 9001), el traslado de la demanda se corre por 20 días hábiles.",
+      "trap": "No confundir con los 10 días para contestar reconvención o excepciones previas, ni con los 8 días de la contestación de demanda en el fuero laboral.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 26,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-002",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "plazo",
+      "prompt": "En el proceso civil (Ley 9001), si el demandado deduce excepciones previas o reconviene, se corre traslado al actor por el plazo de ____ días.",
+      "answer": "10",
+      "accept": [
+        "10",
+        "diez"
+      ],
+      "unit": "días",
+      "explanation": "El actor cuenta con 10 días para contestar las excepciones previas o la reconvención deducida por el demandado.",
+      "trap": "No confundir con los 20 días que tuvo el demandado para contestar la demanda principal.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 26,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-003",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "plazo",
+      "prompt": "Contestada la demanda o reconvención en el proceso ordinario civil, si no hubo hechos nuevos el juez convoca a la audiencia inicial dentro de un plazo no mayor a ____ días.",
+      "answer": "20",
+      "accept": [
+        "20",
+        "veinte"
+      ],
+      "unit": "días",
+      "explanation": "El juez debe convocar a la audiencia inicial dentro de un plazo no mayor a 20 días desde que quedó trabada la litis.",
+      "trap": "Si el demandado aportó hechos o pruebas nuevas al contestar, antes se da vista al actor por 5 días para ampliar prueba.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 26,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-004",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "plazo",
+      "prompt": "En la audiencia inicial civil, el juez fija la fecha de la audiencia final procurando que no exceda de ____ meses (prorrogable por 2 meses en causas complejas).",
+      "answer": "4",
+      "accept": [
+        "4",
+        "cuatro"
+      ],
+      "unit": "meses",
+      "explanation": "Toda la prueba que no deba rendirse en la audiencia final debe producirse antes de esta, en un plazo que no exceda de 4 meses (más hasta 2 meses en asuntos complejos).",
+      "trap": "En el proceso de pequeñas causas (Justicia de Paz), la audiencia final se fija dentro de los 30 días.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 28,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-005",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "plazo",
+      "prompt": "En el proceso de conocimiento ordinario civil, luego de la audiencia final el juez debe dictar sentencia dentro de los ____ días.",
+      "answer": "30",
+      "accept": [
+        "30",
+        "treinta"
+      ],
+      "unit": "días",
+      "explanation": "En el proceso ordinario civil el plazo para dictar sentencia definitiva es de 30 días desde que el expediente queda en estado de resolver.",
+      "trap": "En los procesos de consumo el plazo para dictar sentencia es de 10 días (o 5 días en pequeñas causas).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 28,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-006",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "plazo",
+      "prompt": "En el proceso de consumo de mayor cuantía, el traslado de la demanda es por ____ días y la sentencia se dicta en el mismo plazo.",
+      "answer": "10",
+      "accept": [
+        "10",
+        "diez"
+      ],
+      "unit": "días",
+      "explanation": "En el proceso de consumo (mayor cuantía) el traslado de la demanda es de 10 días y el juez dicta sentencia en 10 días.",
+      "trap": "Si el proceso de consumo tramita como pequeña causa, el traslado y la sentencia se reducen a 5 días.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 29,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-007",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "plazo",
+      "prompt": "En la acción preventiva o de tutela anticipada civil, el juez convoca a una audiencia dentro de los ____ días y resuelve dentro de los 3 días siguientes.",
+      "answer": "3",
+      "accept": [
+        "3",
+        "tres"
+      ],
+      "unit": "días",
+      "explanation": "Por su urgencia, en la tutela preventiva el juez convoca a audiencia dentro de los 3 días y dicta resolución dentro de los 3 días posteriores.",
+      "trap": "No confundir con los plazos del proceso monitorio (5 o 10 días para oponer excepciones).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 30,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-008",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "cantidad",
+      "prompt": "Se considera «pequeña causa» ante los Juzgados de Paz Letrados todo asunto civil o comercial cuyo monto no supere el equivalente a ____ JUS.",
+      "answer": "3",
+      "accept": [
+        "3",
+        "tres"
+      ],
+      "unit": "JUS",
+      "explanation": "El proceso de pequeñas causas aplica cuando el monto reclamado no supera 3 JUS (o hasta 5 JUS cuando se trata de relaciones de consumo ante Justicia de Paz).",
+      "trap": "Para causas de consumo en Justicia de Paz el tope se amplía hasta 5 JUS; para desalojos la competencia de Paz llega hasta 15 JUS.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 30,
+          "label": "M2"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 53,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-009",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "plazo",
+      "prompt": "En el proceso de pequeñas causas, el traslado de la demanda es por ____ días y la sentencia debe dictarse en el mismo plazo.",
+      "answer": "5",
+      "accept": [
+        "5",
+        "cinco"
+      ],
+      "unit": "días",
+      "explanation": "En pequeñas causas el traslado de la demanda es por 5 días, la audiencia final se fija dentro de los 30 días y la sentencia se dicta en 5 días.",
+      "trap": "La apelación contra la sentencia de pequeñas causas se interpone dentro de los 3 días.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 31,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-010",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "plazo",
+      "prompt": "En el proceso monitorio común (no cambiario ni de apremio), el demandado puede oponer excepciones al progreso de la sentencia monitoria dentro de los ____ días.",
+      "answer": "5",
+      "accept": [
+        "5",
+        "cinco"
+      ],
+      "unit": "días",
+      "explanation": "Dictada inaudita parte la sentencia monitoria, el ejecutado tiene 5 días para oponer excepciones (salvo en obligaciones cambiarias, donde tiene 10 días).",
+      "trap": "En ejecución de obligaciones cambiarias (pagaré, cheque, letra de cambio) el plazo es de 10 días.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 32,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-011",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "plazo",
+      "prompt": "En el proceso monitorio por obligaciones cambiarias, el plazo para oponer excepciones a la sentencia monitoria es de ____ días.",
+      "answer": "10",
+      "accept": [
+        "10",
+        "diez"
+      ],
+      "unit": "días",
+      "explanation": "Tratándose de títulos cambiarios, el plazo para oponer excepciones se extiende a 10 días.",
+      "trap": "No confundir con los 5 días del proceso monitorio general o de la ejecución de resoluciones judiciales.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 32,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-012",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "plazo",
+      "prompt": "En el proceso sucesorio, el edicto citatorio a herederos y acreedores se publica en el Boletín Oficial y diario por ____ veces en un mes.",
+      "answer": "5",
+      "accept": [
+        "5",
+        "cinco"
+      ],
+      "unit": "veces",
+      "explanation": "Abierto el proceso sucesorio, se cita por edictos publicados 5 veces en un mes para que comparezcan en el plazo de 30 días corridos.",
+      "trap": "La publicación es 5 veces en un mes; el plazo para comparecer que otorgan los edictos es de 30 días corridos.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 35,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-013",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "plazo",
+      "prompt": "En el proceso civil (Ley 9001), la caducidad de instancia en primera o única instancia opera cuando no se insta su curso durante el plazo de ____ meses.",
+      "answer": "6",
+      "accept": [
+        "6",
+        "seis"
+      ],
+      "unit": "meses",
+      "explanation": "La caducidad de instancia en primera o única instancia se produce a los 6 meses sin actos útiles de impulso procesal.",
+      "trap": "En segunda o ulterior instancia y en la Justicia de Paz el plazo de caducidad es de 3 meses.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 36,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-014",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "plazo",
+      "prompt": "En segunda o ulterior instancia y en la Justicia de Paz, la caducidad de instancia opera a los ____ meses de inactividad procesal.",
+      "answer": "3",
+      "accept": [
+        "3",
+        "tres"
+      ],
+      "unit": "meses",
+      "explanation": "En alzada (segunda o ulterior instancia) y en los Juzgados de Paz el plazo de caducidad de instancia se reduce a 3 meses.",
+      "trap": "En primera instancia civil ordinaria son 6 meses; en el fuero laboral la caducidad opera al año.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 36,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-015",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "plazo",
+      "prompt": "En los procesos de estructura monitoria, la caducidad de instancia opera a los ____ meses si aún no se notificó la sentencia monitoria.",
+      "answer": "3",
+      "accept": [
+        "3",
+        "tres"
+      ],
+      "unit": "meses",
+      "explanation": "En los procesos monitorios el plazo de caducidad es de 3 meses antes de notificada la sentencia monitoria, y de 6 meses si se opusieron excepciones.",
+      "trap": "Una vez opuestas excepciones en el monitorio, el plazo pasa a ser de 6 meses.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 36,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-016",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "plazo",
+      "prompt": "El recurso de aclaratoria procede contra autos y sentencias para corregir errores materiales, subsanar omisiones o aclarar conceptos oscuros dentro de los ____ días de la notificación.",
+      "answer": "2",
+      "accept": [
+        "2",
+        "dos"
+      ],
+      "unit": "días",
+      "explanation": "En el proceso civil (Ley 9001), el recurso de aclaratoria contra autos y sentencias se interpone dentro de los 2 días siguientes a la notificación.",
+      "trap": "Para decretos el plazo de aclaratoria es de 1 día; para el recurso de reposición contra autos dictados sin sustanciación es de 3 días.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 37,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-017",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "plazo",
+      "prompt": "El recurso de reposición en el proceso civil procede contra decretos y autos dictados sin sustanciación, y se interpone dentro de los ____ días siguientes a la notificación.",
+      "answer": "3",
+      "accept": [
+        "3",
+        "tres"
+      ],
+      "unit": "días",
+      "explanation": "El recurso de reposición se deduce en el plazo de 3 días ante el mismo juez que dictó el decreto o auto sin sustanciación, con traslado de 3 días a la contraria.",
+      "trap": "En el fuero laboral el recurso de reposición contra decretos o autos sin sustanciación se interpone en 2 días.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 37,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-018",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "plazo",
+      "prompt": "Salvo disposición en contrario, el plazo general para interponer el recurso de apelación en el proceso civil es de ____ días desde la notificación.",
+      "answer": "5",
+      "accept": [
+        "5",
+        "cinco"
+      ],
+      "unit": "días",
+      "explanation": "El plazo ordinario de apelación en el CPCCTM es de 5 días, salvo cuando la ley dispone expresamente 3 días (por ejemplo, en pequeñas causas).",
+      "trap": "El recurso extraordinario provincial ante la Suprema Corte se interpone en el plazo de 15 días.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 37,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-019",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "plazo",
+      "prompt": "El Recurso Extraordinario Provincial ante la Suprema Corte de Justicia se interpone de forma fundada dentro de los ____ días de notificada la sentencia definitiva.",
+      "answer": "15",
+      "accept": [
+        "15",
+        "quince"
+      ],
+      "unit": "días",
+      "explanation": "El Recurso Extraordinario Provincial unificado se interpone dentro de los 15 días de notificada la resolución definitiva.",
+      "trap": "Si el tribunal deniega la concesión del recurso, la queja o recurso directo ante la Corte se interpone en 5 días.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 39,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-020",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "plazo",
+      "prompt": "En todos los fueros de Mendoza rige el «plazo de gracia» (secretaría nocturna): el escrito puede presentarse válidamente el día hábil inmediato siguiente hasta las ____ horas.",
+      "answer": "9",
+      "accept": [
+        "9",
+        "9:00",
+        "09:00",
+        "nueve"
+      ],
+      "unit": "horas",
+      "explanation": "El cargo o plazo de gracia permite presentar escritos dentro de las dos primeras horas de despacho (hasta las 9:00 hs) del día hábil inmediato posterior al vencimiento.",
+      "trap": "Rige en los fueros civil, de familia, laboral y penal de Mendoza.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 42,
+          "label": "M2"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 77,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-021",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "plazo",
+      "prompt": "En el proceso monitorio de apremio (ejecución fiscal en Tribunales Tributarios), si el juez halla formalmente procedente el título dicta sentencia monitoria y otorga ____ días para oponer excepciones.",
+      "answer": "5",
+      "accept": [
+        "5",
+        "cinco"
+      ],
+      "unit": "días",
+      "explanation": "En el proceso monitorio de apremio del Código Fiscal y Ley 9001, el ejecutado tiene 5 días para oponer excepciones tras la notificación de la sentencia monitoria.",
+      "trap": "Si se oponen excepciones, se corre traslado al actor recaudador por otros 5 días.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 48,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-022",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "cantidad",
+      "prompt": "Los Juzgados de Paz Letrados son competentes en causas de desalojo y cuestiones derivadas de contratos de locación cuando el monto no supere el equivalente a ____ JUS.",
+      "answer": "15",
+      "accept": [
+        "15",
+        "quince"
+      ],
+      "unit": "JUS",
+      "explanation": "La competencia por cuantía de la Justicia de Paz Letrada alcanza hasta 3 JUS en pequeñas causas comunes, 5 JUS en consumo y 15 JUS en locaciones y desalojos.",
+      "trap": "No confundir el tope de 15 JUS en locaciones/desalojo con los 3 JUS de pequeñas causas generales.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 53,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-023",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "plazo",
+      "prompt": "En el concurso preventivo (Ley 24.522), el juez debe resolver sobre la apertura o rechazo del pedido dentro de los ____ días de presentado.",
+      "answer": "5",
+      "accept": [
+        "5",
+        "cinco"
+      ],
+      "unit": "días",
+      "explanation": "Según el art. 13 de la Ley 24.522 de Concursos y Quiebras (citado en M2 p. 57), presentado el pedido el juez se pronuncia en el término de 5 días.",
+      "trap": "Si existen causales legales de rechazo o incumplimiento de requisitos del art. 11, el juez rechaza la petición.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 57,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-024",
+      "module": 2,
+      "topic": "2.2",
+      "kind": "norma",
+      "prompt": "El Código Procesal de Familia y Violencia Familiar de Mendoza fue aprobado por la Ley provincial N.° ____.",
+      "answer": "9120",
+      "accept": [
+        "9120",
+        "9.120"
+      ],
+      "unit": "Ley",
+      "explanation": "La Ley 9120 regula el Código Procesal de Familia y Violencia Familiar de Mendoza, mientras que la Ley 9001 rige el CPCCTM y la Ley 9106 el juicio por jurados.",
+      "trap": "No confundir con la Ley 9001 (CPCCyT) ni con la Ley 26.485 (protección integral contra la violencia hacia las mujeres).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 63,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-025",
+      "module": 2,
+      "topic": "2.2",
+      "kind": "organo",
+      "prompt": "En el Fuero de Familia (Ley 9120), ¿qué órgano interdisciplinario asiste gratuitamente a los jueces mediante diagnósticos, evaluaciones y seguimiento familiar?",
+      "options": [
+        "El Cuerpo Auxiliar Interdisciplinario (CAI)",
+        "El Cuerpo Médico Forense Penal (CMF)",
+        "La Oficina de Conciliación Laboral (OCL)",
+        "El Equipo Técnico del Ministerio Público Fiscal"
+      ],
+      "correct": 0,
+      "explanation": "El Cuerpo Auxiliar Interdisciplinario (CAI) es el órgano técnico específico del Fuero de Familia previsto en la Ley 9120.",
+      "trap": "El Registro Provincial de Adopción (RPA) también integra el fuero, pero su función es evaluar postulantes con fines adoptivos.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 67,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-026",
+      "module": 2,
+      "topic": "2.3",
+      "kind": "cantidad",
+      "prompt": "Las Cámaras del Trabajo de Mendoza están integradas por ____ vocales (jueces de cámara), aunque la ley autoriza el funcionamiento en salas unipersonales para la mayoría de las causas.",
+      "answer": "3",
+      "accept": [
+        "3",
+        "tres"
+      ],
+      "unit": "vocales",
+      "explanation": "Cada Cámara del Trabajo se compone de 3 miembros (vocales), pudiendo actuar en salas unipersonales o en pleno según el caso y a pedido de parte.",
+      "trap": "En el fuero laboral las Cámaras del Trabajo son tribunales de instancia única; sus sentencias sólo admiten recursos extraordinarios ante la SCJM.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 71,
+          "label": "M2"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 73,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-027",
+      "module": 2,
+      "topic": "2.3",
+      "kind": "plazo",
+      "prompt": "En el proceso laboral de Mendoza (CPL), el plazo para contestar la demanda y oponer excepciones es de ____ días hábiles.",
+      "answer": "8",
+      "accept": [
+        "8",
+        "ocho"
+      ],
+      "unit": "días hábiles",
+      "explanation": "En el procedimiento laboral ordinario el demandado tiene 8 días hábiles para contestar la demanda, ofrecer toda su prueba y oponer excepciones.",
+      "trap": "No confundir con los 20 días del proceso ordinario civil ni con los 3 días que tiene luego el actor laboral para contestar el traslado del responde.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 81,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-028",
+      "module": 2,
+      "topic": "2.3",
+      "kind": "plazo",
+      "prompt": "Contestada la demanda en el fuero laboral, se corre traslado al actor por ____ días para que conteste excepciones, reconozca o desconozca documentos y amplíe prueba respecto de hechos nuevos.",
+      "answer": "3",
+      "accept": [
+        "3",
+        "tres"
+      ],
+      "unit": "días",
+      "explanation": "Del responde de demanda laboral se corre traslado al actor por el plazo de 3 días hábiles.",
+      "trap": "El demandado tiene 8 días para contestar la demanda; el actor tiene 3 días para contestar el traslado del responde.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 81,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-029",
+      "module": 2,
+      "topic": "2.3",
+      "kind": "plazo",
+      "prompt": "En el fuero laboral, concluida la audiencia de vista de causa y producidos los alegatos, el tribunal debe dictar sentencia definitiva dentro de los ____ días.",
+      "answer": "15",
+      "accept": [
+        "15",
+        "quince"
+      ],
+      "unit": "días",
+      "explanation": "En el proceso laboral, la sentencia definitiva se dicta dentro de los 15 días posteriores a la vista de causa.",
+      "trap": "No confundir con los 30 días para dictar sentencia en el proceso ordinario civil.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 83,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-030",
+      "module": 2,
+      "topic": "2.3",
+      "kind": "plazo",
+      "prompt": "En el proceso laboral de Mendoza, la caducidad de instancia opera cuando transcurre ____ año sin que se realice ningún acto útil de impulso procesal.",
+      "answer": "1",
+      "accept": [
+        "1",
+        "un",
+        "uno"
+      ],
+      "unit": "año",
+      "explanation": "A diferencia de los 6 meses del fuero civil, en el fuero laboral la caducidad de instancia requiere el transcurso de 1 año de inactividad.",
+      "trap": "Además, en el proceso laboral el impulso procesal es de oficio, sin perjuicio de la carga de las partes.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 77,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-031",
+      "module": 2,
+      "topic": "2.3",
+      "kind": "plazo",
+      "prompt": "En el Código Procesal Laboral de Mendoza, el recurso de aclaratoria y el recurso de reposición contra decretos o autos sin sustanciación se interponen dentro de los ____ días.",
+      "answer": "2",
+      "accept": [
+        "2",
+        "dos"
+      ],
+      "unit": "días",
+      "explanation": "En el fuero laboral tanto la aclaratoria como la reposición tienen un plazo de interposición de 2 días.",
+      "trap": "En el fuero civil la aclaratoria de autos/sentencias es de 2 días, pero la reposición es de 3 días.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 84,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-032",
+      "module": 2,
+      "topic": "2.3",
+      "kind": "organo",
+      "prompt": "Como las Cámaras del Trabajo son tribunales de instancia única, ¿ante qué órgano y por qué vía se impugnan sus sentencias definitivas?",
+      "options": [
+        "Ante la Suprema Corte de Justicia mediante recursos extraordinarios",
+        "Ante las Cámaras de Apelaciones en lo Civil y Comercial por apelación ordinaria",
+        "Ante la Subsecretaría de Trabajo y Empleo mediante recurso jerárquico",
+        "Ante el Juzgado de Paz Letrado del domicilio del trabajador"
+      ],
+      "correct": 0,
+      "explanation": "El fuero laboral de Mendoza es de instancia única y colegiada (o salas unipersonales de Cámara); contra la sentencia definitiva sólo caben recursos extraordinarios ante la Suprema Corte.",
+      "trap": "El recurso de apelación en el fuero laboral sólo procede respecto de resoluciones dictadas en etapa de ejecución o apremios sindicales ante jueces ejecutivos.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 71,
+          "label": "M2"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 84,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-033",
+      "module": 2,
+      "topic": "2.4",
+      "kind": "norma",
+      "prompt": "El Código Procesal Penal de Mendoza vigente se rige por la Ley provincial N.° ____.",
+      "answer": "6730",
+      "accept": [
+        "6730",
+        "6.730"
+      ],
+      "unit": "Ley",
+      "explanation": "La Ley 6730 y sus modificatorias (como la Ley 9040 de Tribunales y Juzgados Penales Colegiados) constituyen el Código Procesal Penal de Mendoza.",
+      "trap": "No confundir con la Ley 9001 (CPCCyT), la Ley 9120 (Familia) ni la Ley 9106 (Juicio por Jurados).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 86,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-034",
+      "module": 2,
+      "topic": "2.4",
+      "kind": "norma",
+      "prompt": "El sistema de Juicio por Jurados Populares en la Provincia de Mendoza fue instaurado por la Ley N.° ____.",
+      "answer": "9106",
+      "accept": [
+        "9106",
+        "9.106"
+      ],
+      "unit": "Ley",
+      "explanation": "La Ley 9106 regula el juicio por jurados populares en Mendoza para los delitos más graves del Código Penal.",
+      "trap": "No confundir con la Ley 9040 (creación de Tribunales y Juzgados Penales Colegiados).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 88,
+          "label": "M2"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 100,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-035",
+      "module": 2,
+      "topic": "2.4",
+      "kind": "cantidad",
+      "prompt": "En el Juicio por Jurados Populares de Mendoza (Ley 9106), el jurado se integra con ____ miembros titulares y 4 suplentes, respetando paridad de género en partes iguales.",
+      "answer": "12",
+      "accept": [
+        "12",
+        "doce"
+      ],
+      "unit": "jurados titulares",
+      "explanation": "El jurado popular se integra con 12 miembros titulares (6 mujeres y 6 varones) y 4 suplentes.",
+      "trap": "Para declarar culpable al acusado en juicio por jurados en Mendoza se exige veredicto unánime de los 12 jurados.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 88,
+          "label": "M2"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 100,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-036",
+      "module": 2,
+      "topic": "2.4",
+      "kind": "edad",
+      "prompt": "Para ser miembro de un jurado popular en Mendoza (Ley 9106) se requiere tener entre ____ y 75 años de edad.",
+      "answer": "18",
+      "accept": [
+        "18",
+        "dieciocho"
+      ],
+      "unit": "años",
+      "explanation": "La Ley 9106 requiere tener entre 18 y 75 años de edad, saber leer y escribir, contar con ciudadanía en ejercicio y residir en la circunscripción respectiva.",
+      "trap": "Quedan excluidos los abogados, magistrados, funcionarios judiciales, miembros de fuerzas de seguridad en actividad y cargos políticos electivos.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 88,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-037",
+      "module": 2,
+      "topic": "2.4",
+      "kind": "mayoria",
+      "prompt": "En el juicio por jurados populares de Mendoza (Ley 9106), el veredicto de culpabilidad o de no culpabilidad requiere ____ de los 12 jurados.",
+      "answer": "unanimidad",
+      "accept": [
+        "unanimidad",
+        "unánime",
+        "unanime",
+        "12",
+        "12 votos",
+        "doce votos"
+      ],
+      "unit": "de votos",
+      "explanation": "El veredicto del jurado popular en Mendoza debe ser unánime (los 12 integrantes titulares deben coincidir), tanto para declarar culpable como no culpable.",
+      "trap": "No se admite mayoría simple ni calificada de 8 o 10 votos como en otras jurisdicciones: en Mendoza rige la unanimidad.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 101,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-038",
+      "module": 2,
+      "topic": "2.4",
+      "kind": "plazo",
+      "prompt": "En el procedimiento de flagrancia penal (Ley 6730), la audiencia de clausura o directiva debe realizarse dentro de un plazo muy breve desde la aprehensión, que no puede superar las ____ horas para el control inicial.",
+      "answer": "24",
+      "accept": [
+        "24",
+        "veinticuatro"
+      ],
+      "unit": "horas",
+      "explanation": "En el procedimiento de flagrancia, el aprehendido es puesto de inmediato a disposición del fiscal y la audiencia inicial se celebra dentro de las 24 horas (prorrogable por otras 24 hs).",
+      "trap": "En el régimen penal juvenil (CPPJ 2026), cuando hay aprehensión en flagrancia, el fiscal debe requerir audiencia dentro de las 24 hs y el juez celebrarla dentro de las 24 hs siguientes (tope total 48 hs).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 99,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-039",
+      "module": 2,
+      "topic": "2.4",
+      "kind": "organo",
+      "prompt": "En el proceso penal acusatorio de Mendoza (Ley 6730), ¿quién dirige la Investigación Penal Preparatoria (IPP) y ejerce la acción penal pública?",
+      "options": [
+        "El Fiscal de Instrucción del Ministerio Público Fiscal",
+        "El Juez Penal Colegiado en función de Garantías",
+        "La Suprema Corte de Justicia en Sala Jurisdiccional",
+        "El Defensor Oficial del Ministerio Público de la Defensa"
+      ],
+      "correct": 0,
+      "explanation": "En el sistema acusatorio mendocino, el Fiscal de Instrucción dirige la IPP, recolecta las pruebas y formula la acusación; el Juez de Garantías controla la legalidad y resuelve pedidos jurisdiccionales.",
+      "trap": "El Juez de Garantías no investiga de oficio: interviene a requerimiento para controlar garantías, dictar prisión preventiva o autorizar allanamientos.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 89,
+          "label": "M2"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 95,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-040",
+      "module": 2,
+      "topic": "2.4",
+      "kind": "edad",
+      "prompt": "Según el nuevo Régimen Penal Juvenil (Ley nacional 27.801 y Ley provincial 9735 de octubre de 2026), el régimen es aplicable a las personas adolescentes desde los ____ hasta los 18 años de edad.",
+      "answer": "14",
+      "accept": [
+        "14",
+        "catorce"
+      ],
+      "unit": "años",
+      "explanation": "La reforma de 2026 (Ley 27.801 y Ley 9735) fijó la edad mínima de responsabilidad penal juvenil en 14 años cumplidos al momento del hecho, hasta los 18 años.",
+      "trap": "El antiguo régimen de la Ley 22.278 fijaba el piso de punibilidad en 16 años; la reforma de 2026 lo estableció en 14 años.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 103,
+          "label": "M2"
+        },
+        {
+          "file": "biblioteca/2026/referencias/Ley-9735-Responsabilidad-Penal-Juvenil.pdf",
+          "page": 1,
+          "label": "Ley 9735"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-041",
+      "module": 2,
+      "topic": "2.4",
+      "kind": "edad",
+      "prompt": "Según la Ley 9735 y el CPPJ 2026, las niñas y niños menores de ____ años son no punibles y no pueden ser sometidos a proceso penal juvenil.",
+      "answer": "14",
+      "accept": [
+        "14",
+        "catorce"
+      ],
+      "unit": "años",
+      "explanation": "Por debajo de los 14 años la persona es no punible; el fiscal o juez archiva las actuaciones penales y da intervención al órgano administrativo de protección de derechos (ETI) y al Asesor de NNyA.",
+      "trap": "En supuestos de delitos graves cometidos por menores de 14 años, el CPPJ prevé medidas civiles o de protección excepcionales, pero nunca pena penal.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/referencias/Ley-9735-Responsabilidad-Penal-Juvenil.pdf",
+          "page": 1,
+          "label": "Ley 9735"
+        },
+        {
+          "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+          "page": 26,
+          "label": "CPPJ"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-042",
+      "module": 2,
+      "topic": "2.4",
+      "kind": "plazo",
+      "prompt": "Según el Código Procesal Penal Juvenil de Mendoza (Anexo Ley 9735, art. 15), como regla general la duración total del proceso penal juvenil no puede exceder de ____ años desde el primer acto del procedimiento.",
+      "answer": "3",
+      "accept": [
+        "3",
+        "tres"
+      ],
+      "unit": "años",
+      "explanation": "El art. 15 del CPPJ 2026 establece el plazo razonable máximo de duración total del proceso penal juvenil en 3 años (sin computar el tiempo de rebeldía o suspensión a prueba).",
+      "trap": "No confundir los 3 años de duración total del proceso con el plazo de la Investigación Penal Preparatoria juvenil (90 días prorrogables por 90 días).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+          "page": 4,
+          "label": "CPPJ"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-043",
+      "module": 2,
+      "topic": "2.4",
+      "kind": "plazo",
+      "prompt": "En el Código Procesal Penal Juvenil (CPPJ 2026, art. 82), la Investigación Penal Preparatoria debe concluir en el plazo de ____ días desde la audiencia de imputación, prorrogable por igual término.",
+      "answer": "90",
+      "accept": [
+        "90",
+        "noventa"
+      ],
+      "unit": "días",
+      "explanation": "La IPP en el fuero penal juvenil tiene un plazo ordinario de 90 días corridos desde la imputación, prorrogable por el Juez Penal Juvenil por hasta otros 90 días.",
+      "trap": "Si el adolescente está privado de libertad de forma cautelar, los plazos deben priorizarse con máxima celeridad.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+          "page": 17,
+          "label": "CPPJ"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-044",
+      "module": 2,
+      "topic": "2.4",
+      "kind": "plazo",
+      "prompt": "Según el CPPJ 2026 (art. 66), cuando un adolescente es aprehendido en flagrancia, el plazo total máximo entre la aprehensión y la realización de la audiencia ante el juez no puede superar las ____ horas.",
+      "answer": "48",
+      "accept": [
+        "48",
+        "cuarenta y ocho"
+      ],
+      "unit": "horas",
+      "explanation": "El fiscal tiene hasta 24 horas desde la aprehensión para solicitar la audiencia y el juez debe celebrarla dentro de las 24 horas siguientes, totalizando un máximo improrrogable de 48 horas.",
+      "trap": "La policía debe comunicar la aprehensión de forma inmediata (máximo 6 horas para informe policial inicial al fiscal).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+          "page": 14,
+          "label": "CPPJ"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-045",
+      "module": 2,
+      "topic": "2.4",
+      "kind": "plazo",
+      "prompt": "Según el CPPJ 2026 (art. 71), la detención preventiva (prisión preventiva juvenil) es excepcional y su duración máxima ordinaria es de ____ meses, prorrogable por única vez por otros 6 meses en casos complejos.",
+      "answer": "6",
+      "accept": [
+        "6",
+        "seis"
+      ],
+      "unit": "meses",
+      "explanation": "La detención preventiva juvenil no puede exceder de 6 meses, admitiendo una única prórroga fundada de hasta 6 meses más en causas complejas.",
+      "trap": "Además, la medida de coerción debe revisarse periódicamente (cada 3 meses o a pedido de parte) y nunca puede aplicarse si el delito tiene pena máxima no mayor a 3 años.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+          "page": 15,
+          "label": "CPPJ"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-046",
+      "module": 2,
+      "topic": "2.4",
+      "kind": "plazo",
+      "prompt": "Según el CPPJ 2026 (art. 50), la suspensión del proceso penal juvenil a prueba (probation juvenil) se fija por un plazo de entre ____ y 3 años según la gravedad del delito.",
+      "answer": "1",
+      "accept": [
+        "1",
+        "un",
+        "uno"
+      ],
+      "unit": "año",
+      "explanation": "La suspensión del juicio a prueba en el fuero penal juvenil dura entre 1 y 3 años con supervisión del equipo interdisciplinario.",
+      "trap": "En la remisión del proceso (art. 45 CPPJ), el acompañamiento comunitario puede extenderse hasta por 12 meses.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+          "page": 11,
+          "label": "CPPJ"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-047",
+      "module": 2,
+      "topic": "2.4",
+      "kind": "plazo",
+      "prompt": "Según el CPPJ 2026 (art. 101), finalizado el debate oral juvenil, los fundamentos de la sentencia deben redactarse en lenguaje claro dentro de los ____ días hábiles siguientes al veredicto.",
+      "answer": "10",
+      "accept": [
+        "10",
+        "diez"
+      ],
+      "unit": "días hábiles",
+      "explanation": "Tras dar a conocer la parte resolutiva al cierre del debate, el tribunal penal juvenil cuenta con hasta 10 días hábiles para redactar los fundamentos y explicarlos de forma comprensible al adolescente.",
+      "trap": "Contra la sentencia definitiva procede el recurso de casación dentro del plazo de 15 días hábiles.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+          "page": 21,
+          "label": "CPPJ"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-048",
+      "module": 2,
+      "topic": "2.4",
+      "kind": "plazo",
+      "prompt": "Según la Ley 9735 (art. 15), el Poder Ejecutivo y la Suprema Corte deben implementar íntegramente el nuevo sistema penal juvenil dentro de un plazo de hasta ____ días corridos desde su entrada en vigencia.",
+      "answer": "180",
+      "accept": [
+        "180",
+        "ciento ochenta"
+      ],
+      "unit": "días corridos",
+      "explanation": "El art. 15 de la Ley 9735 establece un plazo de implementación progresiva de hasta 180 días corridos a partir de su entrada en vigencia.",
+      "trap": "No confundir con los 90 días de duración de la IPP juvenil.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/referencias/Ley-9735-Responsabilidad-Penal-Juvenil.pdf",
+          "page": 4,
+          "label": "Ley 9735"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M3-001",
+      "module": 3,
+      "topic": "3.1",
+      "kind": "norma",
+      "prompt": "La Declaración Universal de Derechos Humanos fue adoptada por la Asamblea General de las Naciones Unidas el 10 de diciembre del año ____.",
+      "answer": "1948",
+      "accept": [
+        "1948"
+      ],
+      "unit": "año",
+      "explanation": "La Declaración Universal de Derechos Humanos fue adoptada por la ONU en París el 10 de diciembre de 1948 tras la Segunda Guerra Mundial.",
+      "trap": "No confundir con 1969 (Convención Americana sobre Derechos Humanos - Pacto de San José de Costa Rica) ni con 1994 (reforma constitucional argentina).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+          "page": 4,
+          "label": "M3"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M3-002",
+      "module": 3,
+      "topic": "3.1",
+      "kind": "norma",
+      "prompt": "En Argentina, los tratados internacionales de derechos humanos enumerados en el artículo ____ inciso 22 de la Constitución Nacional gozan de jerarquía constitucional.",
+      "answer": "75",
+      "accept": [
+        "75",
+        "setenta y cinco"
+      ],
+      "unit": "CN",
+      "explanation": "El art. 75 inc. 22 CN (incorporado en la reforma de 1994) otorga jerarquía constitucional a los instrumentos internacionales de DD. HH. allí enumerados y a los que luego apruebe el Congreso con mayoría agravada.",
+      "trap": "El art. 75 inc. 23 CN regula las medidas de acción positiva para niños, mujeres, ancianos y personas con discapacidad.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 9,
+          "label": "M1"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+          "page": 4,
+          "label": "M3"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M3-003",
+      "module": 3,
+      "topic": "3.1",
+      "kind": "mayoria",
+      "prompt": "Para que otros tratados y convenciones sobre derechos humanos (no incluidos originalmente en 1994) gocen de jerarquía constitucional luego de ser aprobados, el art. 75 inc. 22 CN exige el voto de las ____ partes de la totalidad de los miembros de cada Cámara.",
+      "answer": "2/3",
+      "accept": [
+        "2/3",
+        "dos tercios",
+        "dos terceras",
+        "2 tercios"
+      ],
+      "unit": "de cada Cámara",
+      "explanation": "El art. 75 inc. 22 CN exige el voto de las dos terceras partes de la totalidad de los miembros de cada Cámara para otorgar jerarquía constitucional a nuevos tratados de DD. HH.",
+      "trap": "No basta con dos tercios de los miembros presentes: la Constitución exige dos tercios de la totalidad de los miembros de cada Cámara.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 9,
+          "label": "M1"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+          "page": 4,
+          "label": "M3"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M3-004",
+      "module": 3,
+      "topic": "3.3",
+      "kind": "cantidad",
+      "prompt": "La clasificación histórica o didáctica de los derechos humanos según su surgimiento en el tiempo suele agruparlos en ____ generaciones (civiles y políticos; económicos, sociales y culturales; y de incidencia colectiva o solidaridad).",
+      "answer": "3",
+      "accept": [
+        "3",
+        "tres"
+      ],
+      "unit": "generaciones",
+      "explanation": "El Módulo 3 expone las 3 generaciones clásicas (1ª civiles y políticos, 2ª económicos, sociales y culturales, 3ª colectivos/ambiente/paz), advirtiendo que todos son indivisibles e interdependientes.",
+      "trap": "Que se clasifiquen en generaciones por su aparición histórica no significa que exista jerarquía entre ellos (principio de indivisibilidad e interdependencia).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+          "page": 9,
+          "label": "M3"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M3-005",
+      "module": 3,
+      "topic": "3.4",
+      "kind": "cantidad",
+      "prompt": "Según el Derecho Internacional de los Derechos Humanos (Módulo 3), las obligaciones generales de los Estados frente a los derechos humanos se estructuran en ____ deberes básicos: respetar, proteger y garantizar (o realizar/cumplir).",
+      "answer": "3",
+      "accept": [
+        "3",
+        "tres"
+      ],
+      "unit": "obligaciones",
+      "explanation": "El Estado tiene la triple obligación de respetar (no interferir ni violar), proteger (impedir violaciones por terceros) y garantizar/cumplir (adoptar medidas positivas para su efectividad).",
+      "trap": "La obligación de respetar es eminentemente negativa (abstención de daño), mientras que proteger y garantizar exigen conductas activas.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+          "page": 10,
+          "label": "M3"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M3-006",
+      "module": 3,
+      "topic": "3.5",
+      "kind": "norma",
+      "prompt": "Las Reglas de Brasilia sobre Acceso a la Justicia de las Personas en Condición de Vulnerabilidad son un cuerpo de ____ reglas adoptadas por la Cumbre Judicial Iberoamericana en 2008.",
+      "answer": "100",
+      "accept": [
+        "100",
+        "cien"
+      ],
+      "unit": "Reglas",
+      "explanation": "Se conocen como las «100 Reglas de Brasilia» sobre acceso a la justicia de personas en condición de vulnerabilidad (edad, discapacidad, género, pobreza, privación de libertad, migración, pueblos indígenas).",
+      "trap": "No confundir con las Reglas de Beijing (administración de justicia de menores de la ONU) ni con las Reglas de Tokio (medidas no privativas de la libertad).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+          "page": 16,
+          "label": "M3"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+          "page": 4,
+          "label": "M5"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M3-007",
+      "module": 3,
+      "topic": "3.2",
+      "kind": "organo",
+      "prompt": "¿Cómo se denomina el principio de derechos humanos que obliga a aplicar siempre la norma o interpretación más amplia y favorable a la persona humana, sin importar su jerarquía interna?",
+      "options": [
+        "Principio de preclusión procesal de los actos firmes",
+        "Principio pro persona (o pro homine) de interpretación",
+        "Principio de discrecionalidad administrativa estatal",
+        "Principio de reciprocidad diplomática entre Estados"
+      ],
+      "correct": 1,
+      "explanation": "El principio pro persona (o pro homine) exige acudir a la norma más amplia o a la interpretación más extensiva cuando se trata de reconocer derechos protegidos.",
+      "trap": "Se complementa con el principio de progresividad y no regresividad, que prohíbe disminuir el nivel de protección ya alcanzado.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+          "page": 6,
+          "label": "M3"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M3-008",
+      "module": 3,
+      "topic": "3.4",
+      "kind": "organo",
+      "prompt": "En el Sistema Interamericano de Derechos Humanos, ¿cuáles son los dos órganos principales encargados de la promoción, protección y juzgamiento de violaciones a la Convención Americana?",
+      "options": [
+        "El Consejo de Seguridad de las Naciones Unidas y la Corte Penal Internacional con sede en La Haya",
+        "El Comité de Derechos Económicos, Sociales y Culturales y el Tribunal Europeo de Derechos Humanos",
+        "La Comisión Interamericana de Derechos Humanos (CIDH) y la Corte Interamericana de Derechos Humanos",
+        "La Asamblea General del Mercosur y la Defensoría del Pueblo de la Nación junto al Ministerio Público"
+      ],
+      "correct": 2,
+      "explanation": "El Sistema Interamericano cuenta con dos órganos principales: la Comisión Interamericana (CIDH, con sede en Washington) y la Corte Interamericana (Corte IDH, órgano jurisdiccional con sede en San José de Costa Rica).",
+      "trap": "Los particulares presentan peticiones ante la CIDH, no directamente ante la Corte IDH.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+          "page": 14,
+          "label": "M3"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M3-009",
+      "module": 3,
+      "topic": "3.6",
+      "kind": "organo",
+      "prompt": "¿Qué obligación tienen todos los jueces y órganos del Poder Judicial de verificar la compatibilidad de las normas internas con la Convención Americana sobre Derechos Humanos y la jurisprudencia de la Corte IDH?",
+      "options": [
+        "Control de mérito y conveniencia política",
+        "Exequátur de sentencias comerciales extranjeras",
+        "Consulta legislativa vinculante ante el Senado",
+        "Control de convencionalidad de oficio o a pedido"
+      ],
+      "correct": 3,
+      "explanation": "El control de convencionalidad obliga a los órganos del Poder Judicial a contrastar las normas internas con los tratados de DD. HH. y la interpretación de la Corte IDH.",
+      "trap": "No reemplaza al control de constitucionalidad, sino que se articula con él dentro del bloque de constitucionalidad federal.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+          "page": 15,
+          "label": "M3"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M4-001",
+      "module": 4,
+      "topic": "4.3",
+      "kind": "norma",
+      "prompt": "La Ley de Protección Integral para Prevenir, Sancionar y Erradicar la Violencia contra las Mujeres en los ámbitos en que desarrollen sus relaciones interpersonales es la Ley Nacional N.° ____.",
+      "answer": "26485",
+      "accept": [
+        "26485",
+        "26.485"
+      ],
+      "unit": "Ley",
+      "explanation": "La Ley 26.485 define los tipos y modalidades de violencia contra las mujeres en el orden nacional.",
+      "trap": "No confundir con la Ley 26.743 (Identidad de Género) ni con la Ley 27.499 (Ley Micaela).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+          "page": 5,
+          "label": "M4"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M4-002",
+      "module": 4,
+      "topic": "4.2",
+      "kind": "norma",
+      "prompt": "El derecho a la identidad de género y al trato digno conforme a la identidad autopercibida está reconocido en Argentina por la Ley Nacional N.° ____.",
+      "answer": "26743",
+      "accept": [
+        "26743",
+        "26.743"
+      ],
+      "unit": "Ley",
+      "explanation": "La Ley 26.743 de Identidad de Género garantiza el reconocimiento de la identidad autopercibida y el trato digno (art. 12) aún sin cambio registral en el DNI.",
+      "trap": "No confundir con la Ley 26.485 (protección integral contra la violencia hacia las mujeres).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+          "page": 4,
+          "label": "M4"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M4-003",
+      "module": 4,
+      "topic": "4.1",
+      "kind": "norma",
+      "prompt": "La capacitación obligatoria en temática de género y violencia contra las mujeres para todas las personas que se desempeñan en los tres poderes del Estado se conoce como «Ley Micaela» y lleva el número ____.",
+      "answer": "27499",
+      "accept": [
+        "27499",
+        "27.499"
+      ],
+      "unit": "Ley",
+      "explanation": "La Ley 27.499 (Ley Micaela) establece la capacitación obligatoria en género y violencia contra las mujeres para todas las personas que integran los tres poderes del Estado.",
+      "trap": "En la Provincia de Mendoza se adhirió mediante la Ley provincial 9196.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+          "page": 2,
+          "label": "M4"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M4-004",
+      "module": 4,
+      "topic": "4.3",
+      "kind": "cantidad",
+      "prompt": "Según el Módulo 4 (Ley 26.485 y sus modificatorias), se distinguen ____ tipos de violencia contra la mujer: física, psicológica, sexual, económica y patrimonial, simbólica y política.",
+      "answer": "6",
+      "accept": [
+        "6",
+        "seis"
+      ],
+      "unit": "tipos",
+      "explanation": "El art. 5 de la Ley 26.485 contempla 6 tipos de violencia: 1) física, 2) psicológica, 3) sexual, 4) económica y patrimonial, 5) simbólica y 6) política (incorporada por Ley 27.533).",
+      "trap": "Los «tipos» responden a QUÉ forma adopta la violencia (6 tipos); las «modalidades» responden a DÓNDE o en qué ámbito se manifiesta (doméstica, institucional, laboral, etc.).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+          "page": 5,
+          "label": "M4"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+          "page": 6,
+          "label": "M4"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M4-005",
+      "module": 4,
+      "topic": "4.3",
+      "kind": "cantidad",
+      "prompt": "Según el Módulo 4, la Ley 26.485 (con sus reformas hasta Ley 27.736 «Ley Olimpia») contempla ____ modalidades de violencia según el ámbito en que se manifiestan.",
+      "answer": "9",
+      "accept": [
+        "9",
+        "nueve",
+        "8",
+        "ocho"
+      ],
+      "unit": "modalidades",
+      "explanation": "Las modalidades son: doméstica, institucional, laboral, contra la libertad reproductiva, obstétrica, mediática, en el espacio público (acoso callejero), público-política y digital o telemática (9 modalidades).",
+      "trap": "Recordá distinguir siempre entre tipos (física, psicológica, sexual, económica/patrimonial, simbólica, política) y modalidades (los ámbitos donde ocurren).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+          "page": 6,
+          "label": "M4"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+          "page": 7,
+          "label": "M4"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M4-006",
+      "module": 4,
+      "topic": "4.5",
+      "kind": "norma",
+      "prompt": "El Protocolo de Actuación frente a casos de Violencia Laboral en el Poder Judicial de Mendoza fue aprobado por la Suprema Corte mediante la Acordada N.° ____.",
+      "answer": "30979",
+      "accept": [
+        "30979",
+        "30.979"
+      ],
+      "unit": "Acordada",
+      "explanation": "La Acordada N.° 30.979 de la Suprema Corte aprobó el Protocolo de Actuación frente a casos de Violencia Laboral en el Poder Judicial de Mendoza.",
+      "trap": "No confundir con la Acordada 15.422 (radio de residencia de 30 km) ni con la Acordada 32.299 (Beneficio de Litigar sin Gastos).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+          "page": 9,
+          "label": "M4"
+        },
+        {
+          "file": "biblioteca/2026/referencias/Protocolo-Violencia-Laboral-30979.pdf",
+          "page": 1,
+          "label": "Ac. 30979"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M4-007",
+      "module": 4,
+      "topic": "4.5",
+      "kind": "organo",
+      "prompt": "Según el Protocolo de Violencia Laboral del Poder Judicial de Mendoza (Acordada 30.979), ¿qué organismo específico recibe las consultas y denuncias cuando el caso involucra violencia por motivos de género contra mujeres o personas LGBTIQ+?",
+      "options": [
+        "La Dirección de Derechos Humanos y Acceso a la Justicia de la Suprema Corte",
+        "El Cuerpo Auxiliar Interdisciplinario (CAI) de los Juzgados de Familia",
+        "La Dirección de la Mujer, Género y Diversidad «Dra. Carmen María Argibay»",
+        "La Inspección General de Seguridad dependiente del Ministerio de Seguridad"
+      ],
+      "correct": 2,
+      "explanation": "En el ámbito de la Suprema Corte, cuando la situación de violencia laboral tiene connotación de género o diversidad, interviene la Dirección de la Mujer, Género y Diversidad «Dra. Carmen María Argibay» (o la Dirección de Recursos Humanos cuando no media cuestión de género).",
+      "trap": "Si el hecho ocurre en el ámbito del Ministerio Público Fiscal o de la Defensa, cada organismo cuenta con sus áreas específicas de coordinación.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+          "page": 9,
+          "label": "M4"
+        },
+        {
+          "file": "biblioteca/2026/referencias/Protocolo-Violencia-Laboral-30979.pdf",
+          "page": 14,
+          "label": "Ac. 30979"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M4-008",
+      "module": 4,
+      "topic": "4.5",
+      "kind": "plazo",
+      "prompt": "Según el Protocolo de Violencia Laboral (Acordada 30.979), recibida la denuncia y realizada la entrevista, el equipo interdisciplinario debe elaborar su informe técnico en un plazo máximo de ____ días hábiles.",
+      "answer": "10",
+      "accept": [
+        "10",
+        "diez"
+      ],
+      "unit": "días hábiles",
+      "explanation": "El equipo interdisciplinario cuenta con un plazo máximo de 10 días hábiles para elevar su informe técnico, sin perjuicio de sugerir medidas preventivas urgentes en cualquier momento.",
+      "trap": "Ante riesgo inminente para la integridad psicofísica de la persona afectada, las medidas preventivas urgentes se sugieren de forma inmediata.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/referencias/Protocolo-Violencia-Laboral-30979.pdf",
+          "page": 19,
+          "label": "Ac. 30979"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M4-009",
+      "module": 4,
+      "topic": "4.4",
+      "kind": "organo",
+      "prompt": "¿Cómo se denomina el proceso por el cual una víctima de violencia sufre un nuevo daño psíquico o emocional a causa de una respuesta inadecuada, tardía, repetitiva o estigmatizante de las instituciones judiciales o estatales?",
+      "options": [
+        "Victimización primaria derivada del hecho del agresor",
+        "Preclusión de la instancia administrativa de denuncia",
+        "Incompetencia territorial improrrogable del tribunal",
+        "Revictimización o victimización secundaria institucional"
+      ],
+      "correct": 3,
+      "explanation": "La revictimización o victimización secundaria se produce cuando el propio sistema institucional somete a la víctima a relatos reiterados, cuestionamientos estereotipados, demoras injustificadas o falta de privacidad.",
+      "trap": "La victimización primaria es la que produce directamente el hecho violento; la secundaria o revictimización proviene de la mala intervención institucional y configura violencia institucional.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+          "page": 8,
+          "label": "M4"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M4-010",
+      "module": 4,
+      "topic": "4.3",
+      "kind": "norma",
+      "prompt": "La Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer, aprobada en 1994 por la OEA y ratificada en Argentina por Ley 24.632, es conocida como Convención de ____.",
+      "answer": "Belém do Pará",
+      "accept": [
+        "Belem do Para",
+        "Belém do Pará",
+        "Belem",
+        "Belém"
+      ],
+      "unit": "(1994)",
+      "explanation": "La Convención de Belém do Pará (1994) es el tratado interamericano específico contra la violencia hacia las mujeres, mientras que la CEDAW (1979) es la Convención de la ONU sobre la eliminación de todas las formas de discriminación contra la mujer.",
+      "trap": "CEDAW (ONU, 1979) tiene jerarquía constitucional por el art. 75 inc. 22 CN; Belém do Pará (OEA, 1994) es el instrumento interamericano específico sobre violencia.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+          "page": 17,
+          "label": "M3"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+          "page": 5,
+          "label": "M4"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M4-011",
+      "module": 4,
+      "topic": "4.3",
+      "kind": "norma",
+      "prompt": "La modalidad de violencia digital o telemática contra las mujeres fue incorporada a la Ley 26.485 por la Ley N.° ____ (conocida como «Ley Olimpia»).",
+      "answer": "27736",
+      "accept": [
+        "27736",
+        "27.736"
+      ],
+      "unit": "Ley",
+      "explanation": "La Ley 27.736 («Ley Olimpia») incorporó a la Ley 26.485 la violencia digital o telemática, que afecta la intimidad, dignidad o datos personales mediante tecnologías de la información.",
+      "trap": "No confundir con la Ley 27.533 (que incorporó la violencia política).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+          "page": 7,
+          "label": "M4"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M5-001",
+      "module": 5,
+      "topic": "5.1",
+      "kind": "cantidad",
+      "prompt": "Según el Módulo 5, la evolución histórica de los paradigmas de gestión pública se resume en ____ etapas: el modelo burocrático tradicional, la Nueva Gestión Pública (NGP) y la Gobernanza o Justicia Centrada en las Personas.",
+      "answer": "3",
+      "accept": [
+        "3",
+        "tres"
+      ],
+      "unit": "paradigmas",
+      "explanation": "El Módulo 5 desarrolla los 3 modelos: 1) Burocrático weberiano (centrado en normas y procedimientos internos), 2) Nueva Gestión Pública (eficiencia e indicadores) y 3) Justicia Centrada en las Personas (derechos, empatía y accesibilidad).",
+      "trap": "El paradigma actual no descarta la legalidad ni la eficiencia, sino que las subordina a la garantía efectiva de los derechos de la ciudadanía.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+          "page": 2,
+          "label": "M5"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+          "page": 3,
+          "label": "M5"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M5-002",
+      "module": 5,
+      "topic": "5.3",
+      "kind": "cantidad",
+      "prompt": "Según el esquema clásico de la comunicación desarrollado en el Módulo 5, los canales o dimensiones de la comunicación interpersonal son ____: verbal, paraverbal y no verbal.",
+      "answer": "3",
+      "accept": [
+        "3",
+        "tres"
+      ],
+      "unit": "dimensiones",
+      "explanation": "En la atención al público intervienen tres planos: lo verbal (las palabras), lo paraverbal (tono, volumen, ritmo, pausas de la voz) y lo no verbal (gestos, postura, contacto visual).",
+      "trap": "La incoherencia entre lo que se dice con palabras (verbal) y el tono o gesto (paraverbal/no verbal) genera desconfianza y escalada del conflicto.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+          "page": 9,
+          "label": "M5"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M5-003",
+      "module": 5,
+      "topic": "5.3",
+      "kind": "organo",
+      "prompt": "¿Cuál es la definición internacionalmente aceptada de un texto redactado en «Lenguaje Claro» según el Módulo 5?",
+      "options": [
+        "Una comunicación que reemplaza los términos jurídicos por expresiones coloquiales sin citar leyes ni plazos procesales",
+        "Una comunicación en la que la persona destinataria puede encontrar lo que necesita, entenderlo y usar esa información",
+        "Un resumen reservado a profesionales del derecho para agilizar el despacho interno sin intervención de las partes",
+        "Una transcripción literal e íntegra de los artículos de los códigos procesales sin explicaciones sobre el trámite"
+      ],
+      "correct": 1,
+      "explanation": "El estándar de lenguaje claro se centra en la persona lectora: que pueda encontrar, comprender y utilizar la información desde la primera lectura sin perder rigor técnico-jurídico.",
+      "trap": "Lenguaje claro no significa vulgarizar el derecho ni suprimir precisión jurídica, sino eliminar arcaísmos, latinismos innecesarios y párrafos interminables.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+          "page": 11,
+          "label": "M5"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+          "page": 12,
+          "label": "M5"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M5-004",
+      "module": 5,
+      "topic": "5.5",
+      "kind": "norma",
+      "prompt": "La Convención sobre los Derechos de las Personas con Discapacidad (ONU) fue aprobada en Argentina por la Ley 26.378 y obtuvo jerarquía constitucional en 2014 mediante la Ley N.° ____.",
+      "answer": "27044",
+      "accept": [
+        "27044",
+        "27.044"
+      ],
+      "unit": "Ley",
+      "explanation": "La Convención sobre los Derechos de las Personas con Discapacidad fue aprobada por Ley 26.378 (2008) y elevada a jerarquía constitucional (art. 75 inc. 22 CN) por la Ley 27.044 en 2014.",
+      "trap": "Esta Convención consagra el «modelo social de la discapacidad»: la discapacidad resulta de la interacción entre las deficiencias de la persona y las barreras actitudinales y del entorno.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+          "page": 17,
+          "label": "M3"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+          "page": 18,
+          "label": "M5"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M5-005",
+      "module": 5,
+      "topic": "5.5",
+      "kind": "norma",
+      "prompt": "En accesibilidad web (Módulo 5), las Pautas de Accesibilidad para el Contenido Web del consorcio W3C citadas como estándar de referencia son las WCAG versión ____.",
+      "answer": "2.2",
+      "accept": [
+        "2.2",
+        "2,2",
+        "dos punto dos"
+      ],
+      "unit": "(W3C)",
+      "explanation": "El Módulo 5 (p. 20) cita el estándar WCAG 2.2 (Web Content Accessibility Guidelines) como pauta internacional para que los sitios y portales judiciales sean accesibles.",
+      "trap": "Se estructura sobre 4 principios: Perceptible, Operable, Comprensible y Robusto.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+          "page": 20,
+          "label": "M5"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M5-006",
+      "module": 5,
+      "topic": "5.5",
+      "kind": "cantidad",
+      "prompt": "El Diseño Universal en accesibilidad (Módulo 5) se rige por ____ principios fundamentales (uso equitativo, uso flexible, uso simple e intuitivo, información perceptible, tolerancia al error, mínimo esfuerzo físico y dimensiones adecuadas).",
+      "answer": "7",
+      "accept": [
+        "7",
+        "siete"
+      ],
+      "unit": "principios",
+      "explanation": "El Diseño Universal formula 7 principios para concebir entornos, productos y servicios utilizables por todas las personas en la mayor medida posible sin necesidad de adaptación especial.",
+      "trap": "Cuando el diseño universal no alcanza para un caso concreto, se recurre a los «ajustes razonables» (modificaciones específicas que no impongan una carga desproporcionada).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+          "page": 19,
+          "label": "M5"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M5-007",
+      "module": 5,
+      "topic": "5.4",
+      "kind": "organo",
+      "prompt": "Según el Módulo 5, cuando un ciudadano acude a mesa de entradas por un asunto que no corresponde a ese juzgado u organismo, ¿cuál es la conducta correcta del agente judicial?",
+      "options": [
+        "Rechazar la consulta de plano indicándole únicamente que ese tribunal no interviene para no demorar la fila de profesionales",
+        "Recibirle igualmente el escrito aunque el juzgado resulte incompetente por materia y archivarlo sin darle trámite alguno",
+        "Realizar una derivación responsable: explicarle con claridad qué oficina interviene, dónde funciona y los requisitos básicos",
+        "Redirigirlo de forma genérica a la mesa de entradas de la Suprema Corte sin verificar qué fuero corresponde a su consulta"
+      ],
+      "correct": 2,
+      "explanation": "La derivación responsable evita el «peregrinaje institucional» (revictimización y barrera de acceso a la justicia), orientando con precisión sobre el órgano competente y la vía adecuada.",
+      "trap": "Orientar e informar sobre el trámite o derivar responsablemente es deber del agente judicial; lo que está prohibido es brindar patrocinio o asesoramiento jurídico parcial.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+          "page": 7,
+          "label": "M5"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+          "page": 16,
+          "label": "M5"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M5-008",
+      "module": 5,
+      "topic": "5.6",
+      "kind": "organo",
+      "prompt": "En la atención judicial al público (Módulo 5), ¿cuál es la diferencia esencial entre «información y orientación judicial» (permitida y obligatoria) y «asesoramiento jurídico» (vedado al personal judicial)?",
+      "options": [
+        "Informar está reservado únicamente a los jueces y secretarios del tribunal; asesorar corresponde a los auxiliares de mesa de entradas",
+        "Informar sólo se permite ante abogados matriculados con poder; a la ciudadanía sin letrado no se le puede brindar ningún dato del trámite",
+        "No existe diferencia funcional alguna: el empleado judicial debe indicar a la parte qué pruebas convienen para ganar el pleito",
+        "Informar explica estado del trámite, plazos y defensa gratuita; asesorar implica aconsejar estrategias de parte o redactar planteos"
+      ],
+      "correct": 3,
+      "explanation": "El personal judicial tiene el deber de brindar información clara, estado del expediente, requisitos y derivación a defensa pública o colegios de abogados, pero debe mantener imparcialidad sin asumir el rol de abogado de parte.",
+      "trap": "Negar información básica alegando que «no se puede asesorar» constituye una mala práctica y una barrera de acceso a la justicia.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+          "page": 24,
+          "label": "M5"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+          "page": 26,
+          "label": "M5"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-025",
+      "module": 1,
+      "topic": "1.2",
+      "kind": "mayoria",
+      "prompt": "Según el art. 30 de la Constitución Nacional, la necesidad de reforma constitucional debe ser declarada por el Congreso con el voto de las ____ partes, al menos, de sus miembros; pero la reforma no se efectúa sino por una Convención convocada al efecto.",
+      "answer": "2/3",
+      "accept": [
+        "2/3",
+        "dos tercios",
+        "dos terceras",
+        "2 tercios"
+      ],
+      "unit": "de sus miembros",
+      "explanation": "El procedimiento rígido del art. 30 CN consta de dos etapas: etapa preconstituyente en el Congreso (declaración de necesidad con 2/3 de sus miembros) y etapa constituyente a cargo de una Convención reformadora elegida por el pueblo.",
+      "trap": "El Congreso declara la necesidad de la reforma y fija los puntos habilitados, pero no reforma por sí mismo el texto constitucional.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 7,
+          "label": "M1"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-026",
+      "module": 1,
+      "topic": "1.2",
+      "kind": "mayoria",
+      "prompt": "En el Juicio Político nacional (arts. 53 y 59 CN), tanto la acusación por la Cámara de Diputados como el fallo condenatorio por el Senado requieren mayoría de ____ tercios de los miembros presentes.",
+      "answer": "2",
+      "accept": [
+        "2",
+        "dos",
+        "2/3",
+        "dos tercios"
+      ],
+      "unit": "tercios de presentes",
+      "explanation": "Diputados acusa ante el Senado con 2/3 de los miembros presentes (art. 53 CN) y el Senado juzga y sólo declara culpable por mayoría de 2/3 de los miembros presentes (art. 59 CN).",
+      "trap": "Cuando el acusado es el Presidente de la Nación, el Senado debe ser presidido por el Presidente de la Corte Suprema.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 17,
+          "label": "M1"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-027",
+      "module": 1,
+      "topic": "1.5",
+      "kind": "norma",
+      "prompt": "La Ley de Procedimiento Administrativo de la Provincia de Mendoza, aplicable a la actividad administrativa y recursos en el ámbito provincial, es la Ley N.° ____.",
+      "answer": "9003",
+      "accept": [
+        "9003",
+        "9.003"
+      ],
+      "unit": "Ley",
+      "explanation": "La Ley 9003 regula el procedimiento administrativo provincial, los principios de organización administrativa (jerarquía, competencia, centralización, descentralización, desconcentración) y el acto administrativo.",
+      "trap": "No confundir con la Ley 9001 (Código Procesal Civil, Comercial y Tributario de Mendoza).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 30,
+          "label": "M1"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-028",
+      "module": 1,
+      "topic": "1.5",
+      "kind": "organo",
+      "prompt": "En derecho administrativo (Módulo 1, apartado 1.5), ¿cómo se denomina la técnica por la cual se atribuyen competencias de forma permanente a un órgano inferior dentro de la misma persona jurídica pública estatal (sin crear un ente con personalidad propia)?",
+      "options": [
+        "Desconcentración administrativa",
+        "Descentralización autárquica institucional",
+        "Avocación extraordinaria del superior",
+        "Intervención federal sustitutiva"
+      ],
+      "correct": 0,
+      "explanation": "En la desconcentración la competencia se transfiere a un órgano subordinado dentro del mismo ente o persona jurídica; en la descentralización se crea un nuevo ente con personalidad jurídica y patrimonio propios.",
+      "trap": "La delegación es transitoria y depende de la voluntad del órgano delegante; la desconcentración es permanente y establecida por norma.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 32,
+          "label": "M1"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 33,
+          "label": "M1"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M1-029",
+      "module": 1,
+      "topic": "1.5",
+      "kind": "organo",
+      "prompt": "¿Cómo se denomina el acto por el cual un órgano superior asume para sí el conocimiento y decisión de un asunto que correspondía a la competencia de un órgano inferior jerárquico?",
+      "options": [
+        "Avocación",
+        "Delegación",
+        "Sustitución por recusación",
+        "Descentralización funcional"
+      ],
+      "correct": 0,
+      "explanation": "La avocación es el instituto inverso a la delegación: el superior jerárquico toma para sí la decisión de un asunto propio del inferior, salvo que una norma lo prohíba o que la competencia del inferior haya sido atribuida en razón de una idoneidad técnica especial.",
+      "trap": "En la delegación el superior transfiere al inferior el ejercicio de una competencia propia; en la avocación el superior atrae hacia sí la del inferior.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+          "page": 35,
+          "label": "M1"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-049",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "organo",
+      "prompt": "En el Fuero Civil, Comercial y Minas de Mendoza, ¿bajo qué modalidad organizativa funcionan los juzgados de primera instancia agrupados con una mesa de entradas y equipos de trabajo comunes?",
+      "options": [
+        "Tribunales de Gestión Judicial Asociada (GEJUAS)",
+        "Cámaras del Trabajo de Instancia Única",
+        "Oficinas Fiscales de Instrucción Descentralizada",
+        "Juzgados de Paz Letrados y Contravencionales"
+      ],
+      "correct": 0,
+      "explanation": "Los Tribunales de Gestión Judicial Asociada (GEJUAS) agrupan a varios jueces civiles que conservan su independencia jurisdiccional individual pero comparten una estructura administrativa, mesa de entradas y relatores comunes.",
+      "trap": "En el fuero de familia el modelo equivalente se denomina GEJUAF y en el fuero penal funcionan los Juzgados y Tribunales Penales Colegiados (OGAP).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 6,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-050",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "plazo",
+      "prompt": "Según el CPCCTM (Ley 9001), cuando se ordena el traslado al actor de los hechos o pruebas nuevas aportados por el demandado al contestar la demanda, dicho plazo es de ____ días.",
+      "answer": "5",
+      "accept": [
+        "5",
+        "cinco"
+      ],
+      "unit": "días",
+      "explanation": "Si al contestar la demanda el accionado invoca hechos nuevos o acompaña contraprueba documental/informativa, se da vista al actor por 5 días para que ofrezca prueba de descargo antes de convocar a la audiencia inicial.",
+      "trap": "No confundir con los 10 días del traslado cuando el demandado deduce reconvención o excepciones previas.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 26,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-051",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "plazo",
+      "prompt": "Si el tribunal inferior deniega la concesión de un recurso de apelación o de un recurso extraordinario provincial, la parte agraviada puede interponer «recurso directo o de queja» ante el superior dentro del plazo de ____ días.",
+      "answer": "5",
+      "accept": [
+        "5",
+        "cinco"
+      ],
+      "unit": "días",
+      "explanation": "Tanto para el recurso directo por apelación denegada ante la Cámara como para la queja por denegación del Recurso Extraordinario Provincial ante la Suprema Corte, el plazo es de 5 días.",
+      "trap": "El recurso directo sólo examina si el recurso principal fue bien o mal denegado formalmente.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 38,
+          "label": "M2"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 39,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-052",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "norma",
+      "prompt": "El trámite íntegramente electrónico y extrajudicializado del Beneficio de Litigar sin Gastos (BLSG) mediante portal web fue reglamentado por la Suprema Corte en 2025 mediante la Acordada N.° ____.",
+      "answer": "32299",
+      "accept": [
+        "32299",
+        "32.299"
+      ],
+      "unit": "Acordada",
+      "explanation": "La Acordada 32.299 reglamenta la gestión electrónica del Beneficio de Litigar sin Gastos a través del portal blsg.pjm.gob.ar con consulta automatizada de bases de datos.",
+      "trap": "No confundir con la Acordada 30.979 (Protocolo de Violencia Laboral) ni con la Acordada 15.422 (residencia a 30 km).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 18,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-053",
+      "module": 2,
+      "topic": "2.4",
+      "kind": "organo",
+      "prompt": "Según la Ley 9735 y el CPPJ 2026, ¿qué órgano del Ministerio Público representa de forma promiscua y complementaria los intereses de las personas menores de edad víctimas o en conflicto con la ley penal y actúa ante la no punibilidad de menores de 14 años?",
+      "options": [
+        "El Fiscal Jefe de la Unidad Fiscal Especializada en Delitos Penales Juveniles",
+        "El Asesor de Niñas, Niños y Adolescentes del Ministerio Público de la Defensa",
+        "El Administrador General de la Suprema Corte de Justicia de la Provincia",
+        "El Cuerpo Médico Forense y Criminalístico del Poder Judicial de Mendoza"
+      ],
+      "correct": 1,
+      "explanation": "El Asesor de Niñas, Niños y Adolescentes interviene en resguardo de la protección integral de derechos, sin sustituir al Defensor Penal Juvenil que ejerce la defensa técnica del adolescente imputado.",
+      "trap": "El adolescente imputado tiene su Defensor Penal Juvenil para la defensa técnica en el proceso penal; el Asesor de NNyA actúa en el ámbito tutelar/proteccional y respecto de víctimas o menores no punibles.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 107,
+          "label": "M2"
+        },
+        {
+          "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+          "page": 6,
+          "label": "CPPJ"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-054",
+      "module": 2,
+      "topic": "2.4",
+      "kind": "plazo",
+      "prompt": "Según el CPPJ 2026 (art. 45), la «remisión» del proceso penal juvenil (desjudicialización con acompañamiento comunitario o restaurativo) no puede superar el plazo de ____ meses.",
+      "answer": "12",
+      "accept": [
+        "12",
+        "doce",
+        "1 año",
+        "un año"
+      ],
+      "unit": "meses",
+      "explanation": "La remisión implica apartar al adolescente del proceso penal formal derivándolo a programas comunitarios o de justicia restaurativa por un plazo que no supere los 12 meses; cumplido, se extingue la acción penal.",
+      "trap": "No confundir con la suspensión del juicio a prueba (probation juvenil), que dura entre 1 y 3 años.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+          "page": 10,
+          "label": "CPPJ"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-055",
+      "module": 2,
+      "topic": "2.4",
+      "kind": "plazo",
+      "prompt": "En el régimen penal juvenil (CPPJ 2026, art. 71), la detención preventiva sólo puede solicitarse cuando al delito imputado le corresponda una pena privativa de libertad cuyo máximo sea superior a ____ años y concurran riesgos procesales.",
+      "answer": "3",
+      "accept": [
+        "3",
+        "tres"
+      ],
+      "unit": "años",
+      "explanation": "Está prohibido dictar detención preventiva juvenil por delitos cuya pena máxima no supere los 3 años de prisión.",
+      "trap": "Además, la detención preventiva debe revisarse al menos cada 3 meses.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+          "page": 15,
+          "label": "CPPJ"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-056",
+      "module": 2,
+      "topic": "2.4",
+      "kind": "plazo",
+      "prompt": "En el proceso penal juvenil (CPPJ 2026, art. 113), el recurso de reposición durante las etapas escritas se interpone dentro de los ____ días hábiles.",
+      "answer": "3",
+      "accept": [
+        "3",
+        "tres"
+      ],
+      "unit": "días hábiles",
+      "explanation": "El recurso de reposición contra resoluciones dictadas sin sustanciación se interpone en 3 días hábiles (y durante las audiencias orales debe deducirse verbalmente en el mismo acto).",
+      "trap": "El recurso de casación contra la sentencia definitiva penal juvenil se interpone dentro de los 15 días hábiles.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+          "page": 23,
+          "label": "CPPJ"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-057",
+      "module": 2,
+      "topic": "2.4",
+      "kind": "plazo",
+      "prompt": "Según el CPPJ 2026 (art. 115), el recurso de apelación o impugnación contra autos interlocutorios apelables dictados fuera de audiencia se interpone en el plazo de ____ días hábiles.",
+      "answer": "5",
+      "accept": [
+        "5",
+        "cinco"
+      ],
+      "unit": "días hábiles",
+      "explanation": "Las decisiones apelables de los jueces penales juveniles se impugnan dentro de los 5 días hábiles de notificadas.",
+      "trap": "Para sentencias definitivas o sobreseimientos procede el recurso de casación en el plazo de 15 días hábiles (art. 118 CPPJ).",
+      "sources": [
+        {
+          "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+          "page": 23,
+          "label": "CPPJ"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-058",
+      "module": 2,
+      "topic": "2.4",
+      "kind": "plazo",
+      "prompt": "Según el CPPJ 2026 (art. 118), el recurso de casación contra la sentencia definitiva del Tribunal o Juez Penal Juvenil se interpone dentro de los ____ días hábiles de notificada.",
+      "answer": "15",
+      "accept": [
+        "15",
+        "quince"
+      ],
+      "unit": "días hábiles",
+      "explanation": "El recurso de casación penal juvenil se interpone en el término de 15 días hábiles y garantiza el derecho del adolescente al doble conforme (revisión amplia de la condena).",
+      "trap": "Coincide en cantidad de días (15 días) con el plazo del Recurso Extraordinario Provincial en sede civil y laboral.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/referencias/Codigo-Procesal-Penal-Juvenil-2026.pdf",
+          "page": 24,
+          "label": "CPPJ"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-059",
+      "module": 2,
+      "topic": "2.1",
+      "kind": "organo",
+      "prompt": "En el Fuero Concursal de Mendoza (Ley 24.522), ¿qué funcionario auxiliar designado por sorteo administra o vigila el patrimonio, recibe los pedidos de verificación de créditos de los acreedores y presenta los informes individual y general?",
+      "options": [
+        "El Martillero Enajenador designado por el acreedor con garantía hipotecaria",
+        "El Oficial de Justicia de la Oficina Centralizada de Medidas Judiciales",
+        "El Síndico Concursal (contador público sorteado de las listas oficiales)",
+        "El Perito Calígrafo integrante del Cuerpo Médico Forense y Criminalístico"
+      ],
+      "correct": 2,
+      "explanation": "El Síndico Concursal es el funcionario clave del concurso preventivo y de la quiebra: ante él los acreedores presentan sus pedidos de verificación tempestiva de créditos y él elabora el informe individual y el informe general.",
+      "trap": "En el concurso preventivo el deudor conserva la administración de su patrimonio bajo la vigilancia del síndico; en la quiebra el fallido queda desapoderado y administra el síndico.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 56,
+          "label": "M2"
+        },
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 58,
+          "label": "M2"
+        }
+      ]
+    },
+    {
+      "id": "NUM-M2-060",
+      "module": 2,
+      "topic": "2.2",
+      "kind": "organo",
+      "prompt": "En el Fuero de Familia de Mendoza (Ley 9120), ¿qué organismo administra el listado único de personas y parejas evaluadas y declaradas aptas para asumir una guarda con fines adoptivos?",
+      "options": [
+        "El Registro del Estado Civil y Capacidad de las Personas de la Provincia",
+        "La Dirección de Derechos Humanos y Acceso a la Justicia de la Corte",
+        "El Cuerpo de Mediadores Oficiales del Fuero Civil y Comercial",
+        "El Registro Provincial de Adopción (RPA) del Poder Judicial"
+      ],
+      "correct": 3,
+      "explanation": "El Registro Provincial de Adopción (RPA) evalúa e inscribe a los postulantes a guarda con fines de adopción en toda la provincia.",
+      "trap": "No confundir con los Equipos Técnicos Interdisciplinarios (ETI), que dependen del Poder Ejecutivo provincial (DINAF/GAR) para medidas administrativas de protección.",
+      "sources": [
+        {
+          "file": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+          "page": 68,
+          "label": "M2"
+        }
+      ]
+    }
+  ]
+}

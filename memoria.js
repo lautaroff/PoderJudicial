@@ -23,6 +23,7 @@
   let presentation='diagram';
   let groupFocus='all';
   let mapMode='read';
+  let diagramScale=1;
   let session=[];
   let cardIndex=0;
   let revealed=false;
@@ -30,6 +31,8 @@
   let sessionSkipped=0;
   const intervals=[1,3,7,14,30];
   const now=()=>Date.now();
+  function dueMidnight(days){const d=new Date(now());d.setHours(0,0,0,0);d.setDate(d.getDate()+days);return d.getTime();}
+  function shuffleIdx(n){const a=Array.from({length:n},(_,i)=>i);for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
   const filtered = items => items.filter(x => moduleFilter==='all' || String(x.module)===moduleFilter);
   function formatDate(value) { return new Date(value).toLocaleDateString('es-AR',{day:'numeric',month:'long'}); }
   function storageNotice(){ $('storage-notice').textContent=storageOK ? 'Tus repasos se guardan sólo en este navegador. Exportalos para conservar una copia.' : 'El navegador no pudo guardar los repasos. Podés continuar y exportar una copia al terminar.'; }
@@ -58,7 +61,7 @@
   }
   function renderMapMenu(){
     const available=availableMaps();
-    if(available.length && !available.some(m=>m.id===currentMap)){currentMap=available[0].id;mapMode='read';groupFocus='all';}
+    if(available.length && !available.some(m=>m.id===currentMap)){currentMap=available[0].id;mapMode='read';groupFocus='all';diagramScale=1;}
     $('catalog-count').textContent=`${available.length} mapas disponibles · ${data.maps.length} en el atlas`;
     $('map-menu').innerHTML=available.length ? data.modules.map(mod=>{
       const items=available.filter(m=>m.module===mod.id);if(!items.length)return '';
@@ -66,18 +69,39 @@
     }).join('') : '<p class="catalog-empty">No hay mapas con esa búsqueda. Probá el nombre de un tema u órgano.</p>';
     if(available.length)renderMap();else $('map-panel').innerHTML='<p class="notice">Cambiá la búsqueda para encontrar otro mapa.</p>';
   }
+  function applyDiagramScale(scale){
+    const surface=$('map-panel').querySelector('.flow-surface'),viewport=$('map-panel').querySelector('.flow-viewport');
+    if(!surface||!viewport)return;
+    const w=Number(surface.dataset.width),h=Number(surface.dataset.height);
+    surface.style.transform=`scale(${scale})`;surface.dataset.scale=scale;surface.parentElement.style.width=`${w*scale}px`;surface.parentElement.style.height=`${h*scale}px`;
+    const out=$('map-panel').querySelector('.diagram-scale');if(out)out.textContent=`${Math.round(scale*100)} %`;
+    viewport.scrollLeft=Math.max(0,(w*scale-viewport.clientWidth)/2);
+  }
+  function syncUsedMapLabels(){
+    const selects=[...$('map-panel').querySelectorAll('select[data-answer]')];
+    const counts=new Map();
+    selects.forEach(s=>{if(s.value)counts.set(s.value,(counts.get(s.value)||0)+1);});
+    selects.forEach(s=>{
+      s.querySelectorAll('option[data-label-text]').forEach(opt=>{
+        const lbl=opt.dataset.labelText;
+        const usedElsewhere=(counts.get(lbl)||0) > (s.value===lbl?1:0);
+        opt.textContent=usedElsewhere?`${lbl} (ya usado)`:lbl;
+      });
+    });
+  }
   function renderMap(){
     const m=data.maps.find(x=>x.id===currentMap);if(!m)return;
     $('map-panel').innerHTML=atlas.render(m,{mode:mapMode,presentation,group:groupFocus,modules});
     $('map-panel').querySelectorAll('[data-related-map]').forEach(b=>{const target=data.maps.find(x=>x.id===b.dataset.relatedMap);if(target)b.textContent=`M${target.module} · ${target.title}`;else b.hidden=true;});
     const explanation=$('map-explanation');if(explanation)explanation.value=state.mapDrafts[currentMap]||'';
-    const viewport=$('map-panel').querySelector('.flow-viewport');if(viewport)viewport.scrollLeft=Math.max(0,(viewport.scrollWidth-viewport.clientWidth)/2);
+    if(diagramScale!==1)applyDiagramScale(diagramScale);
+    else{const viewport=$('map-panel').querySelector('.flow-viewport');if(viewport)viewport.scrollLeft=Math.max(0,(viewport.scrollWidth-viewport.clientWidth)/2);}
     try {history.replaceState(null,'','#map='+encodeURIComponent(currentMap));}catch{}
   }
   function openMap(id){
     const m=data.maps.find(x=>x.id===id);if(!m)return;
     if(moduleFilter!=='all'&&String(m.module)!==moduleFilter){moduleFilter=String(m.module);$('modulo').value=moduleFilter;}
-    currentMap=id;mapMode='read';groupFocus='all';mapQuery='';$('map-search').value='';renderMapMenu();updateStats();
+    currentMap=id;mapMode='read';groupFocus='all';diagramScale=1;mapQuery='';$('map-search').value='';renderMapMenu();updateStats();
     $('map-panel').querySelector('h3')?.focus({preventScroll:true});
   }
   function checkMap(){
@@ -133,7 +157,7 @@
     const old=state.cards[c.id] || {};
     const streak=kind==='recall' ? Math.max(0,Number(old.streak)||0)+1 : 0;
     const days=kind==='recall' ? intervals[Math.min(streak-1,intervals.length-1)] : 1;
-    const due=now()+days*24*60*60*1000;
+    const due=dueMidnight(days);
     state.cards[c.id]={last:now(),due,streak,interval:days,review:kind==='review',ratings:(Number(old.ratings)||0)+1,lastResult:kind};
     sessionRated++;save();cardIndex++;revealed=false;renderCard();focusCard();
     $('schedule-note').textContent=`${c.title}: ${kind==='recall'?'recuperación autoevaluada':'para revisar'}. Próximo repaso: ${formatDate(due)} (${days} ${days===1?'día':'días'}).`;
@@ -142,7 +166,10 @@
     $('pair-list').innerHTML=filtered(data.pairs).map(p=>`<article class="pair" style="--accent:${modules[p.module].color}"><header class="pair-head">${badge(p.module)}<h3>${esc(p.title)}</h3></header><p class="pair-criterion"><strong>La pregunta que los separa:</strong><br>${esc(p.criterion)}</p><details><summary>Comprobar las dos ideas +</summary><div class="pair-body"><p class="pair-half">${esc(p.a)}</p><p class="pair-half">${esc(p.b)}</p></div>${sources(p.sources)}</details></article>`).join('');
   }
   function renderCases(){
-    $('case-list').innerHTML=filtered(data.cases).map(c=>`<article class="case" data-case="${esc(c.id)}" style="--accent:${modules[c.module].color}">${badge(c.module)}<h3>${esc(c.text)}</h3><div class="case-options">${c.options.map((o,i)=>`<button class="case-option" data-choice="${i}"><span>${String.fromCharCode(65+i)}</span>${esc(o)}</button>`).join('')}</div><div class="case-result" aria-live="polite"></div>${sources(c.sources)}</article>`).join('');
+    $('case-list').innerHTML=filtered(data.cases).map(c=>{
+      const order=shuffleIdx(c.options.length);
+      return `<article class="case" data-case="${esc(c.id)}" style="--accent:${modules[c.module].color}">${badge(c.module)}<h3>${esc(c.text)}</h3><div class="case-options">${order.map((origIdx,dispIdx)=>`<button class="case-option" data-choice="${origIdx}"><span>${String.fromCharCode(65+dispIdx)}</span>${esc(c.options[origIdx])}</button>`).join('')}</div><div class="case-result" aria-live="polite"></div>${sources(c.sources)}</article>`;
+    }).join('');
   }
   function answerCase(button){
     const el=button.closest('[data-case]');
@@ -161,19 +188,18 @@
     const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download='mis-repasos-memoria-2026.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);
   }
   document.querySelectorAll('.mode').forEach(b=>b.addEventListener('click',()=>setView(b.dataset.view)));
-  document.querySelectorAll('[data-territory]').forEach(a=>a.addEventListener('click',e=>{e.preventDefault();moduleFilter=a.dataset.territory;$('modulo').value=moduleFilter;mapMode='read';groupFocus='all';setView('mapas');updateStats();}));
-  $('modulo').addEventListener('change',()=>{moduleFilter=$('modulo').value;mapMode='read';groupFocus='all';setView(view);updateStats();});
+  document.querySelectorAll('[data-territory]').forEach(a=>a.addEventListener('click',e=>{e.preventDefault();moduleFilter=a.dataset.territory;$('modulo').value=moduleFilter;mapMode='read';groupFocus='all';diagramScale=1;setView('mapas');updateStats();}));
+  $('modulo').addEventListener('change',()=>{moduleFilter=$('modulo').value;mapMode='read';groupFocus='all';diagramScale=1;setView(view);updateStats();});
   $('map-menu').addEventListener('click',e=>{const b=e.target.closest('[data-map]');if(b)openMap(b.dataset.map);});
   $('map-search').addEventListener('input',()=>{mapQuery=$('map-search').value;renderMapMenu();});
-  $('map-panel').addEventListener('change',e=>{if(e.target.id==='map-group'){groupFocus=e.target.value;renderMap();}});
+  $('map-panel').addEventListener('change',e=>{if(e.target.id==='map-group'){groupFocus=e.target.value;renderMap();}else if(e.target.matches('select[data-answer]')){syncUsedMapLabels();}});
   $('map-panel').addEventListener('input',e=>{if(e.target.id==='map-explanation'){state.mapDrafts[currentMap]=e.target.value.slice(0,6000);save();}});
   $('map-panel').addEventListener('click',e=>{
     const zoom=e.target.closest('[data-diagram-zoom]');if(zoom){
       const surface=$('map-panel').querySelector('.flow-surface'),viewport=$('map-panel').querySelector('.flow-viewport');if(!surface||!viewport)return;
-      const w=Number(surface.dataset.width),h=Number(surface.dataset.height),old=Number(surface.dataset.scale)||1;
+      const w=Number(surface.dataset.width),old=Number(surface.dataset.scale)||1;
       const kind=zoom.dataset.diagramZoom,scale=kind==='fit'?Math.max(.12,Math.min(1,(viewport.clientWidth-12)/w)):kind==='reset'?1:Math.max(.12,Math.min(1.5,old+(kind==='in'?.15:-.15)));
-      surface.style.transform=`scale(${scale})`;surface.dataset.scale=scale;surface.parentElement.style.width=`${w*scale}px`;surface.parentElement.style.height=`${h*scale}px`;
-      $('map-panel').querySelector('.diagram-scale').textContent=`${Math.round(scale*100)} %`;viewport.scrollLeft=Math.max(0,(w*scale-viewport.clientWidth)/2);return;
+      diagramScale=scale;applyDiagramScale(scale);return;
     }
     const related=e.target.closest('[data-related-map]');if(related){openMap(related.dataset.relatedMap);return;}
     const drawing=e.target.closest('[data-presentation]');if(drawing){presentation=drawing.dataset.presentation;renderMap();$('map-panel').querySelector(`[data-presentation="${presentation}"]`).focus({preventScroll:true});return;}
@@ -198,5 +224,31 @@
   });
   window.addEventListener('hashchange',()=>{try{const id=new URLSearchParams(location.hash.slice(1)).get('map');if(id&&id!==currentMap)openMap(id);}catch{}});
   $('exportar').addEventListener('click',exportState);
+  if($('importar')&&$('importar-file')){
+    $('importar').addEventListener('click',()=>$('importar-file').click());
+    $('importar-file').addEventListener('change',async e=>{
+      const file=e.target.files?.[0];if(!file)return;
+      try{
+        const raw=JSON.parse(await file.text());
+        const incoming=raw?.state||(raw?.memoria&&(raw.memoria.state||raw.memoria))||(raw?.cards?raw:null);
+        if(incoming&&typeof incoming==='object'){
+          state={
+            version:1,
+            cards:{...state.cards,...(incoming.cards||{})},
+            cases:{...state.cases,...(incoming.cases||{})},
+            mapHistory:Array.isArray(incoming.mapHistory)?incoming.mapHistory:state.mapHistory,
+            mapDrafts:{...state.mapDrafts,...(incoming.mapDrafts||{})}
+          };
+          save();setView(view);
+          $('storage-notice').textContent='Repasos importados correctamente.';
+        }else{
+          $('storage-notice').textContent='El archivo seleccionado no contiene datos de repasos de memoria.';
+        }
+      }catch{
+        $('storage-notice').textContent='No se pudo leer el archivo JSON seleccionado.';
+      }
+      e.target.value='';
+    });
+  }
   storageNotice();updateStats();renderMapMenu();
 })();

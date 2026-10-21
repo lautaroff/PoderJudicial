@@ -1,6 +1,0 @@
-{
-  "fecha": "2026-10-15",
-  "comprobaciones": 70,
-  "resultado": "PASS",
-  "alcance": "DOM simulado; selección sin repetición, migración de historial y abandonos"
-}

@@ -4,9 +4,9 @@ Revisión: 12 de octubre de 2026. Ejercicios originales de entrenamiento, con fu
 
 ## Entregables y distribución
 
-- [casos.json](../taller-datos/casos.json): **20 pares y 40 casos individuales**, con situaciones A/B, respuestas modelo y puntos de revisión separados. Distribución de pares M1/M2/M3/M4/M5: **4/6/3/3/4**.
-- [secuencias.json](../taller-datos/secuencias.json): **12 secuencias**, cada una de 4–7 pasos, un supuesto delimitado, orden mediante IDs, explicación y dependencias justificadas. Distribución: **2/5/1/1/3**.
-- [errores.json](../taller-datos/errores.json): **20 párrafos**, cuatro por módulo; cada párrafo contiene una afirmación conceptual equivocada y conserva otras afirmaciones correctas.
+- [casos.json](contenido/taller/casos.json): **20 pares y 40 casos individuales**, con situaciones A/B, respuestas modelo y puntos de revisión separados. Distribución de pares M1/M2/M3/M4/M5: **4/6/3/3/4**.
+- [secuencias.json](contenido/taller/secuencias.json): **12 secuencias**, cada una de 4–7 pasos, un supuesto delimitado, orden mediante IDs, explicación y dependencias justificadas. Distribución: **2/5/1/1/3**.
+- [errores.json](contenido/taller/errores.json): **20 párrafos**, cuatro por módulo; cada párrafo contiene una afirmación conceptual equivocada y conserva otras afirmaciones correctas.
 
 Las soluciones de cada caso están en `a.model` y `b.model`, con sus propios puntos de revisión. El flujo de estudio debe conservar ambas respuestas del usuario antes de revelar ambas soluciones. Los archivos contienen datos y rúbricas; la verificación de ese comportamiento corresponde a la integración de la interfaz.
 
