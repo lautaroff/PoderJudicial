@@ -91,13 +91,13 @@ def main() -> None:
             page.locator('#q-card-0 input[type="radio"]').first.check()
             record("index_omr_respondida_sincronizada", "done" in (page.locator('#omrGrid [data-jump-q="0"]').get_attribute("class") or ""))
 
-            # Recargar la página y comprobar recuperación de práctica en curso
+            # Recargar la página y comprobar recuperación automática de práctica en curso
             page.reload(wait_until="networkidle")
             record("index_banner_recuperar_practica", not page.locator("#resumeBanner").evaluate("el => el.classList.contains('hide')"))
-            page.locator("#resumeQuizBtn").click()
             record("index_practica_recuperada_50", page.locator("#exam .question").count() == 50)
             record("index_respuesta_recuperada", "done" in (page.locator('#omrGrid [data-jump-q="0"]').get_attribute("class") or ""))
             record("index_bandera_recuperada", "flagged" in (page.locator('#omrGrid [data-jump-q="0"]').get_attribute("class") or ""))
+            record("index_descarte_recuperado", "discarded" in (page.locator("#q-card-0 .option").first.get_attribute("class") or ""))
 
             # 4. INDEX.HTML: Comprensión lectora en pantalla dividida y parámetro ?doc=
             page.locator("#mode").select_option("lectura")
@@ -139,9 +139,14 @@ def main() -> None:
             selects.first.select_option(first_val)
             second_opt_text = selects.nth(1).locator(f'option[value="{first_val}"]').inner_text()
             record("memoria_reconstruir_marca_ya_usado", "(ya usado)" in second_opt_text, second_opt_text)
+            # Recargar sin hash para comprobar que persiste el modo build y la opción elegida
+            page.goto(f"{base}/memoria.html", wait_until="networkidle")
+            record("memoria_reconstruir_persiste_recarga", page.locator("select[data-answer]").first.input_value() == first_val)
 
             page.locator('[data-view="tarjetas"]').click()
             page.locator("#reveal-card").click()
+            page.reload(wait_until="networkidle")
+            record("memoria_tarjeta_revelada_persiste_recarga", page.locator('[data-rate="review"]').count() == 1)
             page.locator('[data-rate="review"]').click()
             due_hour = page.evaluate("new Date(Object.values(JSON.parse(localStorage.getItem('pjm-memoria-2026')).cards)[0].due).getHours()")
             record("memoria_tarjeta_due_medianoche", due_hour == 0, f"hora={due_hour}")
@@ -150,6 +155,8 @@ def main() -> None:
             first_case = page.locator("[data-case]").first
             first_case.locator("[data-choice]").first.click()
             record("memoria_caso_evalua", first_case.get_attribute("data-answered") == "true")
+            page.reload(wait_until="networkidle")
+            record("memoria_caso_persiste_recarga", page.locator("[data-case]").first.get_attribute("data-answered") == "true")
 
             page.set_viewport_size({"width": 390, "height": 844})
             overflow_memoria = page.evaluate("document.documentElement.scrollWidth > window.innerWidth")
@@ -165,6 +172,9 @@ def main() -> None:
             page.locator('[data-index="0"][data-move="down"]').click()
             focused_idx = page.evaluate("document.activeElement?.getAttribute('data-index')")
             record("taller_secuencias_preserva_foco", focused_idx == "1", f"focused={focused_idx}")
+            page.locator("#answer-main").fill("Borrador persistente de secuencia.")
+            page.goto(f"{base}/taller.html", wait_until="networkidle")
+            record("taller_vista_y_borrador_persisten_recarga", page.locator("#answer-main").input_value() == "Borrador persistente de secuencia.")
 
             page.locator('[data-view="diagnostics"]').click()
             page.locator('[data-diagnostic^="read:"]').first.click()

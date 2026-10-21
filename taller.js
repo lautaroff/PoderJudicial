@@ -6,7 +6,7 @@
   if(!data){$('counts').textContent='Faltan los datos del taller. Conservá taller-datos.js junto a esta página.';return;}
   const labels={open:'Explicar sin opciones',cases:'Comparar casos',sequences:'Ordenar procesos',errors:'Buscar el error',diagnostics:'Diagnósticos reservados',videos:'Jornadas de video',results:'Resultados y repasos'};
   const modules=Object.fromEntries(data.modules.map(m=>[m.id,m]));
-  let state={version:1,seen:{},results:[],drafts:{},videoNotes:{},active:null},view='open',exercise=null,timer=null,videoStage=null,ttsEnabled=false,lastSpokenScene=-1;
+  let state={version:1,seen:{},results:[],drafts:{},videoNotes:{},ui:{},active:null},view='open',exercise=null,timer=null,videoStage=null,ttsEnabled=false,lastSpokenScene=-1;
   try{
     const saved=JSON.parse(localStorage.getItem(KEY)||'null');
     if(saved&&typeof saved==='object'&&!Array.isArray(saved)){
@@ -16,6 +16,7 @@
         results:Array.isArray(saved.results)?saved.results:[],
         drafts:saved.drafts&&typeof saved.drafts==='object'?saved.drafts:{},
         videoNotes:saved.videoNotes&&typeof saved.videoNotes==='object'?saved.videoNotes:{},
+        ui:saved.ui&&typeof saved.ui==='object'?saved.ui:{},
         active:saved.active||null
       };
     }
@@ -41,7 +42,18 @@
     }
     return out;
   }
-  function save(){try{localStorage.setItem(KEY,JSON.stringify(state));$('storageNotice').textContent='Guardado sólo en este navegador. Descargá una copia para conservar tus respuestas.';}catch{$('storageNotice').textContent='El navegador no permite guardar. Podés descargar tus avances mientras la página siga abierta.';}}
+  function syncUiState(){
+    state.ui={
+      view,
+      module:$('module')?.value||'all',
+      topic:$('topic')?.value||'all',
+      exercise:$('exercise')?.value||'',
+      diagMinutes:$('diagMinutes')?.value||'50',
+      ttsEnabled,
+      videoStage:videoStage?{id:videoStage.id,mode:videoStage.mode}:null
+    };
+  }
+  function save(){syncUiState();try{localStorage.setItem(KEY,JSON.stringify(state));$('storageNotice').textContent='Guardado automáticamente en este navegador. Descargá una copia para conservar tus respuestas.';}catch{$('storageNotice').textContent='El navegador no permite guardar. Podés descargar tus avances mientras la página siga abierta.';}}
   function confirmAction(message){return new Promise(resolve=>{const dialog=$('confirmDialog');$('confirmText').textContent=message;const done=v=>{dialog.close();$('confirmNo').onclick=null;$('confirmYes').onclick=null;dialog.oncancel=null;resolve(v);};$('confirmNo').onclick=()=>done(false);$('confirmYes').onclick=()=>done(true);dialog.oncancel=e=>{e.preventDefault();done(false);};dialog.showModal();});}
   function sources(items){return '<div class="sources">'+(items||[]).map(s=>{const file=s.file||modules[s.module]?.file;if(!file||!/^(biblioteca\/|videos\/|https:\/\/)/.test(file))return '';const href=file+(s.page?'#page='+s.page:s.time!==undefined?'#t='+s.time:'');return '<a href="'+esc(href)+'" target="_blank" rel="noopener">'+esc(s.label||'Fuente')+(s.page?' · PDF p. '+s.page:s.time!==undefined?' · '+formatSeconds(s.time):'')+' ↗</a>';}).join('')+'</div>';}
   const date=t=>new Date(t).toLocaleString('es-AR',{dateStyle:'short',timeStyle:'short'});
@@ -49,7 +61,7 @@
   function shuffle(items){const a=[...items];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
   function buildOptionOrders(questions){return Object.fromEntries((questions||[]).map(q=>[q.id,shuffle(q.options.map((_,i)=>i))]));}
   function markSeen(key){const old=state.seen[key],entry={firstOpened:old?.firstOpened||Date.now(),opens:(Number(old?.opens)||0)+1};state.seen[key]=entry;save();return Boolean(old);}
-  function setView(next){stopSpeech();view=next;const free=['open','cases','sequences','errors'].includes(next);document.querySelectorAll('[data-view]').forEach(b=>{const active=b.dataset.view===view;b.classList.toggle('active',active);b.setAttribute('aria-pressed',String(active));});for(const id of ['practice','diagnostics','videos','results'])$(id).hidden=id!==(free?'practice':next);if(free)refreshExercises();if(next==='diagnostics')renderDiagnosticMenu();if(next==='videos')renderVideoMenu();if(next==='results')renderResults();$(free?'practice':view)?.scrollIntoView({behavior:'auto',block:'start'});}
+  function setView(next,preferredExercise){stopSpeech();view=next;const free=['open','cases','sequences','errors'].includes(next);document.querySelectorAll('[data-view]').forEach(b=>{const active=b.dataset.view===view;b.classList.toggle('active',active);b.setAttribute('aria-pressed',String(active));});for(const id of ['practice','diagnostics','videos','results'])$(id).hidden=id!==(free?'practice':next);if(free)refreshExercises(preferredExercise);if(next==='diagnostics')renderDiagnosticMenu();if(next==='videos')renderVideoMenu();if(next==='results')renderResults();save();$(free?'practice':view)?.scrollIntoView({behavior:'auto',block:'start'});}
   async function navigate(next){if(state.active&&next!==(state.active.kind==='video'?'videos':'diagnostics')){if(!(await confirmAction('Hay un cuestionario en curso. Podés volver después: el reloj seguirá corriendo. ¿Cambiar de sección?')))return;}setView(next);}
   const pool=()=>data[view]||[];
   function refreshExercises(preferred){const module=$('module').value,oldTopic=$('topic').value,topics=[...new Set(pool().filter(x=>module==='all'||String(x.module)===module).map(x=>x.topic))].sort((a,b)=>a.localeCompare(b,undefined,{numeric:true}));$('topic').innerHTML='<option value="all">Todos los apartados</option>'+topics.map(t=>'<option value="'+esc(t)+'">'+esc(t)+'</option>').join('');$('topic').value=topics.includes(oldTopic)?oldTopic:'all';const topic=$('topic').value,items=pool().filter(x=>(module==='all'||String(x.module)===module)&&(topic==='all'||x.topic===topic));$('exercise').innerHTML=items.map(x=>'<option value="'+esc(x.id)+'">'+esc('M'+x.module+' · '+x.topic+' · '+x.title)+'</option>').join('');if(preferred&&items.some(x=>x.id===preferred))$('exercise').value=preferred;showExercise();}
@@ -114,17 +126,18 @@
     clearInterval(timer);tick(area);if(state.active)timer=setInterval(()=>tick(area),500);
   }
   function tick(area){if(!state.active)return;const remaining=Math.max(0,Math.ceil((state.active.deadline-Date.now())/1000));if($('quiz-clock'))$('quiz-clock').textContent=formatSeconds(remaining);if(!remaining)finishQuiz(area,'expired');}
-  function finishQuiz(area,status){const active=state.active;if(!active)return;clearInterval(timer);const info=activeQuestions(active),items=info.questions.map(q=>({id:q.id,module:q.module,topic:q.topic,response:active.answers[q.id],confidence:active.confidence[q.id]||'',correct:active.answers[q.id]===q.correct})),score=items.filter(i=>i.correct).length,missing=items.filter(i=>i.response===undefined).length,highErrors=items.filter(i=>i.response!==undefined&&!i.correct&&i.confidence==='high').length,uncertainCorrect=items.filter(i=>i.correct&&i.confidence==='low').length;const result={attemptId:active.key+'-'+active.started,kind:active.kind,key:active.key,id:active.id,title:info.title,started:active.started,finished:Date.now(),minutes:active.minutes,repeat:active.repeat,early:active.early,supported:Boolean(active.supported),assessment:'objective',score,max:items.length,missing,highErrors,uncertainCorrect,status,items};state.results.unshift(result);state.active=null;save();$(area).innerHTML=quizCorrection(result,info);$(area).scrollIntoView({behavior:'auto'});if(result.kind==='diagnostic')renderDiagnosticCardsOnly();else videoStage=null;}
+  function finishQuiz(area,status){const active=state.active;if(!active)return;clearInterval(timer);const info=activeQuestions(active),items=info.questions.map(q=>({id:q.id,module:q.module,topic:q.topic,response:active.answers[q.id],confidence:active.confidence[q.id]||'',correct:active.answers[q.id]===q.correct})),score=items.filter(i=>i.correct).length,missing=items.filter(i=>i.response===undefined).length,highErrors=items.filter(i=>i.response!==undefined&&!i.correct&&i.confidence==='high').length,uncertainCorrect=items.filter(i=>i.correct&&i.confidence==='low').length;const result={attemptId:active.key+'-'+active.started,kind:active.kind,key:active.key,id:active.id,title:info.title,started:active.started,finished:Date.now(),minutes:active.minutes,repeat:active.repeat,early:active.early,supported:Boolean(active.supported),assessment:'objective',score,max:items.length,missing,highErrors,uncertainCorrect,status,items};state.results.unshift(result);state.active=null;if(result.kind!=='diagnostic')videoStage=null;save();$(area).innerHTML=quizCorrection(result,info);$(area).scrollIntoView({behavior:'auto'});if(result.kind==='diagnostic')renderDiagnosticCardsOnly();}
   function renderDiagnosticCardsOnly(){const content=$('diagnostic-area').innerHTML;renderDiagnosticMenu();$('diagnostic-area').innerHTML=content;}
   function quizCorrection(result,info){const threshold=result.key.startsWith('spec:')?35:result.key.startsWith('read:')?7:15;return '<article class="paper"><p class="eyebrow">Corrección por clave · práctica original</p><h2>'+esc(info.title)+'</h2><div class="score">'+result.score+' / '+result.max+'</div><p>'+result.missing+' sin responder · '+result.highErrors+' errores con seguridad alta · '+result.uncertainCorrect+' aciertos con seguridad baja.</p><p>'+esc(result.supported?'Estudio apoyado: pudiste consultar escenas y fuentes.':result.repeat?'Repetición: no se presenta como primera exposición.':result.early?'Primera exposición, anticipada respecto del intervalo propuesto.':'Primera exposición registrada.')+'</p><p class="muted">Mínimo de referencia del formato: '+threshold+'. Este resultado no acredita aprobación oficial ni predice tu nota.</p><button onclick="window.print()">Imprimir corrección</button></article>'+(info.text?'<article class="paper" id="diagnosticText"><h3>Texto de práctica</h3><div class="passage">'+esc(info.text)+'</div></article>':'')+info.questions.map((q,i)=>{const item=result.items[i];return '<article class="question '+(item.correct?'correct':'incorrect')+'"><p class="qtitle">'+(i+1)+'. '+esc(q.prompt)+'</p><p>Tu respuesta: '+(item.response===undefined?'Sin responder':esc(q.options[item.response]))+'</p><p><strong>Correcta: '+esc(q.options[q.correct])+'</strong></p><p>'+esc(q.why)+'</p>'+sources(q.sources)+(q.evidence?'<p class="muted">'+esc(q.evidence)+'</p><a href="#diagnosticText">Volver al pasaje ↑</a>':'')+'</article>';}).join('');}
   function abandonActive(){if(!state.active)return;const a=state.active;state.results.unshift({attemptId:a.key+'-'+a.started,kind:a.kind,key:a.key,id:a.id,title:activeQuestions(a).title,started:a.started,finished:Date.now(),repeat:a.repeat,assessment:'abandoned',status:'abandoned',answers:{...a.answers}});state.active=null;clearInterval(timer);save();}
-  function renderVideoMenu(){$('video-menu').innerHTML=data.videos.map(v=>'<article class="menu-card"><p class="eyebrow">Práctica original · '+Math.round(v.duration/60)+' minutos</p><h3>'+esc(v.title)+'</h3><p>'+esc(v.description)+'</p><div class="bar"><button data-video="'+v.id+'" data-mode="study">Ver y estudiar escenas</button><button class="primary" data-video="'+v.id+'" data-mode="trial">Ensayo de una visualización</button></div></article>').join('');$('video-menu').querySelectorAll('[data-video]').forEach(b=>b.onclick=()=>startVideo(b.dataset.video,b.dataset.mode));if(state.active?.kind==='video')renderQuiz('video-area');else if(!videoStage)$('video-area').innerHTML='';}
-  async function startVideo(id,mode){
-    if(state.active&&!(await confirmAction('Hay un cuestionario en curso. Quedará como abandonado. ¿Comenzar el video?')))return;
-    if(state.active)abandonActive();
+  function renderVideoMenu(){$('video-menu').innerHTML=data.videos.map(v=>'<article class="menu-card"><p class="eyebrow">Práctica original · '+Math.round(v.duration/60)+' minutos</p><h3>'+esc(v.title)+'</h3><p>'+esc(v.description)+'</p><div class="bar"><button data-video="'+v.id+'" data-mode="study">Ver y estudiar escenas</button><button class="primary" data-video="'+v.id+'" data-mode="trial">Ensayo de una visualización</button></div></article>').join('');$('video-menu').querySelectorAll('[data-video]').forEach(b=>b.onclick=()=>startVideo(b.dataset.video,b.dataset.mode));if(state.active?.kind==='video')renderQuiz('video-area');else if(videoStage?.id)startVideo(videoStage.id,videoStage.mode,true);else $('video-area').innerHTML='';}
+  async function startVideo(id,mode,restoring=false){
+    if(!restoring&&state.active&&!(await confirmAction('Hay un cuestionario en curso. Quedará como abandonado. ¿Comenzar el video?')))return;
+    if(!restoring&&state.active)abandonActive();
     stopSpeech();lastSpokenScene=-1;
-    const v=data.videos.find(v=>v.id===id);
-    videoStage={id,mode,started:Date.now(),lastTime:0,repeat:markSeen('video-content:'+id)};
+    const v=data.videos.find(v=>v.id===id);if(!v)return;
+    videoStage={id,mode,started:Date.now(),lastTime:0,repeat:restoring?Boolean(state.seen['video-content:'+id]):markSeen('video-content:'+id)};
+    save();
     $('video-area').innerHTML='<article class="paper"><h3>'+esc(v.title)+'</h3><p class="muted">'+(v.narration?'Narración sintética y subtítulos.':'Video de lectura y esquemas; podés activar la narración por voz del navegador.')+' '+(mode==='trial'?'Una visualización. Al terminar se habilita el cuestionario de quince minutos.':'Podés revisar escenas y fuentes; se registra como estudio apoyado.')+'</p><video id="training-video" class="video-player" '+(mode==='study'?'controls':'')+' playsinline preload="metadata" src="'+esc(v.file)+'"><track kind="captions" src="'+esc(v.captions)+'" srclang="es" label="Español" default></video><p id="video-status" role="status">Listo para iniciar.</p><div class="bar"><button id="play-video" class="primary">Comenzar video</button><button id="toggle-narration" type="button" aria-pressed="'+String(ttsEnabled)+'">'+(ttsEnabled?'🔊 Narración por voz: activa':'🔈 Activar narración por voz (TTS)')+'</button><button id="video-questionnaire" '+(mode==='trial'?'disabled':'')+'>Responder cuestionario</button></div><div class="video-notes-box"><label for="video-notes-input"><strong>Mis apuntes durante el video</strong> (se conservan y podrás consultarlos al responder el cuestionario)</label><textarea id="video-notes-input" placeholder="Anotá acá plazos, órganos, edades o palabras clave mientras mirás el video…">'+esc(state.videoNotes?.[id]||'')+'</textarea></div>'+(mode==='study'?'<details><summary>Escenas y fuentes para estudiar</summary>'+v.scenes.map(s=>'<div class="video-scene"><strong>'+formatSeconds(s.start)+' · '+esc(s.title)+'</strong><p>'+esc(s.text)+'</p>'+sources(s.sources)+'</div>').join('')+'</details>':'')+'</article>';
     const el=$('training-video');
     if($('video-notes-input'))$('video-notes-input').oninput=e=>{state.videoNotes[id]=e.target.value;save();};
@@ -132,6 +145,7 @@
       ttsEnabled=!ttsEnabled;
       $('toggle-narration').setAttribute('aria-pressed',String(ttsEnabled));
       $('toggle-narration').textContent=ttsEnabled?'🔊 Narración por voz: activa':'🔈 Activar narración por voz (TTS)';
+      save();
       if(!ttsEnabled)stopSpeech();
       else if(el&&!el.paused){
         const curScene=v.scenes.findIndex((s,idx)=>el.currentTime>=s.start&&el.currentTime<(v.scenes[idx+1]?.start??v.duration+5));
@@ -153,7 +167,7 @@
         }
       }
     });
-    $('video-area').scrollIntoView({behavior:'auto'});
+    if(!restoring)$('video-area').scrollIntoView({behavior:'auto'});
   }
   function beginVideoQuiz(v,mode){stopSpeech();const el=$('training-video');el?.pause();const key='video:'+v.id,repeat=markSeen(key)||Boolean(videoStage?.repeat),started=Date.now();state.active={kind:'video',key,id:v.id,type:'video',started,deadline:started+15*60000,minutes:15,answers:{},confidence:{},repeat,supported:mode==='study',optionOrders:buildOptionOrders(v.questions)};videoStage=null;save();renderQuiz('video-area');$('video-area').scrollIntoView({behavior:'auto'});}
   function renderResults(){
@@ -168,10 +182,11 @@
   function exportState(){const blob=new Blob([JSON.stringify({fecha:new Date().toISOString(),taller:state},null,2)],{type:'application/json'}),a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='mis-respuestas-taller-judicial-2026.json';a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000);}
   document.querySelectorAll('[data-view]').forEach(b=>b.onclick=()=>navigate(b.dataset.view));
   $('module').innerHTML='<option value="all">Los cinco módulos</option>'+data.modules.map(m=>'<option value="'+m.id+'">M'+m.id+' · '+esc(m.title)+'</option>').join('');
-  $('module').onchange=()=>{$('topic').value='all';refreshExercises();};
-  $('topic').onchange=()=>refreshExercises();
-  $('exercise').onchange=showExercise;
-  $('next').onclick=()=>{const options=[...$('exercise').options],index=options.findIndex(o=>o.value===$('exercise').value);if(options.length){$('exercise').value=options[(index+1)%options.length].value;showExercise();}};
+  $('module').onchange=()=>{$('topic').value='all';refreshExercises();save();};
+  $('topic').onchange=()=>{refreshExercises();save();};
+  $('exercise').onchange=()=>{showExercise();save();};
+  if($('diagMinutes'))$('diagMinutes').onchange=()=>save();
+  $('next').onclick=()=>{const options=[...$('exercise').options],index=options.findIndex(o=>o.value===$('exercise').value);if(options.length){$('exercise').value=options[(index+1)%options.length].value;showExercise();save();}};
   $('exportar').onclick=exportState;
   $('exportar-results').onclick=exportState;
   if($('importar')&&$('importar-file')){
@@ -189,6 +204,7 @@
             results:Array.isArray(incoming.results)?incoming.results:state.results,
             drafts:{...state.drafts,...(incoming.drafts||{})},
             videoNotes:{...state.videoNotes,...(incoming.videoNotes||{})},
+            ui:incoming.ui||state.ui,
             active:incoming.active||state.active
           };
           save();setView(view);
@@ -214,26 +230,36 @@
     setView(pending.kind);$('module').value='all';$('topic').value='all';refreshExercises(pending.id);
   };
   $('counts').textContent=data.open.length+' preguntas abiertas · '+data.cases.length+' pares de casos · '+data.sequences.length+' secuencias · '+data.errors.length+' errores para corregir · dos formas reservadas y dos jornadas de video.';
+  if(state.ui?.ttsEnabled!==undefined)ttsEnabled=Boolean(state.ui.ttsEnabled);
+  if(state.ui?.diagMinutes&&$('diagMinutes'))$('diagMinutes').value=state.ui.diagMinutes;
+  if(state.ui?.videoStage?.id)videoStage=state.ui.videoStage;
   if(state.active){
     const active=state.active;
     if(active.kind==='diagnostic')setView('diagnostics');
     else setView('videos');
   }else{
-    let initialView='open';
+    let initialView=state.ui?.view&&labels[state.ui.view]?state.ui.view:'open';
+    const savedMod=state.ui?.module||'all',savedTop=state.ui?.topic||'all',savedEx=state.ui?.exercise||'';
     try{
       const params=new URLSearchParams(window.location?.search||'');
+      const hasUrlParams=Boolean(params.get('view')||params.get('module')||params.get('topic'));
       if(params.get('view')&&labels[params.get('view')])initialView=params.get('view');
-      setView(initialView);
-      if(params.get('module')){
-        $('module').value=params.get('module');
-        refreshExercises();
-      }
-      if(params.get('topic')){
-        $('topic').value=params.get('topic');
-        refreshExercises();
+      else if(params.get('module')||params.get('topic'))initialView=['open','cases','sequences','errors'].includes(initialView)?initialView:'open';
+      if(hasUrlParams){
+        setView(initialView);
+        if(params.get('module')){$('module').value=params.get('module');refreshExercises();}
+        if(params.get('topic')){$('topic').value=params.get('topic');refreshExercises();}
+      }else{
+        $('module').value=savedMod;
+        $('topic').value=savedTop;
+        setView(initialView,savedEx);
+        if(['open','cases','sequences','errors'].includes(initialView)&&savedTop!=='all'){
+          $('topic').value=savedTop;
+          refreshExercises(savedEx);
+        }
       }
     }catch{
-      setView('open');
+      setView(initialView);
     }
   }
   save();

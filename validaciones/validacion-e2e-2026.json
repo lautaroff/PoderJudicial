@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-21",
   "estado": "PASS",
-  "comprobaciones_totales": 36,
+  "comprobaciones_totales": 41,
   "errores_consola": [],
   "detalle": [
     {
@@ -90,6 +90,11 @@
       "detail": ""
     },
     {
+      "check": "index_descarte_recuperado",
+      "ok": true,
+      "detail": ""
+    },
+    {
       "check": "index_lectura_split_screen",
       "ok": true,
       "detail": ""
@@ -125,12 +130,27 @@
       "detail": "1. Concurso (ya usado)"
     },
     {
+      "check": "memoria_reconstruir_persiste_recarga",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "memoria_tarjeta_revelada_persiste_recarga",
+      "ok": true,
+      "detail": ""
+    },
+    {
       "check": "memoria_tarjeta_due_medianoche",
       "ok": true,
       "detail": "hora=0"
     },
     {
       "check": "memoria_caso_evalua",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "memoria_caso_persiste_recarga",
       "ok": true,
       "detail": ""
     },
@@ -153,6 +173,11 @@
       "check": "taller_secuencias_preserva_foco",
       "ok": true,
       "detail": "focused=1"
+    },
+    {
+      "check": "taller_vista_y_borrador_persisten_recarga",
+      "ok": true,
+      "detail": ""
     },
     {
       "check": "taller_lectura_split_screen",

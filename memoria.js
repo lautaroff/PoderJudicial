@@ -7,23 +7,41 @@
   const $ = id => document.getElementById(id);
   const esc = value => String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const modules = Object.fromEntries(data.modules.map(m => [m.id,m]));
-  let state = {version:1,cards:{},cases:{},mapHistory:[],mapDrafts:{}};
+  let state = {version:1,cards:{},cases:{},mapHistory:[],mapDrafts:{},mapBuild:{},mapRecall:{},ui:{}};
   let storageOK = true;
   try {
     const saved = JSON.parse(localStorage.getItem(KEY) || 'null');
     if(saved && typeof saved==='object' && !Array.isArray(saved)) {
-      state = {...saved,version:1,mapDrafts:saved.mapDrafts && typeof saved.mapDrafts==='object' ? saved.mapDrafts : {},cards: saved.cards && typeof saved.cards==='object' ? saved.cards : {},cases:saved.cases && typeof saved.cases==='object' ? saved.cases : {},mapHistory:Array.isArray(saved.mapHistory) ? saved.mapHistory : []};
+      state = {
+        ...saved,
+        version:1,
+        mapDrafts:saved.mapDrafts && typeof saved.mapDrafts==='object' ? saved.mapDrafts : {},
+        mapBuild:saved.mapBuild && typeof saved.mapBuild==='object' ? saved.mapBuild : {},
+        mapRecall:saved.mapRecall && typeof saved.mapRecall==='object' ? saved.mapRecall : {},
+        cards:saved.cards && typeof saved.cards==='object' ? saved.cards : {},
+        cases:saved.cases && typeof saved.cases==='object' ? saved.cases : {},
+        mapHistory:Array.isArray(saved.mapHistory) ? saved.mapHistory : [],
+        ui:saved.ui && typeof saved.ui==='object' ? saved.ui : {}
+      };
     }
   } catch { storageOK=false; }
-  let moduleFilter = 'all';
-  let view='mapas';
-  let currentMap = data.maps.some(m=>m.id==='m1-estructura-judicial') ? 'm1-estructura-judicial' : data.maps[0].id;
-  try {const linked=new URLSearchParams(location.hash.slice(1)).get('map');if(data.maps.some(m=>m.id===linked))currentMap=linked;} catch {}
+  let moduleFilter = state.ui.moduleFilter || 'all';
+  let view = state.ui.view || 'mapas';
+  let currentMap = (state.ui.currentMap && data.maps.some(m=>m.id===state.ui.currentMap)) ? state.ui.currentMap : (data.maps.some(m=>m.id==='m1-estructura-judicial') ? 'm1-estructura-judicial' : data.maps[0].id);
+  let switchedMapByHash = false;
+  try {
+    const linked=new URLSearchParams(location.hash.slice(1)).get('map');
+    if(data.maps.some(m=>m.id===linked)){
+      if(linked!==state.ui.currentMap)switchedMapByHash=true;
+      currentMap=linked;
+      view='mapas';
+    }
+  } catch {}
   let mapQuery='';
-  let presentation='diagram';
-  let groupFocus='all';
-  let mapMode='read';
-  let diagramScale=1;
+  let presentation = state.ui.presentation || 'diagram';
+  let groupFocus = switchedMapByHash ? 'all' : (state.ui.groupFocus || 'all');
+  let mapMode = switchedMapByHash ? 'read' : (state.ui.mapMode || 'read');
+  let diagramScale = switchedMapByHash ? 1 : (Number(state.ui.diagramScale) || 1);
   let session=[];
   let cardIndex=0;
   let revealed=false;
@@ -35,8 +53,25 @@
   function shuffleIdx(n){const a=Array.from({length:n},(_,i)=>i);for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
   const filtered = items => items.filter(x => moduleFilter==='all' || String(x.module)===moduleFilter);
   function formatDate(value) { return new Date(value).toLocaleDateString('es-AR',{day:'numeric',month:'long'}); }
-  function storageNotice(){ $('storage-notice').textContent=storageOK ? 'Tus repasos se guardan sólo en este navegador. Exportalos para conservar una copia.' : 'El navegador no pudo guardar los repasos. Podés continuar y exportar una copia al terminar.'; }
-  function save(){ try {localStorage.setItem(KEY,JSON.stringify(state));storageOK=true;} catch {storageOK=false;} storageNotice();updateStats(); }
+  function storageNotice(){ $('storage-notice').textContent=storageOK ? 'Tus repasos y tu posición actual se guardan automáticamente en este navegador.' : 'El navegador no pudo guardar los repasos. Podés continuar y exportar una copia al terminar.'; }
+  function syncUiState(){
+    state.ui = {
+      view,
+      moduleFilter,
+      currentMap,
+      mapMode,
+      presentation,
+      groupFocus,
+      diagramScale,
+      deck: $('deck')?.value || 'due',
+      cardSessionIds: session.map(c => c.id),
+      cardIndex,
+      revealed,
+      sessionRated,
+      sessionSkipped
+    };
+  }
+  function save(){ syncUiState(); try {localStorage.setItem(KEY,JSON.stringify(state));storageOK=true;} catch {storageOK=false;} storageNotice();updateStats(); }
   function sources(items){return atlas.sources(items,modules);}
   function badge(m){return `<span class="module-tag">M${m} · ${esc(modules[m].name)}</span>`;}
   function updateStats(){
@@ -46,14 +81,19 @@
     const newer=cards.filter(c=>!state.cards[c.id] || !Number(state.cards[c.id].ratings)).length;
     $('stats').textContent=`${cards.length} tarjetas · ${seen} autoevaluadas · ${due} para hoy · ${newer} nuevas`;
   }
-  function setView(next){
+  function setView(next, preserveCardSession=false){
     view=next;
     document.querySelectorAll('.view').forEach(el=>el.hidden=el.id!==next);
     document.querySelectorAll('.mode').forEach(el=>{const active=el.dataset.view===next;el.classList.toggle('active',active);el.setAttribute('aria-pressed',String(active));});
+    if(next!=='mapas'){try{history.replaceState(null,'',location.pathname+location.search);}catch{}}
     if(next==='mapas') renderMapMenu();
-    if(next==='tarjetas') startSession();
+    if(next==='tarjetas'){
+      if(preserveCardSession && session.length){ renderCard(); }
+      else startSession();
+    }
     if(next==='contrastes') renderPairs();
     if(next==='casos') renderCases();
+    save();
   }
   function availableMaps(){
     const query=mapQuery.trim().toLocaleLowerCase('es');
@@ -94,9 +134,28 @@
     $('map-panel').innerHTML=atlas.render(m,{mode:mapMode,presentation,group:groupFocus,modules});
     $('map-panel').querySelectorAll('[data-related-map]').forEach(b=>{const target=data.maps.find(x=>x.id===b.dataset.relatedMap);if(target)b.textContent=`M${target.module} · ${target.title}`;else b.hidden=true;});
     const explanation=$('map-explanation');if(explanation)explanation.value=state.mapDrafts[currentMap]||'';
+    if(mapMode==='build'&&state.mapBuild?.[currentMap]){
+      const savedBuild=state.mapBuild[currentMap];
+      $('map-panel').querySelectorAll('select[data-answer]').forEach(sel=>{
+        const nid=sel.closest('[data-node-id]')?.dataset.nodeId;
+        if(nid&&savedBuild[nid]!==undefined)sel.value=savedBuild[nid];
+      });
+      syncUsedMapLabels();
+    }
+    if(mapMode==='recall'&&Array.isArray(state.mapRecall?.[currentMap])){
+      const revealedSet=new Set(state.mapRecall[currentMap]);
+      $('map-panel').querySelectorAll('.node-label').forEach(btn=>{
+        const nid=btn.closest('[data-node-id]')?.dataset.nodeId;
+        if(nid&&revealedSet.has(nid)){
+          btn.textContent=btn.dataset.label;
+          btn.setAttribute('aria-expanded','true');
+        }
+      });
+    }
     if(diagramScale!==1)applyDiagramScale(diagramScale);
     else{const viewport=$('map-panel').querySelector('.flow-viewport');if(viewport)viewport.scrollLeft=Math.max(0,(viewport.scrollWidth-viewport.clientWidth)/2);}
     try {history.replaceState(null,'','#map='+encodeURIComponent(currentMap));}catch{}
+    save();
   }
   function openMap(id){
     const m=data.maps.find(x=>x.id===id);if(!m)return;
@@ -131,7 +190,7 @@
       return duea-dueb;
     });
     if(shuffle) for(let i=available.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[available[i],available[j]]=[available[j],available[i]];}
-    session=available;cardIndex=0;revealed=false;sessionRated=0;sessionSkipped=0;$('schedule-note').textContent='';renderCard();
+    session=available;cardIndex=0;revealed=false;sessionRated=0;sessionSkipped=0;$('schedule-note').textContent='';renderCard();save();
   }
   function renderCard(){
     const c=session[cardIndex];
@@ -159,7 +218,7 @@
     const days=kind==='recall' ? intervals[Math.min(streak-1,intervals.length-1)] : 1;
     const due=dueMidnight(days);
     state.cards[c.id]={last:now(),due,streak,interval:days,review:kind==='review',ratings:(Number(old.ratings)||0)+1,lastResult:kind};
-    sessionRated++;save();cardIndex++;revealed=false;renderCard();focusCard();
+    sessionRated++;cardIndex++;revealed=false;save();renderCard();focusCard();
     $('schedule-note').textContent=`${c.title}: ${kind==='recall'?'recuperación autoevaluada':'para revisar'}. Próximo repaso: ${formatDate(due)} (${days} ${days===1?'día':'días'}).`;
   }
   function renderPairs(){
@@ -167,8 +226,18 @@
   }
   function renderCases(){
     $('case-list').innerHTML=filtered(data.cases).map(c=>{
-      const order=shuffleIdx(c.options.length);
-      return `<article class="case" data-case="${esc(c.id)}" style="--accent:${modules[c.module].color}">${badge(c.module)}<h3>${esc(c.text)}</h3><div class="case-options">${order.map((origIdx,dispIdx)=>`<button class="case-option" data-choice="${origIdx}"><span>${String.fromCharCode(65+dispIdx)}</span>${esc(c.options[origIdx])}</button>`).join('')}</div><div class="case-result" aria-live="polite"></div>${sources(c.sources)}</article>`;
+      const savedCase=state.cases[c.id];
+      const hasAnswered=savedCase && savedCase.lastChoice!==undefined;
+      const order=Array.isArray(savedCase?.order)&&savedCase.order.length===c.options.length ? savedCase.order : shuffleIdx(c.options.length);
+      if(!savedCase || !Array.isArray(savedCase.order)){
+        state.cases[c.id]={...(savedCase||{}),order};
+      }
+      const yes=hasAnswered && Number(savedCase.lastChoice)===c.correct;
+      return `<article class="case" data-case="${esc(c.id)}" ${hasAnswered?'data-answered="true"':''} style="--accent:${modules[c.module].color}">${badge(c.module)}<h3>${esc(c.text)}</h3><div class="case-options">${order.map((origIdx,dispIdx)=>{
+        const isCorrect=hasAnswered && origIdx===c.correct;
+        const isWrong=hasAnswered && Number(savedCase.lastChoice)===origIdx && !yes;
+        return `<button class="case-option${isCorrect?' is-correct':''}${isWrong?' is-wrong':''}" data-choice="${origIdx}" ${hasAnswered?'disabled':''}><span>${String.fromCharCode(65+dispIdx)}</span>${esc(c.options[origIdx])}</button>`;
+      }).join('')}</div><div class="case-result" aria-live="polite">${hasAnswered?`<strong>${yes?'Coincide con el criterio del material.':'Hay una distinción para revisar.'}</strong>${esc(c.why)}<br><button class="quiet case-reset" data-reset-case>Intentar otra vez</button>`:''}</div>${sources(c.sources)}</article>`;
     }).join('');
   }
   function answerCase(button){
@@ -180,7 +249,7 @@
     el.querySelectorAll('[data-choice]').forEach(b=>{b.disabled=true;b.classList.toggle('is-correct',Number(b.dataset.choice)===c.correct);b.classList.toggle('is-wrong',b===button&&!yes);});
     el.querySelector('.case-result').innerHTML=`<strong>${yes?'Coincide con el criterio del material.':'Hay una distinción para revisar.'}</strong>${esc(c.why)}<br><button class="quiet case-reset" data-reset-case>Intentar otra vez</button>`;
     const old=state.cases[c.id] || {};
-    state.cases[c.id]={attempts:(Number(old.attempts)||0)+1,last:now(),lastCorrect:yes};save();
+    state.cases[c.id]={...old,attempts:(Number(old.attempts)||0)+1,last:now(),lastCorrect:yes,lastChoice:choice};save();
   }
   function exportState(){
     const text=JSON.stringify({format:'pjm-memoria-2026',exportedAt:new Date().toISOString(),state},null,2);
@@ -192,14 +261,21 @@
   $('modulo').addEventListener('change',()=>{moduleFilter=$('modulo').value;mapMode='read';groupFocus='all';diagramScale=1;setView(view);updateStats();});
   $('map-menu').addEventListener('click',e=>{const b=e.target.closest('[data-map]');if(b)openMap(b.dataset.map);});
   $('map-search').addEventListener('input',()=>{mapQuery=$('map-search').value;renderMapMenu();});
-  $('map-panel').addEventListener('change',e=>{if(e.target.id==='map-group'){groupFocus=e.target.value;renderMap();}else if(e.target.matches('select[data-answer]')){syncUsedMapLabels();}});
+  $('map-panel').addEventListener('change',e=>{
+    if(e.target.id==='map-group'){groupFocus=e.target.value;renderMap();}
+    else if(e.target.matches('select[data-answer]')){
+      const nid=e.target.closest('[data-node-id]')?.dataset.nodeId;
+      if(nid){(state.mapBuild[currentMap]||={})[nid]=e.target.value;save();}
+      syncUsedMapLabels();
+    }
+  });
   $('map-panel').addEventListener('input',e=>{if(e.target.id==='map-explanation'){state.mapDrafts[currentMap]=e.target.value.slice(0,6000);save();}});
   $('map-panel').addEventListener('click',e=>{
     const zoom=e.target.closest('[data-diagram-zoom]');if(zoom){
       const surface=$('map-panel').querySelector('.flow-surface'),viewport=$('map-panel').querySelector('.flow-viewport');if(!surface||!viewport)return;
       const w=Number(surface.dataset.width),old=Number(surface.dataset.scale)||1;
       const kind=zoom.dataset.diagramZoom,scale=kind==='fit'?Math.max(.12,Math.min(1,(viewport.clientWidth-12)/w)):kind==='reset'?1:Math.max(.12,Math.min(1.5,old+(kind==='in'?.15:-.15)));
-      diagramScale=scale;applyDiagramScale(scale);return;
+      diagramScale=scale;applyDiagramScale(scale);save();return;
     }
     const related=e.target.closest('[data-related-map]');if(related){openMap(related.dataset.relatedMap);return;}
     const drawing=e.target.closest('[data-presentation]');if(drawing){presentation=drawing.dataset.presentation;renderMap();$('map-panel').querySelector(`[data-presentation="${presentation}"]`).focus({preventScroll:true});return;}
@@ -208,19 +284,35 @@
 
     const mode=e.target.closest('[data-map-mode]');if(mode){mapMode=mode.dataset.mapMode;renderMap();$('map-panel').querySelector(`[data-map-mode="${mapMode}"]`).focus({preventScroll:true});return;}
     if(e.target.closest('#check-map')){checkMap();return;}
-    const label=e.target.closest('.node-label');if(label && mapMode==='recall'){const shown=label.getAttribute('aria-expanded')==='true';label.textContent=shown?'¿Qué concepto es? · revelar':label.dataset.label;label.setAttribute('aria-expanded',String(!shown));}
+    const label=e.target.closest('.node-label');if(label && mapMode==='recall'){
+      const shown=label.getAttribute('aria-expanded')==='true';
+      label.textContent=shown?'¿Qué concepto es? · revelar':label.dataset.label;
+      label.setAttribute('aria-expanded',String(!shown));
+      const nid=label.closest('[data-node-id]')?.dataset.nodeId;
+      if(nid){
+        const cur=new Set(state.mapRecall[currentMap]||[]);
+        if(!shown)cur.add(nid);else cur.delete(nid);
+        state.mapRecall[currentMap]=[...cur];
+        save();
+      }
+    }
   });
   $('deck').addEventListener('change',()=>startSession());$('mezclar').addEventListener('click',()=>startSession(true));
   $('flashcard').addEventListener('click',e=>{
-    if(e.target.closest('#reveal-card')){revealed=true;renderCard();focusCard('.answer');return;}
+    if(e.target.closest('#reveal-card')){revealed=true;save();renderCard();focusCard('.answer');return;}
     const rate=e.target.closest('[data-rate]');if(rate){rateCard(rate.dataset.rate);return;}
-    if(e.target.closest('#previous-card')){if(cardIndex>0)cardIndex--;revealed=false;renderCard();focusCard();return;}
-    if(e.target.closest('#skip-card')){cardIndex++;sessionSkipped++;revealed=false;renderCard();focusCard();return;}
+    if(e.target.closest('#previous-card')){if(cardIndex>0)cardIndex--;revealed=false;save();renderCard();focusCard();return;}
+    if(e.target.closest('#skip-card')){cardIndex++;sessionSkipped++;revealed=false;save();renderCard();focusCard();return;}
     if(e.target.closest('#all-cards')){$('deck').value='all';startSession();}
   });
   $('case-list').addEventListener('click',e=>{
     const choice=e.target.closest('[data-choice]');if(choice){answerCase(choice);return;}
-    const reset=e.target.closest('[data-reset-case]');if(reset){const el=reset.closest('[data-case]');delete el.dataset.answered;el.querySelectorAll('[data-choice]').forEach(b=>{b.disabled=false;b.classList.remove('is-correct','is-wrong');});el.querySelector('.case-result').innerHTML='';}
+    const reset=e.target.closest('[data-reset-case]');if(reset){
+      const el=reset.closest('[data-case]');
+      const cid=el.dataset.case;
+      if(state.cases[cid]){delete state.cases[cid].lastChoice;delete state.cases[cid].order;save();}
+      renderCases();
+    }
   });
   window.addEventListener('hashchange',()=>{try{const id=new URLSearchParams(location.hash.slice(1)).get('map');if(id&&id!==currentMap)openMap(id);}catch{}});
   $('exportar').addEventListener('click',exportState);
@@ -237,7 +329,10 @@
             cards:{...state.cards,...(incoming.cards||{})},
             cases:{...state.cases,...(incoming.cases||{})},
             mapHistory:Array.isArray(incoming.mapHistory)?incoming.mapHistory:state.mapHistory,
-            mapDrafts:{...state.mapDrafts,...(incoming.mapDrafts||{})}
+            mapDrafts:{...state.mapDrafts,...(incoming.mapDrafts||{})},
+            mapBuild:{...state.mapBuild,...(incoming.mapBuild||{})},
+            mapRecall:{...state.mapRecall,...(incoming.mapRecall||{})},
+            ui:incoming.ui||state.ui
           };
           save();setView(view);
           $('storage-notice').textContent='Repasos importados correctamente.';
@@ -250,5 +345,16 @@
       e.target.value='';
     });
   }
-  storageNotice();updateStats();renderMapMenu();
+  // Restaurar estado inicial de filtros y sesión de tarjetas si existía
+  if($('modulo'))$('modulo').value=moduleFilter;
+  if($('deck')&&state.ui.deck)$('deck').value=state.ui.deck;
+  if(Array.isArray(state.ui.cardSessionIds)&&state.ui.cardSessionIds.length){
+    session=state.ui.cardSessionIds.map(id=>data.cards.find(c=>c.id===id)).filter(Boolean);
+    cardIndex=Math.min(Number(state.ui.cardIndex)||0,session.length);
+    revealed=Boolean(state.ui.revealed);
+    sessionRated=Number(state.ui.sessionRated)||0;
+    sessionSkipped=Number(state.ui.sessionSkipped)||0;
+  }
+  storageNotice();updateStats();
+  setView(view, true);
 })();

@@ -1,6 +1,6 @@
 'use strict';
 const bank=window.PREGUNTAS||[],sources=window.FUENTES2026||{},modules=sources.modulos||[],numBank=(window.NUMEROS&&window.NUMEROS.items)||[];
-let current=[],answers={},typedAnswers={},discarded={},flagged={},deadline=null,timer=null,finished=true,activeMode='',activeMinutes=0;
+let current=[],answers={},typedAnswers={},discarded={},flagged={},deadline=null,timer=null,finished=true,activeMode='',activeMinutes=0,currentTab='inicio',currentOpenDoc='',currentOpenDocMod=0;
 const $=id=>document.getElementById(id);
 const safe=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const normStr=s=>String(s??'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').trim().toLowerCase().replace(/\s+/g,' ');
@@ -36,8 +36,23 @@ function bridgeLinks(modulo,subtema){
 }
 function markdown(text){const inline=s=>safe(s).replace(/\[([^\]]+)\]\(([^)]+)\)/g,(_,label,url)=>{const clean=url.replace(/^historico-prepublicacion\//,'historico/prepublicacion/');return allowed(clean)?'<a href="'+clean+'"'+(/\.md(?:#|$)/i.test(clean)||/^(?:memoria|taller|index)\.html/i.test(clean)?'':' target="_blank" rel="noopener"')+'>'+label+'</a>':label+' ('+url+')'}).replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>').replace(/`([^`]+)`/g,'<code>$1</code>');let table=false;const out=[],toc=[];let headingCount=0;for(const line of text.split('\n')){if(line.startsWith('|')){if(!table){out.push('<div style="overflow-x:auto"><table>');table=true}if(!/^\|[\s:|\-]+\|$/.test(line))out.push('<tr>'+line.split('|').slice(1,-1).map(c=>'<td>'+inline(c.trim())+'</td>').join('')+'</tr>');continue}if(table){out.push('</table></div>');table=false}const h=line.match(/^(#{1,6})\s+(.+)/);if(h){const level=Math.min(h[1].length+1,6),id='heading-'+headingCount++;if(h[1].length===2)toc.push('<a href="#'+id+'">'+inline(h[2])+'</a>');out.push('<h'+level+' id="'+id+'">'+inline(h[2])+'</h'+level+'>')}else if(/^[-*] /.test(line))out.push('<p style="margin:7px 0 7px 16px">• '+inline(line.slice(2))+'</p>');else if(/^> ?/.test(line))out.push('<blockquote>'+inline(line.replace(/^> ?/,''))+'</blockquote>');else if(line.trim())out.push('<p>'+inline(line)+'</p>')}if(table)out.push('</table></div>');return (toc.length?'<nav class="toc" aria-label="Apartados del documento">'+toc.join('')+'</nav>':'')+out.join('')}
 function ask(message){return new Promise(resolve=>{const dialog=document.createElement('dialog');dialog.innerHTML='<p>'+safe(message)+'</p><div class="bar"><button data-answer="no">Cancelar</button><button class="primary" data-answer="yes">Continuar</button></div>';document.body.append(dialog);const done=value=>{dialog.close();dialog.remove();resolve(value)};dialog.querySelector('[data-answer="no"]').onclick=()=>done(false);dialog.querySelector('[data-answer="yes"]').onclick=()=>done(true);dialog.addEventListener('cancel',e=>{e.preventDefault();done(false)});dialog.showModal()})}
-function tab(name){document.querySelectorAll('main>section').forEach(s=>s.classList.toggle('hide',s.id!==name));document.querySelectorAll('.sidebar [data-tab]').forEach(b=>b.classList.toggle('active',b.dataset.tab===name));if(name==='historial')renderHistory();if(name==='inicio'){renderCoverage();window.scrollTo?.({top:0,behavior:'auto'});}else $(name)?.scrollIntoView({behavior:'auto',block:'start'})}
-function showDoc(name,moduleId,anchor){const key=window.DOCUMENTOS?.[name]?name:(window.DOCUMENTOS?.['estudio-2026/'+name]?'estudio-2026/'+name:name);const doc=window.DOCUMENTOS?.[key];if(!doc)return;tab('documentos');$('catalogo').innerHTML='<article class="card"><button id="closeDoc">Cerrar lectura</button>'+markdown(doc)+'</article>';$('closeDoc').onclick=()=>{$('catalogo').innerHTML=''};$('catalogo').scrollIntoView({behavior:'auto'});$('catalogo').focus({preventScroll:true});if(moduleId){const target=[...($('catalogo').querySelectorAll?.('h3')||[])].find(h=>h.textContent.startsWith('Módulo '+moduleId+'.'));if(target)target.scrollIntoView({behavior:'auto'})}else if(anchor){const slug=normStr(anchor.replace(/^#/,'')).replace(/[^a-z0-9]+/g,'');const target=[...($('catalogo').querySelectorAll?.('h2,h3,h4')||[])].find(h=>normStr(h.textContent).replace(/[^a-z0-9]+/g,'').includes(slug));if(target)target.scrollIntoView({behavior:'auto'})}}
+function saveUiState(){
+  save('pjm-ui-2026',{
+    tab:currentTab,
+    mode:$('mode')?.value||'estudio',
+    moduleFilter:$('moduleFilter')?.value||'0',
+    topicFilter:$('topicFilter')?.value||'',
+    numKindFilter:$('numKindFilter')?.value||'',
+    examMinutes:$('examMinutes')?.value||'50',
+    examDistribution:$('examDistribution')?.value||'balanced',
+    readerDoc:$('readerDoc')?.value||'1',
+    readerPage:$('readerPage')?.value||'1',
+    openDoc:currentOpenDoc,
+    openDocMod:currentOpenDocMod
+  });
+}
+function tab(name){currentTab=name;document.querySelectorAll('main>section').forEach(s=>s.classList.toggle('hide',s.id!==name));document.querySelectorAll('.sidebar [data-tab]').forEach(b=>b.classList.toggle('active',b.dataset.tab===name));if(name==='historial')renderHistory();if(name==='inicio'){renderCoverage();window.scrollTo?.({top:0,behavior:'auto'});}else $(name)?.scrollIntoView({behavior:'auto',block:'start'});saveUiState()}
+function showDoc(name,moduleId,anchor){const key=window.DOCUMENTOS?.[name]?name:(window.DOCUMENTOS?.['estudio-2026/'+name]?'estudio-2026/'+name:name);const doc=window.DOCUMENTOS?.[key];if(!doc)return;currentOpenDoc=key;currentOpenDocMod=moduleId||0;tab('documentos');$('catalogo').innerHTML='<article class="card"><button id="closeDoc">Cerrar lectura</button>'+markdown(doc)+'</article>';$('closeDoc').onclick=()=>{currentOpenDoc='';currentOpenDocMod=0;$('catalogo').innerHTML='';saveUiState()};$('catalogo').scrollIntoView({behavior:'auto'});$('catalogo').focus({preventScroll:true});if(moduleId){const target=[...($('catalogo').querySelectorAll?.('h3')||[])].find(h=>h.textContent.startsWith('Módulo '+moduleId+'.'));if(target)target.scrollIntoView({behavior:'auto'})}else if(anchor){const slug=normStr(anchor.replace(/^#/,'')).replace(/[^a-z0-9]+/g,'');const target=[...($('catalogo').querySelectorAll?.('h2,h3,h4')||[])].find(h=>normStr(h.textContent).replace(/[^a-z0-9]+/g,'').includes(slug));if(target)target.scrollIntoView({behavior:'auto'})}}
 document.addEventListener('click',e=>{
   const tabButton=e.target.closest('[data-tab]'),docButton=e.target.closest('[data-doc]'),readerButton=e.target.closest('[data-reader]'),pracButton=e.target.closest('[data-practice-topic]'),numButton=e.target.closest('[data-practice-num]'),a=e.target.closest('a');
   if(tabButton){tab(tabButton.dataset.tab);return}
@@ -325,9 +340,9 @@ function renderCoverage(){
 function updateCoverageSummary(){const checked=read('pjm-coverage-2026',[]),total=modules.reduce((s,m)=>s+m.apartados.length,0);$('coverageSummary').textContent=checked.length+' de '+total+' apartados marcados como estudiados.'}
 $('coverage').addEventListener('change',e=>{if(!e.target.dataset.coverage)return;const ids=new Set(read('pjm-coverage-2026',[]));if(e.target.checked)ids.add(e.target.dataset.coverage);else ids.delete(e.target.dataset.coverage);save('pjm-coverage-2026',[...ids]);updateCoverageSummary()});
 function openReader(id,page){$('readerDoc').value=String(id);$('readerPage').value=page;renderReader();tab('lector')}
-function renderReader(){const doc=(sources.documentos||[]).find(d=>d.id===Number($('readerDoc').value));if(!doc)return;const page=Math.min(doc.paginas,Math.max(1,parseInt($('readerPage').value,10)||1));$('readerPage').value=page;$('readerPage').max=doc.paginas;const href=doc.archivo+'#page='+page;const frameHref=doc.archivo+'?p='+page+'#page='+page;$('pdfFrame').src=frameHref;$('readerOriginal').href=href;$('readerStatus').textContent=doc.titulo+' · página PDF '+page+' de '+doc.paginas;$('pageText').textContent=doc.textos?.[page-1]||'Esta página contiene principalmente imágenes. Consultá el PDF original.';$('readerPrev').disabled=page===1;$('readerNext').disabled=page===doc.paginas}
+function renderReader(){const doc=(sources.documentos||[]).find(d=>d.id===Number($('readerDoc').value));if(!doc)return;const page=Math.min(doc.paginas,Math.max(1,parseInt($('readerPage').value,10)||1));$('readerPage').value=page;$('readerPage').max=doc.paginas;const href=doc.archivo+'#page='+page;const frameHref=doc.archivo+'?p='+page+'#page='+page;$('pdfFrame').src=frameHref;$('readerOriginal').href=href;$('readerStatus').textContent=doc.titulo+' · página PDF '+page+' de '+doc.paginas;$('pageText').textContent=doc.textos?.[page-1]||'Esta página contiene principalmente imágenes. Consultá el PDF original.';$('readerPrev').disabled=page===1;$('readerNext').disabled=page===doc.paginas;saveUiState()}
 $('readerDoc').onchange=()=>{$('readerPage').value=1;renderReader()};$('readerGo').onclick=renderReader;$('readerPage').onkeydown=e=>{if(e.key==='Enter')renderReader()};$('readerPrev').onclick=()=>{$('readerPage').value=Number($('readerPage').value)-1;renderReader()};$('readerNext').onclick=()=>{$('readerPage').value=Number($('readerPage').value)+1;renderReader()};
-$('mode').onchange=updateFilters;$('moduleFilter').onchange=updateTopics;$('start').onclick=start;$('reviewErrors').onclick=()=>{tab('practica');$('mode').value='errores';updateFilters();start()};
+$('mode').onchange=()=>{updateFilters();saveUiState()};$('moduleFilter').onchange=()=>{updateTopics();saveUiState()};if($('topicFilter'))$('topicFilter').onchange=saveUiState;if($('numKindFilter'))$('numKindFilter').onchange=saveUiState;if($('examMinutes'))$('examMinutes').onchange=saveUiState;if($('examDistribution'))$('examDistribution').onchange=saveUiState;$('start').onclick=start;$('reviewErrors').onclick=()=>{tab('practica');$('mode').value='errores';updateFilters();start()};
 $('clear').onclick=async()=>{if(await ask('¿Borrar resultados y errores? Las casillas de temas estudiados y la memoria visual se conservarán.')){save('pjm-history',[]);save('pjm-errors',[]);save('pjm-error-meta-2026',{});renderHistory();renderCoverage()}};
 $('export').onclick=()=>{const blob=new Blob([JSON.stringify({resultados:read('pjm-history',[]),errores:read('pjm-errors',[]),erroresMeta:read('pjm-error-meta-2026',{}),cobertura:read('pjm-coverage-2026',[]),memoria:read('pjm-memoria-2026',{}),taller:read('pjm-taller-2026',{}),preguntasVistas:read('pjm-seen-2026',{})},null,2)],{type:'application/json'});const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='mis-avances-judicial-2026.json';a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000)};
 if($('importBtn')&&$('importFile')){
@@ -357,21 +372,46 @@ const docNames=[['ACTUALIZACION-2026.md','Qué cambió y qué sigue sirviendo'],
 $('pdfList').innerHTML=(sources.documentos||[]).map(d=>'<article class="source-row"><div class="bar"><a href="'+safe(d.archivo)+'" target="_blank" rel="noopener">'+safe(d.titulo)+'</a><button data-reader="'+d.id+'">Leer acá</button></div><p>'+d.paginas+' páginas · original oficial</p></article>').join('');$('referenceList').innerHTML=(sources.referencias||[]).map(r=>'<article class="source-row">'+(r.archivo?'<a href="'+safe(r.lectura||r.archivo)+'" target="_blank" rel="noopener">'+safe(r.titulo)+'</a>':'<strong>'+safe(r.titulo)+'</strong>')+'<p>'+safe(r.alcance)+(r.error?' · Descarga pendiente: '+safe(r.error):'')+'</p></article>').join('');$('readerDoc').innerHTML=(sources.documentos||[]).map(d=>'<option value="'+d.id+'">'+safe(d.titulo)+'</option>').join('');$('moduleFilter').innerHTML='<option value="0">Todos los módulos</option>'+modules.map(m=>'<option value="'+m.id+'">M'+m.id+' · '+safe(m.corto)+'</option>').join('');
 renderCoverage();renderReader();updateTopics();updateFilters();if(bank.length){$('bankStatus').textContent=bank.filter(q=>q.etapa==='especificos').length+' preguntas específicas 2026 + '+numBank.length+' ítems de plazos y números + '+bank.filter(q=>q.etapa!=='especificos').length+' ejercicios generales de lectura e institucionales.';$('start').disabled=false}else $('bankStatus').textContent='Falta el banco de preguntas. Conservá datos-preguntas.js junto a este archivo.';
 (function checkSavedQuizAndParams(){
+  const savedUi=read('pjm-ui-2026',null);
+  if(savedUi&&typeof savedUi==='object'){
+    if(savedUi.mode&&$('mode'))$('mode').value=savedUi.mode;
+    if(savedUi.moduleFilter&&$('moduleFilter')){$('moduleFilter').value=savedUi.moduleFilter;updateTopics();}
+    if(savedUi.topicFilter!==undefined&&$('topicFilter'))$('topicFilter').value=savedUi.topicFilter;
+    if(savedUi.numKindFilter!==undefined&&$('numKindFilter'))$('numKindFilter').value=savedUi.numKindFilter;
+    if(savedUi.examMinutes&&$('examMinutes'))$('examMinutes').value=savedUi.examMinutes;
+    if(savedUi.examDistribution&&$('examDistribution'))$('examDistribution').value=savedUi.examDistribution;
+    updateFilters();
+    if(savedUi.readerDoc&&$('readerDoc')){$('readerDoc').value=savedUi.readerDoc;if(savedUi.readerPage)$('readerPage').value=savedUi.readerPage;renderReader();}
+    if(savedUi.openDoc)showDoc(savedUi.openDoc,savedUi.openDocMod||0);
+    if(savedUi.tab)tab(savedUi.tab);
+  }
   const savedQuiz=read('pjm-active-quiz-2026',null);
-  if(savedQuiz&&Array.isArray(savedQuiz.items)&&savedQuiz.items.length&&$('resumeBanner')){
+  if(savedQuiz&&Array.isArray(savedQuiz.items)&&savedQuiz.items.length){
     const allPool=[...bank,...numBank.map(normalizeNumItem)];
     const restored=savedQuiz.items.map(it=>{const found=allPool.find(q=>q.id===it.id);return found?{...found,_order:it._order}:null}).filter(Boolean);
-    if(restored.length===savedQuiz.items.length&&(!savedQuiz.deadline||savedQuiz.deadline>Date.now())){
-      $('resumeBanner').classList.remove('hide');
-      $('resumeBanner').innerHTML='<strong>Tenés una práctica en curso sin terminar ('+safe(savedQuiz.activeMode)+').</strong> <div class="bar" style="margin-top:8px"><button type="button" id="resumeQuizBtn" class="primary">Continuar donde dejé</button><button type="button" id="discardQuizBtn">Descartar</button></div>';
-      if(!new URLSearchParams(window.location?.search||'').get('doc'))tab('practica');
-      if($('resumeQuizBtn'))$('resumeQuizBtn').onclick=()=>{
-        current=restored;answers=savedQuiz.answers||{};typedAnswers=savedQuiz.typedAnswers||{};discarded=savedQuiz.discarded||{};flagged=savedQuiz.flagged||{};
-        activeMode=savedQuiz.activeMode;activeMinutes=savedQuiz.activeMinutes||0;deadline=savedQuiz.deadline||null;finished=false;
-        $('resumeBanner').classList.add('hide');
-        renderActiveExam('Práctica recuperada en el punto donde habías quedado.');
-      };
-      if($('discardQuizBtn'))$('discardQuizBtn').onclick=()=>{try{localStorage.removeItem('pjm-active-quiz-2026')}catch{}$('resumeBanner').classList.add('hide')};
+    if(restored.length===savedQuiz.items.length){
+      current=restored;answers=savedQuiz.answers||{};typedAnswers=savedQuiz.typedAnswers||{};discarded=savedQuiz.discarded||{};flagged=savedQuiz.flagged||{};
+      activeMode=savedQuiz.activeMode;activeMinutes=savedQuiz.activeMinutes||0;deadline=savedQuiz.deadline||null;finished=false;
+      if(deadline&&deadline<=Date.now()){
+        finish(activeMode);
+      }else{
+        renderActiveExam('Práctica en curso recuperada automáticamente en el punto donde habías quedado.');
+        if($('resumeBanner')){
+          $('resumeBanner').classList.remove('hide');
+          $('resumeBanner').innerHTML='<strong>Tenés una práctica en curso ('+safe(savedQuiz.activeMode)+') recuperada automáticamente.</strong> <div class="bar" style="margin-top:8px"><button type="button" id="resumeQuizBtn" class="primary">Ir a las preguntas</button><button type="button" id="discardQuizBtn">Descartar práctica</button></div>';
+          if($('resumeQuizBtn'))$('resumeQuizBtn').onclick=()=>{
+            $('resumeBanner').classList.add('hide');
+            $('exam')?.scrollIntoView({behavior:'auto'});
+          };
+          if($('discardQuizBtn'))$('discardQuizBtn').onclick=()=>{
+            clearInterval(timer);finished=true;current=[];answers={};typedAnswers={};discarded={};flagged={};
+            try{localStorage.removeItem('pjm-active-quiz-2026')}catch{}
+            $('resumeBanner').classList.add('hide');
+            $('exam').innerHTML='';
+          };
+        }
+        if(!new URLSearchParams(window.location?.search||'').get('doc'))tab('practica');
+      }
     }
   }
   try{
