@@ -279,3 +279,6 @@ payload=json.dumps(data,ensure_ascii=False,indent=2)
 (ROOT/'memoria-datos.json').write_text(payload+'\n',encoding='utf-8')
 (ROOT/'memoria-datos.js').write_text('window.PJM_MEMORIA = '+payload+';\n',encoding='utf-8')
 print(f"Atlas generado: {len(cards)} tarjetas, {len(maps)} mapas, {len(pairs)} contrastes, {len(cases)} casos.")
+if all((ROOT/'mapas-2026'/name).is_file() for name in ['m1.json','m2.json','m3-m5.json']):
+    from preparar_mapas import integrate
+    integrate()

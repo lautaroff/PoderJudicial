@@ -1,0 +1,3702 @@
+{
+  "version": "2026-10-21",
+  "maps": [
+    {
+      "id": "estado",
+      "module": 1,
+      "title": "El Estado: composición, forma y límites",
+      "root": "Estado",
+      "rootSources": [
+        {
+          "module": 1,
+          "page": 2
+        }
+      ],
+      "lead": "Cada rama responde una pregunta distinta: elementos, origen constitucional, forma o límites.",
+      "kind": "concept",
+      "area": "Estado y Constitución",
+      "priority": 1,
+      "groups": [
+        {
+          "id": "piezas",
+          "title": "¿Con qué se integra?",
+          "relation": "se compone de",
+          "nodes": [
+            {
+              "id": "territorio",
+              "label": "Territorio",
+              "detail": "Base espacial de la soberanía: tierra, aguas y aire.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 2
+                }
+              ]
+            },
+            {
+              "id": "poblacion",
+              "label": "Población",
+              "detail": "Conjunto humano asentado con cierta permanencia.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 2
+                }
+              ]
+            },
+            {
+              "id": "poder",
+              "label": "Poder",
+              "detail": "Capacidad estatal para cumplir sus fines.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 2
+                }
+              ],
+              "children": [
+                {
+                  "id": "autoridad",
+                  "label": "Autoridad y coerción",
+                  "detail": "Componentes del poder estatal; el Estado tiene por regla el monopolio de la coerción.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 2
+                    }
+                  ],
+                  "relation": "comprende"
+                }
+              ]
+            },
+            {
+              "id": "gobierno",
+              "label": "Gobierno",
+              "detail": "Órganos que ejercen el poder mediante distintas funciones.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "marco",
+          "title": "¿De dónde surgen los órganos?",
+          "relation": "se organiza mediante",
+          "nodes": [
+            {
+              "id": "constitucion",
+              "label": "Constitución",
+              "detail": "Norma fundamental que organiza el Estado y funda el ordenamiento.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 3
+                }
+              ],
+              "children": [
+                {
+                  "id": "constituyente",
+                  "label": "Poder constituyente",
+                  "detail": "Establece o reforma la Constitución.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 3
+                    }
+                  ],
+                  "relation": "es establecida o reformada por"
+                },
+                {
+                  "id": "constituidos",
+                  "label": "Poderes constituidos",
+                  "detail": "Legislativo, Ejecutivo y Judicial nacen de la Constitución y actúan dentro de sus competencias.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 3
+                    }
+                  ],
+                  "relation": "crea y atribuye competencias a"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "forma",
+          "title": "¿Qué forma adopta Argentina?",
+          "relation": "adopta una forma",
+          "nodes": [
+            {
+              "id": "m1-05",
+              "label": "Representativa",
+              "detail": "El pueblo gobierna mediante representantes.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 6
+                }
+              ],
+              "children": [
+                {
+                  "id": "semidirecta",
+                  "label": "Participación semidirecta",
+                  "detail": "Iniciativa y consulta popular incorporadas en 1994; complementan la representación.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 6
+                    }
+                  ],
+                  "relation": "se complementa con"
+                }
+              ]
+            },
+            {
+              "id": "m1-06",
+              "label": "Republicana",
+              "detail": "Limita la concentración del poder y responsabiliza a las autoridades.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 6
+                },
+                {
+                  "module": 1,
+                  "page": 7
+                }
+              ],
+              "children": [
+                {
+                  "id": "republica-fundamentos",
+                  "label": "Soberanía popular e igualdad",
+                  "detail": "El poder tiene fundamento popular; igualdad ante la ley.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 6
+                    }
+                  ],
+                  "relation": "se caracteriza por"
+                },
+                {
+                  "id": "republica-autoridades",
+                  "label": "Elección, periodicidad y responsabilidad",
+                  "detail": "Los cargos políticos tienen períodos y sus titulares responden por sus actos; no trasladar mecánicamente mandatos políticos a jueces.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 6
+                    }
+                  ],
+                  "relation": "se caracteriza por"
+                },
+                {
+                  "id": "republica-control",
+                  "label": "Publicidad y separación de poderes",
+                  "detail": "Informar actos y distribuir funciones permite control recíproco.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 7
+                    }
+                  ],
+                  "relation": "se caracteriza por"
+                }
+              ]
+            },
+            {
+              "id": "m1-07",
+              "label": "Federal",
+              "detail": "Distribuye territorialmente el poder entre órdenes con competencias propias.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 8
+                }
+              ],
+              "children": [
+                {
+                  "id": "ordenes",
+                  "label": "Cuatro órdenes de gobierno",
+                  "detail": "Nación, provincias, CABA y municipios; no cuatro oficinas de una misma cadena administrativa.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 8
+                    }
+                  ],
+                  "relation": "distingue"
+                },
+                {
+                  "id": "autonomia",
+                  "label": "Autonomía / autarquía",
+                  "detail": "Autonomía comprende normas propias y autogobierno; autarquía, autoadministración. Provincias autónomas, no soberanas.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 9
+                    }
+                  ],
+                  "relation": "requiere distinguir"
+                },
+                {
+                  "id": "municipal",
+                  "label": "Autonomía municipal",
+                  "detail": "Norma fundante, elección de autoridades, recursos propios, facultades propias y autodeterminación política según el marco correspondiente.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 9
+                    },
+                    {
+                      "module": 1,
+                      "page": 10
+                    }
+                  ],
+                  "relation": "se expresa también en"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "limites",
+          "title": "¿Qué limita su actuación?",
+          "relation": "está sujeto a",
+          "nodes": [
+            {
+              "id": "m1-02",
+              "label": "Estado de Derecho",
+              "detail": "El ordenamiento regula gobierno, derechos y libertades; también obliga a la autoridad.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 3
+                }
+              ]
+            },
+            {
+              "id": "m1-04",
+              "label": "Supremacía constitucional",
+              "detail": "Las normas y actos inferiores deben respetar la Constitución; consultar la escala normativa y sus precisiones.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 4
+                },
+                {
+                  "module": 1,
+                  "page": 5
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        "m1-normas",
+        "m1-organos-funciones"
+      ],
+      "hint": "Cerrá el mapa, reconstruí las relaciones y comprobá después sus fuentes.",
+      "exercise": {
+        "prompt": "¿Estado y gobierno son sinónimos? ¿Los cuatro órdenes forman una cadena uniforme de mando?",
+        "answer": "No. Gobierno es uno de los cuatro elementos. Los órdenes distribuyen competencias territorialmente; autonomía y supremacía no equivalen a subordinación administrativa general."
+      },
+      "cautions": [
+        "Las ramas clasifican conceptos: no representan mando entre personas.",
+        "M1 p.9 anuncia tres relaciones federales, pero desarrolla solo subordinación; no completa ese listado."
+      ]
+    },
+    {
+      "id": "m1-estructura-judicial",
+      "module": 1,
+      "title": "Dónde está cada órgano judicial",
+      "root": "Organización judicial",
+      "rootSources": [
+        {
+          "module": 1,
+          "page": 26
+        }
+      ],
+      "lead": "Separá orden jurisdiccional, nivel de tribunal, superintendencia y ministerios públicos. Las categorías no son instrucciones sobre sentencias.",
+      "kind": "hierarchy",
+      "area": "Organización judicial",
+      "priority": 1,
+      "groups": [
+        {
+          "id": "mendoza",
+          "title": "Mendoza: órganos jurisdiccionales",
+          "relation": "es ejercido por",
+          "nodes": [
+            {
+              "id": "scjm",
+              "label": "Suprema Corte de Mendoza",
+              "detail": "Órgano superior provincial. El mínimo constitucional es siete miembros; Ley 9423 fija siete. No sumar automáticamente al Procurador como juez votante. Funcionamiento en vista propia.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 26
+                },
+                {
+                  "module": 1,
+                  "page": 29
+                },
+                {
+                  "module": 1,
+                  "page": 30
+                },
+                {
+                  "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+                  "label": "Ley 9423 · art. 1",
+                  "page": 1
+                }
+              ]
+            },
+            {
+              "id": "inferiores-prov",
+              "label": "Tribunales inferiores provinciales",
+              "detail": "Órganos creados por ley, excluida la Suprema Corte.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 26
+                }
+              ],
+              "children": [
+                {
+                  "id": "camaras-prov",
+                  "label": "Cámaras de Apelaciones",
+                  "detail": "Nivel previsto por el art. 142 provincial; la revisión concreta depende de materia y ley.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 26
+                    }
+                  ],
+                  "relation": "comprenden"
+                },
+                {
+                  "id": "primera-prov",
+                  "label": "Jueces de Primera Instancia",
+                  "detail": "Órganos jurisdiccionales de primera instancia.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 26
+                    }
+                  ],
+                  "relation": "comprenden"
+                },
+                {
+                  "id": "otros-prov",
+                  "label": "Demás órganos creados por ley",
+                  "detail": "Juzgados, tribunales y funcionarios inferiores; el módulo no da aquí directorio exhaustivo.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 26
+                    }
+                  ],
+                  "relation": "comprenden"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "federal",
+          "title": "Nación: justicia federal",
+          "relation": "comprende",
+          "nodes": [
+            {
+              "id": "csjn",
+              "label": "Corte Suprema de Justicia de la Nación",
+              "detail": "Órgano máximo del orden federal, creado por Constitución; no es la Corte provincial.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 23
+                }
+              ],
+              "children": [
+                {
+                  "id": "csjn-originaria",
+                  "label": "Competencia originaria",
+                  "detail": "Supuestos constitucionales que se plantean directamente ante la Corte; no toda causa comienza abajo.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 24
+                    }
+                  ],
+                  "relation": "puede conocer por"
+                },
+                {
+                  "id": "csjn-derivada",
+                  "label": "Competencia derivada",
+                  "detail": "Revisión por recursos habilitados, entre ellos extraordinario federal; no acceso automático.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 24
+                    }
+                  ],
+                  "relation": "puede conocer por"
+                }
+              ]
+            },
+            {
+              "id": "inferiores-fed",
+              "label": "Tribunales inferiores federales",
+              "detail": "Creación por ley del Congreso; pueden tener asiento en provincias.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 22
+                },
+                {
+                  "module": 1,
+                  "page": 23
+                }
+              ],
+              "children": [
+                {
+                  "id": "federal-revision",
+                  "label": "Cámaras de Apelaciones y Casación",
+                  "detail": "Órganos de revisión en los supuestos de su competencia.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 23
+                    }
+                  ],
+                  "relation": "incluyen"
+                },
+                {
+                  "id": "federal-oral",
+                  "label": "Tribunales federales orales",
+                  "detail": "Órganos penales mencionados en la estructura federal; no son un peldaño universal de todo proceso.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 23
+                    }
+                  ],
+                  "relation": "incluyen"
+                },
+                {
+                  "id": "federal-juzgados",
+                  "label": "Juzgados federales",
+                  "detail": "Primera instancia con competencia federal, incluso si el edificio está en Mendoza.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 22
+                    },
+                    {
+                      "module": 1,
+                      "page": 23
+                    }
+                  ],
+                  "relation": "incluyen"
+                }
+              ]
+            },
+            {
+              "id": "mp-nacional",
+              "label": "Ministerio Público nacional: independiente",
+              "detail": "Tiene autonomía funcional y autarquía financiera. Procurador General y Defensor General nacionales y demás miembros legales; no subordinación a CSJN. Se muestra aparte de tribunales.",
+              "sources": [
+                {
+                  "url": "https://www.argentina.gob.ar/normativa/nacional/ley-24430-804/texto",
+                  "label": "Constitución Nacional · Artículo 120",
+                  "section": "Artículo 120"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ministerios",
+          "title": "Ministerios públicos de Mendoza",
+          "relation": "se distinguen por función y autoridad",
+          "nodes": [
+            {
+              "id": "mpf",
+              "label": "Ministerio Público Fiscal",
+              "detail": "Defiende legalidad e intereses generales y vela por debido proceso.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 27
+                }
+              ],
+              "children": [
+                {
+                  "id": "procurador",
+                  "label": "Procurador General",
+                  "detail": "Superior jerárquico de magistrados y funcionarios del MPF. Ejecutivo provincial lo designa con acuerdo del Senado.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 27
+                    },
+                    {
+                      "module": 1,
+                      "page": 28
+                    }
+                  ],
+                  "relation": "tiene como autoridad a",
+                  "children": [
+                    {
+                      "id": "mpf-integrantes",
+                      "label": "Magistrados y funcionarios del MPF",
+                      "detail": "La jerarquía del Procurador se refiere a quienes integran este Ministerio, no a jueces o defensores.",
+                      "sources": [
+                        {
+                          "module": 1,
+                          "page": 27
+                        }
+                      ],
+                      "relation": "es superior jerárquico de"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mpdp",
+              "label": "Ministerio Público de la Defensa y Pupilar",
+              "detail": "Asistencia técnico-jurídica para acceso a justicia de personas en vulnerabilidad.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 28
+                }
+              ],
+              "children": [
+                {
+                  "id": "defensor-general",
+                  "label": "Defensor/a General",
+                  "detail": "Máxima autoridad y responsable del funcionamiento. Ejecutivo + acuerdo Senado; cinco años y posible confirmación con acuerdo.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 28
+                    }
+                  ],
+                  "relation": "tiene como autoridad a"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "relaciones",
+          "title": "Relaciones que no deben confundirse",
+          "relation": "requiere distinguir",
+          "nodes": [
+            {
+              "id": "superintendencia",
+              "label": "Administración y superintendencia",
+              "detail": "La Corte organiza y ejerce potestades de gestión/disciplinarias dentro del marco legal; no dicta el sentido de fallos de jueces independientes.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 21
+                },
+                {
+                  "module": 1,
+                  "page": 28
+                }
+              ]
+            },
+            {
+              "id": "revision",
+              "label": "Revisión jurisdiccional",
+              "detail": "Revisión de decisiones solo por vías y supuestos legales; no es mando administrativo sobre el contenido del fallo.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 24
+                },
+                {
+                  "module": 1,
+                  "page": 29
+                }
+              ]
+            },
+            {
+              "id": "territorio",
+              "label": "Territorio",
+              "detail": "Cuatro circunscripciones de Mendoza: clasificación territorial, no cuatro grados de tribunal.",
+              "sources": [
+                {
+                  "module": 2,
+                  "page": 11
+                },
+                {
+                  "module": 2,
+                  "page": 36
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        "m1-corte-organizacion",
+        "m1-territorio",
+        "m1-designacion",
+        "corte"
+      ],
+      "hint": "Cerrá el mapa, reconstruí las relaciones y comprobá después sus fuentes.",
+      "exercise": {
+        "prompt": "Un juzgado federal está en Mendoza; ¿depende de la Corte provincial? ¿El Procurador dirige al defensor y al juez?",
+        "answer": "No. El asiento no cambia el orden federal. La autoridad jerárquica del Procurador alcanza al MPF; Defensa tiene autoridad propia y el juez decide con independencia."
+      },
+      "cautions": [
+        "No existe una flecha ordinaria universal primera instancia → cámara → Corte para cualquier asunto.",
+        "El Ministerio Público nacional se rige por su carácter independiente del art. 120 CN: la enumeración amplia de M1 p.22 no autoriza ubicarlo bajo CSJN.",
+        "Los paneles ministeriales no afirman dependencia de los tribunales ni entre sí."
+      ]
+    },
+    {
+      "id": "corte",
+      "module": 1,
+      "title": "Una Corte, tres funciones",
+      "root": "Suprema Corte de Mendoza",
+      "rootSources": [
+        {
+          "module": 1,
+          "page": 28
+        }
+      ],
+      "lead": "Clasificación por contenido de la actuación. La distribución concreta de atribuciones se consulta en Ley 9423.",
+      "kind": "concept",
+      "area": "Organización judicial",
+      "priority": 1,
+      "groups": [
+        {
+          "id": "administrativa",
+          "title": "Organizar y administrar",
+          "relation": "ejerce función",
+          "nodes": [
+            {
+              "id": "corte-admin",
+              "label": "Administrativa y de superintendencia",
+              "detail": "Reglamentos, disciplina, nombramientos y gestión dentro de sus atribuciones.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 28
+                }
+              ],
+              "children": [
+                {
+                  "id": "corte-reglamentos",
+                  "label": "Reglamentos y organización",
+                  "detail": "Reglamento interno y oficinas; actos organizativos y acordadas de feria.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 28
+                    },
+                    {
+                      "module": 1,
+                      "page": 29
+                    }
+                  ],
+                  "relation": "incluye"
+                },
+                {
+                  "id": "corte-personal",
+                  "label": "Personal y recursos",
+                  "detail": "Licencias, nombramientos de agentes y demás actos administrativos; no resolución de un litigio por ese solo contenido.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 29
+                    }
+                  ],
+                  "relation": "incluye"
+                },
+                {
+                  "id": "corte-instrumentos",
+                  "label": "Acordadas y resoluciones",
+                  "detail": "Reglamentos bajo forma de acordada; actos administrativos particulares por resolución; ambos con publicación según Ley 9423 art. 6.",
+                  "sources": [
+                    {
+                      "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+                      "label": "Ley 9423 · art. 6",
+                      "page": 5
+                    }
+                  ],
+                  "relation": "se instrumenta según"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "jurisdiccional",
+          "title": "Decidir causas",
+          "relation": "ejerce función",
+          "nodes": [
+            {
+              "id": "corte-jur",
+              "label": "Jurisdiccional",
+              "detail": "Resuelve causas dentro de competencias constitucionales y legales.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 29
+                }
+              ],
+              "children": [
+                {
+                  "id": "corte-constitucionalidad",
+                  "label": "Constitucionalidad y competencia",
+                  "detail": "Conoce los supuestos legalmente atribuidos; no toda discrepancia implica recurso ante Corte.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 29
+                    }
+                  ],
+                  "relation": "comprende"
+                },
+                {
+                  "id": "corte-administrativo",
+                  "label": "Causas contencioso-administrativas",
+                  "detail": "Competencia judicial distinta de gestionar internamente el Poder Judicial.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 29
+                    }
+                  ],
+                  "relation": "comprende"
+                },
+                {
+                  "id": "corte-recursos",
+                  "label": "Revisión y queja",
+                  "detail": "Vías con presupuestos legales; Ley 9423 asigna específicamente la queja por denegación o retardo a Sala Administrativa.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 29
+                    },
+                    {
+                      "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+                      "label": "Ley 9423 · art. 3 inc. 1",
+                      "page": 2
+                    }
+                  ],
+                  "relation": "comprende"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dirimente",
+          "title": "Resolver prudencialmente",
+          "relation": "ejerce función",
+          "nodes": [
+            {
+              "id": "corte-dir",
+              "label": "Dirimente",
+              "detail": "El módulo distingue su naturaleza prudencial de la jurisdiccional.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 29
+                }
+              ],
+              "children": [
+                {
+                  "id": "dirimente-metodo",
+                  "label": "Gradualidad y buena fe",
+                  "detail": "Utilizar herramientas necesarias para solucionar el conflicto; aplicación por partes conforme a buena fe.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 29
+                    }
+                  ],
+                  "relation": "requiere"
+                },
+                {
+                  "id": "dirimente-limite",
+                  "label": "Límite: no arbitrariedad",
+                  "detail": "La discrecionalidad prudencial no permite decisión arbitraria.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 29
+                    }
+                  ],
+                  "relation": "está limitada por"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        "m1-corte-organizacion",
+        "m1-estructura-judicial"
+      ],
+      "hint": "Cerrá el mapa, reconstruí las relaciones y comprobá después sus fuentes.",
+      "exercise": {
+        "prompt": "Clasificá conceder licencia, resolver un recurso y emplear potestades prudenciales con gradualidad.",
+        "answer": "Licencia: administrativa. Recurso: jurisdiccional según competencia. Descripción prudencial: dirimente conforme al módulo. El contenido importa aunque actúe la misma Corte."
+      },
+      "cautions": [
+        "Las tres funciones no son tres tribunales ni equivalen a tres salas permanentes.",
+        "No se reproduce la mención histórica de pena capital como competencia operativa actual.",
+        "No se atribuye a cualquier conflicto el carácter dirimente sin regla que habilite esa intervención."
+      ]
+    },
+    {
+      "id": "m1-corte-organizacion",
+      "module": 1,
+      "title": "Cómo funciona la Corte: Ley 9423",
+      "root": "Suprema Corte: siete miembros",
+      "rootSources": [
+        {
+          "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+          "label": "Ley 9423 · art. 1",
+          "page": 1
+        }
+      ],
+      "lead": "Distinguir integración del tribunal, distribución de causas, administración y dos mecanismos de unificación.",
+      "kind": "hierarchy",
+      "area": "Organización judicial",
+      "priority": 1,
+      "groups": [
+        {
+          "id": "funcionamiento",
+          "title": "Formas de funcionamiento",
+          "relation": "funciona en",
+          "nodes": [
+            {
+              "id": "pleno",
+              "label": "Pleno",
+              "detail": "Integración del Tribunal para competencias reservadas por ley. Mayoría simple de sus miembros como regla del art. 2.",
+              "sources": [
+                {
+                  "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+                  "label": "Ley 9423 · arts. 1–2",
+                  "page": 1
+                },
+                {
+                  "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+                  "label": "Ley 9423 · art. 2",
+                  "page": 2
+                }
+              ],
+              "children": [
+                {
+                  "id": "pleno-jur",
+                  "label": "Competencias jurisdiccionales",
+                  "detail": "Incluye conflictos de competencia de poderes públicos, acciones de inconstitucionalidad y los demás supuestos del art. 2. Consultar lista completa.",
+                  "sources": [
+                    {
+                      "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+                      "label": "Ley 9423 · art. 2",
+                      "page": 1
+                    }
+                  ],
+                  "relation": "tiene atribuciones"
+                },
+                {
+                  "id": "pleno-super",
+                  "label": "Superintendencia del pleno",
+                  "detail": "Elección de autoridades; reglamentos; presupuesto y designaciones expresamente previstas, entre otras atribuciones.",
+                  "sources": [
+                    {
+                      "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+                      "label": "Ley 9423 · art. 2",
+                      "page": 1
+                    },
+                    {
+                      "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+                      "label": "Ley 9423 · art. 2",
+                      "page": 2
+                    }
+                  ],
+                  "relation": "tiene atribuciones"
+                }
+              ]
+            },
+            {
+              "id": "colegio",
+              "label": "Colegio: salas de tres ministros sorteados",
+              "detail": "Para causas jurisdiccionales, salvo competencias de arts. 2 y 9; integración por causa mediante sorteo auditable.",
+              "sources": [
+                {
+                  "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+                  "label": "Ley 9423 · art. 7",
+                  "page": 5
+                }
+              ],
+              "children": [
+                {
+                  "id": "colegio-sorteo",
+                  "label": "Orden del sorteo",
+                  "detail": "El primero dirige el proceso; el orden fija emisión de votos. Subrogancias por igual sistema.",
+                  "sources": [
+                    {
+                      "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+                      "label": "Ley 9423 · arts. 7–8",
+                      "page": 5
+                    }
+                  ],
+                  "relation": "determina"
+                },
+                {
+                  "id": "colegio-direccion",
+                  "label": "Dirección del proceso",
+                  "detail": "Providencias de trámite y audiencias; delegación en secretaría/prosecretaría según art. 8.",
+                  "sources": [
+                    {
+                      "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+                      "label": "Ley 9423 · art. 8",
+                      "page": 5
+                    }
+                  ],
+                  "relation": "asigna funciones"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "administracion-corte",
+          "title": "Organización administrativa",
+          "relation": "se organiza mediante",
+          "nodes": [
+            {
+              "id": "sala-administrativa",
+              "label": "Sala Administrativa",
+              "detail": "Integrada por Presidencia, Vicepresidencia Primera y Segunda.",
+              "sources": [
+                {
+                  "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+                  "label": "Ley 9423 · art. 3",
+                  "page": 2
+                }
+              ],
+              "children": [
+                {
+                  "id": "sala-gestion",
+                  "label": "Gestión, personal y disciplina",
+                  "detail": "Designación de funcionarios/empleados, organización de órganos según leyes y control administrativo; disciplina previo sumario conforme a ley.",
+                  "sources": [
+                    {
+                      "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+                      "label": "Ley 9423 · art. 3",
+                      "page": 2
+                    },
+                    {
+                      "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+                      "label": "Ley 9423 · art. 3",
+                      "page": 3
+                    }
+                  ],
+                  "relation": "tiene atribuciones"
+                },
+                {
+                  "id": "sala-delegaciones",
+                  "label": "Delegaciones administrativas",
+                  "detail": "Establece delegaciones en circunscripciones, fija funciones y designa encargados según reglamentación.",
+                  "sources": [
+                    {
+                      "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+                      "label": "Ley 9423 · art. 3 inc. 14",
+                      "page": 3
+                    }
+                  ],
+                  "relation": "establece"
+                },
+                {
+                  "id": "sala-recursos",
+                  "label": "Recursos administrativos",
+                  "detail": "Recurso jerárquico contra resoluciones del Administrador General, Direcciones Regionales de Registros Públicos, Archivo Notarial y Judicial y Oficina de Matrículas Profesionales. También recursos administrativos contra Presidencia; no es apelación de sentencia.",
+                  "sources": [
+                    {
+                      "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+                      "label": "Ley 9423 · art. 3 inc. 18",
+                      "page": 3
+                    },
+                    {
+                      "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+                      "label": "Ley 9423 · art. 3 incs. 18–21",
+                      "page": 4
+                    }
+                  ],
+                  "relation": "conoce"
+                }
+              ]
+            },
+            {
+              "id": "presidencia",
+              "label": "Presidencia",
+              "detail": "Representa, convoca y dirige deliberaciones; medidas urgentes de superintendencia dando cuenta a Sala.",
+              "sources": [
+                {
+                  "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+                  "label": "Ley 9423 · art. 4",
+                  "page": 4
+                }
+              ],
+              "children": [
+                {
+                  "id": "autoridades",
+                  "label": "Elección y duración",
+                  "detail": "Presidencia: 2/3 del Tribunal; tras dos rondas sin acuerdo, tercera por mayoría simple del total. Viceprimera: mayoría simple, sin votar Presidencia salvo empate. Vicesegunda: mayoría simple, sin votar Presidencia ni Viceprimera. Duran dos años, con reelección; reemplazos según art. 5.",
+                  "sources": [
+                    {
+                      "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+                      "label": "Ley 9423 · art. 5",
+                      "page": 4
+                    },
+                    {
+                      "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+                      "label": "Ley 9423 · art. 5",
+                      "page": 5
+                    }
+                  ],
+                  "relation": "se rige por"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "unificacion",
+          "title": "Dos mecanismos diferentes",
+          "relation": "distingue",
+          "nodes": [
+            {
+              "id": "sentencia-pleno",
+              "label": "Sentencia en pleno · art. 9",
+              "detail": "Por importancia o para evitar contradicción: convocan dos integrantes de la sala o tres de Corte, de oficio o a pedido de parte. Límites: hasta llamamiento al acuerdo en extraordinario provincial; antes de alegatos en conocimiento originario; antes de audiencia de informe oral o deliberación en extraordinario penal.",
+              "sources": [
+                {
+                  "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+                  "label": "Ley 9423 · art. 9",
+                  "page": 5
+                }
+              ],
+              "children": [
+                {
+                  "id": "pleno-garantias",
+                  "label": "Excusación y recursos",
+                  "detail": "Solo excusación/recusación con causa; recursos que prevé la ley procesal.",
+                  "sources": [
+                    {
+                      "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+                      "label": "Ley 9423 · art. 9",
+                      "page": 6
+                    }
+                  ],
+                  "relation": "admite"
+                }
+              ]
+            },
+            {
+              "id": "sentencia-plenaria",
+              "label": "Sentencia plenaria · art. 10",
+              "detail": "Unifica interpretación o doctrina: convocan dos integrantes de la sala o tres de Corte, de oficio o a pedido de parte, antes de sentencia. Resolución fundada con pregunta objetiva afirmativa/negativa; incidente separado dirigido por Presidencia.",
+              "sources": [
+                {
+                  "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+                  "label": "Ley 9423 · art. 10",
+                  "page": 6
+                }
+              ],
+              "children": [
+                {
+                  "id": "plenaria-reglas",
+                  "label": "Reglas propias",
+                  "detail": "No admite excusaciones/recusaciones ni recurso contra decisión plenaria. No extender esto a toda sentencia de la Corte.",
+                  "sources": [
+                    {
+                      "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+                      "label": "Ley 9423 · art. 10",
+                      "page": 6
+                    }
+                  ],
+                  "relation": "tiene"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "soporte",
+          "title": "Soporte jurisdiccional",
+          "relation": "puede contar con",
+          "nodes": [
+            {
+              "id": "secretarias",
+              "label": "Secretarías judiciales",
+              "detail": "Una para competencia originaria y otra para apelación/revisión extraordinaria; la ley dice podrá contar con dos.",
+              "sources": [
+                {
+                  "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+                  "label": "Ley 9423 · art. 11",
+                  "page": 6
+                }
+              ]
+            },
+            {
+              "id": "oficina-gestion",
+              "label": "Oficina de Gestión",
+              "detail": "Instrumental: apoya ministros, salas sorteadas, pleno y secretarías. No integra el tribunal votante.",
+              "sources": [
+                {
+                  "file": "biblioteca/2026/referencias/Ley-9423.pdf",
+                  "label": "Ley 9423 · art. 11",
+                  "page": 6
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        "corte",
+        "m1-estructura-judicial",
+        "m1-territorio"
+      ],
+      "hint": "Cerrá el mapa, reconstruí las relaciones y comprobá después sus fuentes.",
+      "exercise": {
+        "prompt": "¿Son iguales los tres ministros de una sala sorteada y los tres de la Sala Administrativa? ¿En pleno y plenaria son sinónimos?",
+        "answer": "No. El colegio se integra por sorteo para causas; Sala Administrativa por Presidencia y dos vicepresidencias. Art. 9 decide causa con recursos procesales previstos; art. 10 unifica por pregunta binaria en incidente y no admite recurso contra esa decisión."
+      },
+      "cautions": [
+        "La fuente es la Ley 9423, no un desarrollo supuesto del M2: M1 p.30 remite allí pero la guía de anexos documenta la remisión incompleta.",
+        "No se reutiliza el organigrama antiguo de salas permanentes de Ley 4969, derogada.",
+        "Mayoría general del pleno y elección de autoridades tienen reglas distintas."
+      ]
+    },
+    {
+      "id": "m1-normas",
+      "module": 1,
+      "title": "Jerarquía normativa y control",
+      "root": "Supremacía constitucional",
+      "rootSources": [
+        {
+          "module": 1,
+          "page": 4
+        }
+      ],
+      "lead": "Escala pedagógica del M1: compatibilidad normativa, acompañada por límites de competencia territorial.",
+      "kind": "hierarchy",
+      "area": "Estado y Constitución",
+      "priority": 1,
+      "groups": [
+        {
+          "id": "escala",
+          "title": "Orden presentado por M1",
+          "relation": "distingue niveles",
+          "nodes": [
+            {
+              "id": "nivel-constitucional",
+              "label": "1. Constitución y bloque constitucional",
+              "detail": "CN e instrumentos de DDHH con jerarquía constitucional; no todo tratado DDHH tiene ese rango.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 5
+                }
+              ]
+            },
+            {
+              "id": "nivel-integracion",
+              "label": "2. Tratados de integración regional",
+              "detail": "El módulo los sitúa en este nivel y cita art. 75 inc.24.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 5
+                }
+              ]
+            },
+            {
+              "id": "nivel-tratados",
+              "label": "3. Otros tratados y concordatos",
+              "detail": "Jerarquía superior a leyes; distinguirla del rango constitucional.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 5
+                }
+              ]
+            },
+            {
+              "id": "nivel-ley",
+              "label": "4. Leyes y decretos legislativos habilitados",
+              "detail": "Leyes del Congreso; DNU y decretos delegados constitucionalmente habilitados. La denominación decreto no determina por sí sola el rango.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 5
+                }
+              ]
+            },
+            {
+              "id": "nivel-reglamento",
+              "label": "5. Reglamentos de ejecución",
+              "detail": "Completan detalles para ejecutar la ley; no pueden contradecirla ni modificarla.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 5
+                },
+                {
+                  "module": 1,
+                  "page": 38
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "control",
+          "title": "Hacer efectiva la supremacía",
+          "relation": "requiere",
+          "nodes": [
+            {
+              "id": "constitucionalidad",
+              "label": "Control de constitucionalidad",
+              "detail": "Contrasta normas o actos inferiores con Constitución; no es otro peldaño normativo.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 5
+                }
+              ]
+            },
+            {
+              "id": "compatibilidad",
+              "label": "Compatibilidad",
+              "detail": "Art.31 se interpreta con arts. 27,28 y 75: no Constitución, tratados y leyes en igualdad de rango.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "territorial",
+          "title": "Orden provincial y municipal",
+          "relation": "debe respetar",
+          "nodes": [
+            {
+              "id": "legislacion-local",
+              "label": "Constitución y competencias propias",
+              "detail": "Legislación provincial y municipal subordinada a CN y garantías. No significa que toda ley nacional regule válidamente cualquier materia local.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 5
+                },
+                {
+                  "module": 1,
+                  "page": 9
+                }
+              ]
+            },
+            {
+              "id": "tratado-ddhh",
+              "label": "DDHH: dos situaciones",
+              "detail": "Instrumentos elevados a rango constitucional frente a otros tratados ratificados superiores a leyes; leer art. 75 inc.22.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 5
+                },
+                {
+                  "module": 3,
+                  "page": 4
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        "estado",
+        "m1-formas-administrativas"
+      ],
+      "hint": "Cerrá el mapa, reconstruí las relaciones y comprobá después sus fuentes.",
+      "exercise": {
+        "prompt": "¿Un tratado de DDHH ratificado ocupa siempre el primer nivel? ¿Un reglamento puede modificar la ley que ejecuta?",
+        "answer": "No: la jerarquía constitucional requiere supuesto o procedimiento constitucional correspondiente. El reglamento de ejecución respeta la ley y precisa detalles, sin modificarla."
+      },
+      "cautions": [
+        "Escala atribuida al esquema de M1 p.5; no sustituye análisis de competencia o del instrumento concreto.",
+        "Niveles normativos no equivalen a mando entre poderes o jurisdicciones."
+      ],
+      "edges": [
+        {
+          "from": "nivel-reglamento",
+          "to": "nivel-ley",
+          "label": "debe respetar",
+          "type": "relation"
+        },
+        {
+          "from": "nivel-ley",
+          "to": "nivel-constitucional",
+          "label": "debe ser compatible con",
+          "type": "relation"
+        }
+      ]
+    },
+    {
+      "id": "m1-designacion",
+      "module": 1,
+      "title": "Designar y remover: cuatro procedimientos",
+      "root": "Ingreso y responsabilidad de magistrados",
+      "rootSources": [
+        {
+          "module": 1,
+          "page": 24
+        }
+      ],
+      "lead": "Cada carril pertenece a un orden y cargo. Remoción no es recorrer al revés la designación.",
+      "kind": "sequence",
+      "area": "Organización judicial",
+      "priority": 1,
+      "groups": [
+        {
+          "id": "csjn-via",
+          "title": "Corte nacional",
+          "relation": "se designa mediante",
+          "nodes": [
+            {
+              "id": "csjn-eleccion",
+              "label": "1. Elección del Ejecutivo",
+              "detail": "Presidente nacional elige candidato; no remueve libremente por haberlo propuesto.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 18
+                }
+              ]
+            },
+            {
+              "id": "csjn-acuerdo",
+              "label": "2. Acuerdo del Senado",
+              "detail": "Corte: 2/3 presentes en sesión pública convocada al efecto.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 18
+                }
+              ]
+            },
+            {
+              "id": "csjn-nombramiento",
+              "label": "3. Nombramiento",
+              "detail": "Se completa con las intervenciones constitucionales; no confiere mando del Ejecutivo sobre las sentencias.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 18
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "federal-via",
+          "title": "Inferiores federales",
+          "relation": "se designa mediante",
+          "nodes": [
+            {
+              "id": "federal-concurso",
+              "label": "1. Concurso",
+              "detail": "Consejo de la Magistratura del orden correspondiente: oposición y antecedentes.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 24
+                }
+              ]
+            },
+            {
+              "id": "federal-terna",
+              "label": "2. Terna vinculante",
+              "detail": "Tres candidatos; el Ejecutivo debe elegir dentro de ella.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 24
+                }
+              ]
+            },
+            {
+              "id": "federal-eleccion",
+              "label": "3. Elección del Ejecutivo",
+              "detail": "Presidente nacional elige candidato; no remueve libremente por haberlo propuesto.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 24
+                }
+              ]
+            },
+            {
+              "id": "federal-acuerdo",
+              "label": "4. Acuerdo del Senado",
+              "detail": "Senado nacional en sesión pública.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 24
+                }
+              ]
+            },
+            {
+              "id": "federal-nombramiento",
+              "label": "5. Nombramiento",
+              "detail": "Se completa con las intervenciones constitucionales; no confiere mando del Ejecutivo sobre las sentencias.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 24
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "scjm-via",
+          "title": "Corte de Mendoza",
+          "relation": "se designa mediante",
+          "nodes": [
+            {
+              "id": "scjm-eleccion",
+              "label": "1. Elección del Ejecutivo",
+              "detail": "Gobernador provincial elige candidato; no remueve libremente por haberlo propuesto.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 30
+                }
+              ]
+            },
+            {
+              "id": "scjm-acuerdo",
+              "label": "2. Acuerdo del Senado",
+              "detail": "Senado provincial; no trasladar automáticamente mayoría federal.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 30
+                }
+              ]
+            },
+            {
+              "id": "scjm-nombramiento",
+              "label": "3. Nombramiento",
+              "detail": "Se completa con las intervenciones constitucionales; no confiere mando del Ejecutivo sobre las sentencias.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 30
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "provincial-via",
+          "title": "Inferiores provinciales",
+          "relation": "se designa mediante",
+          "nodes": [
+            {
+              "id": "provincial-concurso",
+              "label": "1. Concurso",
+              "detail": "Consejo de la Magistratura del orden correspondiente: oposición y antecedentes.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 27
+                }
+              ]
+            },
+            {
+              "id": "provincial-terna",
+              "label": "2. Terna vinculante",
+              "detail": "Tres candidatos; el Ejecutivo debe elegir dentro de ella.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 27
+                }
+              ]
+            },
+            {
+              "id": "provincial-eleccion",
+              "label": "3. Elección del Ejecutivo",
+              "detail": "Gobernador provincial elige candidato; no remueve libremente por haberlo propuesto.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 27
+                }
+              ]
+            },
+            {
+              "id": "provincial-acuerdo",
+              "label": "4. Acuerdo del Senado",
+              "detail": "Senado provincial; no trasladar automáticamente mayoría federal.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 27
+                }
+              ]
+            },
+            {
+              "id": "provincial-nombramiento",
+              "label": "5. Nombramiento",
+              "detail": "Se completa con las intervenciones constitucionales; no confiere mando del Ejecutivo sobre las sentencias.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 27
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "remocion",
+          "title": "Remoción: procedimiento distinto",
+          "relation": "se diferencia por cargo",
+          "nodes": [
+            {
+              "id": "remocion-csjn",
+              "label": "CSJN: juicio político",
+              "detail": "No remoción por el Presidente; responsabilidad constitucional por causales previstas.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 24
+                }
+              ]
+            },
+            {
+              "id": "remocion-federal",
+              "label": "Inferiores federales: Jurado",
+              "detail": "Jurado con legisladores, magistrados y abogados federales; remueve, no dicta por ello condena penal.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 25
+                }
+              ]
+            },
+            {
+              "id": "remocion-scjm",
+              "label": "SCJM: juicio político provincial",
+              "detail": "Trámite provincial; acusación ante Diputados según reglas constitucionales.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 30
+                }
+              ]
+            },
+            {
+              "id": "remocion-provincial",
+              "label": "Inferiores provinciales: Jury",
+              "detail": "Órgano provincial integrado por miembros de Corte e igual número de senadores y diputados según M1.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 27
+                }
+              ]
+            },
+            {
+              "id": "garantia-cargo",
+              "label": "Buena conducta e independencia",
+              "detail": "Inamovilidad y protección de remuneración no impiden remoción por procedimiento constitucional. En el orden federal, art. 99 inc.4 prevé nuevo nombramiento a los 75 años por cinco años renovables.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 22
+                },
+                {
+                  "module": 1,
+                  "page": 24
+                },
+                {
+                  "url": "https://www.argentina.gob.ar/normativa/nacional/ley-24430-804/texto",
+                  "label": "Constitución Nacional · Artículo 99 inciso 4",
+                  "section": "Artículo 99 inciso 4"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        "m1-estructura-judicial",
+        "m1-corte-organizacion"
+      ],
+      "hint": "Cerrá el mapa, reconstruí las relaciones y comprobá después sus fuentes.",
+      "exercise": {
+        "prompt": "Ordená designación de juez inferior mendocino. ¿Puede el gobernador después removerlo por desacuerdo con una sentencia?",
+        "answer": "Concurso del Consejo provincial → terna vinculante → elección del gobernador → acuerdo del Senado provincial → nombramiento. La remoción corresponde al Jury por procedimiento legal, no al gobernador por desacuerdo."
+      },
+      "cautions": [
+        "Jurado federal y Jury provincial no son el mismo órgano.",
+        "Inamovilidad por buena conducta no elimina responsabilidad ni procedimientos de remoción.",
+        "No repetir el error de M1 p.30 que llama exclusiva provincial a la causal crímenes comunes; también aparece en CN art. 53.",
+        "Estos carriles de magistrados no se aplican sin más al Defensor General, cuyo mandato específico se explica en la estructura."
+      ],
+      "edges": [
+        {
+          "from": "csjn-eleccion",
+          "to": "csjn-acuerdo",
+          "label": "siguiente intervención",
+          "type": "sequence"
+        },
+        {
+          "from": "csjn-acuerdo",
+          "to": "csjn-nombramiento",
+          "label": "siguiente intervención",
+          "type": "sequence"
+        },
+        {
+          "from": "federal-concurso",
+          "to": "federal-terna",
+          "label": "siguiente intervención",
+          "type": "sequence"
+        },
+        {
+          "from": "federal-terna",
+          "to": "federal-eleccion",
+          "label": "siguiente intervención",
+          "type": "sequence"
+        },
+        {
+          "from": "federal-eleccion",
+          "to": "federal-acuerdo",
+          "label": "siguiente intervención",
+          "type": "sequence"
+        },
+        {
+          "from": "federal-acuerdo",
+          "to": "federal-nombramiento",
+          "label": "siguiente intervención",
+          "type": "sequence"
+        },
+        {
+          "from": "scjm-eleccion",
+          "to": "scjm-acuerdo",
+          "label": "siguiente intervención",
+          "type": "sequence"
+        },
+        {
+          "from": "scjm-acuerdo",
+          "to": "scjm-nombramiento",
+          "label": "siguiente intervención",
+          "type": "sequence"
+        },
+        {
+          "from": "provincial-concurso",
+          "to": "provincial-terna",
+          "label": "siguiente intervención",
+          "type": "sequence"
+        },
+        {
+          "from": "provincial-terna",
+          "to": "provincial-eleccion",
+          "label": "siguiente intervención",
+          "type": "sequence"
+        },
+        {
+          "from": "provincial-eleccion",
+          "to": "provincial-acuerdo",
+          "label": "siguiente intervención",
+          "type": "sequence"
+        },
+        {
+          "from": "provincial-acuerdo",
+          "to": "provincial-nombramiento",
+          "label": "siguiente intervención",
+          "type": "sequence"
+        }
+      ]
+    },
+    {
+      "id": "m1-organos-funciones",
+      "module": 1,
+      "title": "Órganos y funciones: comparar sin confundir",
+      "root": "Distribución del poder estatal",
+      "rootSources": [
+        {
+          "module": 1,
+          "page": 10
+        }
+      ],
+      "lead": "Tres órdenes comparados por órgano; después clasificar la actividad por su contenido.",
+      "kind": "matrix",
+      "area": "Estado y Constitución",
+      "priority": 2,
+      "groups": [
+        {
+          "id": "nacion",
+          "title": "Orden nacional",
+          "relation": "distingue",
+          "nodes": [
+            {
+              "id": "nacion-leg",
+              "label": "Legislativo: Congreso",
+              "detail": "Bicameral, colegiado y complejo; función principal sancionar leyes.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 11
+                }
+              ],
+              "children": [
+                {
+                  "id": "diputados",
+                  "label": "Diputados",
+                  "detail": "Representa al pueblo: edad 25, ciudadanía 4, mandato 4; nativo del distrito o residencia inmediata de 2 años.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 12
+                    }
+                  ],
+                  "relation": "se integra por"
+                },
+                {
+                  "id": "senado",
+                  "label": "Senado",
+                  "detail": "Representa provincias y CABA: edad 30, ciudadanía 6, mandato 6; nativo del distrito o residencia inmediata de 2 años. Tres por distrito: 2 por mayoría y 1 por primera minoría; 72 en total.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 12
+                    }
+                  ],
+                  "relation": "se integra por"
+                }
+              ]
+            },
+            {
+              "id": "nacion-ej",
+              "label": "Ejecutivo: Presidente",
+              "detail": "Mandato 4 años; una reelección consecutiva o sucesión recíproca y luego intervalo de un período.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 14
+                },
+                {
+                  "module": 1,
+                  "page": 15
+                }
+              ],
+              "children": [
+                {
+                  "id": "presidente-jefaturas",
+                  "label": "Cuatro jefaturas",
+                  "detail": "Estado, Gobierno, responsabilidad política de administración general y comandante en jefe de Fuerzas Armadas.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 15
+                    },
+                    {
+                      "module": 1,
+                      "page": 16
+                    }
+                  ],
+                  "relation": "ejerce"
+                },
+                {
+                  "id": "gabinete",
+                  "label": "Jefe de Gabinete",
+                  "detail": "Ejerce administración general; distinguirlo de responsabilidad política presidencial.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 16
+                    }
+                  ],
+                  "relation": "se distingue de"
+                },
+                {
+                  "id": "vicepresidente",
+                  "label": "Vicepresidente",
+                  "detail": "Preside Senado y reemplaza al presidente en supuestos correspondientes; no cotitular ordinario del Ejecutivo.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 15
+                    }
+                  ],
+                  "relation": "tiene función propia"
+                }
+              ]
+            },
+            {
+              "id": "nacion-jud",
+              "label": "Judicial",
+              "detail": "CSJN y tribunales inferiores; orden federal y provincial coexisten.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 22
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "provincia",
+          "title": "Mendoza",
+          "relation": "distingue",
+          "nodes": [
+            {
+              "id": "prov-leg",
+              "label": "Legislatura bicameral",
+              "detail": "Diputados y Senado elegidos por secciones electorales; no son las cámaras nacionales.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 13
+                }
+              ]
+            },
+            {
+              "id": "prov-ej",
+              "label": "Gobernador y vicegobernador",
+              "detail": "Elección directa por fórmula, distrito único; no reelección inmediata según módulo.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 19
+                }
+              ]
+            },
+            {
+              "id": "prov-jud",
+              "label": "Poder Judicial provincial",
+              "detail": "Suprema Corte, cámaras y órganos inferiores creados por ley.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 26
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "municipio",
+          "title": "Municipio mendocino",
+          "relation": "distingue",
+          "nodes": [
+            {
+              "id": "municipio-deliberativo",
+              "label": "Concejo Deliberante",
+              "detail": "Órgano unicameral; régimen Ley 1079.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 14
+                }
+              ]
+            },
+            {
+              "id": "municipio-ejecutivo",
+              "label": "Intendente",
+              "detail": "Órgano ejecutivo municipal; régimen propio, no atribuciones de presidente o gobernador.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 19
+                }
+              ]
+            },
+            {
+              "id": "municipio-limite",
+              "label": "No inventar un Poder Judicial municipal equivalente",
+              "detail": "La estructura judicial provincial es la del art. 142; Concejo no es tribunal judicial.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 14
+                },
+                {
+                  "module": 1,
+                  "page": 26
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "actividad",
+          "title": "Clasificar por contenido",
+          "relation": "pregunta qué hace",
+          "nodes": [
+            {
+              "id": "actividad-ley",
+              "label": "Sancionar una ley",
+              "detail": "Función legislativa principal del Congreso.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 10
+                }
+              ]
+            },
+            {
+              "id": "actividad-compra",
+              "label": "Comprar insumos / organizar personal",
+              "detail": "Función materialmente administrativa aunque actúe Congreso o tribunal.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 20
+                },
+                {
+                  "module": 1,
+                  "page": 21
+                }
+              ]
+            },
+            {
+              "id": "actividad-sentencia",
+              "label": "Resolver litigio y hacer cumplir",
+              "detail": "Función jurisdiccional con independencia e imparcialidad.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 21
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "dnu",
+          "title": "DNU: excepción y controles",
+          "relation": "requiere condiciones",
+          "nodes": [
+            {
+              "id": "dnu-excepcional",
+              "label": "Imposibilidad de procedimiento ordinario",
+              "detail": "Circunstancias excepcionales; no facultad ordinaria para reemplazar Congreso.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 16
+                },
+                {
+                  "module": 1,
+                  "page": 17
+                }
+              ]
+            },
+            {
+              "id": "dnu-vedadas",
+              "label": "Cuatro materias vedadas",
+              "detail": "Penal, tributaria, electoral y régimen de partidos políticos.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 17
+                }
+              ]
+            },
+            {
+              "id": "dnu-control",
+              "label": "Intervenciones y control",
+              "detail": "Acuerdo general ministerial/refrendo del jefe de Gabinete; Comisión Bicameral y cámaras; posible revisión judicial.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 17
+                },
+                {
+                  "url": "https://www.argentina.gob.ar/normativa/nacional/ley-24430-804/texto",
+                  "label": "Constitución Nacional · Artículo 99 inciso 3",
+                  "section": "Artículo 99 inciso 3"
+                }
+              ],
+              "children": [
+                {
+                  "id": "dnu-jgm",
+                  "label": "Jefe de Gabinete → Comisión Bicameral",
+                  "detail": "Presentación personal dentro de diez días; no esperar silencio legislativo como convalidación.",
+                  "sources": [
+                    {
+                      "url": "https://www.argentina.gob.ar/normativa/nacional/ley-24430-804/texto",
+                      "label": "Constitución Nacional · Artículo 99 inciso 3",
+                      "section": "Artículo 99 inciso 3"
+                    }
+                  ],
+                  "relation": "inicia intervención parlamentaria"
+                },
+                {
+                  "id": "dnu-despacho",
+                  "label": "Comisión → cámaras",
+                  "detail": "Despacho en diez días al plenario de cada cámara para tratamiento expreso. La ley especial regula trámite y alcance: no es una nueva ley para cada decreto.",
+                  "sources": [
+                    {
+                      "url": "https://www.argentina.gob.ar/normativa/nacional/ley-24430-804/texto",
+                      "label": "Constitución Nacional · Artículo 99 inciso 3",
+                      "section": "Artículo 99 inciso 3"
+                    }
+                  ],
+                  "relation": "continúa con"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        "estado",
+        "m1-estructura-judicial",
+        "m1-normas"
+      ],
+      "hint": "Cerrá el mapa, reconstruí las relaciones y comprobá después sus fuentes.",
+      "exercise": {
+        "prompt": "¿Comprar papel es función jurisdiccional si lo compra un tribunal? ¿El Presidente es superior al Congreso por ser jefe de Estado?",
+        "answer": "No: la compra tiene contenido administrativo. Jefatura de Estado no significa superioridad sobre otros poderes; la distribución permite límites y control recíproco."
+      },
+      "cautions": [
+        "No transformar reelección municipal mencionada en M1 en reelección ilimitada.",
+        "No deducir número actual de diputados de fórmula poblacional de la tabla.",
+        "DNU: no repetir materia NO propia del legislativo de p.38 ni una nueva ley especial que convalida cada DNU de p.17; la revisión existente explica estos errores.",
+        "Mandatos políticos no se trasladan a duración de jueces."
+      ]
+    },
+    {
+      "id": "administracion",
+      "module": 1,
+      "title": "Jerarquía, competencia y control administrativo",
+      "root": "Organización administrativa",
+      "rootSources": [
+        {
+          "module": 1,
+          "page": 31
+        }
+      ],
+      "lead": "Esta sí puede representar dirección entre órganos de una misma persona jurídica. El ejemplo A/B/C es didáctico, no organigrama real del Poder Judicial.",
+      "kind": "hierarchy",
+      "area": "Administración",
+      "priority": 1,
+      "groups": [
+        {
+          "id": "linea",
+          "title": "Línea y grado: ejemplo genérico",
+          "relation": "se relaciona jerárquicamente",
+          "nodes": [
+            {
+              "id": "organo-a",
+              "label": "Órgano A · grado superior",
+              "detail": "La línea conecta verticalmente órganos; el grado es posición dentro de ella.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 31
+                }
+              ],
+              "children": [
+                {
+                  "id": "organo-b",
+                  "label": "Órgano B · grado intermedio",
+                  "detail": "Subordinación administrativa dentro de una misma persona jurídica.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 31
+                    }
+                  ],
+                  "children": [
+                    {
+                      "id": "organo-c",
+                      "label": "Órgano C · grado inferior",
+                      "detail": "Tercer órgano del ejemplo: la posición no autoriza a ejercer cualquier atribución.",
+                      "sources": [
+                        {
+                          "module": 1,
+                          "page": 31
+                        },
+                        {
+                          "module": 1,
+                          "page": 32
+                        }
+                      ],
+                      "relation": "dirige dentro de atribuciones"
+                    }
+                  ],
+                  "relation": "dirige dentro de atribuciones"
+                }
+              ]
+            },
+            {
+              "id": "asesoria",
+              "label": "Asesoramiento y consulta",
+              "detail": "Órganos staff fuera de líneas jerárquicas; asesorar no equivale a mandar.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 31
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "facultades",
+          "title": "Poder jerárquico",
+          "relation": "se manifiesta en",
+          "nodes": [
+            {
+              "id": "dirigir",
+              "label": "Dirigir e impulsar",
+              "detail": "Normas internas, instrucciones y órdenes particulares en el marco legal.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 31
+                }
+              ]
+            },
+            {
+              "id": "controlar",
+              "label": "Controlar y supervisar",
+              "detail": "Informes, rendición, inventarios, investigaciones y recursos administrativos.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 31
+                }
+              ]
+            },
+            {
+              "id": "avocacion",
+              "label": "Avocación",
+              "detail": "Asumir dictado de actos de competencia del inferior cuando legítimamente procede.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 31
+                },
+                {
+                  "module": 1,
+                  "page": 32
+                }
+              ]
+            },
+            {
+              "id": "delegacion",
+              "label": "Delegación",
+              "detail": "Facultar emisión de determinados actos del ámbito propio, bajo reglas de habilitación.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 31
+                },
+                {
+                  "module": 1,
+                  "page": 32
+                }
+              ]
+            },
+            {
+              "id": "conflictos",
+              "label": "Conflictos y designación",
+              "detail": "Resolver conflictos interorgánicos; designar titulares y contratar dentro de competencia.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 31
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "competencia",
+          "title": "Atribuciones del órgano",
+          "relation": "se caracteriza por",
+          "nodes": [
+            {
+              "id": "m1-20",
+              "label": "Competencia",
+              "detail": "Conjunto de atribuciones que un órgano puede y debe ejercer legítimamente.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 32
+                }
+              ],
+              "children": [
+                {
+                  "id": "competencia-fuente",
+                  "label": "Expresa o razonablemente implícita",
+                  "detail": "Debe provenir del ordenamiento positivo; no basta intención útil.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 32
+                    }
+                  ],
+                  "relation": "es"
+                },
+                {
+                  "id": "competencia-limites",
+                  "label": "Indelegable/improrrogable e irrenunciable",
+                  "detail": "No se pacta libremente; excepciones legítimas de sustitución, delegación o avocación.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 32
+                    }
+                  ],
+                  "relation": "es"
+                },
+                {
+                  "id": "competencia-cargo",
+                  "label": "Del órgano, no de la persona",
+                  "detail": "Cambiar titular no convierte la atribución en propiedad personal.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 32
+                    }
+                  ],
+                  "relation": "corresponde a"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "actividad-y-control",
+          "title": "Actividad y efectos",
+          "relation": "se estudia además mediante",
+          "nodes": [
+            {
+              "id": "m1-21",
+              "label": "Acto administrativo",
+              "detail": "Declaración unilateral en función administrativa con efectos individuales directos.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 32
+                }
+              ]
+            },
+            {
+              "id": "m1-22",
+              "label": "Ejecutividad / ejecutoriedad",
+              "detail": "Obligatorio/exigible el acto regular notificado; ejecución por sí requiere habilitación jurídica.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 34
+                },
+                {
+                  "module": 1,
+                  "page": 35
+                }
+              ]
+            },
+            {
+              "id": "m1-23",
+              "label": "Vicios: cuatro grados",
+              "detail": "Muy leve: no invalida; leve: anulabilidad; grave: nulidad; grosero: inexistencia. Evaluar circunstancias.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 36
+                },
+                {
+                  "module": 1,
+                  "page": 37
+                }
+              ]
+            },
+            {
+              "id": "m1-24",
+              "label": "Lecturas del empleo público",
+              "detail": "Reglamento arts. 3/13, Acordada 15422, DL 560 capítulo III y Ley 9665; matriz propia de obligaciones.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 39
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        "m1-formas-administrativas",
+        "m1-empleo",
+        "m1-estructura-judicial"
+      ],
+      "hint": "Cerrá el mapa, reconstruí las relaciones y comprobá después sus fuentes.",
+      "exercise": {
+        "prompt": "Si cambia el titular de B, ¿desaparece competencia? ¿Un asesor puede dar órdenes por asesorar?",
+        "answer": "La competencia corresponde al órgano, no al titular. Asesoramiento no implica integrar línea de mando. Avocar o delegar exige encuadre legal, no mera conveniencia."
+      },
+      "cautions": [
+        "No trasladar la cadena A/B/C a instrucciones sobre sentencias de jueces independientes.",
+        "Centralización y descentralización se enuncian en p.31, sin desarrollo suficiente para inventar un organigrama de entes."
+      ]
+    },
+    {
+      "id": "m1-formas-administrativas",
+      "module": 1,
+      "title": "Formas administrativas: distinguir por efectos",
+      "root": "Actividad administrativa",
+      "rootSources": [
+        {
+          "module": 1,
+          "page": 32
+        }
+      ],
+      "lead": "Matriz y clasificación: forma jurídica, elementos, efectos y controles responden preguntas diferentes.",
+      "kind": "matrix",
+      "area": "Administración",
+      "priority": 2,
+      "groups": [
+        {
+          "id": "formas",
+          "title": "¿Qué tipo de actividad es?",
+          "relation": "distingue por voluntad y efectos",
+          "nodes": [
+            {
+              "id": "forma-acto",
+              "label": "Acto administrativo",
+              "detail": "Declaración unilateral en función administrativa: efectos jurídicos individuales directos.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 32
+                },
+                {
+                  "module": 1,
+                  "page": 33
+                }
+              ]
+            },
+            {
+              "id": "forma-hecho",
+              "label": "Hecho administrativo",
+              "detail": "Actuación material; puede ejecutar un acto o existir sin acto previo.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 33
+                }
+              ]
+            },
+            {
+              "id": "forma-contrato",
+              "label": "Contrato administrativo",
+              "detail": "Concurren voluntad administrativa y cocontratante; no declaración unilateral.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 33
+                }
+              ]
+            },
+            {
+              "id": "forma-reglamento",
+              "label": "Reglamento",
+              "detail": "Efectos generales para destinatarios indeterminados; puede emanar de distintos poderes al administrar.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 37
+                }
+              ]
+            },
+            {
+              "id": "forma-simple",
+              "label": "Simple acto / acto interno",
+              "detail": "Preparatorio, efectos internos: dictamen, informe, propuesta. En principio sin impugnación autónoma ni estabilidad.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 37
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "elementos",
+          "title": "¿Qué necesita el acto?",
+          "relation": "tiene elementos",
+          "nodes": [
+            {
+              "id": "acto-competencia",
+              "label": "Competencia",
+              "detail": "Facultad atribuida al órgano emisor por norma.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 33
+                }
+              ]
+            },
+            {
+              "id": "acto-objeto",
+              "label": "Objeto",
+              "detail": "Contenido: cierto, lícito, determinado/determinable, posible, razonable y moral según módulo.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 34
+                }
+              ]
+            },
+            {
+              "id": "acto-voluntad",
+              "label": "Voluntad",
+              "detail": "Subjetivo: discernimiento, intención y libertad; objetivo: procedimiento de formación y emisión.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 34
+                }
+              ]
+            },
+            {
+              "id": "acto-forma",
+              "label": "Forma y motivación",
+              "detail": "Instrumentación escrita/oral/signos. Motivación: hechos y derecho que justifican decisión, no mera firma.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 34
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "caracteres",
+          "title": "¿Qué efectos y controles presenta?",
+          "relation": "se caracteriza por",
+          "nodes": [
+            {
+              "id": "acto-presuncion",
+              "label": "Presunción de legitimidad",
+              "detail": "Presunción que admite prueba en contrario; no blinda acto contra control.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 34
+                }
+              ]
+            },
+            {
+              "id": "acto-ejecutividad",
+              "label": "Ejecutividad",
+              "detail": "Obligatoriedad/exigibilidad del acto regular correctamente notificado.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 34
+                }
+              ]
+            },
+            {
+              "id": "acto-ejecutoriedad",
+              "label": "Ejecutoriedad",
+              "detail": "Administración ejecuta por sí cuando el ordenamiento la habilita; de lo contrario necesita vía judicial.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 35
+                }
+              ]
+            },
+            {
+              "id": "acto-impugnabilidad",
+              "label": "Impugnabilidad",
+              "detail": "Recursos en defensa de derecho subjetivo o interés legítimo conforme régimen.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 35
+                }
+              ]
+            },
+            {
+              "id": "acto-estabilidad",
+              "label": "Estabilidad",
+              "detail": "Irrevocabilidad administrativa bajo requisitos; no basta notificación aislada.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 35
+                }
+              ],
+              "children": [
+                {
+                  "id": "estabilidad-requisitos",
+                  "label": "Requisitos y excepciones",
+                  "detail": "Regular, confiere derecho subjetivo, notificado y sin norma que permita revocación. Excepciones: connivencia dolosa, revisión favorable y precariedad.",
+                  "sources": [
+                    {
+                      "module": 1,
+                      "page": 35
+                    }
+                  ],
+                  "relation": "exige examinar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "clases",
+          "title": "¿Qué clase de acto se dicta?",
+          "relation": "incluye",
+          "nodes": [
+            {
+              "id": "clase-autorizacion",
+              "label": "Autorización",
+              "detail": "Habilitación a administrado; o control previo que faculta a otro órgano a emitir acto. Distinguir ambos sentidos.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 35
+                }
+              ]
+            },
+            {
+              "id": "clase-aprobacion",
+              "label": "Aprobación",
+              "detail": "Control posterior: perfecciona acto y permite efectos desde aprobación. No confundir con autorización previa.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 35
+                }
+              ]
+            },
+            {
+              "id": "clase-permiso",
+              "label": "Permiso / dispensa",
+              "detail": "Permiso tolera ejercicio precario revocable; dispensa exime obligación normativa.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 36
+                }
+              ]
+            },
+            {
+              "id": "clase-admision",
+              "label": "Admisión / renuncia",
+              "detail": "Admisión verifica requisitos de situación general; renuncia extingue obligación concreta a favor de Administración.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 36
+                }
+              ]
+            },
+            {
+              "id": "clase-orden",
+              "label": "Orden / registro / certificación",
+              "detail": "Orden impone hacer/no hacer; registro anota actos/hechos; certificación afirma su existencia.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 36
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "validez",
+          "title": "¿Cómo se evalúa un defecto?",
+          "relation": "gradúa según circunstancias",
+          "nodes": [
+            {
+              "id": "vicio-muy-leve",
+              "label": "Muy leve → no afecta validez",
+              "detail": "No equiparar cualquier irregularidad con nulidad.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 36
+                }
+              ]
+            },
+            {
+              "id": "vicio-leve",
+              "label": "Leve → anulabilidad",
+              "detail": "Clasificación legal flexible según entidad y circunstancias.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 36
+                }
+              ]
+            },
+            {
+              "id": "vicio-grave",
+              "label": "Grave → nulidad",
+              "detail": "Evaluar gravedad de transgresión; no memorizar solo el rótulo.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 36
+                }
+              ]
+            },
+            {
+              "id": "vicio-grosero",
+              "label": "Grosero → inexistencia",
+              "detail": "Cuarto grado previsto por el material.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 37
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reglamentos",
+          "title": "Reglamentos: fuente y eficacia",
+          "relation": "distingue",
+          "nodes": [
+            {
+              "id": "regla-ejecucion",
+              "label": "Ejecución",
+              "detail": "Completa detalles para aplicar ley, sin modificarla ni contradecirla.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 38
+                }
+              ]
+            },
+            {
+              "id": "regla-autonomo",
+              "label": "Autónomo / servicio",
+              "detail": "Organización y funcionamiento interno administrativo.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 38
+                }
+              ]
+            },
+            {
+              "id": "regla-excepcion",
+              "label": "DNU / delegado",
+              "detail": "DNU: excepción del art. 99 inc. 3 y materias vedadas. Delegados: materias determinadas de administración o emergencia pública, plazo y bases fijados por Congreso (art. 76). No son autorizaciones generales.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 17
+                },
+                {
+                  "module": 1,
+                  "page": 38
+                },
+                {
+                  "url": "https://www.argentina.gob.ar/normativa/nacional/ley-24430-804/texto",
+                  "label": "Constitución Nacional · Artículo 99 inciso 3",
+                  "section": "Artículo 99 inciso 3"
+                },
+                {
+                  "url": "https://www.argentina.gob.ar/normativa/nacional/ley-24430-804/texto",
+                  "label": "Constitución Nacional · Artículo 76",
+                  "section": "Artículo 76"
+                }
+              ]
+            },
+            {
+              "id": "regla-publicidad",
+              "label": "Publicación frente a notificación",
+              "detail": "Reglamento: publicación para ejecutividad; acto individual: notificación al interesado. Atender contenido, no solo nombre externo.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 34
+                },
+                {
+                  "module": 1,
+                  "page": 38
+                }
+              ]
+            },
+            {
+              "id": "regla-silencio",
+              "label": "Silencio",
+              "detail": "No expresa voluntad por sí: solo produce significado jurídico expresamente previsto y transcurrido plazo.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 33
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        "administracion",
+        "m1-normas",
+        "m1-organos-funciones"
+      ],
+      "hint": "Reconstruí criterios y ejemplos antes de desplegar la respuesta.",
+      "exercise": {
+        "prompt": "Clasificá dictamen preparatorio, obra material, contrato y certificado individual. ¿Aprobación y autorización son iguales?",
+        "answer": "Dictamen: simple acto; obra: hecho; contrato: bilateral; certificado individual con efectos directos: acto. Autorización de control es previa, aprobación posterior. No son dos pasos obligatorios de cualquier acto."
+      },
+      "cautions": [
+        "Las ramas son criterios de clasificación, no una secuencia que todo trámite deba recorrer.",
+        "No trasladar al DNU la frase errónea materia NO propia del legislativo de p.38.",
+        "La estabilidad tiene requisitos/excepciones; la clasificación de vicios requiere circunstancias."
+      ]
+    },
+    {
+      "id": "m1-empleo",
+      "module": 1,
+      "title": "Empleo judicial: deberes, prohibiciones y fuentes",
+      "root": "Reglas del agente judicial",
+      "rootSources": [
+        {
+          "module": 1,
+          "page": 39
+        }
+      ],
+      "lead": "Agrupación temática propia para recuperar reglas. Las normas e incisos completos siguen accesibles desde cada fuente.",
+      "kind": "matrix",
+      "area": "Empleo judicial",
+      "priority": 2,
+      "groups": [
+        {
+          "id": "fuentes-empleo",
+          "title": "Qué integra la lectura",
+          "relation": "remite a",
+          "nodes": [
+            {
+              "id": "reglamento-empleo",
+              "label": "Reglamento PJ, arts. 3 y 13",
+              "detail": "Obligaciones generales y específicas del personal; no convertir todo el reglamento histórico en lectura exigida.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 39
+                },
+                {
+                  "file": "biblioteca/2026/referencias/Reglamento-Poder-Judicial.pdf",
+                  "label": "Reglamento PJ · art. 3",
+                  "page": 1
+                },
+                {
+                  "file": "biblioteca/2026/referencias/Reglamento-Poder-Judicial.pdf",
+                  "label": "Reglamento PJ · art. 13",
+                  "page": 6
+                }
+              ]
+            },
+            {
+              "id": "acordada-residencia",
+              "label": "Residencia: texto modificado",
+              "detail": "25 km del texto histórico → 100 km por Acordada 15422. M1 exceptúa cumplirlo al rendir; no confundir momentos de exigencia.",
+              "sources": [
+                {
+                  "file": "biblioteca/2026/referencias/Reglamento-Poder-Judicial.pdf",
+                  "label": "Reglamento PJ · art. 3",
+                  "page": 1
+                },
+                {
+                  "file": "biblioteca/2026/referencias/Acordada-15422.pdf",
+                  "label": "Acordada 15422 · residencia",
+                  "page": 1
+                },
+                {
+                  "module": 1,
+                  "page": 39
+                }
+              ]
+            },
+            {
+              "id": "estatuto-empleo",
+              "label": "DL 560/73, capítulo III",
+              "detail": "Deberes art. 13 y prohibiciones art. 14; copia PDF compilada a 1997, no texto consolidado actual completo.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 39
+                },
+                {
+                  "file": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+                  "label": "DL 560 · art. 13",
+                  "page": 4
+                },
+                {
+                  "file": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+                  "label": "DL 560 · arts. 13–14",
+                  "page": 5
+                },
+                {
+                  "file": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+                  "label": "DL 560 · art. 14",
+                  "page": 6
+                }
+              ]
+            },
+            {
+              "id": "ley9665",
+              "label": "Ley 9665",
+              "detail": "Modificatoria que acompaña remisión del programa; no sustituye arts. 13/14. Leer cambios sin trasladar versiones antiguas de artículos reemplazados.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 39
+                },
+                {
+                  "file": "biblioteca/2026/referencias/Ley-9665-lectura.html",
+                  "label": "Ley 9665 · modificatoria",
+                  "section": "Artículos 1 a 7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "integridad",
+          "title": "Integridad e imparcialidad",
+          "relation": "requiere y prohíbe",
+          "nodes": [
+            {
+              "id": "integridad-reglamento",
+              "label": "Reglamento art. 3",
+              "detail": "Conducta irreprochable, imparcialidad y rechazo de dádivas; incompatibilidades y límites a gestiones/asesoramiento.",
+              "sources": [
+                {
+                  "file": "biblioteca/2026/referencias/Reglamento-Poder-Judicial.pdf",
+                  "label": "Reglamento PJ · art. 3",
+                  "page": 1
+                },
+                {
+                  "file": "biblioteca/2026/referencias/Reglamento-Poder-Judicial.pdf",
+                  "label": "Reglamento PJ · art. 3, continuación",
+                  "page": 2
+                }
+              ]
+            },
+            {
+              "id": "integridad-deber",
+              "label": "DL 560 art. 13: deberes",
+              "detail": "Conducta decorosa, rechazo de beneficios y excusación ante parcialidad.",
+              "sources": [
+                {
+                  "file": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+                  "label": "DL 560 · art. 13",
+                  "page": 4
+                },
+                {
+                  "file": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+                  "label": "DL 560 · arts. 13–14",
+                  "page": 5
+                }
+              ]
+            },
+            {
+              "id": "integridad-prohibicion",
+              "label": "DL 560 art. 14: prohibiciones",
+              "detail": "Intereses incompatibles, beneficios de contrataciones y gestión de terceros vinculada con función.",
+              "sources": [
+                {
+                  "file": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+                  "label": "DL 560 · arts. 13–14",
+                  "page": 5
+                },
+                {
+                  "file": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+                  "label": "DL 560 · art. 14",
+                  "page": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "servicio",
+          "title": "Atención y prestación",
+          "relation": "exige",
+          "nodes": [
+            {
+              "id": "servicio-personal",
+              "label": "Trabajo diligente",
+              "detail": "Prestación personal eficiente, horario, tacto y cortesía en el trato.",
+              "sources": [
+                {
+                  "file": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+                  "label": "DL 560 · art. 13",
+                  "page": 4
+                },
+                {
+                  "file": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+                  "label": "DL 560 · arts. 13–14",
+                  "page": 5
+                }
+              ]
+            },
+            {
+              "id": "servicio-info",
+              "label": "Información pertinente",
+              "detail": "Reglamento art. 13: deferencia e información apropiada; no asesorar estrategia jurídica de litigante.",
+              "sources": [
+                {
+                  "file": "biblioteca/2026/referencias/Reglamento-Poder-Judicial.pdf",
+                  "label": "Reglamento PJ · art. 13",
+                  "page": 6
+                },
+                {
+                  "file": "biblioteca/2026/referencias/Reglamento-Poder-Judicial.pdf",
+                  "label": "Reglamento PJ · art. 3",
+                  "page": 1
+                }
+              ]
+            },
+            {
+              "id": "servicio-ausencia",
+              "label": "Ausencia y abandono",
+              "detail": "Avisar ausencia justificada a jefe/sustituto; no abandonar labor sin permiso.",
+              "sources": [
+                {
+                  "file": "biblioteca/2026/referencias/Reglamento-Poder-Judicial.pdf",
+                  "label": "Reglamento PJ · art. 13",
+                  "page": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "jerarquia-empleo",
+          "title": "Jerarquía con límites",
+          "relation": "requiere verificar",
+          "nodes": [
+            {
+              "id": "obediencia",
+              "label": "Orden válida",
+              "detail": "Superior competente, orden formalmente regular y compatible con función. Mando no crea atribuciones ilimitadas.",
+              "sources": [
+                {
+                  "file": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+                  "label": "DL 560 · art. 13",
+                  "page": 4
+                }
+              ]
+            },
+            {
+              "id": "via-jerarquica",
+              "label": "Peticiones por vía jerárquica",
+              "detail": "Reglamento: salvo injusta denegación; DL 560 prohíbe vías ajenas en supuestos de su texto.",
+              "sources": [
+                {
+                  "file": "biblioteca/2026/referencias/Reglamento-Poder-Judicial.pdf",
+                  "label": "Reglamento PJ · art. 13",
+                  "page": 6
+                },
+                {
+                  "file": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+                  "label": "DL 560 · art. 14",
+                  "page": 6
+                }
+              ]
+            },
+            {
+              "id": "disciplina",
+              "label": "Control y disciplina",
+              "detail": "Declarar en sumarios, someterse a controles y jurisdicción disciplinaria según régimen.",
+              "sources": [
+                {
+                  "file": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+                  "label": "DL 560 · arts. 13–14",
+                  "page": 5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reserva-bienes",
+          "title": "Reserva, documentación y bienes",
+          "relation": "protege",
+          "nodes": [
+            {
+              "id": "reserva",
+              "label": "Reserva de información",
+              "detail": "Secreto de asuntos conocidos por función; deber persiste tras cese. No divulgar por amistad.",
+              "sources": [
+                {
+                  "file": "biblioteca/2026/referencias/Reglamento-Poder-Judicial.pdf",
+                  "label": "Reglamento PJ · art. 3",
+                  "page": 1
+                },
+                {
+                  "file": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+                  "label": "DL 560 · art. 13",
+                  "page": 4
+                },
+                {
+                  "file": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+                  "label": "DL 560 · arts. 13–14",
+                  "page": 5
+                }
+              ]
+            },
+            {
+              "id": "documentos",
+              "label": "Documentos e información",
+              "detail": "No aprovechar información ni retirar/copiar documentación indebidamente; respetar reglas de copias.",
+              "sources": [
+                {
+                  "file": "biblioteca/2026/referencias/Reglamento-Poder-Judicial.pdf",
+                  "label": "Reglamento PJ · art. 13",
+                  "page": 6
+                },
+                {
+                  "file": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+                  "label": "DL 560 · art. 14",
+                  "page": 6
+                }
+              ]
+            },
+            {
+              "id": "bienes",
+              "label": "Bienes y recursos",
+              "detail": "Conservar bienes; no destinarlos a uso particular ni emplear personal para fines privados.",
+              "sources": [
+                {
+                  "file": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+                  "label": "DL 560 · arts. 13–14",
+                  "page": 5
+                },
+                {
+                  "file": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+                  "label": "DL 560 · art. 14",
+                  "page": 6
+                },
+                {
+                  "file": "biblioteca/2026/referencias/Reglamento-Poder-Judicial.pdf",
+                  "label": "Reglamento PJ · art. 13",
+                  "page": 6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "datos-plazos",
+          "title": "Datos y dos plazos diferentes",
+          "relation": "distingue",
+          "nodes": [
+            {
+              "id": "renuncia-plazo",
+              "label": "Renuncia: permanencia hasta 30 días corridos",
+              "detail": "Salvo reemplazo, aceptación o autorización de cese antes; art. 13 inc.h.",
+              "sources": [
+                {
+                  "file": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+                  "label": "DL 560 · arts. 13–14",
+                  "page": 5
+                }
+              ]
+            },
+            {
+              "id": "familia-plazo",
+              "label": "Cambios familiares: 30 días",
+              "detail": "Comunicar dentro de treinta días de producido el cambio de estado civil o las variantes familiares, con documentación; art. 13 inc. r. El inciso no agrega aquí la palabra corridos.",
+              "sources": [
+                {
+                  "file": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+                  "label": "DL 560 · arts. 13–14",
+                  "page": 5
+                }
+              ]
+            },
+            {
+              "id": "datos",
+              "label": "Datos y actividades",
+              "detail": "Informar domicilio, actividades e ingresos y otros datos exigidos; verificar cada inciso fuente.",
+              "sources": [
+                {
+                  "file": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+                  "label": "DL 560 · art. 13",
+                  "page": 4
+                },
+                {
+                  "file": "biblioteca/2026/referencias/Decreto-Ley-560.pdf",
+                  "label": "DL 560 · arts. 13–14",
+                  "page": 5
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        "administracion",
+        "m1-formas-administrativas"
+      ],
+      "hint": "Reconstruí criterios y ejemplos antes de desplegar la respuesta.",
+      "exercise": {
+        "prompt": "Un superior pide copia reservada para un conocido. ¿Basta la orden? ¿Los dos plazos de 30 días se refieren al examen?",
+        "answer": "No basta: verificar competencia, regularidad y compatibilidad; reserva y prohibición de copia indebida siguen rigiendo. Los plazos tratan permanencia tras renuncia y actualización familiar, no inscripción/examen."
+      },
+      "cautions": [
+        "Agrupación original: no suprime ninguno de los incisos de lectura obligatoria; abrir artículos completos para recuperación exhaustiva.",
+        "La convocatoria tiene reglas de residencia al ingreso: no unificar su formulación con excepción de M1 al rendir.",
+        "La denominación funcionario/empleado no determina por sí sola diferencia esencial de régimen según M1."
+      ]
+    },
+    {
+      "id": "m1-territorio",
+      "module": 1,
+      "title": "Cuatro circunscripciones, un eje territorial",
+      "root": "Territorio judicial de Mendoza",
+      "rootSources": [
+        {
+          "module": 2,
+          "page": 11
+        }
+      ],
+      "lead": "Cada circunscripción reúne departamentos. No es una instancia ni define por sí sola materia o vía recursiva.",
+      "kind": "hierarchy",
+      "area": "Organización judicial",
+      "priority": 1,
+      "groups": [
+        {
+          "id": "distribucion",
+          "title": "Departamentos por circunscripción",
+          "relation": "se distribuye territorialmente en",
+          "nodes": [
+            {
+              "id": "territorio-primera",
+              "label": "Primera Circunscripción",
+              "detail": "7 departamentos; distribución de la FAQ oficial 2026.",
+              "sources": [
+                {
+                  "module": 2,
+                  "page": 11
+                },
+                {
+                  "module": 2,
+                  "page": 36
+                },
+                {
+                  "url": "https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026/",
+                  "label": "Concurso administrativo 2026 · preguntas frecuentes",
+                  "section": "Circunscripciones judiciales y departamentos"
+                }
+              ],
+              "children": [
+                {
+                  "id": "departamento-primera-0",
+                  "label": "Capital",
+                  "detail": "Departamento integrado en la primera Circunscripción. Esto no asigna órgano ni competencia material concreta.",
+                  "sources": [
+                    {
+                      "url": "https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026/",
+                      "label": "Concurso administrativo 2026 · preguntas frecuentes",
+                      "section": "Circunscripciones judiciales y departamentos"
+                    }
+                  ],
+                  "relation": "comprende"
+                },
+                {
+                  "id": "departamento-primera-1",
+                  "label": "Godoy Cruz",
+                  "detail": "Departamento integrado en la primera Circunscripción. Esto no asigna órgano ni competencia material concreta.",
+                  "sources": [
+                    {
+                      "url": "https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026/",
+                      "label": "Concurso administrativo 2026 · preguntas frecuentes",
+                      "section": "Circunscripciones judiciales y departamentos"
+                    }
+                  ],
+                  "relation": "comprende"
+                },
+                {
+                  "id": "departamento-primera-2",
+                  "label": "Maipú",
+                  "detail": "Departamento integrado en la primera Circunscripción. Esto no asigna órgano ni competencia material concreta.",
+                  "sources": [
+                    {
+                      "url": "https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026/",
+                      "label": "Concurso administrativo 2026 · preguntas frecuentes",
+                      "section": "Circunscripciones judiciales y departamentos"
+                    }
+                  ],
+                  "relation": "comprende"
+                },
+                {
+                  "id": "departamento-primera-3",
+                  "label": "Las Heras",
+                  "detail": "Departamento integrado en la primera Circunscripción. Esto no asigna órgano ni competencia material concreta.",
+                  "sources": [
+                    {
+                      "url": "https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026/",
+                      "label": "Concurso administrativo 2026 · preguntas frecuentes",
+                      "section": "Circunscripciones judiciales y departamentos"
+                    }
+                  ],
+                  "relation": "comprende"
+                },
+                {
+                  "id": "departamento-primera-4",
+                  "label": "Guaymallén",
+                  "detail": "Departamento integrado en la primera Circunscripción. Esto no asigna órgano ni competencia material concreta.",
+                  "sources": [
+                    {
+                      "url": "https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026/",
+                      "label": "Concurso administrativo 2026 · preguntas frecuentes",
+                      "section": "Circunscripciones judiciales y departamentos"
+                    }
+                  ],
+                  "relation": "comprende"
+                },
+                {
+                  "id": "departamento-primera-5",
+                  "label": "Luján de Cuyo",
+                  "detail": "Departamento integrado en la primera Circunscripción. Esto no asigna órgano ni competencia material concreta.",
+                  "sources": [
+                    {
+                      "url": "https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026/",
+                      "label": "Concurso administrativo 2026 · preguntas frecuentes",
+                      "section": "Circunscripciones judiciales y departamentos"
+                    }
+                  ],
+                  "relation": "comprende"
+                },
+                {
+                  "id": "departamento-primera-6",
+                  "label": "Lavalle",
+                  "detail": "Departamento integrado en la primera Circunscripción. Esto no asigna órgano ni competencia material concreta.",
+                  "sources": [
+                    {
+                      "url": "https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026/",
+                      "label": "Concurso administrativo 2026 · preguntas frecuentes",
+                      "section": "Circunscripciones judiciales y departamentos"
+                    }
+                  ],
+                  "relation": "comprende"
+                }
+              ]
+            },
+            {
+              "id": "territorio-segunda",
+              "label": "Segunda Circunscripción",
+              "detail": "3 departamentos; distribución de la FAQ oficial 2026.",
+              "sources": [
+                {
+                  "module": 2,
+                  "page": 11
+                },
+                {
+                  "module": 2,
+                  "page": 36
+                },
+                {
+                  "url": "https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026/",
+                  "label": "Concurso administrativo 2026 · preguntas frecuentes",
+                  "section": "Circunscripciones judiciales y departamentos"
+                }
+              ],
+              "children": [
+                {
+                  "id": "departamento-segunda-0",
+                  "label": "San Rafael",
+                  "detail": "Departamento integrado en la segunda Circunscripción. Esto no asigna órgano ni competencia material concreta.",
+                  "sources": [
+                    {
+                      "url": "https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026/",
+                      "label": "Concurso administrativo 2026 · preguntas frecuentes",
+                      "section": "Circunscripciones judiciales y departamentos"
+                    }
+                  ],
+                  "relation": "comprende"
+                },
+                {
+                  "id": "departamento-segunda-1",
+                  "label": "General Alvear",
+                  "detail": "Departamento integrado en la segunda Circunscripción. Esto no asigna órgano ni competencia material concreta.",
+                  "sources": [
+                    {
+                      "url": "https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026/",
+                      "label": "Concurso administrativo 2026 · preguntas frecuentes",
+                      "section": "Circunscripciones judiciales y departamentos"
+                    }
+                  ],
+                  "relation": "comprende"
+                },
+                {
+                  "id": "departamento-segunda-2",
+                  "label": "Malargüe",
+                  "detail": "Departamento integrado en la segunda Circunscripción. Esto no asigna órgano ni competencia material concreta.",
+                  "sources": [
+                    {
+                      "url": "https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026/",
+                      "label": "Concurso administrativo 2026 · preguntas frecuentes",
+                      "section": "Circunscripciones judiciales y departamentos"
+                    }
+                  ],
+                  "relation": "comprende"
+                }
+              ]
+            },
+            {
+              "id": "territorio-tercera",
+              "label": "Tercera Circunscripción",
+              "detail": "5 departamentos; distribución de la FAQ oficial 2026.",
+              "sources": [
+                {
+                  "module": 2,
+                  "page": 11
+                },
+                {
+                  "module": 2,
+                  "page": 36
+                },
+                {
+                  "url": "https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026/",
+                  "label": "Concurso administrativo 2026 · preguntas frecuentes",
+                  "section": "Circunscripciones judiciales y departamentos"
+                }
+              ],
+              "children": [
+                {
+                  "id": "departamento-tercera-0",
+                  "label": "San Martín",
+                  "detail": "Departamento integrado en la tercera Circunscripción. Esto no asigna órgano ni competencia material concreta.",
+                  "sources": [
+                    {
+                      "url": "https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026/",
+                      "label": "Concurso administrativo 2026 · preguntas frecuentes",
+                      "section": "Circunscripciones judiciales y departamentos"
+                    }
+                  ],
+                  "relation": "comprende"
+                },
+                {
+                  "id": "departamento-tercera-1",
+                  "label": "Junín",
+                  "detail": "Departamento integrado en la tercera Circunscripción. Esto no asigna órgano ni competencia material concreta.",
+                  "sources": [
+                    {
+                      "url": "https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026/",
+                      "label": "Concurso administrativo 2026 · preguntas frecuentes",
+                      "section": "Circunscripciones judiciales y departamentos"
+                    }
+                  ],
+                  "relation": "comprende"
+                },
+                {
+                  "id": "departamento-tercera-2",
+                  "label": "Santa Rosa",
+                  "detail": "Departamento integrado en la tercera Circunscripción. Esto no asigna órgano ni competencia material concreta.",
+                  "sources": [
+                    {
+                      "url": "https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026/",
+                      "label": "Concurso administrativo 2026 · preguntas frecuentes",
+                      "section": "Circunscripciones judiciales y departamentos"
+                    }
+                  ],
+                  "relation": "comprende"
+                },
+                {
+                  "id": "departamento-tercera-3",
+                  "label": "La Paz",
+                  "detail": "Departamento integrado en la tercera Circunscripción. Esto no asigna órgano ni competencia material concreta.",
+                  "sources": [
+                    {
+                      "url": "https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026/",
+                      "label": "Concurso administrativo 2026 · preguntas frecuentes",
+                      "section": "Circunscripciones judiciales y departamentos"
+                    }
+                  ],
+                  "relation": "comprende"
+                },
+                {
+                  "id": "departamento-tercera-4",
+                  "label": "Rivadavia",
+                  "detail": "Departamento integrado en la tercera Circunscripción. Esto no asigna órgano ni competencia material concreta.",
+                  "sources": [
+                    {
+                      "url": "https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026/",
+                      "label": "Concurso administrativo 2026 · preguntas frecuentes",
+                      "section": "Circunscripciones judiciales y departamentos"
+                    }
+                  ],
+                  "relation": "comprende"
+                }
+              ]
+            },
+            {
+              "id": "territorio-cuarta",
+              "label": "Cuarta Circunscripción",
+              "detail": "3 departamentos; distribución de la FAQ oficial 2026.",
+              "sources": [
+                {
+                  "module": 2,
+                  "page": 11
+                },
+                {
+                  "module": 2,
+                  "page": 36
+                },
+                {
+                  "url": "https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026/",
+                  "label": "Concurso administrativo 2026 · preguntas frecuentes",
+                  "section": "Circunscripciones judiciales y departamentos"
+                }
+              ],
+              "children": [
+                {
+                  "id": "departamento-cuarta-0",
+                  "label": "Tunuyán",
+                  "detail": "Departamento integrado en la cuarta Circunscripción. Esto no asigna órgano ni competencia material concreta.",
+                  "sources": [
+                    {
+                      "url": "https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026/",
+                      "label": "Concurso administrativo 2026 · preguntas frecuentes",
+                      "section": "Circunscripciones judiciales y departamentos"
+                    }
+                  ],
+                  "relation": "comprende"
+                },
+                {
+                  "id": "departamento-cuarta-1",
+                  "label": "Tupungato",
+                  "detail": "Departamento integrado en la cuarta Circunscripción. Esto no asigna órgano ni competencia material concreta.",
+                  "sources": [
+                    {
+                      "url": "https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026/",
+                      "label": "Concurso administrativo 2026 · preguntas frecuentes",
+                      "section": "Circunscripciones judiciales y departamentos"
+                    }
+                  ],
+                  "relation": "comprende"
+                },
+                {
+                  "id": "departamento-cuarta-2",
+                  "label": "San Carlos",
+                  "detail": "Departamento integrado en la cuarta Circunscripción. Esto no asigna órgano ni competencia material concreta.",
+                  "sources": [
+                    {
+                      "url": "https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026/",
+                      "label": "Concurso administrativo 2026 · preguntas frecuentes",
+                      "section": "Circunscripciones judiciales y departamentos"
+                    }
+                  ],
+                  "relation": "comprende"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ejes-territorio",
+          "title": "Elegir órgano requiere otros ejes",
+          "relation": "se distingue de",
+          "nodes": [
+            {
+              "id": "territorio-materia",
+              "label": "Materia",
+              "detail": "Identificar el conflicto y las reglas del fuero; el color territorial no las sustituye.",
+              "sources": [
+                {
+                  "module": 2,
+                  "page": 21
+                },
+                {
+                  "module": 1,
+                  "page": 26
+                }
+              ]
+            },
+            {
+              "id": "territorio-grado",
+              "label": "Instancia o revisión",
+              "detail": "Circunscripción no equivale a primera/segunda instancia; las apelaciones tienen reglas particulares.",
+              "sources": [
+                {
+                  "module": 2,
+                  "page": 21
+                }
+              ]
+            },
+            {
+              "id": "territorio-orden",
+              "label": "Federal o provincial",
+              "detail": "Un juzgado federal dentro de un departamento mendocino conserva orden federal.",
+              "sources": [
+                {
+                  "module": 1,
+                  "page": 22
+                },
+                {
+                  "module": 1,
+                  "page": 23
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "uso-territorio",
+          "title": "Uso al comunicar",
+          "relation": "ayuda a localizar",
+          "nodes": [
+            {
+              "id": "bus-territorio",
+              "label": "Bus Federal",
+              "detail": "Conocer circunscripción ayuda a identificar oficina receptora; verificar destinataria y requisitos de comunicación.",
+              "sources": [
+                {
+                  "module": 2,
+                  "page": 11
+                },
+                {
+                  "module": 2,
+                  "page": 36
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "related": [
+        "m1-estructura-judicial",
+        "m1-corte-organizacion"
+      ],
+      "hint": "Reconstruí criterios y ejemplos antes de desplegar la respuesta.",
+      "exercise": {
+        "prompt": "Ubicá San Carlos, Lavalle, Rivadavia y General Alvear. ¿Ese dato define el tribunal de apelación?",
+        "answer": "San Carlos: Cuarta; Lavalle: Primera; Rivadavia: Tercera; General Alvear: Segunda. No: aún deben verificarse materia, órgano, instancia y reglas recursivas."
+      },
+      "cautions": [
+        "La distribución departamental procede de FAQ oficial 2026. M2, pp. 11 y 36, confirma cuatro circunscripciones; no se atribuye el detalle territorial al M1.",
+        "No es directorio de sedes, turnos o competencias actuales de cada oficina.",
+        "Las circunscripciones no están subordinadas jerárquicamente entre sí."
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "proposal": "Estado existente",
+      "mapIds": [
+        "estado"
+      ],
+      "note": "Enriquecido con constituyente/constituido, república y autonomía."
+    },
+    {
+      "proposal": "M1-A",
+      "mapIds": [
+        "m1-estructura-judicial",
+        "m1-territorio"
+      ],
+      "note": "Paneles de órdenes, ministerios públicos y eje territorial."
+    },
+    {
+      "proposal": "M1-B",
+      "mapIds": [
+        "m1-normas"
+      ],
+      "note": "Escala normativa atribuida al esquema M1 y control."
+    },
+    {
+      "proposal": "M1-C",
+      "mapIds": [
+        "m1-designacion"
+      ],
+      "note": "Cuatro carriles y remoción diferenciada."
+    },
+    {
+      "proposal": "Corte existente",
+      "mapIds": [
+        "corte"
+      ],
+      "note": "Tres funciones con ejemplos y límites."
+    },
+    {
+      "proposal": "Ley 9423",
+      "mapIds": [
+        "m1-corte-organizacion"
+      ],
+      "note": "Norma local y guía de anexos completan remisión interna faltante."
+    },
+    {
+      "proposal": "M1-D",
+      "mapIds": [
+        "m1-organos-funciones"
+      ],
+      "note": "Matriz de órdenes y funciones; DNU con cautelas."
+    },
+    {
+      "proposal": "M1-E",
+      "mapIds": [
+        "administracion"
+      ],
+      "note": "Línea/grado/staff; facultades y competencia."
+    },
+    {
+      "proposal": "M1-F",
+      "mapIds": [
+        "m1-formas-administrativas"
+      ],
+      "note": "Formas, elementos, caracteres, clases, vicios y reglamentos."
+    },
+    {
+      "proposal": "M1-G",
+      "mapIds": [
+        "m1-empleo"
+      ],
+      "note": "Deberes/prohibiciones, residencia, remisiones y plazos."
+    }
+  ]
+}

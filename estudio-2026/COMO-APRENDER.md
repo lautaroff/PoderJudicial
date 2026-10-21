@@ -1,8 +1,10 @@
 # Cómo usar el atlas de memoria
 
-Recursos originales para estudiar el programa administrativo 2026. El atlas reúne **12 mapas, 120 tarjetas de recuperación —24 por módulo—, 12 contrastes y 15 casos breves**. Todos los conceptos incluyen página del PDF oficial; las ayudas de memoria son propias y no cambian reglas jurídicas. No son preguntas oficiales y no garantizan una nota.
+Recursos originales para estudiar el programa administrativo 2026. El atlas reúne **mapas ampliados por módulos, 120 tarjetas de recuperación —24 por módulo—, 12 contrastes y 15 casos breves**. Los conceptos incluyen una fuente primaria y página del PDF o artículo de la norma HTML; las ayudas de memoria son propias y no cambian reglas jurídicas. No son preguntas oficiales y no garantizan una nota.
 
 Abrí [el atlas de memoria](../memoria.html) desde el cuaderno o haciendo doble clic. Funciona sin conexión cuando se conserva la biblioteca local. Las páginas indicadas cuentan la portada del archivo PDF; si el visor no salta al lugar, ingresá manualmente ese número.
+
+La ampliación del 21/10 añade estructuras por niveles, flujos con decisiones, búsqueda y enfoque por rama. Consultá [cómo usar los mapas ampliados](GUIA-MAPAS-2026.md).
 
 ## Una sesión que produzca recuerdos
 

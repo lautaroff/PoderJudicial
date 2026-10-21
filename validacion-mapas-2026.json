@@ -1,0 +1,26 @@
+{
+  "fecha": "2026-10-21",
+  "estado": "PASS",
+  "mapas": 49,
+  "mapas_por_modulo": {
+    "1": 11,
+    "2": 25,
+    "3": 3,
+    "4": 5,
+    "5": 5
+  },
+  "nodos_con_fuente": 964,
+  "conexiones_explicitas": 257,
+  "referencias": 1217,
+  "pdf_distintos": 13,
+  "tarjetas_preservadas": 120,
+  "contrastes_preservados": 12,
+  "casos_preservados": 15,
+  "pendientes": [],
+  "errores": [],
+  "partes_sha256": {
+    "m1.json": "a98a4bb2651aef9eb99941a8cd2a44f828a84dccce0a4ecc4a5859c2ab995c08",
+    "m2.json": "30204f6e07841b76917a3283f3ae1ddd6bfe0b653b9cde598755c7d448fc747f",
+    "m3-m5.json": "828c4c20bd1eb6bbc2bbdde0edad5d2cd6a3b3379c9d35ffcf4e8f9fcbfad36f"
+  }
+}

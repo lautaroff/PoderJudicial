@@ -31,11 +31,13 @@ Los avances completados se guardan sólo en este navegador. En el simulador prin
 
 Desde el 15/10/2026, el simulador registra las preguntas al mostrarlas, incluso si se abandona. En estudio entrega hasta diez preguntas nuevas del filtro elegido, sin rellenar con conocidas si quedan menos de diez. Una vez agotadas, informa que empieza un repaso y prioriza las menos vistas y más antiguas. Los simulacros conservan su cantidad y distribución, priorizando nuevas; si necesitan repetir lo indican. Comprensión alterna los seis pasajes antes de repetir. El historial previo se aprovecha cuando contiene IDs. El registro de exposición también se exporta y se conserva al borrar resultados; «Repasar mis errores» permite repetir intencionalmente.
 
+Desde el 21/10/2026, el atlas incorpora mapas por niveles, flujos con decisiones, búsqueda por concepto y enfoque por rama. Empezá por [la estructura judicial](memoria.html#map=m1-estructura-judicial) y consultá [cómo estudiar con los mapas ampliados](estudio-2026/GUIA-MAPAS-2026.md). Las fuentes siguen disponibles al practicar y las explicaciones propias se conservan al exportar.
+
 ## Documentos y reproducibilidad
 
 [Manual](MANUAL-DE-PREPARACION.md) · [Plan](PLAN-DE-ESTUDIO.md) · [Etapas](GUIA-CONCURSO-2026.md) · [Biblioteca](BIBLIOTECA-Y-TEMARIO.md) · [Comparación](ACTUALIZACION-2026.md) · [Revisión](REVISION-CONTENIDO.md) · [Ejercicios imprimibles](CUADERNO-DE-EJERCICIOS.html).
 
-Para regenerar datos después de editar guías y bancos: `python integrar_documentos_2026.py`, `python integrar_bancos_2026.py`, `python generar_fuentes_2026.py`, `python preparar_material.py`, `python preparar_taller.py`. Verificar con `node verificar_simulador.cjs`; empaquetar con `python empaquetar.py`. Los MP4 se conservan ya renderizados. Estos scripts requieren Python y las bibliotecas usadas por los autores; estudiar con el paquete generado no requiere ejecutarlos.
+Para regenerar datos después de editar guías y bancos: `python integrar_documentos_2026.py`, `python integrar_bancos_2026.py`, `python generar_fuentes_2026.py`, `python preparar_mapas.py`, `python preparar_material.py`, `python preparar_taller.py`. Verificar con `node verificar_simulador.cjs`; empaquetar con `python empaquetar.py`. Los MP4 se conservan ya renderizados. Estos scripts requieren Python y las bibliotecas usadas por los autores; estudiar con el paquete generado no requiere ejecutarlos.
 
 Procedencia: [material oficial 2026](https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026-material-de-estudio/), [convocatoria y novedades](https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026/). Fecha de descarga, URL y SHA-256 en los manifiestos de la biblioteca.
 

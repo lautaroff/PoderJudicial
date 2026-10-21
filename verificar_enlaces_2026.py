@@ -37,7 +37,16 @@ def walk(node,label):
             source_items=node.get('sources',node.get('rootSources'))
             assert source_items,label
             for s in source_items:
-                pdf(s.get('file') or mods[s['module']]['file'],s['page'],label);sourcecount+=1
+                path=s.get('file') or s.get('url') or mods[s['module']]['file']
+                if path.startswith(('https:','http:')):
+                    pass
+                elif path.lower().endswith('.pdf'):
+                    pdf(path,s['page'],label)
+                elif not (ROOT/path).is_file():
+                    errors.append([label,'Fuente local ausente',path])
+                elif s.get('page'):
+                    errors.append([label,'Página inventada en fuente no PDF',path])
+                sourcecount+=1
         for key,value in node.items():walk(value,label+'/'+key)
     elif isinstance(node,list):
         for i,value in enumerate(node):walk(value,label+'/'+str(i))
@@ -51,7 +60,7 @@ for r in records:
     if hashlib.sha256(file.read_bytes()).hexdigest()!=r['sha256']:errors.append([r['titulo'],'Hash distinto'])
     if file.suffix=='.pdf':pdf(r['archivo'],r['paginas'],r['titulo'])
     hashes+=1
-report={'fecha':'2026-10-12','documentos_estudio':len(docs),'enlaces_locales':links,'referencias_pdf_paginadas':checked,'conceptos_visuales_con_fuente':concepts,'fuentes_visuales':sourcecount,'hashes_comprobados':hashes,'pdf_distintos':len(pages),'errores':errors}
+report={'fecha':'2026-10-21','documentos_estudio':len(docs),'enlaces_locales':links,'referencias_pdf_paginadas':checked,'conceptos_visuales_con_fuente':concepts,'fuentes_visuales':sourcecount,'hashes_comprobados':hashes,'pdf_distintos':len(pages),'errores':errors}
 (ROOT/'validacion-enlaces-2026.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf-8')
 print(json.dumps(report,ensure_ascii=False))
 if errors:raise SystemExit(1)

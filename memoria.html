@@ -6,9 +6,11 @@
   <meta name="theme-color" content="#1c354a">
   <link rel="icon" href="data:,">
   <title>Atlas de memoria · Ingreso judicial Mendoza 2026</title>
-  <link rel="stylesheet" href="memoria.css">
-  <script defer src="memoria-datos.js"></script>
-  <script defer src="memoria.js"></script>
+  <link rel="stylesheet" href="memoria.css?v=8ada7c2480e2">
+  <link rel="stylesheet" href="mapas.css?v=8e7dfdcf9f41">
+  <script defer src="memoria-datos.js?v=a5e987e59aa0"></script>
+  <script defer src="mapas.js?v=ef8c002e1fef"></script>
+  <script defer src="memoria.js?v=7ca2c62bf99d"></script>
 </head>
 <body>
 <a class="skip" href="#contenido">Saltar al contenido</a>
@@ -25,7 +27,7 @@
       <div class="atlas-key"><span class="key-line"></span>El color ubica el módulo.<br>La relación explica el concepto.</div>
     </div>
   </section>
-  <aside class="method-strip"><p><strong>Antes de dar vuelta:</strong> decí la respuesta en voz alta, anotá un ejemplo y recién entonces compará. Reconocer una frase no es lo mismo que recuperarla.</p><a href="estudio-2026/COMO-APRENDER.md">Guía de aprendizaje ↗</a></aside>
+  <aside class="method-strip"><p><strong>Antes de dar vuelta:</strong> decí la respuesta en voz alta, anotá un ejemplo y recién entonces compará. Reconocer una frase no es lo mismo que recuperarla.</p><a href="estudio-2026/GUIA-MAPAS-2026.md">Cómo usar estos mapas ↗</a></aside>
   <nav class="mode-nav" aria-label="Formas de estudiar">
     <button class="mode active" data-view="mapas" aria-pressed="true"><span class="mode-icon" aria-hidden="true">⌘</span>Mapas<span class="mode-caption">Ubicar y reconstruir</span></button>
     <button class="mode" data-view="tarjetas" aria-pressed="false"><span class="mode-icon" aria-hidden="true">▱</span>Tarjetas<span class="mode-caption">Recuperar sin mirar</span></button>
@@ -33,13 +35,13 @@
     <button class="mode" data-view="casos" aria-pressed="false"><span class="mode-icon" aria-hidden="true">◇</span>Casos<span class="mode-caption">Aplicar y justificar</span></button>
   </nav>
   <section class="filters" aria-label="Elegir módulo"><label for="modulo">Módulo</label><select id="modulo"><option value="all">Los cinco módulos</option><option value="1">M1 · Organización del Estado</option><option value="2">M2 · Poder Judicial de Mendoza</option><option value="3">M3 · Derechos Humanos</option><option value="4">M4 · Violencia de Género</option><option value="5">M5 · Servicio de Justicia</option></select><p id="stats" class="small"></p></section>
-  <section id="mapas" class="view" aria-labelledby="mapas-titulo"><div class="section-heading"><div><p class="eyebrow">Relaciones con sentido</p><h2 id="mapas-titulo">El mapa antes de los detalles.</h2></div><p>Las conexiones dicen qué une los conceptos. No todas las ramas son jerarquías ni todas las rutas son secuencias.</p></div><div id="map-menu" class="map-menu" aria-label="Elegir mapa"></div><article id="map-panel"></article></section>
+  <section id="mapas" class="view" aria-labelledby="mapas-titulo"><div class="section-heading"><div><p class="eyebrow">Relaciones con sentido</p><h2 id="mapas-titulo">El mapa antes de los detalles.</h2></div><p>Las conexiones dicen qué une los conceptos. No todas las ramas son jerarquías ni todas las rutas son secuencias.</p></div><div class="map-workspace"><aside class="map-catalog" aria-label="Catálogo de mapas"><label for="map-search">Encontrar un mapa o concepto</label><input id="map-search" type="search" placeholder="Corte, audiencias, derechos…" autocomplete="off"><p id="catalog-count" class="catalog-count" aria-live="polite"></p><nav id="map-menu" class="map-menu" aria-label="Elegir mapa"></nav></aside><article id="map-panel"></article></div></section>
   <section id="tarjetas" class="view" hidden aria-labelledby="tarjetas-titulo"><div class="section-heading"><div><p class="eyebrow">120 preguntas de recuperación</p><h2 id="tarjetas-titulo">Primero, traelo a la memoria.</h2></div><p>24 tarjetas por módulo. Tu evaluación llega después de ver y comparar la respuesta; revelar por sí solo no registra un logro.</p></div><div class="card-controls"><label for="deck">Sesión</label><select id="deck"><option value="due">Pendientes y nuevas</option><option value="all">Todas</option><option value="review">Marcadas para revisar</option></select><button id="mezclar" class="quiet">Mezclar sesión</button><span id="card-counter" class="small"></span></div><article id="flashcard" class="flashcard"></article><p id="schedule-note" class="small schedule-note" aria-live="polite"></p></section>
   <section id="contrastes" class="view" hidden aria-labelledby="contrastes-titulo"><div class="section-heading"><div><p class="eyebrow">12 distinciones esenciales</p><h2 id="contrastes-titulo">Se parecen. La diferencia importa.</h2></div><p>Explicá las dos ideas antes de abrir la respuesta. Comprobá el criterio que las separa para no intercambiar reglas.</p></div><div id="pair-list" class="pair-list"></div></section>
   <section id="casos" class="view" hidden aria-labelledby="casos-titulo"><div class="section-heading"><div><p class="eyebrow">15 situaciones originales</p><h2 id="casos-titulo">De la idea a una decisión razonada.</h2></div><p>Elegí una respuesta y explicá por qué. Después contrastá con la fuente. Estos casos no reproducen exámenes oficiales.</p></div><div id="case-list" class="case-list"></div></section>
   <section class="last-mile"><h2>Cuando algo no sale,<br>volvé al lugar exacto.</h2><p>La página es la posición en el archivo PDF, contando la portada. Si tu visor no respeta el enlace, escribí ese número en su selector de páginas. Las mnemotecnias son propias; el contenido oficial y sus aclaraciones tienen prioridad.</p><a href="https://jusmendoza.gob.ar/concurso-ingreso-administrativo-2026-material-de-estudio/" target="_blank" rel="noopener">Consultar publicación oficial ↗</a></section>
 </main>
-<footer><p>Atlas de estudio · versión 12/10/2026 · funciona sin conexión con la biblioteca local completa.</p><p id="storage-notice"></p></footer>
+<footer><p>Atlas de estudio · mapas ampliados el 21/10/2026 · funciona sin conexión con la biblioteca local completa.</p><p id="storage-notice"></p></footer>
 <noscript>Activá JavaScript para usar los mapas y las tarjetas. Los PDF y las guías siguen disponibles desde el cuaderno.</noscript>
 </body>
 </html>

@@ -1,0 +1,263 @@
+{
+  "fecha": "2026-10-21",
+  "checks": 568,
+  "failures": [],
+  "maps": [
+    {
+      "id": "estado",
+      "nodes": 20,
+      "kind": "concept"
+    },
+    {
+      "id": "m1-estructura-judicial",
+      "nodes": 21,
+      "kind": "hierarchy"
+    },
+    {
+      "id": "corte",
+      "nodes": 11,
+      "kind": "concept"
+    },
+    {
+      "id": "m1-corte-organizacion",
+      "nodes": 18,
+      "kind": "hierarchy"
+    },
+    {
+      "id": "m1-normas",
+      "nodes": 9,
+      "kind": "hierarchy"
+    },
+    {
+      "id": "m1-designacion",
+      "nodes": 21,
+      "kind": "sequence"
+    },
+    {
+      "id": "m1-organos-funciones",
+      "nodes": 22,
+      "kind": "matrix"
+    },
+    {
+      "id": "administracion",
+      "nodes": 17,
+      "kind": "hierarchy"
+    },
+    {
+      "id": "m1-formas-administrativas",
+      "nodes": 29,
+      "kind": "matrix"
+    },
+    {
+      "id": "m1-empleo",
+      "nodes": 19,
+      "kind": "matrix"
+    },
+    {
+      "id": "m1-territorio",
+      "nodes": 26,
+      "kind": "hierarchy"
+    },
+    {
+      "id": "fueros",
+      "nodes": 8,
+      "kind": "concept"
+    },
+    {
+      "id": "m2-ejes-proceso",
+      "nodes": 19,
+      "kind": "hierarchy"
+    },
+    {
+      "id": "proceso",
+      "nodes": 14,
+      "kind": "sequence"
+    },
+    {
+      "id": "m2-notificaciones-cautelares",
+      "nodes": 14,
+      "kind": "compare"
+    },
+    {
+      "id": "m2-paz",
+      "nodes": 35,
+      "kind": "hierarchy"
+    },
+    {
+      "id": "m2-oficina-civil",
+      "nodes": 13,
+      "kind": "cycle"
+    },
+    {
+      "id": "m2-comunicacion",
+      "nodes": 9,
+      "kind": "sequence"
+    },
+    {
+      "id": "m2-blsg",
+      "nodes": 9,
+      "kind": "sequence"
+    },
+    {
+      "id": "m2-tributario",
+      "nodes": 27,
+      "kind": "sequence"
+    },
+    {
+      "id": "m2-concursal",
+      "nodes": 21,
+      "kind": "hierarchy"
+    },
+    {
+      "id": "m2-recorridos-concursales",
+      "nodes": 21,
+      "kind": "sequence"
+    },
+    {
+      "id": "m2-familia",
+      "nodes": 22,
+      "kind": "hierarchy"
+    },
+    {
+      "id": "m2-principios-laborales",
+      "nodes": 16,
+      "kind": "hierarchy"
+    },
+    {
+      "id": "m2-acceso-laboral",
+      "nodes": 12,
+      "kind": "sequence"
+    },
+    {
+      "id": "m2-proceso-laboral",
+      "nodes": 11,
+      "kind": "sequence"
+    },
+    {
+      "id": "m2-garantias-penales",
+      "nodes": 13,
+      "kind": "hierarchy"
+    },
+    {
+      "id": "penal",
+      "nodes": 13,
+      "kind": "hierarchy"
+    },
+    {
+      "id": "m2-jurados",
+      "nodes": 17,
+      "kind": "sequence"
+    },
+    {
+      "id": "m2-juvenil",
+      "nodes": 28,
+      "kind": "hierarchy"
+    },
+    {
+      "id": "m2-recorridos-juveniles",
+      "nodes": 12,
+      "kind": "sequence"
+    },
+    {
+      "id": "m2-investigacion-juvenil",
+      "nodes": 14,
+      "kind": "sequence"
+    },
+    {
+      "id": "m2-coercion-custodia-juvenil",
+      "nodes": 16,
+      "kind": "compare"
+    },
+    {
+      "id": "m2-juicio-alternativas-juveniles",
+      "nodes": 23,
+      "kind": "sequence"
+    },
+    {
+      "id": "m2-revision-ejecucion-juvenil",
+      "nodes": 23,
+      "kind": "cycle"
+    },
+    {
+      "id": "m2-sistemas",
+      "nodes": 19,
+      "kind": "matrix"
+    },
+    {
+      "id": "derechos",
+      "nodes": 25,
+      "kind": "concept"
+    },
+    {
+      "id": "m3-proteccion",
+      "nodes": 31,
+      "kind": "concept"
+    },
+    {
+      "id": "m3-red-derechos",
+      "nodes": 15,
+      "kind": "compare"
+    },
+    {
+      "id": "genero",
+      "nodes": 8,
+      "kind": "concept"
+    },
+    {
+      "id": "violencias",
+      "nodes": 18,
+      "kind": "matrix"
+    },
+    {
+      "id": "m4-desigualdades",
+      "nodes": 13,
+      "kind": "concept"
+    },
+    {
+      "id": "m4-ciclo-respuesta",
+      "nodes": 19,
+      "kind": "cycle"
+    },
+    {
+      "id": "m4-protocolo",
+      "nodes": 28,
+      "kind": "sequence"
+    },
+    {
+      "id": "servicio",
+      "nodes": 28,
+      "kind": "sequence"
+    },
+    {
+      "id": "accesibilidad",
+      "nodes": 26,
+      "kind": "matrix"
+    },
+    {
+      "id": "competencias",
+      "nodes": 30,
+      "kind": "compare"
+    },
+    {
+      "id": "m5-atencion",
+      "nodes": 43,
+      "kind": "sequence"
+    },
+    {
+      "id": "m5-comunicacion",
+      "nodes": 38,
+      "kind": "cycle"
+    }
+  ],
+  "errors": [],
+  "externalRequests": [],
+  "estado": "PASS",
+  "atlas_sha256": "20b59f0cb6c9a25206ebb7c2ac17a890ecaa34003ea00024098eef875604d6a5",
+  "script_sha256": "cbe4863bf0f7fe25b4496a3e873ea98e4a698bff965d4db0e3f2a3a96f2b8347",
+  "archivos_interfaz_sha256": {
+    "memoria.js": "7ca2c62bf99dcf3f0000120d6834994e845f9882b29c9e3f658e2eb10b43d2cf",
+    "mapas.js": "ef8c002e1fef59ec28ae7fe2b6bc0206c3ce4e14d86d9c67ebb36ed0e16ced87",
+    "mapas.css": "8e7dfdcf9f41f2ed8c8891d6d9704eb0c3c4d0a6e2d55ebd5998b0138c4e0849",
+    "memoria.html": "fe12f7640ec00342adcc119e7e8438e6f91abcfee2ca8eab42588c47ceb86621"
+  }
+}

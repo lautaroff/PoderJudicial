@@ -1,0 +1,58 @@
+{
+  "fecha": "2026-10-21",
+  "estado": "PASS",
+  "alcance": "Validacion mecanica de informes de auditoria. No certifica reglas juridicas ni mapas implementados. Los limites de cotejo primario estan en los informes.",
+  "informes": [
+    {
+      "archivo": "estudio-2026/AUDITORIA-MAPAS-2026.md",
+      "sha256": "28af7da751a080070165cd8e4626eb02e374df8ee1799de7e145580990a8ddee",
+      "filas_matriz": 0,
+      "enlaces_locales_inline_y_definiciones": 23,
+      "paginas_pdf_comprobadas": 14,
+      "usos_referencias_markdown": 0,
+      "referencias_sin_definir": []
+    },
+    {
+      "archivo": "estudio-2026/AUDITORIA-MAPAS-M1.md",
+      "sha256": "1ed50373b2366b9f1f5812d51b02fbf598030ad5c778800a6cf7f0fa1af68ea7",
+      "filas_matriz": 25,
+      "enlaces_locales_inline_y_definiciones": 64,
+      "paginas_pdf_comprobadas": 59,
+      "usos_referencias_markdown": 0,
+      "referencias_sin_definir": []
+    },
+    {
+      "archivo": "estudio-2026/AUDITORIA-MAPAS-M2.md",
+      "sha256": "9949523aa2f7e6df804830df8f9a4eb5766fee725a382522f8f2624b091c4e0b",
+      "filas_matriz": 104,
+      "enlaces_locales_inline_y_definiciones": 114,
+      "paginas_pdf_comprobadas": 108,
+      "usos_referencias_markdown": 262,
+      "referencias_sin_definir": []
+    },
+    {
+      "archivo": "estudio-2026/AUDITORIA-MAPAS-M3-M5.md",
+      "sha256": "37f010d7dc186243b6794d0806fdd284d0edadc71791fc98ff6c6b8fc526e2eb",
+      "filas_matriz": 67,
+      "enlaces_locales_inline_y_definiciones": 57,
+      "paginas_pdf_comprobadas": 56,
+      "usos_referencias_markdown": 0,
+      "referencias_sin_definir": []
+    }
+  ],
+  "totales": {
+    "informes": 4,
+    "filas_matriz": 196,
+    "enlaces_locales_inline_y_definiciones": 258,
+    "paginas_pdf_comprobadas": 237,
+    "pdf_distintos": 13,
+    "fuentes_con_hash_verificado": 6
+  },
+  "atlas_actual": {
+    "maps": 12,
+    "cards": 120,
+    "pairs": 12,
+    "cases": 15
+  },
+  "errores": []
+}

@@ -1,0 +1,1389 @@
+{
+  "fecha": "2026-10-21",
+  "alcance": "Inventario del atlas actual, previo a la auditoría. No añade mapas a la aplicación.",
+  "datos": "memoria-datos.json",
+  "sha256_datos": "16c7826faa22256554e35d4d9abf74404225e0c4b4f18d668a96e25856a82a39",
+  "totales": {
+    "maps": 12,
+    "cards": 120,
+    "pairs": 12,
+    "cases": 15
+  },
+  "modulos": [
+    {
+      "modulo": 1,
+      "titulo": "Organización del Estado",
+      "pdf": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-1-Organizacion-del-Estado-Material-de-Estudio.pdf",
+      "paginas": 39,
+      "sha256_pdf": "f2c805ba87d38dd4ca6c172f08f95bc7c3a628ea12ea3d6e665b020e1d3ae079",
+      "apartados": [
+        {
+          "id": "1.1",
+          "titulo": "Conceptos claves de Estado y derecho",
+          "pagina": 2
+        },
+        {
+          "id": "1.2",
+          "titulo": "Funciones del poder estatal",
+          "pagina": 10
+        },
+        {
+          "id": "1.3",
+          "titulo": "Poder Judicial de Mendoza",
+          "pagina": 25
+        },
+        {
+          "id": "1.4",
+          "titulo": "Funciones de la Suprema Corte",
+          "pagina": 28
+        },
+        {
+          "id": "1.5",
+          "titulo": "Organización administrativa",
+          "pagina": 30
+        },
+        {
+          "id": "1.6",
+          "titulo": "Estatuto del empleado público",
+          "pagina": 38
+        }
+      ],
+      "tarjetas": 24,
+      "contrastes": 3,
+      "casos": 3,
+      "mapas": [
+        {
+          "id": "estado",
+          "titulo": "El Estado: piezas, forma y límites",
+          "tipo": "concept",
+          "raiz": "Estado",
+          "grupos": [
+            {
+              "titulo": "¿Con qué se integra?",
+              "relacion": "se compone de",
+              "nodos": [
+                {
+                  "id": "territorio",
+                  "etiqueta": "Territorio",
+                  "fuentes": [
+                    {
+                      "module": 1,
+                      "page": 2
+                    }
+                  ]
+                },
+                {
+                  "id": "poblacion",
+                  "etiqueta": "Población",
+                  "fuentes": [
+                    {
+                      "module": 1,
+                      "page": 2
+                    }
+                  ]
+                },
+                {
+                  "id": "poder",
+                  "etiqueta": "Poder",
+                  "fuentes": [
+                    {
+                      "module": 1,
+                      "page": 2
+                    }
+                  ]
+                },
+                {
+                  "id": "gobierno",
+                  "etiqueta": "Gobierno",
+                  "fuentes": [
+                    {
+                      "module": 1,
+                      "page": 3
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "¿Qué forma adopta Argentina?",
+              "relacion": "adopta una forma",
+              "nodos": [
+                {
+                  "id": "m1-05",
+                  "etiqueta": "Representativa",
+                  "fuentes": [
+                    {
+                      "module": 1,
+                      "page": 6
+                    }
+                  ]
+                },
+                {
+                  "id": "m1-06",
+                  "etiqueta": "Republicana",
+                  "fuentes": [
+                    {
+                      "module": 1,
+                      "page": 6
+                    },
+                    {
+                      "module": 1,
+                      "page": 7
+                    }
+                  ]
+                },
+                {
+                  "id": "m1-07",
+                  "etiqueta": "Federal",
+                  "fuentes": [
+                    {
+                      "module": 1,
+                      "page": 8
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "¿Qué limita su actuación?",
+              "relacion": "está sujeto a",
+              "nodos": [
+                {
+                  "id": "m1-02",
+                  "etiqueta": "Estado de Derecho",
+                  "fuentes": [
+                    {
+                      "module": 1,
+                      "page": 3
+                    }
+                  ]
+                },
+                {
+                  "id": "m1-04",
+                  "etiqueta": "Supremacía",
+                  "fuentes": [
+                    {
+                      "module": 1,
+                      "page": 4
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "corte",
+          "titulo": "Una Corte, tres funciones",
+          "tipo": "concept",
+          "raiz": "Suprema Corte de Mendoza",
+          "grupos": [
+            {
+              "titulo": "Organizar",
+              "relacion": "ejerce función",
+              "nodos": [
+                {
+                  "id": "corte-admin",
+                  "etiqueta": "Administrativa / superintendencia",
+                  "fuentes": [
+                    {
+                      "module": 1,
+                      "page": 28
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "Decidir causas",
+              "relacion": "ejerce función",
+              "nodos": [
+                {
+                  "id": "corte-jur",
+                  "etiqueta": "Jurisdiccional",
+                  "fuentes": [
+                    {
+                      "module": 1,
+                      "page": 29
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "Resolver conflictos prudentemente",
+              "relacion": "ejerce función",
+              "nodos": [
+                {
+                  "id": "corte-dir",
+                  "etiqueta": "Dirimente",
+                  "fuentes": [
+                    {
+                      "module": 1,
+                      "page": 29
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "administracion",
+          "titulo": "Órgano, atribuciones y efectos",
+          "tipo": "concept",
+          "raiz": "Organización administrativa",
+          "grupos": [
+            {
+              "titulo": "Relaciones entre órganos",
+              "relacion": "se ordena mediante",
+              "nodos": [
+                {
+                  "id": "m1-19",
+                  "etiqueta": "Jerarquía",
+                  "fuentes": [
+                    {
+                      "module": 1,
+                      "page": 31
+                    }
+                  ]
+                },
+                {
+                  "id": "m1-20",
+                  "etiqueta": "Competencia",
+                  "fuentes": [
+                    {
+                      "module": 1,
+                      "page": 32
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "Declaración y eficacia",
+              "relacion": "produce y regula",
+              "nodos": [
+                {
+                  "id": "m1-21",
+                  "etiqueta": "Acto administrativo",
+                  "fuentes": [
+                    {
+                      "module": 1,
+                      "page": 32
+                    }
+                  ]
+                },
+                {
+                  "id": "m1-22",
+                  "etiqueta": "Ejecutividad y ejecutoriedad",
+                  "fuentes": [
+                    {
+                      "module": 1,
+                      "page": 34
+                    },
+                    {
+                      "module": 1,
+                      "page": 35
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "Control de validez",
+              "relacion": "examina",
+              "nodos": [
+                {
+                  "id": "m1-23",
+                  "etiqueta": "Vicios del acto",
+                  "fuentes": [
+                    {
+                      "module": 1,
+                      "page": 36
+                    },
+                    {
+                      "module": 1,
+                      "page": 37
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "Personas que la integran",
+              "relacion": "se rigen también por",
+              "nodos": [
+                {
+                  "id": "m1-24",
+                  "etiqueta": "Lecturas obligatorias",
+                  "fuentes": [
+                    {
+                      "module": 1,
+                      "page": 39
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modulo": 2,
+      "titulo": "El Poder Judicial de Mendoza",
+      "pdf": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf",
+      "paginas": 113,
+      "sha256_pdf": "f1ecd430e53f676b374180f57fdf4086beee1cb4d925dd58ef83e99b708e4a95",
+      "apartados": [
+        {
+          "id": "2.1",
+          "titulo": "Civil, comercial, tributario, paz y concursal",
+          "pagina": 2
+        },
+        {
+          "id": "2.2",
+          "titulo": "Familia",
+          "pagina": 63
+        },
+        {
+          "id": "2.3",
+          "titulo": "Laboral",
+          "pagina": 70
+        },
+        {
+          "id": "2.4",
+          "titulo": "Penal y penal juvenil",
+          "pagina": 86
+        }
+      ],
+      "tarjetas": 24,
+      "contrastes": 2,
+      "casos": 3,
+      "mapas": [
+        {
+          "id": "fueros",
+          "titulo": "Árbol de materias: identificar el conflicto",
+          "tipo": "concept",
+          "raiz": "Materias del módulo 2",
+          "grupos": [
+            {
+              "titulo": "Patrimonio, cobro e insolvencia",
+              "relacion": "incluye asuntos de",
+              "nodos": [
+                {
+                  "id": "civil",
+                  "etiqueta": "Civil / comercial",
+                  "fuentes": [
+                    {
+                      "module": 2,
+                      "page": 2
+                    }
+                  ]
+                },
+                {
+                  "id": "paz",
+                  "etiqueta": "Paz",
+                  "fuentes": [
+                    {
+                      "module": 2,
+                      "page": 24
+                    }
+                  ]
+                },
+                {
+                  "id": "tributario",
+                  "etiqueta": "Tributario",
+                  "fuentes": [
+                    {
+                      "module": 2,
+                      "page": 42
+                    }
+                  ]
+                },
+                {
+                  "id": "concursal",
+                  "etiqueta": "Concursal",
+                  "fuentes": [
+                    {
+                      "module": 2,
+                      "page": 59
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "Vínculos y trabajo",
+              "relacion": "incluye asuntos de",
+              "nodos": [
+                {
+                  "id": "familia",
+                  "etiqueta": "Familia",
+                  "fuentes": [
+                    {
+                      "module": 2,
+                      "page": 64
+                    }
+                  ]
+                },
+                {
+                  "id": "laboral",
+                  "etiqueta": "Laboral",
+                  "fuentes": [
+                    {
+                      "module": 2,
+                      "page": 72
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "Potestad punitiva",
+              "relacion": "incluye asuntos de",
+              "nodos": [
+                {
+                  "id": "penal",
+                  "etiqueta": "Penal",
+                  "fuentes": [
+                    {
+                      "module": 2,
+                      "page": 87
+                    }
+                  ]
+                },
+                {
+                  "id": "juvenil",
+                  "etiqueta": "Penal juvenil",
+                  "fuentes": [
+                    {
+                      "module": 2,
+                      "page": 102
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "proceso",
+          "titulo": "Proceso de conocimiento: el orden tiene sentido",
+          "tipo": "sequence",
+          "raiz": "Secuencia civil básica",
+          "grupos": [
+            {
+              "titulo": "Inicio del debate",
+              "relacion": "se inicia y contradice con",
+              "nodos": [
+                {
+                  "id": "demanda",
+                  "etiqueta": "Demanda",
+                  "fuentes": [
+                    {
+                      "module": 2,
+                      "page": 3
+                    }
+                  ]
+                },
+                {
+                  "id": "contestacion",
+                  "etiqueta": "Contestación",
+                  "fuentes": [
+                    {
+                      "module": 2,
+                      "page": 3
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "Acreditación y discusión",
+              "relacion": "continúa con",
+              "nodos": [
+                {
+                  "id": "m2-08",
+                  "etiqueta": "Audiencia inicial",
+                  "fuentes": [
+                    {
+                      "module": 2,
+                      "page": 8
+                    }
+                  ]
+                },
+                {
+                  "id": "prueba",
+                  "etiqueta": "Prueba",
+                  "fuentes": [
+                    {
+                      "module": 2,
+                      "page": 9
+                    }
+                  ]
+                },
+                {
+                  "id": "alegatos",
+                  "etiqueta": "Alegatos",
+                  "fuentes": [
+                    {
+                      "module": 2,
+                      "page": 10
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "Respuesta jurisdiccional",
+              "relacion": "culmina normalmente en",
+              "nodos": [
+                {
+                  "id": "sentencia",
+                  "etiqueta": "Sentencia",
+                  "fuentes": [
+                    {
+                      "module": 2,
+                      "page": 8
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "penal",
+          "titulo": "Investigar, decidir y organizar",
+          "tipo": "concept",
+          "raiz": "Modelo acusatorio",
+          "grupos": [
+            {
+              "titulo": "Investigación y acusación",
+              "relacion": "asigna al",
+              "nodos": [
+                {
+                  "id": "fiscal",
+                  "etiqueta": "Ministerio Público Fiscal",
+                  "fuentes": [
+                    {
+                      "module": 2,
+                      "page": 93
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "Control y decisión",
+              "relacion": "asigna al",
+              "nodos": [
+                {
+                  "id": "juez",
+                  "etiqueta": "Juez imparcial",
+                  "fuentes": [
+                    {
+                      "module": 2,
+                      "page": 93
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "Gestión de audiencias",
+              "relacion": "asigna a",
+              "nodos": [
+                {
+                  "id": "ogap",
+                  "etiqueta": "OGAP",
+                  "fuentes": [
+                    {
+                      "module": 2,
+                      "page": 94
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "Garantías durante todo el proceso",
+              "relacion": "exige",
+              "nodos": [
+                {
+                  "id": "m2-19",
+                  "etiqueta": "Garantías penales",
+                  "fuentes": [
+                    {
+                      "module": 2,
+                      "page": 90
+                    }
+                  ]
+                },
+                {
+                  "id": "m2-24",
+                  "etiqueta": "Legajo juvenil",
+                  "fuentes": [
+                    {
+                      "module": 2,
+                      "page": 108
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modulo": 3,
+      "titulo": "Derechos Humanos",
+      "pdf": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-3-Derechos-Humanos-Material-de-Estudio.pdf",
+      "paginas": 23,
+      "sha256_pdf": "8858079d7c5dbe8ecc8aa1acb5f4857b4099a0f65a770123c3f53f26f6a7b615",
+      "apartados": [
+        {
+          "id": "3.1",
+          "titulo": "Derechos y protección normativa",
+          "pagina": 3
+        },
+        {
+          "id": "3.2",
+          "titulo": "Principios",
+          "pagina": 5
+        },
+        {
+          "id": "3.3",
+          "titulo": "Características y clasificación",
+          "pagina": 8
+        },
+        {
+          "id": "3.4",
+          "titulo": "Obligaciones de los Estados",
+          "pagina": 10
+        },
+        {
+          "id": "3.5",
+          "titulo": "Grupos en situación de vulnerabilidad",
+          "pagina": 16
+        },
+        {
+          "id": "3.6",
+          "titulo": "Enfoque de derechos humanos",
+          "pagina": 18
+        }
+      ],
+      "tarjetas": 24,
+      "contrastes": 2,
+      "casos": 3,
+      "mapas": [
+        {
+          "id": "derechos",
+          "titulo": "Derechos: fundamento, principios y obligaciones",
+          "tipo": "concept",
+          "raiz": "Dignidad de la persona",
+          "grupos": [
+            {
+              "titulo": "Principios para aplicar",
+              "relacion": "fundamenta y orienta",
+              "nodos": [
+                {
+                  "id": "m3-06",
+                  "etiqueta": "Efectividad",
+                  "fuentes": [
+                    {
+                      "module": 3,
+                      "page": 6
+                    }
+                  ]
+                },
+                {
+                  "id": "m3-07",
+                  "etiqueta": "Progresividad",
+                  "fuentes": [
+                    {
+                      "module": 3,
+                      "page": 6
+                    },
+                    {
+                      "module": 3,
+                      "page": 7
+                    }
+                  ]
+                },
+                {
+                  "id": "m3-08",
+                  "etiqueta": "Pro personae",
+                  "fuentes": [
+                    {
+                      "module": 3,
+                      "page": 7
+                    }
+                  ]
+                },
+                {
+                  "id": "m3-09",
+                  "etiqueta": "Igualdad",
+                  "fuentes": [
+                    {
+                      "module": 3,
+                      "page": 8
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "Obligaciones estatales",
+              "relacion": "exige al Estado",
+              "nodos": [
+                {
+                  "id": "m3-16",
+                  "etiqueta": "Respetar",
+                  "fuentes": [
+                    {
+                      "module": 3,
+                      "page": 10
+                    }
+                  ]
+                },
+                {
+                  "id": "m3-17",
+                  "etiqueta": "Garantizar",
+                  "fuentes": [
+                    {
+                      "module": 3,
+                      "page": 11
+                    },
+                    {
+                      "module": 3,
+                      "page": 12
+                    }
+                  ]
+                },
+                {
+                  "id": "m3-18",
+                  "etiqueta": "Proteger",
+                  "fuentes": [
+                    {
+                      "module": 3,
+                      "page": 11
+                    },
+                    {
+                      "module": 3,
+                      "page": 12
+                    }
+                  ]
+                },
+                {
+                  "id": "satisfaccion",
+                  "etiqueta": "Satisfacción",
+                  "fuentes": [
+                    {
+                      "module": 3,
+                      "page": 11
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "Acceso en la práctica",
+              "relacion": "requiere reconocer",
+              "nodos": [
+                {
+                  "id": "m3-20",
+                  "etiqueta": "Vulnerabilidad situada",
+                  "fuentes": [
+                    {
+                      "module": 3,
+                      "page": 16
+                    }
+                  ]
+                },
+                {
+                  "id": "m3-22",
+                  "etiqueta": "Enfoque de derechos",
+                  "fuentes": [
+                    {
+                      "module": 3,
+                      "page": 18
+                    }
+                  ]
+                },
+                {
+                  "id": "m3-23",
+                  "etiqueta": "Acceso integral",
+                  "fuentes": [
+                    {
+                      "module": 3,
+                      "page": 21
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modulo": 4,
+      "titulo": "Violencia de Género",
+      "pdf": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-4-Violencia-de-Genero-Material-de-Estudio.pdf",
+      "paginas": 10,
+      "sha256_pdf": "926902c036f0653ca0ab3a5fae1a37f3cad21dc7fef9e1c169b18e6f3d6275c0",
+      "apartados": [
+        {
+          "id": "4.1",
+          "titulo": "Conceptos elementales",
+          "pagina": 2
+        },
+        {
+          "id": "4.2",
+          "titulo": "Diversidad",
+          "pagina": 4
+        },
+        {
+          "id": "4.3",
+          "titulo": "Tipos y modalidades de violencia",
+          "pagina": 5
+        },
+        {
+          "id": "4.4",
+          "titulo": "Revictimización y violencia institucional",
+          "pagina": 8
+        },
+        {
+          "id": "4.5",
+          "titulo": "Protocolo de violencia laboral",
+          "pagina": 9
+        }
+      ],
+      "tarjetas": 24,
+      "contrastes": 2,
+      "casos": 3,
+      "mapas": [
+        {
+          "id": "genero",
+          "titulo": "Diversidad: tres preguntas diferentes",
+          "tipo": "concept",
+          "raiz": "Dimensiones de la sexualidad",
+          "grupos": [
+            {
+              "titulo": "Atracción",
+              "relacion": "se describe con",
+              "nodos": [
+                {
+                  "id": "m4-06",
+                  "etiqueta": "Orientación sexual",
+                  "fuentes": [
+                    {
+                      "module": 4,
+                      "page": 4
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "Vivencia interna",
+              "relacion": "se describe con",
+              "nodos": [
+                {
+                  "id": "m4-07",
+                  "etiqueta": "Identidad de género",
+                  "fuentes": [
+                    {
+                      "module": 4,
+                      "page": 4
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "Manifestación externa",
+              "relacion": "se describe con",
+              "nodos": [
+                {
+                  "id": "m4-08",
+                  "etiqueta": "Expresión de género",
+                  "fuentes": [
+                    {
+                      "module": 4,
+                      "page": 4
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "violencias",
+          "titulo": "Violencia: dos ejes que se cruzan",
+          "tipo": "matrix",
+          "raiz": "Violencia contra las mujeres",
+          "grupos": [
+            {
+              "titulo": "Tipo = forma de afectación",
+              "relacion": "puede ser de tipo",
+              "nodos": [
+                {
+                  "id": "fisica",
+                  "etiqueta": "Física",
+                  "fuentes": [
+                    {
+                      "module": 4,
+                      "page": 5
+                    }
+                  ]
+                },
+                {
+                  "id": "psicologica",
+                  "etiqueta": "Psicológica",
+                  "fuentes": [
+                    {
+                      "module": 4,
+                      "page": 5
+                    }
+                  ]
+                },
+                {
+                  "id": "sexual",
+                  "etiqueta": "Sexual",
+                  "fuentes": [
+                    {
+                      "module": 4,
+                      "page": 5
+                    }
+                  ]
+                },
+                {
+                  "id": "economica",
+                  "etiqueta": "Económica / patrimonial",
+                  "fuentes": [
+                    {
+                      "module": 4,
+                      "page": 5
+                    }
+                  ]
+                },
+                {
+                  "id": "simbolica",
+                  "etiqueta": "Simbólica",
+                  "fuentes": [
+                    {
+                      "module": 4,
+                      "page": 5
+                    }
+                  ]
+                },
+                {
+                  "id": "politica",
+                  "etiqueta": "Política",
+                  "fuentes": [
+                    {
+                      "module": 4,
+                      "page": 5
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "Modalidad = ámbito / contexto",
+              "relacion": "se manifiesta en modalidad",
+              "nodos": [
+                {
+                  "id": "domestica",
+                  "etiqueta": "Doméstica",
+                  "fuentes": [
+                    {
+                      "module": 4,
+                      "page": 6
+                    }
+                  ]
+                },
+                {
+                  "id": "institucional",
+                  "etiqueta": "Institucional",
+                  "fuentes": [
+                    {
+                      "module": 4,
+                      "page": 6
+                    }
+                  ]
+                },
+                {
+                  "id": "laboral-v",
+                  "etiqueta": "Laboral",
+                  "fuentes": [
+                    {
+                      "module": 4,
+                      "page": 6
+                    }
+                  ]
+                },
+                {
+                  "id": "reproductiva",
+                  "etiqueta": "Contra la libertad reproductiva",
+                  "fuentes": [
+                    {
+                      "module": 4,
+                      "page": 6
+                    }
+                  ]
+                },
+                {
+                  "id": "obstetrica",
+                  "etiqueta": "Obstétrica",
+                  "fuentes": [
+                    {
+                      "module": 4,
+                      "page": 6
+                    }
+                  ]
+                },
+                {
+                  "id": "mediatica",
+                  "etiqueta": "Mediática",
+                  "fuentes": [
+                    {
+                      "module": 4,
+                      "page": 6
+                    }
+                  ]
+                },
+                {
+                  "id": "publicos",
+                  "etiqueta": "En espacios públicos",
+                  "fuentes": [
+                    {
+                      "module": 4,
+                      "page": 6
+                    }
+                  ]
+                },
+                {
+                  "id": "publica-politica",
+                  "etiqueta": "Pública política",
+                  "fuentes": [
+                    {
+                      "module": 4,
+                      "page": 6
+                    }
+                  ]
+                },
+                {
+                  "id": "digital",
+                  "etiqueta": "Digital / telemática",
+                  "fuentes": [
+                    {
+                      "module": 4,
+                      "page": 6
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modulo": 5,
+      "titulo": "Atención para un Servicio de Justicia",
+      "pdf": "biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-5-Atencion-para-un-Servicio-de-Justicia-Material-de-Estudio.pdf",
+      "paginas": 32,
+      "sha256_pdf": "a886ecd4f0cefcb6489a55fc73d15116554800ca49bdc342822bda67f7ff42e6",
+      "apartados": [
+        {
+          "id": "5.1",
+          "titulo": "Justicia centrada en la ciudadanía",
+          "pagina": 2
+        },
+        {
+          "id": "5.2",
+          "titulo": "Experiencia del usuario de justicia",
+          "pagina": 6
+        },
+        {
+          "id": "5.3",
+          "titulo": "Comunicación y lenguaje claro",
+          "pagina": 8
+        },
+        {
+          "id": "5.4",
+          "titulo": "Atención y resolución de conflictos",
+          "pagina": 14
+        },
+        {
+          "id": "5.5",
+          "titulo": "Accesibilidad universal e inclusión",
+          "pagina": 18
+        },
+        {
+          "id": "5.6",
+          "titulo": "Perfil del agente judicial",
+          "pagina": 23
+        }
+      ],
+      "tarjetas": 24,
+      "contrastes": 3,
+      "casos": 3,
+      "mapas": [
+        {
+          "id": "servicio",
+          "titulo": "El viaje de quien busca justicia",
+          "tipo": "sequence",
+          "raiz": "Experiencia integral",
+          "grupos": [
+            {
+              "titulo": "Orientarse e iniciar",
+              "relacion": "comprende",
+              "nodos": [
+                {
+                  "id": "busqueda",
+                  "etiqueta": "Búsqueda",
+                  "fuentes": [
+                    {
+                      "module": 5,
+                      "page": 6
+                    }
+                  ]
+                },
+                {
+                  "id": "formalizacion",
+                  "etiqueta": "Formalización",
+                  "fuentes": [
+                    {
+                      "module": 5,
+                      "page": 6
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "Participar y conocer avances",
+              "relacion": "comprende",
+              "nodos": [
+                {
+                  "id": "seguimiento",
+                  "etiqueta": "Seguimiento",
+                  "fuentes": [
+                    {
+                      "module": 5,
+                      "page": 7
+                    }
+                  ]
+                },
+                {
+                  "id": "audiencia",
+                  "etiqueta": "Audiencia",
+                  "fuentes": [
+                    {
+                      "module": 5,
+                      "page": 7
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "Comprender y concluir",
+              "relacion": "comprende",
+              "nodos": [
+                {
+                  "id": "resolucion",
+                  "etiqueta": "Resolución",
+                  "fuentes": [
+                    {
+                      "module": 5,
+                      "page": 7
+                    }
+                  ]
+                },
+                {
+                  "id": "finalizacion",
+                  "etiqueta": "Finalización",
+                  "fuentes": [
+                    {
+                      "module": 5,
+                      "page": 7
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "accesibilidad",
+          "titulo": "Accesibilidad: mirar cuatro lugares",
+          "tipo": "concept",
+          "raiz": "Participación en igualdad",
+          "grupos": [
+            {
+              "titulo": "Entorno construido",
+              "relacion": "requiere accesibilidad",
+              "nodos": [
+                {
+                  "id": "ac-fisica",
+                  "etiqueta": "Física",
+                  "fuentes": [
+                    {
+                      "module": 5,
+                      "page": 19
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "Mensajes",
+              "relacion": "requiere accesibilidad",
+              "nodos": [
+                {
+                  "id": "ac-comunicacion",
+                  "etiqueta": "Informativa / comunicacional",
+                  "fuentes": [
+                    {
+                      "module": 5,
+                      "page": 20
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "Trato",
+              "relacion": "requiere accesibilidad",
+              "nodos": [
+                {
+                  "id": "ac-actitud",
+                  "etiqueta": "Actitudinal",
+                  "fuentes": [
+                    {
+                      "module": 5,
+                      "page": 20
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "Sistemas",
+              "relacion": "requiere accesibilidad",
+              "nodos": [
+                {
+                  "id": "ac-tecnologia",
+                  "etiqueta": "Tecnológica",
+                  "fuentes": [
+                    {
+                      "module": 5,
+                      "page": 21
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "competencias",
+          "titulo": "Cinco componentes del desempeño",
+          "tipo": "concept",
+          "raiz": "Competencia profesional",
+          "grupos": [
+            {
+              "titulo": "Conocimiento",
+              "relacion": "requiere",
+              "nodos": [
+                {
+                  "id": "saber",
+                  "etiqueta": "Saber",
+                  "fuentes": [
+                    {
+                      "module": 5,
+                      "page": 24
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "Aplicación",
+              "relacion": "requiere",
+              "nodos": [
+                {
+                  "id": "hacer",
+                  "etiqueta": "Saber hacer",
+                  "fuentes": [
+                    {
+                      "module": 5,
+                      "page": 24
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "Actitud",
+              "relacion": "requiere",
+              "nodos": [
+                {
+                  "id": "ser",
+                  "etiqueta": "Saber ser / estar",
+                  "fuentes": [
+                    {
+                      "module": 5,
+                      "page": 24
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "Motivación",
+              "relacion": "requiere",
+              "nodos": [
+                {
+                  "id": "querer",
+                  "etiqueta": "Querer hacer",
+                  "fuentes": [
+                    {
+                      "module": 5,
+                      "page": 24
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "titulo": "Condiciones",
+              "relacion": "requiere",
+              "nodos": [
+                {
+                  "id": "poder-hacer",
+                  "etiqueta": "Poder hacer",
+                  "fuentes": [
+                    {
+                      "module": 5,
+                      "page": 24
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

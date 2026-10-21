@@ -17,7 +17,11 @@ for name in names:
         stem=url.split('#')[0]
         if not (ROOT/stem).exists() and (path.parent/stem).exists():url=(path.parent/Path(stem)).relative_to(ROOT).as_posix()+('#'+url.split('#',1)[1] if '#' in url else '')
         return '['+label+']('+url+')'
-    docs[name]=re.sub(r'\[([^\]]+)\]\(([^)]+)\)',link,path.read_text(encoding='utf-8'))
+    raw=path.read_text(encoding='utf-8')
+    definitions={k.casefold():v for k,v in re.findall(r'^\[([^\]]+)\]:\s*(\S+)',raw,re.M)}
+    raw=re.sub(r'^\[[^\]]+\]:\s*\S+\s*$', '',raw,flags=re.M)
+    raw=re.sub(r'\[([^\]]+)\]\[([^\]]+)\]',lambda m:'['+m[1]+']('+definitions[m[2].casefold()]+')' if m[2].casefold() in definitions else m[0],raw)
+    docs[name]=re.sub(r'\[([^\]]+)\]\(([^)]+)\)',link,raw)
 questions=json.loads((ROOT/'preguntas.json').read_text(encoding='utf-8'))
 seen=set();pagecache={};sources_checked=0
 def check_pdf(value,label):
