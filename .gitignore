@@ -34,3 +34,5 @@ validaciones/playwright/*
 herramientas/video-estudio/.hyperframes/
 herramientas/video-estudio/.thumbnails/
 herramientas/video-estudio/snapshots/
+
+.vercel
