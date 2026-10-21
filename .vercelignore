@@ -1,0 +1,11 @@
+paquetes/
+*.zip
+.codegraph/
+.claude/
+output/
+herramientas/
+validaciones/
+historico/
+contenido/
+biblioteca/pdf/
+biblioteca/normativa/
