@@ -118,6 +118,15 @@ function complete(n){run(`current.forEach((q,i)=>{if(i<${n})answers[i]=q.correct
     check(()=>assert(!readTexts.has(text)));readTexts.add(text);run('finished=true');
   }
   await start('lectura');check(()=>assert.equal(run('current.length'),10));run('finished=true');
+  for(const tid of ['L7','L8','L9','L10']){
+    element('readingTextFilter').value=tid;
+    await start('lectura');
+    check(()=>assert.equal(run('current.length'),10));
+    check(()=>assert(run(`current.every(q=>q.textoId==='${tid}'&&q.oficial===true)`)));
+    check(()=>assert(element('exam').innerHTML.includes('Texto de examen oficial')));
+    run('finished=true');
+  }
+  element('readingTextFilter').value='';
   storage.set('pjm-seen-2026','{}');
   const oldIds=run("bank.filter(q=>q.etapa==='especificos'&&q.modulo===1).slice(0,10).map(q=>q.id)");
   storage.set('pjm-history',JSON.stringify([{fecha:'2026-10-14',items:oldIds.map(id=>({id}))}]));

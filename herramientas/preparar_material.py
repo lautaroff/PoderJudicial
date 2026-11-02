@@ -88,9 +88,9 @@ for q in questions:
         assert re.fullmatch(str(q['modulo']) + r'\.[1-6](?:\.[1-3])?', q['subtema']), q['id']
 
 counts = collections.Counter(q['etapa'] for q in questions)
-assert counts['especificos'] >= 400 and counts['institucional'] == 40 and counts['lectura'] == 60, counts
+assert counts['especificos'] >= 400 and counts['institucional'] == 40 and counts['lectura'] == 100, counts
 groups = collections.Counter(q['texto'] for q in questions if q['etapa'] == 'lectura')
-assert len(groups) == 6 and all(n == 10 for n in groups.values())
+assert len(groups) == 10 and all(n == 10 for n in groups.values())
 coverage = set('.'.join(q['subtema'].split('.')[:2]) for q in questions if q['etapa'] == 'especificos')
 index = json.loads((INTEGRADO / 'indice-2026.json').read_text(encoding='utf-8'))
 expected = {a['id'] for m in index for a in m['apartados']}

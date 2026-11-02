@@ -99,12 +99,17 @@ def main() -> None:
             record("index_bandera_recuperada", "flagged" in (page.locator('#omrGrid [data-jump-q="0"]').get_attribute("class") or ""))
             record("index_descarte_recuperado", "discarded" in (page.locator("#q-card-0 .option").first.get_attribute("class") or ""))
 
-            # 4. INDEX.HTML: Comprensión lectora en pantalla dividida y parámetro ?doc=
+            # 4. INDEX.HTML: Comprensión lectora en pantalla dividida (incluyendo examen oficial L7) y parámetro ?doc=
             page.locator("#mode").select_option("lectura")
+            page.locator("#readingTextFilter").select_option("L7")
             page.locator("#start").click()
             if page.locator('dialog [data-answer="yes"]').count() > 0:
                 page.locator('dialog [data-answer="yes"]').click()
             record("index_lectura_split_screen", page.locator("#exam .reading-split").count() == 1)
+            record("index_lectura_examen_oficial_L7", "Texto de examen oficial" in page.locator("#exam .reading-pane h3").inner_text() and page.locator("#exam .question").count() == 10)
+
+            page.goto(f"{base}/index.html?doc=EXAMENES-COMPRENSION-LECTORA-REALES.md", wait_until="networkidle")
+            record("index_param_doc_examenes_reales", len(page.locator("#catalogo").inner_text()) > 500)
 
             page.goto(f"{base}/index.html?doc=estudio-2026/GUIA-MAPAS-2026.md", wait_until="networkidle")
             record("index_param_doc_abre_guia", len(page.locator("#catalogo").inner_text()) > 200)

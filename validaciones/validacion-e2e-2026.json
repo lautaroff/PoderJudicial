@@ -1,7 +1,7 @@
 {
   "fecha": "2026-10-21",
   "estado": "PASS",
-  "comprobaciones_totales": 41,
+  "comprobaciones_totales": 43,
   "errores_consola": [],
   "detalle": [
     {
@@ -96,6 +96,16 @@
     },
     {
       "check": "index_lectura_split_screen",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "index_lectura_examen_oficial_L7",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "index_param_doc_examenes_reales",
       "ok": true,
       "detail": ""
     },

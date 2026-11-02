@@ -25,7 +25,7 @@ if institutional.exists():
 reading = BANCOS / 'lectura.json'
 if reading.exists():
     revised = json.loads(reading.read_text(encoding='utf-8'))
-    assert len(revised) == 60 and all(q['etapa'] == 'lectura' for q in revised)
+    assert len(revised) == 100 and all(q['etapa'] == 'lectura' for q in revised)
     questions.extend(revised)
 
 for q in old:

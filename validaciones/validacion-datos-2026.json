@@ -1,14 +1,14 @@
 {
-  "preguntas": 575,
+  "preguntas": 615,
   "por_etapa": {
     "especificos": 475,
     "institucional": 40,
-    "lectura": 60
+    "lectura": 100
   },
   "numeros_entrenador": 117,
-  "textos_lectura": 6,
+  "textos_lectura": 10,
   "apartados_cubiertos": 27,
-  "documentos_embebidos": 82,
+  "documentos_embebidos": 84,
   "referencias_pdf_validadas": 727,
   "pdf_distintos_en_preguntas": 11
 }

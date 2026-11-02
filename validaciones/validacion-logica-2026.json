@@ -1,6 +1,6 @@
 {
   "fecha": "2026-10-21",
-  "comprobaciones": 87,
+  "comprobaciones": 103,
   "resultado": "PASS",
   "alcance": "DOM simulado; selección sin repetición, distribución proporcional, entrenador de números, taller y lector"
 }

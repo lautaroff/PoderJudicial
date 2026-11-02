@@ -43,6 +43,7 @@ function saveUiState(){
     moduleFilter:$('moduleFilter')?.value||'0',
     topicFilter:$('topicFilter')?.value||'',
     numKindFilter:$('numKindFilter')?.value||'',
+    readingTextFilter:$('readingTextFilter')?.value||'',
     examMinutes:$('examMinutes')?.value||'50',
     examDistribution:$('examDistribution')?.value||'balanced',
     readerDoc:$('readerDoc')?.value||'1',
@@ -112,6 +113,7 @@ function updateFilters(){
   $('studyFilters')?.classList.toggle('hide',mode!=='estudio'&&mode!=='numeros');
   $('numKindWrap')?.classList.toggle('hide',mode!=='numeros');
   $('examFilters')?.classList.toggle('hide',mode!=='especificos');
+  $('readingFilters')?.classList.toggle('hide',mode!=='lectura');
 }
 function updateTopics(){
   const mod=Number($('moduleFilter').value),topics=[...new Set(bank.filter(q=>q.etapa==='especificos'&&(!mod||q.modulo===mod)).flatMap(q=>[q.subtema,q.subtema?.split('.').slice(0,2).join('.')]).filter(Boolean))].sort((a,b)=>a.localeCompare(b,undefined,{numeric:true})),children={'1.2.1':'Poder Legislativo','1.2.2':'Poder Ejecutivo','1.2.3':'Poder Judicial'};
@@ -196,7 +198,7 @@ function renderActiveExam(selectionNote){
   const n=current.length,mode=activeMode;
   const questionsHtml=current.map((q,i)=>'<fieldset class="question" id="q-card-'+i+'"><legend>'+(i+1)+'. '+safe(q.pregunta)+'</legend><p class="question-meta"><span>'+safe(q.modulo?'Módulo '+q.modulo+' · '+q.subtema+' · '+q.tema:q.tema)+'</span><button type="button" class="flag-btn'+(flagged[i]?' flagged':'')+'" data-flag-q="'+i+'">'+(flagged[i]?'⚑ Marcada para revisar':'⚑ Marcar duda')+'</button></p>'+renderOptionMarkup(q,i)+(q.trap&&mode==='estudio'?'<div class="trap-box"><strong>Cuidado con la trampa:</strong> '+safe(q.trap)+'</div>':'')+(mode==='estudio'||mode==='numeros'?'<details><summary>Profundizar en la fuente</summary>'+questionSources(q)+'</details>':'')+'</fieldset>').join('');
   const bodyHtml=mode==='lectura'
-    ?'<div class="reading-split"><article class="card reading-pane"><h3>Texto de práctica original</h3><div class="text" id="readingText">'+safe(current[0].texto)+'</div></article><div class="reading-questions">'+questionsHtml+'</div></div>'
+    ?'<div class="reading-split"><article class="card reading-pane"><h3>'+(current[0].oficial?'Texto de examen oficial / antecedentes reales':'Texto de práctica original')+'</h3><div class="text" id="readingText">'+safe(current[0].texto)+'</div></article><div class="reading-questions">'+questionsHtml+'</div></div>'
     :questionsHtml;
   $('exam').innerHTML='<p class="notice" role="status">'+safe(selectionNote)+'</p><div class="exam-bar"><strong id="answered">'+Object.keys(answers).length+' de '+n+' respondidas</strong><span id="paceInfo" class="pace-chip'+(deadline?'':' hide')+'"></span><span id="clock" class="timer"></span></div><progress id="progress" max="'+n+'" value="'+Object.keys(answers).length+'"></progress>'+renderOmrSheet(n,mode)+bodyHtml+'<button id="finish" class="primary">Terminar y corregir</button>';
   bindExamEvents(mode);
@@ -230,7 +232,11 @@ async function start(){
     pool=bank.filter(q=>q.etapa===mode);
     n={especificos:50,institucional:20,lectura:10}[mode];
     min={especificos:Number($('examMinutes').value)||50,institucional:15,lectura:30}[mode];
-    if(mode==='lectura'&&pool.length){pool=variedReading(pool,seen)}
+    if(mode==='lectura'&&pool.length){
+      const chosenText=$('readingTextFilter')?.value||'';
+      const byId=chosenText?pool.filter(q=>q.textoId===chosenText):[];
+      pool=byId.length>=n?byId:variedReading(pool,seen);
+    }
   }
   if(!n||pool.length<n){$('exam').textContent='No hay suficientes preguntas para esta selección. Elegí otro apartado.';return}
   if(mode==='especificos'&&$('examDistribution').value==='balanced'){
@@ -290,7 +296,7 @@ function finish(mode){
   rows.unshift({version:2026,fecha:new Date().toISOString(),tipo:mode,minutos:activeMinutes,aciertos:score,total:current.length,sinResponder:missing,items:current.map((q,i)=>({id:q.id,modulo:q.modulo,subtema:q.subtema,correcta:answers[i]===q.correcta}))});
   save('pjm-history',rows);
   const threshold={especificos:35,institucional:15,lectura:7}[mode];
-  $('exam').innerHTML='<article class="card"><p class="eyebrow">Corrección de práctica</p><div class="result">'+score+' / '+current.length+'</div><p>'+(score/current.length*10).toFixed(1)+' / 10 en esta práctica · '+missing+' sin responder.</p><p>'+(threshold?(score>=threshold?'Alcanzaste':'No alcanzaste')+' el mínimo de referencia ('+threshold+').':'Repaso completado; priorizá entender cada error.')+'</p><p class="muted">No acredita aprobación oficial. Abrí la página de origen y explicá la regla con tus palabras.</p><button onclick="window.print()">Imprimir corrección</button></article>'+(mode==='lectura'?'<article class="card" id="readingText"><h3>Texto de práctica original</h3><div class="text">'+safe(current[0].texto)+'</div></article>':'')+current.map((q,i)=>{
+  $('exam').innerHTML='<article class="card"><p class="eyebrow">Corrección de práctica</p><div class="result">'+score+' / '+current.length+'</div><p>'+(score/current.length*10).toFixed(1)+' / 10 en esta práctica · '+missing+' sin responder.</p><p>'+(threshold?(score>=threshold?'Alcanzaste':'No alcanzaste')+' el mínimo de referencia ('+threshold+').':'Repaso completado; priorizá entender cada error.')+'</p><p class="muted">No acredita aprobación oficial. Abrí la página de origen y explicá la regla con tus palabras.</p><button onclick="window.print()">Imprimir corrección</button></article>'+(mode==='lectura'?'<article class="card" id="readingText"><h3>'+(current[0].oficial?'Texto de examen oficial / antecedentes reales':'Texto de práctica original')+'</h3><div class="text">'+safe(current[0].texto)+'</div></article>':'')+current.map((q,i)=>{
     const isOk=answers[i]===q.correcta;
     const userAns=q.isCloze?(typedAnswers[i]?.trim()?safe(typedAnswers[i]):'Sin responder'):(answers[i]===undefined?'Sin responder':safe(q.opciones[answers[i]]));
     const rightAns=q.isCloze?safe(q.answer+(q.unit?' '+q.unit:'')):safe(q.opciones[q.correcta]);
@@ -342,7 +348,7 @@ $('coverage').addEventListener('change',e=>{if(!e.target.dataset.coverage)return
 function openReader(id,page){$('readerDoc').value=String(id);$('readerPage').value=page;renderReader();tab('lector')}
 function renderReader(){const doc=(sources.documentos||[]).find(d=>d.id===Number($('readerDoc').value));if(!doc)return;const page=Math.min(doc.paginas,Math.max(1,parseInt($('readerPage').value,10)||1));$('readerPage').value=page;$('readerPage').max=doc.paginas;const href=doc.archivo+'#page='+page;const frameHref=doc.archivo+'?p='+page+'#page='+page;$('pdfFrame').src=frameHref;$('readerOriginal').href=href;$('readerStatus').textContent=doc.titulo+' · página PDF '+page+' de '+doc.paginas;$('pageText').textContent=doc.textos?.[page-1]||'Esta página contiene principalmente imágenes. Consultá el PDF original.';$('readerPrev').disabled=page===1;$('readerNext').disabled=page===doc.paginas;saveUiState()}
 $('readerDoc').onchange=()=>{$('readerPage').value=1;renderReader()};$('readerGo').onclick=renderReader;$('readerPage').onkeydown=e=>{if(e.key==='Enter')renderReader()};$('readerPrev').onclick=()=>{$('readerPage').value=Number($('readerPage').value)-1;renderReader()};$('readerNext').onclick=()=>{$('readerPage').value=Number($('readerPage').value)+1;renderReader()};
-$('mode').onchange=()=>{updateFilters();saveUiState()};$('moduleFilter').onchange=()=>{updateTopics();saveUiState()};if($('topicFilter'))$('topicFilter').onchange=saveUiState;if($('numKindFilter'))$('numKindFilter').onchange=saveUiState;if($('examMinutes'))$('examMinutes').onchange=saveUiState;if($('examDistribution'))$('examDistribution').onchange=saveUiState;$('start').onclick=start;$('reviewErrors').onclick=()=>{tab('practica');$('mode').value='errores';updateFilters();start()};
+$('mode').onchange=()=>{updateFilters();saveUiState()};$('moduleFilter').onchange=()=>{updateTopics();saveUiState()};if($('topicFilter'))$('topicFilter').onchange=saveUiState;if($('numKindFilter'))$('numKindFilter').onchange=saveUiState;if($('readingTextFilter'))$('readingTextFilter').onchange=saveUiState;if($('examMinutes'))$('examMinutes').onchange=saveUiState;if($('examDistribution'))$('examDistribution').onchange=saveUiState;$('start').onclick=start;$('reviewErrors').onclick=()=>{tab('practica');$('mode').value='errores';updateFilters();start()};
 $('clear').onclick=async()=>{if(await ask('¿Borrar resultados y errores? Las casillas de temas estudiados y la memoria visual se conservarán.')){save('pjm-history',[]);save('pjm-errors',[]);save('pjm-error-meta-2026',{});renderHistory();renderCoverage()}};
 $('export').onclick=()=>{const blob=new Blob([JSON.stringify({resultados:read('pjm-history',[]),errores:read('pjm-errors',[]),erroresMeta:read('pjm-error-meta-2026',{}),cobertura:read('pjm-coverage-2026',[]),memoria:read('pjm-memoria-2026',{}),taller:read('pjm-taller-2026',{}),preguntasVistas:read('pjm-seen-2026',{})},null,2)],{type:'application/json'});const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='mis-avances-judicial-2026.json';a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000)};
 if($('importBtn')&&$('importFile')){
@@ -368,7 +374,7 @@ if($('importBtn')&&$('importFile')){
   };
 }
 $('moduleCards').innerHTML=modules.map(m=>'<article class="module-card" style="--module:'+m.color+'"><span class="module-no">MÓDULO '+m.id+'</span><h3>'+safe(m.titulo)+'</h3><p>'+m.paginas+' páginas · '+m.apartados.length+' apartados</p><button data-module="'+m.id+'" data-doc="'+safe(m.guia)+'">Estudiar la guía</button><a href="'+safe(m.archivo)+'" target="_blank" rel="noopener">PDF oficial ↗</a></article>').join('');
-const docNames=[['ACTUALIZACION-2026.md','Qué cambió y qué sigue sirviendo'],['MANUAL-DE-PREPARACION.md','Manual completo 2026'],['GUIA-CONCURSO-2026.md','Etapas y reglas del concurso'],['PLAN-DE-ESTUDIO.md','Plan de 28 sesiones'],['estudio-2026/GUIA-M1-M3.md','M1 Estado + M3 Derechos Humanos'],['estudio-2026/GUIA-M2.md','M2 Poder Judicial y fueros'],['estudio-2026/GUIA-M4-M5.md','M4 Género + M5 Atención'],['estudio-2026/GUIA-ANEXOS.md','Normativa y anexo penal juvenil'],['estudio-2026/GUIA-MAPAS-2026.md','Cómo estudiar con los mapas'],['BIBLIOTECA-Y-TEMARIO.md','Biblioteca y alcance de referencias'],['REVISION-CONTENIDO.md','Erratas y revisión de contenidos']];$('docButtons').innerHTML=docNames.map(([name,title])=>'<button data-doc="'+name+'">'+title+'</button>').join('')+'<a class="button" href="CUADERNO-DE-EJERCICIOS.html" target="_blank">Ejercicios para imprimir ↗</a>';
+const docNames=[['EXAMENES-COMPRENSION-LECTORA-REALES.md','Exámenes reales de comprensión lectora'],['ACTUALIZACION-2026.md','Qué cambió y qué sigue sirviendo'],['MANUAL-DE-PREPARACION.md','Manual completo 2026'],['GUIA-CONCURSO-2026.md','Etapas y reglas del concurso'],['PLAN-DE-ESTUDIO.md','Plan de 28 sesiones'],['estudio-2026/GUIA-M1-M3.md','M1 Estado + M3 Derechos Humanos'],['estudio-2026/GUIA-M2.md','M2 Poder Judicial y fueros'],['estudio-2026/GUIA-M4-M5.md','M4 Género + M5 Atención'],['estudio-2026/GUIA-ANEXOS.md','Normativa y anexo penal juvenil'],['estudio-2026/GUIA-MAPAS-2026.md','Cómo estudiar con los mapas'],['BIBLIOTECA-Y-TEMARIO.md','Biblioteca y alcance de referencias'],['REVISION-CONTENIDO.md','Erratas y revisión de contenidos']];$('docButtons').innerHTML=docNames.map(([name,title])=>'<button data-doc="'+name+'">'+title+'</button>').join('')+'<a class="button" href="CUADERNO-DE-EJERCICIOS.html" target="_blank">Ejercicios para imprimir ↗</a>';
 $('pdfList').innerHTML=(sources.documentos||[]).map(d=>'<article class="source-row"><div class="bar"><a href="'+safe(d.archivo)+'" target="_blank" rel="noopener">'+safe(d.titulo)+'</a><button data-reader="'+d.id+'">Leer acá</button></div><p>'+d.paginas+' páginas · original oficial</p></article>').join('');$('referenceList').innerHTML=(sources.referencias||[]).map(r=>'<article class="source-row">'+(r.archivo?'<a href="'+safe(r.lectura||r.archivo)+'" target="_blank" rel="noopener">'+safe(r.titulo)+'</a>':'<strong>'+safe(r.titulo)+'</strong>')+'<p>'+safe(r.alcance)+(r.error?' · Descarga pendiente: '+safe(r.error):'')+'</p></article>').join('');$('readerDoc').innerHTML=(sources.documentos||[]).map(d=>'<option value="'+d.id+'">'+safe(d.titulo)+'</option>').join('');$('moduleFilter').innerHTML='<option value="0">Todos los módulos</option>'+modules.map(m=>'<option value="'+m.id+'">M'+m.id+' · '+safe(m.corto)+'</option>').join('');
 renderCoverage();renderReader();updateTopics();updateFilters();if(bank.length){$('bankStatus').textContent=bank.filter(q=>q.etapa==='especificos').length+' preguntas específicas 2026 + '+numBank.length+' ítems de plazos y números + '+bank.filter(q=>q.etapa!=='especificos').length+' ejercicios generales de lectura e institucionales.';$('start').disabled=false}else $('bankStatus').textContent='Falta el banco de preguntas. Conservá datos-preguntas.js junto a este archivo.';
 (function checkSavedQuizAndParams(){
@@ -378,6 +384,7 @@ renderCoverage();renderReader();updateTopics();updateFilters();if(bank.length){$
     if(savedUi.moduleFilter&&$('moduleFilter')){$('moduleFilter').value=savedUi.moduleFilter;updateTopics();}
     if(savedUi.topicFilter!==undefined&&$('topicFilter'))$('topicFilter').value=savedUi.topicFilter;
     if(savedUi.numKindFilter!==undefined&&$('numKindFilter'))$('numKindFilter').value=savedUi.numKindFilter;
+    if(savedUi.readingTextFilter!==undefined&&$('readingTextFilter'))$('readingTextFilter').value=savedUi.readingTextFilter;
     if(savedUi.examMinutes&&$('examMinutes'))$('examMinutes').value=savedUi.examMinutes;
     if(savedUi.examDistribution&&$('examDistribution'))$('examDistribution').value=savedUi.examDistribution;
     updateFilters();
