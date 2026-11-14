@@ -235,7 +235,8 @@ async function start(){
     if(mode==='lectura'&&pool.length){
       const chosenText=$('readingTextFilter')?.value||'';
       const byId=chosenText?pool.filter(q=>q.textoId===chosenText):[];
-      pool=byId.length>=n?byId:variedReading(pool,seen);
+      pool=byId.length?byId:variedReading(pool,seen);
+      n=Math.min(10,pool.length);
     }
   }
   if(!n||pool.length<n){$('exam').textContent='No hay suficientes preguntas para esta selección. Elegí otro apartado.';return}
