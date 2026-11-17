@@ -34,7 +34,46 @@ function bridgeLinks(modulo,subtema){
   const mapId=TOPIC_MAP[baseTopic]||('m'+modulo);
   return '<div class="bridge-links"><button type="button" class="bridge-btn" data-practice-topic="'+safe(baseTopic)+'" data-practice-mod="'+safe(modulo)+'">Practicar '+safe(baseTopic)+'</button><a class="bridge-btn" href="memoria.html#map='+safe(mapId)+'">Mapa '+safe(baseTopic)+' ↗</a><a class="bridge-btn" href="taller.html?module='+safe(modulo)+'&topic='+safe(baseTopic)+'">Taller '+safe(baseTopic)+' ↗</a></div>';
 }
-function markdown(text){const inline=s=>safe(s).replace(/\[([^\]]+)\]\(([^)]+)\)/g,(_,label,url)=>{const clean=url.replace(/^historico-prepublicacion\//,'historico/prepublicacion/');return allowed(clean)?'<a href="'+clean+'"'+(/\.md(?:#|$)/i.test(clean)||/^(?:memoria|taller|index)\.html/i.test(clean)?'':' target="_blank" rel="noopener"')+'>'+label+'</a>':label+' ('+url+')'}).replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>').replace(/`([^`]+)`/g,'<code>$1</code>');let table=false;const out=[],toc=[];let headingCount=0;for(const line of text.split('\n')){if(line.startsWith('|')){if(!table){out.push('<div style="overflow-x:auto"><table>');table=true}if(!/^\|[\s:|\-]+\|$/.test(line))out.push('<tr>'+line.split('|').slice(1,-1).map(c=>'<td>'+inline(c.trim())+'</td>').join('')+'</tr>');continue}if(table){out.push('</table></div>');table=false}const h=line.match(/^(#{1,6})\s+(.+)/);if(h){const level=Math.min(h[1].length+1,6),id='heading-'+headingCount++;if(h[1].length===2)toc.push('<a href="#'+id+'">'+inline(h[2])+'</a>');out.push('<h'+level+' id="'+id+'">'+inline(h[2])+'</h'+level+'>')}else if(/^[-*] /.test(line))out.push('<p style="margin:7px 0 7px 16px">• '+inline(line.slice(2))+'</p>');else if(/^> ?/.test(line))out.push('<blockquote>'+inline(line.replace(/^> ?/,''))+'</blockquote>');else if(line.trim())out.push('<p>'+inline(line)+'</p>')}if(table)out.push('</table></div>');return (toc.length?'<nav class="toc" aria-label="Apartados del documento">'+toc.join('')+'</nav>':'')+out.join('')}
+function markdown(text){
+  const inline=s=>safe(s).replace(/\[([^\]]+)\]\(([^)]+)\)/g,(_,label,url)=>{const clean=url.replace(/^historico-prepublicacion\//,'historico/prepublicacion/');return allowed(clean)?'<a href="'+clean+'"'+(/\.md(?:#|$)/i.test(clean)||/^(?:memoria|taller|index)\.html/i.test(clean)?'':' target="_blank" rel="noopener"')+'>'+label+'</a>':label+' ('+url+')'}).replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>').replace(/`([^`]+)`/g,'<code>$1</code>');
+  let table=false,tableHead=false,review=false,reviewGroup=false,groupCount=0;
+  const out=[],toc=[];
+  let headingCount=0;
+  const closeTable=()=>{if(table){out.push('</tbody></table></div>');table=false}};
+  const closeReview=()=>{
+    if(reviewGroup){out.push('</section>');reviewGroup=false}
+    if(review){out.push('</section>');review=false}
+  };
+  for(const line of text.split('\n')){
+    if(line.startsWith('|')){
+      if(!table){out.push('<div class="doc-table"><table>');table=true;tableHead=true}
+      if(/^\|[\s:|\-]+\|$/.test(line))continue;
+      const cell=tableHead?'th':'td';
+      if(tableHead)out.push('<thead>');
+      out.push('<tr>'+line.split('|').slice(1,-1).map(c=>'<'+cell+(tableHead?' scope="col"':'')+'>'+inline(c.trim())+'</'+cell+'>').join('')+'</tr>');
+      if(tableHead){out.push('</thead><tbody>');tableHead=false}
+      continue;
+    }
+    closeTable();
+    const h=line.match(/^(#{1,6})\s+(.+)/);
+    if(h){
+      const level=Math.min(h[1].length+1,6),id='heading-'+headingCount++;
+      if(h[1].length<=2)closeReview();
+      if(h[1].length===2&&h[2]==='Cuadro de repaso · plazos, edades y cantidades'){
+        out.push('<section class="plazos-repaso" aria-labelledby="'+id+'">');review=true;groupCount=0;
+      }else if(review&&h[1].length===3){
+        if(reviewGroup)out.push('</section>');
+        out.push('<section class="repaso-fuero repaso-fuero-'+(++groupCount)+'" aria-labelledby="'+id+'">');reviewGroup=true;
+      }
+      if(h[1].length===2||review&&h[1].length===3)toc.push('<a href="#'+id+'">'+inline(h[2])+'</a>');
+      out.push('<h'+level+' id="'+id+'">'+inline(h[2])+'</h'+level+'>');
+    }else if(/^[-*] /.test(line))out.push('<p style="margin:7px 0 7px 16px">• '+inline(line.slice(2))+'</p>');
+    else if(/^> ?/.test(line))out.push('<blockquote>'+inline(line.replace(/^> ?/,''))+'</blockquote>');
+    else if(line.trim())out.push('<p>'+inline(line)+'</p>');
+  }
+  closeTable();closeReview();
+  return (toc.length?'<nav class="toc" aria-label="Apartados del documento">'+toc.join('')+'</nav>':'')+out.join('');
+}
 function ask(message){return new Promise(resolve=>{const dialog=document.createElement('dialog');dialog.innerHTML='<p>'+safe(message)+'</p><div class="bar"><button data-answer="no">Cancelar</button><button class="primary" data-answer="yes">Continuar</button></div>';document.body.append(dialog);const done=value=>{dialog.close();dialog.remove();resolve(value)};dialog.querySelector('[data-answer="no"]').onclick=()=>done(false);dialog.querySelector('[data-answer="yes"]').onclick=()=>done(true);dialog.addEventListener('cancel',e=>{e.preventDefault();done(false)});dialog.showModal()})}
 function saveUiState(){
   save('pjm-ui-2026',{

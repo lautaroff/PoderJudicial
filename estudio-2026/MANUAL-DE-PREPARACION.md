@@ -816,6 +816,168 @@ LeD Penal Juvenil se implementó escalonadamente 2024–2025 por Ac. 31782 y se 
 
 Para cerrar el módulo: explicar cada respuesta sin mirar, resolver el banco por subtema y volver a la página de cada error. Registrar especialmente **nombres de organismos, roles, plazos, cuantías y diferencias entre fueros**. Una nota alta exige comprensión y velocidad, y el material publicado no permite garantizar qué preguntas concretas aparecerán.
 
+## Cuadro de repaso · plazos, edades y cantidades
+
+Consulta rápida del Módulo 2, organizada por fuero y proceso. Cada cifra se lee junto con el acto al que corresponde y su condición. Las páginas remiten al material de estudio de 2026.
+
+> **Antes de memorizar:** distinguir días, días hábiles, horas, meses y años. Los plazos de procesos distintos no se trasladan automáticamente de un fuero a otro.
+
+### 1. Fuero Civil y Comercial — Reglas Generales y Proceso de Conocimiento (Págs. 4 a 16 y 34)
+
+| Trámite / Acto Procesal | Plazo / Número Exacto | Aclaración Clave del Manual Oficial |
+| :--- | :---: | :--- |
+| **Paralización de expediente** (`Art. 59 CPCCyT`) | **6 meses** | Sin movimiento alguno y con impulso imposible → se remite al archivo como paralizado. |
+| **Feria Judicial** | **Todo enero** + **10 días hábiles** entre el **10 y el 31 de julio** | Son días inhábiles (además de sábados, domingos y feriados). |
+| **Horas hábiles** | De **7:00 a 21:00 hs.** | La habilitación de día/hora inhábil para diligencias urgentes debe pedirse en día y hora hábil. |
+| **Decretos** (`Art. 86 CPCCyT`) | **2 días** | Proveen sin sustanciación al desarrollo del proceso (desde la fecha del cargo). |
+| **Autos** (`Art. 86 CPCCyT`) | **10 días**, si no existe plazo especial | Desde quedar en estado. Para cautelares rige el plazo especial del art. 112. |
+| **Sentencias definitivas** (`Art. 86 CPCCyT`) | **30 días** | Deciden el fondo del juicio (desde que queda firme el llamamiento de autos para sentencia). |
+| **Anticipación mínima para fijar audiencias** | No menor de **5 días** | Salvo que el Código disponga un plazo inferior. |
+| **Edad mínima para ser testigo** (`Art. 185 CPCCyT`) | Mayor de **13 años** | Obligación de comparecer, declarar y decir la verdad. |
+| **Acompañar pliego de interrogatorio** (`Art. 186`) | **2 días** | Cuando el testigo declara por exhorto, oficio o informe ante otro tribunal. |
+| **Plazo mínimo para fijar Audiencia Final** (`Art. 180`) | Mínimo **10 días** | Si no se hubiera fijado ya en la Audiencia Inicial (`Art. 173 inc. h`). |
+| **Duración de los alegatos orales** (`Art. 201 CPCCyT`) | **20 minutos** por parte | En la Audiencia Final, luego de producida la prueba oral. |
+| **Notificación simple por Lista Diaria** (`Art. 66`) | **Día siguiente hábil** posterior a su producción | Con su sola aparición en lista electrónica (salvo medidas precautorias). |
+| **Proceso de conocimiento · secuencia** | **20 / 20 / 30 días** | 1) Contestación de demanda: **20 días**. · 2) Audiencia Inicial: el juez la fija a los **20 días** de contestada la demanda. · 3) Audiencia Final: prueba oral + alegatos (**20 min**). · 4) Sentencia definitiva: **30 días**. |
+
+
+#### Cautelares y monitorios · plazos diferentes
+
+Una cautelar asegura el resultado del juicio: por ejemplo, un embargo evita que desaparezcan bienes. En el monitorio se dicta una sentencia inicial y luego se permite la oposición del demandado.
+
+| Trámite | Plazo | Desde cuándo / condición |
+|---|---|---|
+| **Cautelar civil · recibir la prueba** | **1 día** | Art. 112, inc. X: la prueba se ofrece al solicitar la medida. |
+| **Cautelar civil · dictar pronunciamiento** | **1 día** | Art. 112, inc. X: después de recibir la prueba, pronunciamiento en idéntico plazo. No son 5 días. |
+| **Cautelar civil anterior a la demanda · caducidad** | **15 días** | Si no se deduce la acción desde el cumplimiento de la medida; si hay varias, desde la traba de la primera (art. 112, inc. VIII). |
+| **Cautelar fiscal · resolver el pedido** | **2 días** | Desde la presentación; régimen especial del crédito fiscal, M2 p. 45. |
+| **Cautelar fiscal anterior al apremio · caducidad** | **6 meses** | Desde la traba, si no se inicia el apremio. Con recurso administrativo: hasta 6 meses después de quedar firme la resolución que agota esa instancia. |
+| **Monitorio · sentencia inicial** | **5 días** | Es el plazo del proceso monitorio descrito en M2 pp. 29–33, no el de una cautelar. |
+
+> **Lectura de la fuente:** M2 pp. 39–40 explica las cautelares y remite al art. 112, sin transcribir sus plazos. Los datos civiles de 1 día y 15 días amplían ese apartado con la norma citada; no aparecen expresados en días en esas páginas del módulo. La medida se cumple primero y se notifica después; los 15 días de caducidad no son un plazo para oponerse.
+
+[Consultar el art. 112 del CPCCyT, copia local](biblioteca/2026/referencias/Ley-9001-CPCCT-lectura.html) · [Texto oficial actualizado, arts. 112 y 250](https://www.argentina.gob.ar/normativa/provincial/ley-9001-123456789-0abc-defg-100-9000mvorpyel/actualizacion) · [Cautelares en el módulo, pp. 39–40](biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=39) · [Cautelar fiscal, p. 45](biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf#page=45).
+
+### 2. Justicia de Paz Letrada y Contravencional (Págs. 24 a 39)
+
+#### A. Cuantías en JUS (`Arts. 5, 7 y 218 CPCCyT`)
+* **Valor de 1 JUS:** Equivalente a **un décimo (1/10) de la asignación básica del Juez de 1.ª Instancia** (la SCJ lo comunica en **diciembre** de cada año para todo el año calendario siguiente).
+* **Tope general de Paz en Responsabilidad Civil y Contratos de Consumo:** Hasta **20 JUS** de capital nominal (sin intereses ni accesorios) → **Juzgado de Paz**. Si supera **20 JUS** → **Juzgado Civil y Comercial**.
+* **Tope especial para Pequeñas Causas de Consumo (`Art. 218 inc. b`):** Hasta **3 JUS** (cuando reclama el consumidor en forma individual).
+
+#### B. Plazos de los Procesos Monitorios, Pequeñas Causas y Contravencional
+
+| Tipo de Proceso en Justicia de Paz | Dictado Sentencia Monitoria Inicial | Plazo del Demandado para Oponerse (Defensa) | Traslado al Actor de la Oposición | Sentencia que resuelve la oposición / decisión final |
+| :--- | :---: | :---: | :---: | :---: |
+| **Monitorio Común** (cheque, pagaré, alquileres, mutuo) | **5 días** | **5 días** | **5 días** | **10 días** |
+| **Monitorio de Desalojo** (`Arts. 237–238`, locación o comodato escrito) | **5 días** | **15 días** (defensa: 15 días) | **5 días** | **10 días** |
+| **Monitorio Prendario** (`Art. 242` / Ley 12.962, con secuestro) | **5 días** | **5 días** | **5 días** | **10 días** |
+| **Monitorio Hipotecario** (escritura hipotecaria) | **5 días** | **5 días** | **5 días** | **10 días** |
+| **Monitorio por Expensas / Tarjeta de Crédito** (`Arts. 243–244`) | **5 días** | **5 días** | **5 días** | **10 días** |
+| **Monitorio Tributario Municipal** (`Art. 246`) | **5 días** | **5 días** | **5 días** | **10 días** |
+| **Proceso de Pequeñas Causas** (`Art. 218`, vecinos o consumo ≤ 3 JUS) | — | Audiencia entre **15 días (mín.) y 30 días (máx.)** | Se contesta y ofrece prueba oralmente en la audiencia | **En la misma audiencia** |
+| **Proceso Contravencional** (`Ley N.º 9.099`) | — | Si en la indagatoria niega el hecho: **5 días** para aportar prueba | — | **En el mismo acto** (si reconoce autoría y no hay prueba pendiente, o en la audiencia de debate) |
+
+
+### 3. Fuero Tributario y Juicio Monitorio de Apremio (Págs. 40 a 52)
+
+| Etapa / Acto en el Apremio Tributario | Plazo / Tope Exacto | Detalle en el Manual Oficial |
+| :--- | :---: | :--- |
+| **Tope de honorarios del Recaudador Fiscal** | Máximo **20 %** del crédito cobrado | Prohibido cobrar honorarios al ente recaudador; sólo cobra del ejecutado vencido. |
+| **Emplazamiento administrativo previo (Boleta de Deuda)** | Mínimo **5 días** | Plazo administrativo previo de pago en la boleta de deuda antes de promover el apremio judicial. |
+| **Resolución de Medida Cautelar Fiscal preventiva** | **2 días** | Desde solicitada con certificación de deuda suficiente. |
+| **Caducidad de Medida Cautelar Fiscal preventiva** | **6 meses** desde su traba | Si no se inicia el apremio. Si hay recurso administrativo, hasta **6 meses** después de quedar firme la resolución que agota esa instancia (p. 45). |
+| **Oficiales de Justicia y Receptores *ad hoc*** | Máximo **2 y 2** por recaudador | Inscripción vigente por **2 años**, renovable. |
+| **Sentencia Monitoria de Apremio** | **5 días** | Desde presentada la demanda con la boleta de deuda. |
+| **Plazo del ejecutado para oponer las 10 excepciones** | **5 días** | Desde notificada la sentencia monitoria. |
+| **Traslado de las excepciones al actor (recaudador)** | **5 días** | Para contestar las defensas opuestas. |
+| **Plazo total de producción de prueba en el apremio** | **30 días** | Si se admiten pruebas sobre las excepciones. |
+| **Ampliación de la ejecución por nuevos vencimientos** | **3 días** de traslado al ejecutado | Antes de la sentencia que resuelve las excepciones. |
+| **Vista a interesados por levantamiento de embargo por tercero** | **5 días** (`Art. 258 inc. V`) | Si se rechaza, no hay recurso pero el tercero puede deducir tercería. |
+| **Beneficio de inembargabilidad por Emergencia (terremoto/aluvión)** | **1 año** | Desde la declaración administrativa de emergencia (no suspende el proceso). |
+| **Recurso de apelación contra la sentencia que resuelve oposición** | **3 días** | Se interpone dentro de los 3 días de notificada (pág. 52). |
+
+
+### 4. Derecho Concursal — Los 3 Gráficos Oficiales (Págs. 52 a 62 y 111 a 113)
+
+#### A. Concurso Preventivo (`Ley N.º 24.522` — Gráfico pág. 111)
+| Período | Acto Procesal | Plazo Exacto |
+| :--- | :--- | :---: |
+| **1. Introductorio** | Cumplimiento de requisitos faltantes (`Art. 11`) | **10 días** |
+| **1. Introductorio** | Resolución judicial de Apertura (`Art. 14`) | **5 días** |
+| **1. Introductorio** | Aceptación del cargo por el Síndico | **5 días** |
+| **1. Introductorio** | Depósito de gastos de correspondencia y presentación de libros | **2 días** |
+| **1. Introductorio** | Publicación de Edictos (`Arts. 27 y 29`) | **5 días** |
+| **2. Informativo** | Verificación tempestiva de créditos ante el Síndico (`Art. 32`) | **15 a 20 días** |
+| **2. Informativo** | Observaciones e impugnaciones a los créditos (`Art. 34`) | **10 días** (+ **48 hs.** copia al juzgado) |
+| **2. Informativo** | Informe Individual del Síndico (`Art. 35`) | **20 días** |
+| **2. Informativo** | Sentencia / Resolución Verificatoria del Juez (`Art. 36`) | **10 días** |
+| **2. Informativo** | Incidente de Revisión contra resolución verificatoria (`Art. 37`) | **20 días** |
+| **2. Informativo** | Acción por Dolo (`Art. 38`) | **90 días** |
+| **2. Informativo** | Propuesta de categorización de acreedores (`Art. 41`) | **10 días** |
+| **2. Informativo** | Informe General del Síndico (`Art. 39`) | **30 días** después del Individual (10 días desde categorización en gráfico) |
+| **2. Informativo** | Observaciones al Informe General (`Art. 40`) y Resolución de categorización (`Art. 42`) | **10 días** |
+| **3. Exclusividad** | Duración total del Período de Exclusividad (`Art. 43`) | **90 a 120 días** (90 días ampliables por 30 más) |
+| **3. Exclusividad** | Exteriorización de la propuesta de acuerdo por el deudor | **20 días antes** del vencimiento |
+| **3. Exclusividad** | Audiencia Informativa (`Art. 45`) | **5 días antes** del vencimiento |
+| **3. Exclusividad** | Doble mayoría exigida (`Art. 45`) | **Mayoría absoluta de acreedores** + **2/3 del capital computable**, en cada categoría |
+| **3. Exclusividad** | Resolución judicial sobre existencia de acuerdo (`Art. 49`) | **5 días** |
+| **3. Exclusividad** | Impugnaciones al acuerdo (`Art. 50`) | **5 días** |
+| **3. Exclusividad** | Resolución de impugnación (`Art. 51`) / Homologación (`Art. 52`) | **10 días** |
+
+#### B. Proceso de Quiebra (`Ley N.º 24.522` — Gráfico pág. 112)
+* **Recursos/planteos del deudor contra la Sentencia de Quiebra (`Art. 88`):**
+  * **Reposición:** **5 días**.
+  * **Incompetencia:** **5 días**.
+  * **Conversión en concurso preventivo:** **10 días**.
+* **Camino de Verificación en la Quiebra:** Edictos dentro de las **24 hs.** por **5 días** → Verificación (**20 días**) → Observación (**10 días**) → Informe Individual (**20 días**) → Resolución Verificatoria (**10 días**) → Comité de Control (**10 días**) → Informe General (**20 días**) → Observaciones al Informe General (**10 días**) / Fecha de Cesación de Pagos (**30 días**).
+* **Camino de Liquidación y Conclusión:** Aprobada la última enajenación → **10 días** para **Informe Final y Proyecto de Distribución** → Regulación de honorarios (`Art. 218`) → **Edictos por 2 días** → Observaciones → Pago de dividendos → **Clausura del procedimiento** → si pasan **2 años sin bienes nuevos**, se declara la **Conclusión de la Quiebra**.
+
+#### C. Concurso del Consumidor (`Arts. 359 a 372 CPCCyT` — Gráfico pág. 113)
+* **Resolución de Apertura:** **5 días** (su notificación + orden de edictos suspende descuentos salariales y juicios patrimoniales, `Arts. 361–362`).
+* **Publicación de Edictos (`Art. 361`):** **5 días**.
+* **Plazo para presentar conformidades (`Art. 363`):** **30 días desde que se ordena publicar edictos** (en el gráfico pág. 113 aparece dividido como **5 días** de edictos + **25 días** restantes).
+ **Trámite de Oposición de Acreedores (`Art. 366` + Gráfico pág. 113):** **10 días** oposición → **10 días** vista al deudor (en el gráfico)* → **10 días** prueba → **10 días** resolución judicial.
+* **Mediación concursal (`Art. 369`):** Máximo **15 días** en sede del tribunal.
+* **Plan judicial por incomparecencia total a la audiencia (`Art. 371`):** Compromete al menos el tope de embargo salarial durante **1 año**.
+
+
+### 5. Fuero de Familia, Fuero Laboral y Fuero Penal / Penal Juvenil (Págs. 63 a 109)
+
+| Fuero | Concepto / Etapa | Plazo / Edad / Número Exacto |
+| :--- | :--- | :---: |
+| **2.2 Familia** | Entrada en vigencia del Código Civil y Comercial (`Ley 26.994`) | **Agosto de 2015** |
+| **2.2 Familia** | Reforma ágil al Código Procesal de Familia (`Ley 9.609` sobre `Ley 9.120`) | **Febrero de 2025** |
+| **2.3 Laboral** | Contestación de la demanda laboral (tras notificación por cédula) | **8 días hábiles** |
+| **2.3 Laboral** | Traslado de la contestación de demanda al actor (trabajador) | **3 días** |
+| **2.3 Laboral** | Audiencia Inicial → Período Probatorio → Vista de Causa → Sentencia | (El apartado laboral del módulo **no indica un plazo en días** para dictar sentencia) |
+| **2.3 Laboral** | Reforma del impulso procesal compartido (`Art. 19 CPL`) | Año **2018** |
+| **2.3 Laboral** | Estadística de acuerdos homologados en procesos ordinarios (año 2025) | Cerca del **70 %** acuerdos vs. **30 %** sentencia contenciosa |
+| **2.4 Penal y Jurados** | Integración de Colegios de Jueces / Tribunales Penales (`Ley 9.040`) | Mínimo **4 jueces** (resuelven en forma **unipersonal** o **colegiada de 3 jueces**) |
+| **2.4 Penal y Jurados** | Integración del Jurado Popular (`Ley 9.106`) | **12 titulares y 4 suplentes** (mitad mujeres y mitad varones) |
+| **2.4 Penal y Jurados** | Edad para ser Jurado Popular | Entre **18 y 75 años** |
+| **2.4 Penal y Jurados** | Sorteo previo de ciudadanos para audiencia Voir Dire | Mínimo **48 ciudadanos** (y hasta **96** si hay varios acusados) |
+| **2.4 Penal y Jurados** | Recusaciones **sin causa** en audiencia Voir Dire | Hasta **4** por cada parte |
+| **2.4 Penal y Jurados** | Mayoría requerida para el veredicto del Jurado Popular | **Unanimidad de los 12 titulares** (tanto para culpable como para no culpable) |
+| **2.4 Penal Juvenil** | Franja de edad de adolescentes punibles (`Ley Nacional 27.801`) | Desde los **14 años** hasta las **0 horas del día en que cumplan 18 años** |
+| **2.4 Penal Juvenil** | Organización juvenil descrita en el cuerpo del módulo; ver actualización del anexo | Juzgados: **1 juez** (7 en la provincia + Malargüe multifuero). · Tribunales: **3 jueces** (2 en la provincia: Mendoza 1.ª y 3.ª; San Rafael 2.ª y 4.ª). |
+
+---
+
+> **Desalojo:** la defensa tiene 15 días. La p. 31 contiene una referencia posterior a 5 días sin defensa que resulta inconsistente con ese plazo; no confundir ambos pasajes.
+
+> **Penal juvenil:** la organización resumida corresponde al cuerpo del módulo. La p. 109 incorpora normativa provincial nueva: consultar la guía de anexos antes de memorizarla como organización vigente.
+
+#### Tres diferencias para recordar
+
+| Comparación | Cifra que corresponde | Clave para distinguir |
+|---|---|---|
+| Contestación de demanda civil / laboral | **20 días / 8 días hábiles** | Son procesos diferentes. |
+| Oposición monitoria común / desalojo | **5 días / 15 días** | Identificar primero el tipo de monitorio. |
+| Competencia de Paz / pequeñas causas de consumo | **20 JUS / 3 JUS** | Los 3 JUS corresponden al reclamo individual del consumidor. |
+
+[Consultar el módulo completo y sus gráficos concursales](biblioteca/2026/programa/Concurso-Ingreso-2026-SCJM-Modulo-2-El-Poder-Judicial-de-Mendoza-Material-de-Estudio.pdf) · [Consultar la actualización penal juvenil](estudio-2026/GUIA-ANEXOS.md).
+
 
 ## Módulo 3. Derechos Humanos
 
